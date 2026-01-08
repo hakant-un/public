@@ -1,61 +1,335 @@
 {
-  "updated_at": "2026-01-08T15:01:48.969940",
+  "updated_at": "2026-01-08T15:22:41.492772",
   "stocks": [
     {
-      "id": 1,
+      "id": 18,
       "ticker": "AEFES.IS",
+      "name": "AEFES.IS",
       "close": 16.51,
-      "pmonth": 16.32,
-      "pday": 16.503,
-      "monthly_pct": 1.16
+      "pivots": {
+        "daily": 16.503,
+        "monthly": 16.32,
+        "monthlyP": 1.16
+      }
+    },
+    {
+      "id": 30,
+      "ticker": "AKBNK.IS",
+      "name": "AKBNK.IS",
+      "close": 72.3,
+      "pivots": {
+        "daily": 73.05,
+        "monthly": 72.483,
+        "monthlyP": -0.25
+      }
+    },
+    {
+      "id": 26,
+      "ticker": "ASELS.IS",
+      "name": "ASELS.IS",
+      "close": 263.5,
+      "pivots": {
+        "daily": 263.75,
+        "monthly": 254.0,
+        "monthlyP": 3.74
+      }
+    },
+    {
+      "id": 17,
+      "ticker": "ASTOR.IS",
+      "name": "ASTOR.IS",
+      "close": 116.4,
+      "pivots": {
+        "daily": 117.433,
+        "monthly": 117.3,
+        "monthlyP": -0.77
+      }
+    },
+    {
+      "id": 29,
+      "ticker": "BIMAS.IS",
+      "name": "BIMAS.IS",
+      "close": 587.0,
+      "pivots": {
+        "daily": 584.0,
+        "monthly": 571.0,
+        "monthlyP": 2.8
+      }
     },
     {
       "id": 2,
-      "ticker": "AKBNK.IS",
-      "close": 72.3,
-      "pmonth": 72.483,
-      "pday": 73.05,
-      "monthly_pct": -0.25
+      "ticker": "CIMSA.IS",
+      "name": "CIMSA.IS",
+      "close": 45.8,
+      "pivots": {
+        "daily": 46.247,
+        "monthly": 46.14,
+        "monthlyP": -0.74
+      }
+    },
+    {
+      "id": 16,
+      "ticker": "EKGYO.IS",
+      "name": "EKGYO.IS",
+      "close": 21.36,
+      "pivots": {
+        "daily": 21.453,
+        "monthly": 21.22,
+        "monthlyP": 0.66
+      }
+    },
+    {
+      "id": 15,
+      "ticker": "ENKAI.IS",
+      "name": "ENKAI.IS",
+      "close": 81.3,
+      "pivots": {
+        "daily": 81.733,
+        "monthly": 80.9,
+        "monthlyP": 0.49
+      }
     },
     {
       "id": 3,
-      "ticker": "GARAN.IS",
-      "close": 146.2,
-      "pmonth": 147.133,
-      "pday": 147.733,
-      "monthly_pct": -0.63
+      "ticker": "EREGL.IS",
+      "name": "EREGL.IS",
+      "close": 24.44,
+      "pivots": {
+        "daily": 24.693,
+        "monthly": 24.513,
+        "monthlyP": -0.3
+      }
     },
     {
-      "id": 4,
-      "ticker": "ISCTR.IS",
-      "close": 14.42,
-      "pmonth": 14.413,
-      "pday": 14.49,
-      "monthly_pct": 0.05
+      "id": 28,
+      "ticker": "FROTO.IS",
+      "name": "FROTO.IS",
+      "close": 97.55,
+      "pivots": {
+        "daily": 97.95,
+        "monthly": 96.533,
+        "monthlyP": 1.05
+      }
     },
     {
       "id": 5,
+      "ticker": "GARAN.IS",
+      "name": "GARAN.IS",
+      "close": 146.2,
+      "pivots": {
+        "daily": 147.733,
+        "monthly": 147.133,
+        "monthlyP": -0.63
+      }
+    },
+    {
+      "id": 12,
+      "ticker": "GUBRF.IS",
+      "name": "GUBRF.IS",
+      "close": 362.0,
+      "pivots": {
+        "daily": 363.667,
+        "monthly": 358.167,
+        "monthlyP": 1.07
+      }
+    },
+    {
+      "id": 8,
+      "ticker": "ISCTR.IS",
+      "name": "ISCTR.IS",
+      "close": 14.42,
+      "pivots": {
+        "daily": 14.49,
+        "monthly": 14.413,
+        "monthlyP": 0.05
+      }
+    },
+    {
+      "id": 1,
+      "ticker": "KCHOL.IS",
+      "name": "KCHOL.IS",
+      "close": 183.0,
+      "pivots": {
+        "daily": 183.8,
+        "monthly": 179.467,
+        "monthlyP": 1.97
+      }
+    },
+    {
+      "id": 24,
+      "ticker": "KOZAA.IS",
+      "name": "KOZAA.IS",
+      "close": 115.8,
+      "pivots": {
+        "daily": 115.4,
+        "monthly": 112.967,
+        "monthlyP": 2.51
+      }
+    },
+    {
+      "id": 9,
+      "ticker": "KRDMD.IS",
+      "name": "KRDMD.IS",
+      "close": 26.62,
+      "pivots": {
+        "daily": 26.893,
+        "monthly": 26.52,
+        "monthlyP": 0.38
+      }
+    },
+    {
+      "id": 19,
+      "ticker": "MGROS.IS",
+      "name": "MGROS.IS",
+      "close": 581.0,
+      "pivots": {
+        "daily": 575.167,
+        "monthly": 560.667,
+        "monthlyP": 3.63
+      }
+    },
+    {
+      "id": 14,
+      "ticker": "PETKM.IS",
+      "name": "PETKM.IS",
+      "close": 16.78,
+      "pivots": {
+        "daily": 16.863,
+        "monthly": 16.7,
+        "monthlyP": 0.48
+      }
+    },
+    {
+      "id": 25,
+      "ticker": "PGSUS.IS",
+      "name": "PGSUS.IS",
+      "close": 205.1,
+      "pivots": {
+        "daily": 206.133,
+        "monthly": 202.3,
+        "monthlyP": 1.38
+      }
+    },
+    {
+      "id": 10,
       "ticker": "SAHOL.IS",
+      "name": "SAHOL.IS",
       "close": 90.45,
-      "pmonth": 89.3,
-      "pday": 91.033,
-      "monthly_pct": 1.29
+      "pivots": {
+        "daily": 91.033,
+        "monthly": 89.3,
+        "monthlyP": 1.29
+      }
     },
     {
       "id": 6,
+      "ticker": "SASA.IS",
+      "name": "SASA.IS",
+      "close": 2.81,
+      "pivots": {
+        "daily": 2.857,
+        "monthly": 2.847,
+        "monthlyP": -1.29
+      }
+    },
+    {
+      "id": 20,
+      "ticker": "SISE.IS",
+      "name": "SISE.IS",
+      "close": 39.88,
+      "pivots": {
+        "daily": 40.113,
+        "monthly": 39.72,
+        "monthlyP": 0.4
+      }
+    },
+    {
+      "id": 13,
+      "ticker": "TAVHL.IS",
+      "name": "TAVHL.IS",
+      "close": 315.5,
+      "pivots": {
+        "daily": 315.75,
+        "monthly": 310.917,
+        "monthlyP": 1.47
+      }
+    },
+    {
+      "id": 23,
       "ticker": "TCELL.IS",
+      "name": "TCELL.IS",
       "close": 98.8,
-      "pmonth": 97.233,
-      "pday": 98.7,
-      "monthly_pct": 1.61
+      "pivots": {
+        "daily": 98.7,
+        "monthly": 97.233,
+        "monthlyP": 1.61
+      }
+    },
+    {
+      "id": 11,
+      "ticker": "THYAO.IS",
+      "name": "THYAO.IS",
+      "close": 290.75,
+      "pivots": {
+        "daily": 291.167,
+        "monthly": 285.25,
+        "monthlyP": 1.93
+      }
+    },
+    {
+      "id": 21,
+      "ticker": "TOASO.IS",
+      "name": "TOASO.IS",
+      "close": 280.75,
+      "pivots": {
+        "daily": 280.167,
+        "monthly": 270.433,
+        "monthlyP": 3.81
+      }
+    },
+    {
+      "id": 22,
+      "ticker": "TTKOM.IS",
+      "name": "TTKOM.IS",
+      "close": 58.85,
+      "pivots": {
+        "daily": 59.0,
+        "monthly": 58.567,
+        "monthlyP": 0.48
+      }
+    },
+    {
+      "id": 27,
+      "ticker": "TUPRS.IS",
+      "name": "TUPRS.IS",
+      "close": 199.1,
+      "pivots": {
+        "daily": 199.467,
+        "monthly": 194.967,
+        "monthlyP": 2.12
+      }
     },
     {
       "id": 7,
+      "ticker": "ULKER.IS",
+      "name": "ULKER.IS",
+      "close": 115.8,
+      "pivots": {
+        "daily": 116.867,
+        "monthly": 114.4,
+        "monthlyP": 1.22
+      }
+    },
+    {
+      "id": 4,
       "ticker": "YKBNK.IS",
+      "name": "YKBNK.IS",
       "close": 37.64,
-      "pmonth": 37.647,
-      "pday": 38.0,
-      "monthly_pct": -0.02
+      "pivots": {
+        "daily": 38.0,
+        "monthly": 37.647,
+        "monthlyP": -0.02
+      }
     }
   ]
 }
