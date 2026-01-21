@@ -1,484 +1,484 @@
 {
-  "updated_at": "2026-01-20T22:15:26.081346",
+  "updated_at": "2026-01-21T22:17:23.728237",
   "stocks": [
     {
       "id": 1,
       "ticker": "AEFES.IS",
       "name": "AEFES.IS",
-      "close": 17.09,
-      "open": 18.03,
-      "high": 18.08,
-      "low": 16.99,
+      "close": 16.89,
+      "open": 17.16,
+      "high": 17.16,
+      "low": 16.65,
       "pivots": {
-        "daily": 17.387,
-        "monthly": 17.0,
-        "monthlyP": 0.51
+        "daily": 16.9,
+        "monthly": 16.94,
+        "monthlyP": -0.28
       },
-      "rsi": 57.64,
+      "rsi": 54.72,
       "ema": {
-        "ema50": 16.1,
-        "ema100": 15.76
+        "ema50": 16.14,
+        "ema100": 15.78
       },
       "bb": {
-        "upper": 17.87,
-        "mid": 16.43,
-        "lower": 14.99
+        "upper": 17.89,
+        "mid": 16.49,
+        "lower": 15.1
       }
     },
     {
       "id": 2,
       "ticker": "AKBNK.IS",
       "name": "AKBNK.IS",
-      "close": 78.2,
-      "open": 77.6,
-      "high": 79.15,
-      "low": 76.8,
+      "close": 79.9,
+      "open": 78.4,
+      "high": 79.9,
+      "low": 77.9,
       "pivots": {
-        "daily": 78.05,
-        "monthly": 75.82,
-        "monthlyP": 3.14
+        "daily": 79.233,
+        "monthly": 76.63,
+        "monthlyP": 4.26
       },
-      "rsi": 73.88,
+      "rsi": 77.0,
       "ema": {
-        "ema50": 69.64,
-        "ema100": 67.48
+        "ema50": 70.04,
+        "ema100": 67.72
       },
       "bb": {
-        "upper": 77.79,
-        "mid": 72.8,
-        "lower": 67.81
+        "upper": 79.05,
+        "mid": 73.2,
+        "lower": 67.35
       }
     },
     {
       "id": 3,
       "ticker": "ASELS.IS",
       "name": "ASELS.IS",
-      "close": 336.75,
-      "open": 317.5,
-      "high": 338.25,
-      "low": 317.0,
+      "close": 303.25,
+      "open": 338.5,
+      "high": 339.25,
+      "low": 303.25,
       "pivots": {
-        "daily": 330.667,
-        "monthly": 301.17,
-        "monthlyP": 11.82
+        "daily": 315.25,
+        "monthly": 290.33,
+        "monthlyP": 4.45
       },
-      "rsi": 91.42,
+      "rsi": 67.4,
       "ema": {
-        "ema50": 236.76,
-        "ema100": 215.48
+        "ema50": 239.37,
+        "ema100": 217.22
       },
       "bb": {
-        "upper": 333.4,
-        "mid": 261.78,
-        "lower": 190.16
+        "upper": 337.17,
+        "mid": 265.86,
+        "lower": 194.55
       }
     },
     {
       "id": 4,
       "ticker": "ASTOR.IS",
       "name": "ASTOR.IS",
-      "close": 153.0,
-      "open": 161.0,
-      "high": 163.8,
-      "low": 153.0,
+      "close": 146.7,
+      "open": 151.0,
+      "high": 154.0,
+      "low": 138.6,
       "pivots": {
-        "daily": 156.6,
-        "monthly": 143.97,
-        "monthlyP": 6.27
+        "daily": 146.433,
+        "monthly": 141.87,
+        "monthlyP": 3.41
       },
-      "rsi": 78.28,
+      "rsi": 68.67,
       "ema": {
-        "ema50": 117.85,
-        "ema100": 109.91
+        "ema50": 118.99,
+        "ema100": 110.64
       },
       "bb": {
-        "upper": 160.15,
-        "mid": 128.59,
-        "lower": 97.03
+        "upper": 161.92,
+        "mid": 130.28,
+        "lower": 98.64
       }
     },
     {
       "id": 5,
       "ticker": "BIMAS.IS",
       "name": "BIMAS.IS",
-      "close": 618.0,
-      "open": 621.0,
-      "high": 625.5,
-      "low": 613.5,
+      "close": 611.0,
+      "open": 620.0,
+      "high": 624.5,
+      "low": 610.5,
       "pivots": {
-        "daily": 619.0,
-        "monthly": 603.0,
-        "monthlyP": 2.49
+        "daily": 615.333,
+        "monthly": 600.67,
+        "monthlyP": 1.72
       },
-      "rsi": 60.89,
+      "rsi": 58.28,
       "ema": {
-        "ema50": 566.78,
-        "ema100": 548.7
+        "ema50": 568.51,
+        "ema100": 549.94
       },
       "bb": {
-        "upper": 660.16,
-        "mid": 581.6,
-        "lower": 503.04
+        "upper": 661.94,
+        "mid": 585.38,
+        "lower": 508.81
       }
     },
     {
       "id": 6,
       "ticker": "CIMSA.IS",
       "name": "CIMSA.IS",
-      "close": 45.06,
-      "open": 46.2,
-      "high": 46.38,
-      "low": 44.84,
+      "close": 45.16,
+      "open": 45.12,
+      "high": 45.42,
+      "low": 44.8,
       "pivots": {
-        "daily": 45.427,
-        "monthly": 45.67,
-        "monthlyP": -1.33
+        "daily": 45.127,
+        "monthly": 45.7,
+        "monthlyP": -1.18
       },
-      "rsi": 44.51,
+      "rsi": 45.21,
       "ema": {
-        "ema50": 46.02,
-        "ema100": 46.49
+        "ema50": 45.98,
+        "ema100": 46.46
       },
       "bb": {
-        "upper": 46.67,
-        "mid": 45.65,
-        "lower": 44.63
+        "upper": 46.65,
+        "mid": 45.62,
+        "lower": 44.58
       }
     },
     {
       "id": 7,
       "ticker": "EKGYO.IS",
       "name": "EKGYO.IS",
-      "close": 22.5,
-      "open": 23.02,
-      "high": 23.2,
-      "low": 22.38,
+      "close": 22.8,
+      "open": 22.8,
+      "high": 23.74,
+      "low": 22.04,
       "pivots": {
-        "daily": 22.693,
-        "monthly": 22.11,
-        "monthlyP": 1.78
+        "daily": 22.86,
+        "monthly": 22.35,
+        "monthlyP": 2.0
       },
-      "rsi": 63.27,
+      "rsi": 65.51,
       "ema": {
-        "ema50": 20.86,
-        "ema100": 20.4
+        "ema50": 20.94,
+        "ema100": 20.45
       },
       "bb": {
-        "upper": 22.83,
-        "mid": 21.24,
-        "lower": 19.64
+        "upper": 23.03,
+        "mid": 21.36,
+        "lower": 19.7
       }
     },
     {
       "id": 8,
       "ticker": "ENKAI.IS",
       "name": "ENKAI.IS",
-      "close": 80.55,
-      "open": 82.6,
-      "high": 82.75,
-      "low": 80.05,
+      "close": 80.45,
+      "open": 80.7,
+      "high": 81.2,
+      "low": 80.15,
       "pivots": {
-        "daily": 81.117,
-        "monthly": 81.13,
-        "monthlyP": -0.72
+        "daily": 80.6,
+        "monthly": 81.1,
+        "monthlyP": -0.8
       },
-      "rsi": 52.67,
+      "rsi": 52.3,
       "ema": {
-        "ema50": 78.33,
-        "ema100": 75.54
+        "ema50": 78.41,
+        "ema100": 75.64
       },
       "bb": {
-        "upper": 83.5,
-        "mid": 79.75,
-        "lower": 76.0
+        "upper": 83.49,
+        "mid": 79.91,
+        "lower": 76.33
       }
     },
     {
       "id": 9,
       "ticker": "EREGL.IS",
       "name": "EREGL.IS",
-      "close": 25.68,
-      "open": 26.58,
-      "high": 26.76,
-      "low": 25.6,
+      "close": 25.92,
+      "open": 25.72,
+      "high": 26.08,
+      "low": 25.66,
       "pivots": {
-        "daily": 26.013,
-        "monthly": 25.44,
-        "monthlyP": 0.94
+        "daily": 25.887,
+        "monthly": 25.52,
+        "monthlyP": 1.57
       },
-      "rsi": 58.21,
+      "rsi": 60.34,
       "ema": {
-        "ema50": 25.07,
+        "ema50": 25.11,
         "ema100": 25.72
       },
       "bb": {
-        "upper": 26.33,
-        "mid": 24.73,
-        "lower": 23.13
+        "upper": 26.47,
+        "mid": 24.82,
+        "lower": 23.17
       }
     },
     {
       "id": 10,
       "ticker": "FROTO.IS",
       "name": "FROTO.IS",
-      "close": 103.0,
-      "open": 103.4,
+      "close": 103.1,
+      "open": 103.0,
       "high": 104.3,
-      "low": 102.3,
+      "low": 100.9,
       "pivots": {
-        "daily": 103.2,
-        "monthly": 101.17,
-        "monthlyP": 1.81
+        "daily": 102.767,
+        "monthly": 101.2,
+        "monthlyP": 1.88
       },
-      "rsi": 65.95,
+      "rsi": 66.16,
       "ema": {
-        "ema50": 95.94,
-        "ema100": 94.51
+        "ema50": 96.22,
+        "ema100": 94.68
       },
       "bb": {
-        "upper": 106.0,
-        "mid": 97.88,
-        "lower": 89.75
+        "upper": 106.57,
+        "mid": 98.31,
+        "lower": 90.04
       }
     },
     {
       "id": 11,
       "ticker": "GARAN.IS",
       "name": "GARAN.IS",
-      "close": 146.8,
-      "open": 148.7,
-      "high": 148.9,
-      "low": 146.2,
+      "close": 151.0,
+      "open": 147.3,
+      "high": 151.0,
+      "low": 146.8,
       "pivots": {
-        "daily": 147.3,
-        "monthly": 146.3,
-        "monthlyP": 0.34
+        "daily": 149.6,
+        "monthly": 147.7,
+        "monthlyP": 2.23
       },
-      "rsi": 55.97,
+      "rsi": 62.94,
       "ema": {
-        "ema50": 141.8,
-        "ema100": 140.11
+        "ema50": 142.16,
+        "ema100": 140.33
       },
       "bb": {
-        "upper": 151.06,
-        "mid": 145.03,
-        "lower": 138.99
+        "upper": 151.89,
+        "mid": 145.46,
+        "lower": 139.03
       }
     },
     {
       "id": 12,
       "ticker": "GUBRF.IS",
       "name": "GUBRF.IS",
-      "close": 403.75,
-      "open": 384.5,
-      "high": 405.0,
-      "low": 378.75,
+      "close": 412.25,
+      "open": 403.75,
+      "high": 418.75,
+      "low": 403.75,
       "pivots": {
-        "daily": 395.833,
-        "monthly": 384.33,
-        "monthlyP": 5.05
+        "daily": 411.583,
+        "monthly": 391.75,
+        "monthlyP": 5.23
       },
-      "rsi": 73.26,
+      "rsi": 75.39,
       "ema": {
-        "ema50": 342.79,
-        "ema100": 320.68
+        "ema50": 345.51,
+        "ema100": 322.49
       },
       "bb": {
-        "upper": 392.95,
-        "mid": 363.39,
-        "lower": 333.82
+        "upper": 401.38,
+        "mid": 367.05,
+        "lower": 332.72
       }
     },
     {
       "id": 13,
       "ticker": "ISCTR.IS",
       "name": "ISCTR.IS",
-      "close": 14.41,
-      "open": 14.58,
-      "high": 14.61,
-      "low": 14.32,
+      "close": 14.87,
+      "open": 14.47,
+      "high": 14.89,
+      "low": 14.43,
       "pivots": {
-        "daily": 14.447,
-        "monthly": 14.41,
-        "monthlyP": 0.0
+        "daily": 14.73,
+        "monthly": 14.61,
+        "monthlyP": 1.78
       },
-      "rsi": 56.06,
+      "rsi": 63.82,
       "ema": {
-        "ema50": 13.9,
-        "ema100": 13.83
+        "ema50": 13.94,
+        "ema100": 13.85
       },
       "bb": {
-        "upper": 14.97,
-        "mid": 14.19,
-        "lower": 13.42
+        "upper": 15.06,
+        "mid": 14.24,
+        "lower": 13.43
       }
     },
     {
       "id": 14,
       "ticker": "KCHOL.IS",
       "name": "KCHOL.IS",
-      "close": 193.0,
-      "open": 195.0,
-      "high": 195.6,
-      "low": 191.4,
+      "close": 193.5,
+      "open": 193.5,
+      "high": 196.6,
+      "low": 190.1,
       "pivots": {
-        "daily": 193.333,
-        "monthly": 186.63,
-        "monthlyP": 3.41
+        "daily": 193.4,
+        "monthly": 186.8,
+        "monthlyP": 3.59
       },
-      "rsi": 68.49,
+      "rsi": 69.02,
       "ema": {
-        "ema50": 177.87,
-        "ema100": 174.37
+        "ema50": 178.48,
+        "ema100": 174.75
       },
       "bb": {
-        "upper": 201.75,
-        "mid": 181.29,
-        "lower": 160.83
+        "upper": 202.76,
+        "mid": 182.54,
+        "lower": 162.33
       }
     },
     {
       "id": 15,
       "ticker": "KOZAA.IS",
       "name": "KOZAA.IS",
-      "close": 127.7,
-      "open": 128.0,
-      "high": 130.1,
-      "low": 125.7,
+      "close": 127.6,
+      "open": 128.9,
+      "high": 129.9,
+      "low": 125.9,
       "pivots": {
-        "daily": 127.833,
-        "monthly": 121.17,
-        "monthlyP": 5.39
+        "daily": 127.8,
+        "monthly": 121.13,
+        "monthlyP": 5.34
       },
-      "rsi": 80.26,
+      "rsi": 79.96,
       "ema": {
-        "ema50": 105.77,
-        "ema100": 98.15
+        "ema50": 106.63,
+        "ema100": 98.73
       },
       "bb": {
-        "upper": 126.86,
-        "mid": 112.98,
-        "lower": 99.1
+        "upper": 128.88,
+        "mid": 114.1,
+        "lower": 99.31
       }
     },
     {
       "id": 16,
       "ticker": "KRDMD.IS",
       "name": "KRDMD.IS",
-      "close": 28.28,
-      "open": 28.9,
-      "high": 29.24,
-      "low": 28.18,
+      "close": 28.8,
+      "open": 28.36,
+      "high": 28.82,
+      "low": 28.28,
       "pivots": {
-        "daily": 28.567,
-        "monthly": 27.79,
-        "monthlyP": 1.78
+        "daily": 28.633,
+        "monthly": 27.96,
+        "monthlyP": 3.0
       },
-      "rsi": 59.44,
+      "rsi": 62.7,
       "ema": {
-        "ema50": 26.86,
-        "ema100": 26.78
+        "ema50": 26.94,
+        "ema100": 26.82
       },
       "bb": {
-        "upper": 29.0,
-        "mid": 27.0,
-        "lower": 24.99
+        "upper": 29.25,
+        "mid": 27.1,
+        "lower": 24.94
       }
     },
     {
       "id": 17,
       "ticker": "MGROS.IS",
       "name": "MGROS.IS",
-      "close": 621.0,
-      "open": 633.0,
-      "high": 633.0,
-      "low": 619.5,
+      "close": 620.5,
+      "open": 622.0,
+      "high": 622.5,
+      "low": 615.0,
       "pivots": {
-        "daily": 624.5,
-        "monthly": 598.5,
-        "monthlyP": 3.76
+        "daily": 619.333,
+        "monthly": 598.33,
+        "monthlyP": 3.7
       },
-      "rsi": 68.42,
+      "rsi": 68.17,
       "ema": {
-        "ema50": 546.26,
-        "ema100": 519.89
+        "ema50": 549.17,
+        "ema100": 521.89
       },
       "bb": {
-        "upper": 655.8,
-        "mid": 570.08,
-        "lower": 484.35
+        "upper": 660.54,
+        "mid": 574.92,
+        "lower": 489.31
       }
     },
     {
       "id": 18,
       "ticker": "PETKM.IS",
       "name": "PETKM.IS",
-      "close": 17.23,
-      "open": 17.46,
-      "high": 17.5,
-      "low": 17.09,
+      "close": 17.08,
+      "open": 17.24,
+      "high": 17.27,
+      "low": 17.04,
       "pivots": {
-        "daily": 17.273,
-        "monthly": 17.01,
-        "monthlyP": 1.29
+        "daily": 17.13,
+        "monthly": 16.96,
+        "monthlyP": 0.71
       },
-      "rsi": 56.84,
+      "rsi": 52.85,
       "ema": {
-        "ema50": 17.06,
-        "ema100": 17.33
+        "ema50": 17.07,
+        "ema100": 17.32
       },
       "bb": {
-        "upper": 17.45,
-        "mid": 16.78,
-        "lower": 16.1
+        "upper": 17.48,
+        "mid": 16.8,
+        "lower": 16.12
       }
     },
     {
       "id": 19,
       "ticker": "PGSUS.IS",
       "name": "PGSUS.IS",
-      "close": 199.5,
-      "open": 203.1,
-      "high": 203.2,
-      "low": 198.6,
+      "close": 200.2,
+      "open": 199.8,
+      "high": 200.8,
+      "low": 197.8,
       "pivots": {
-        "daily": 200.433,
-        "monthly": 200.73,
-        "monthlyP": -0.61
+        "daily": 199.6,
+        "monthly": 200.97,
+        "monthlyP": -0.38
       },
-      "rsi": 45.72,
+      "rsi": 46.81,
       "ema": {
-        "ema50": 204.99,
-        "ema100": 213.66
+        "ema50": 204.8,
+        "ema100": 213.39
       },
       "bb": {
-        "upper": 211.02,
-        "mid": 201.31,
-        "lower": 191.6
+        "upper": 210.33,
+        "mid": 200.97,
+        "lower": 191.61
       }
     },
     {
       "id": 20,
       "ticker": "SAHOL.IS",
       "name": "SAHOL.IS",
-      "close": 93.8,
-      "open": 95.5,
-      "high": 95.6,
-      "low": 93.45,
+      "close": 94.8,
+      "open": 94.0,
+      "high": 95.25,
+      "low": 92.75,
       "pivots": {
-        "daily": 94.283,
-        "monthly": 91.73,
-        "monthlyP": 2.25
+        "daily": 94.267,
+        "monthly": 92.07,
+        "monthlyP": 2.97
       },
-      "rsi": 65.6,
+      "rsi": 67.92,
       "ema": {
-        "ema50": 87.29,
-        "ema100": 86.68
+        "ema50": 87.59,
+        "ema100": 86.84
       },
       "bb": {
-        "upper": 98.18,
-        "mid": 89.49,
-        "lower": 80.79
+        "upper": 98.5,
+        "mid": 90.09,
+        "lower": 81.68
       }
     },
     {
@@ -486,239 +486,239 @@
       "ticker": "SASA.IS",
       "name": "SASA.IS",
       "close": 2.38,
-      "open": 2.42,
-      "high": 2.44,
-      "low": 2.37,
+      "open": 2.38,
+      "high": 2.41,
+      "low": 2.33,
       "pivots": {
-        "daily": 2.397,
+        "daily": 2.373,
         "monthly": 2.54,
         "monthlyP": -6.3
       },
       "rsi": 32.95,
       "ema": {
-        "ema50": 2.79,
-        "ema100": 3.01
+        "ema50": 2.77,
+        "ema100": 2.99
       },
       "bb": {
-        "upper": 3.1,
-        "mid": 2.63,
-        "lower": 2.16
+        "upper": 3.09,
+        "mid": 2.61,
+        "lower": 2.14
       }
     },
     {
       "id": 22,
       "ticker": "SISE.IS",
       "name": "SISE.IS",
-      "close": 38.98,
-      "open": 39.8,
-      "high": 39.82,
-      "low": 38.74,
+      "close": 38.94,
+      "open": 38.96,
+      "high": 39.04,
+      "low": 38.42,
       "pivots": {
-        "daily": 39.18,
-        "monthly": 39.2,
-        "monthlyP": -0.56
+        "daily": 38.8,
+        "monthly": 39.19,
+        "monthlyP": -0.63
       },
-      "rsi": 49.67,
+      "rsi": 49.38,
       "ema": {
-        "ema50": 38.54,
-        "ema100": 37.97
+        "ema50": 38.55,
+        "ema100": 37.99
       },
       "bb": {
-        "upper": 40.36,
-        "mid": 39.14,
-        "lower": 37.91
+        "upper": 40.33,
+        "mid": 39.17,
+        "lower": 38.0
       }
     },
     {
       "id": 23,
       "ticker": "TAVHL.IS",
       "name": "TAVHL.IS",
-      "close": 320.0,
-      "open": 321.0,
-      "high": 323.0,
-      "low": 318.0,
+      "close": 316.75,
+      "open": 320.0,
+      "high": 322.75,
+      "low": 313.75,
       "pivots": {
-        "daily": 320.333,
-        "monthly": 317.33,
-        "monthlyP": 0.84
+        "daily": 317.75,
+        "monthly": 316.25,
+        "monthlyP": 0.16
       },
-      "rsi": 60.53,
+      "rsi": 57.01,
       "ema": {
-        "ema50": 296.74,
-        "ema100": 282.19
+        "ema50": 297.53,
+        "ema100": 282.87
       },
       "bb": {
-        "upper": 334.31,
-        "mid": 311.75,
-        "lower": 289.19
+        "upper": 334.26,
+        "mid": 312.77,
+        "lower": 291.29
       }
     },
     {
       "id": 24,
       "ticker": "TCELL.IS",
       "name": "TCELL.IS",
-      "close": 104.5,
-      "open": 105.6,
+      "close": 105.5,
+      "open": 105.0,
       "high": 105.8,
-      "low": 103.0,
+      "low": 103.8,
       "pivots": {
-        "daily": 104.433,
-        "monthly": 102.27,
-        "monthlyP": 2.18
+        "daily": 105.033,
+        "monthly": 102.6,
+        "monthlyP": 2.83
       },
-      "rsi": 65.35,
+      "rsi": 67.43,
       "ema": {
-        "ema50": 98.21,
-        "ema100": 96.58
+        "ema50": 98.5,
+        "ema100": 96.76
       },
       "bb": {
-        "upper": 106.56,
-        "mid": 98.89,
-        "lower": 91.22
+        "upper": 107.45,
+        "mid": 99.32,
+        "lower": 91.19
       }
     },
     {
       "id": 25,
       "ticker": "THYAO.IS",
       "name": "THYAO.IS",
-      "close": 292.0,
-      "open": 295.75,
-      "high": 296.75,
-      "low": 291.5,
+      "close": 297.0,
+      "open": 292.5,
+      "high": 297.0,
+      "low": 290.0,
       "pivots": {
-        "daily": 293.417,
-        "monthly": 287.17,
-        "monthlyP": 1.68
+        "daily": 294.667,
+        "monthly": 288.83,
+        "monthlyP": 2.83
       },
-      "rsi": 59.79,
+      "rsi": 63.63,
       "ema": {
-        "ema50": 282.54,
-        "ema100": 287.01
+        "ema50": 283.11,
+        "ema100": 287.21
       },
       "bb": {
-        "upper": 302.35,
-        "mid": 281.26,
-        "lower": 260.17
+        "upper": 304.13,
+        "mid": 282.59,
+        "lower": 261.04
       }
     },
     {
       "id": 26,
       "ticker": "TOASO.IS",
       "name": "TOASO.IS",
-      "close": 282.25,
-      "open": 281.25,
-      "high": 283.5,
-      "low": 279.5,
+      "close": 285.25,
+      "open": 284.0,
+      "high": 286.0,
+      "low": 278.0,
       "pivots": {
-        "daily": 281.75,
-        "monthly": 273.43,
-        "monthlyP": 3.22
+        "daily": 283.083,
+        "monthly": 274.43,
+        "monthlyP": 3.94
       },
-      "rsi": 66.58,
+      "rsi": 68.48,
       "ema": {
-        "ema50": 257.72,
-        "ema100": 249.97
+        "ema50": 258.8,
+        "ema100": 250.67
       },
       "bb": {
-        "upper": 299.42,
-        "mid": 267.47,
-        "lower": 235.53
+        "upper": 300.22,
+        "mid": 269.63,
+        "lower": 239.05
       }
     },
     {
       "id": 27,
       "ticker": "TTKOM.IS",
       "name": "TTKOM.IS",
-      "close": 62.0,
-      "open": 62.5,
-      "high": 62.65,
-      "low": 61.05,
+      "close": 63.0,
+      "open": 62.2,
+      "high": 63.0,
+      "low": 62.0,
       "pivots": {
-        "daily": 61.9,
-        "monthly": 60.88,
-        "monthlyP": 1.83
+        "daily": 62.667,
+        "monthly": 61.22,
+        "monthlyP": 2.91
       },
-      "rsi": 71.58,
+      "rsi": 74.91,
       "ema": {
-        "ema50": 57.48,
-        "ema100": 56.42
+        "ema50": 57.7,
+        "ema100": 56.55
       },
       "bb": {
-        "upper": 62.68,
-        "mid": 58.67,
-        "lower": 54.66
+        "upper": 63.3,
+        "mid": 58.99,
+        "lower": 54.68
       }
     },
     {
       "id": 28,
       "ticker": "TUPRS.IS",
       "name": "TUPRS.IS",
-      "close": 226.9,
-      "open": 222.9,
-      "high": 228.0,
-      "low": 222.4,
+      "close": 221.1,
+      "open": 228.5,
+      "high": 230.6,
+      "low": 217.0,
       "pivots": {
-        "daily": 225.767,
-        "monthly": 213.1,
-        "monthlyP": 6.48
+        "daily": 222.9,
+        "monthly": 212.03,
+        "monthlyP": 4.28
       },
-      "rsi": 79.61,
+      "rsi": 69.68,
       "ema": {
-        "ema50": 197.6,
-        "ema100": 188.97
+        "ema50": 198.52,
+        "ema100": 189.6
       },
       "bb": {
-        "upper": 228.66,
-        "mid": 199.71,
-        "lower": 170.76
+        "upper": 231.08,
+        "mid": 201.51,
+        "lower": 171.93
       }
     },
     {
       "id": 29,
       "ticker": "ULKER.IS",
       "name": "ULKER.IS",
-      "close": 130.4,
-      "open": 134.2,
-      "high": 135.8,
-      "low": 128.9,
+      "close": 125.5,
+      "open": 130.5,
+      "high": 130.5,
+      "low": 123.4,
       "pivots": {
-        "daily": 131.7,
-        "monthly": 125.23,
-        "monthlyP": 4.13
+        "daily": 126.467,
+        "monthly": 123.6,
+        "monthlyP": 1.54
       },
-      "rsi": 68.14,
+      "rsi": 58.91,
       "ema": {
-        "ema50": 115.75,
-        "ema100": 113.16
+        "ema50": 116.13,
+        "ema100": 113.41
       },
       "bb": {
-        "upper": 135.61,
-        "mid": 117.39,
-        "lower": 99.18
+        "upper": 136.27,
+        "mid": 118.27,
+        "lower": 100.27
       }
     },
     {
       "id": 30,
       "ticker": "YKBNK.IS",
       "name": "YKBNK.IS",
-      "close": 37.64,
-      "open": 37.54,
-      "high": 38.14,
-      "low": 36.94,
+      "close": 38.58,
+      "open": 37.7,
+      "high": 38.58,
+      "low": 37.62,
       "pivots": {
-        "daily": 37.573,
-        "monthly": 37.49,
-        "monthlyP": 0.41
+        "daily": 38.26,
+        "monthly": 37.8,
+        "monthlyP": 2.06
       },
-      "rsi": 56.8,
+      "rsi": 62.18,
       "ema": {
-        "ema50": 35.95,
-        "ema100": 34.92
+        "ema50": 36.05,
+        "ema100": 35.0
       },
       "bb": {
-        "upper": 38.89,
-        "mid": 36.94,
-        "lower": 35.0
+        "upper": 39.1,
+        "mid": 37.03,
+        "lower": 34.97
       }
     }
   ]
