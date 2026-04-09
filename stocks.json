@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T21:24:10.304299",
+  "updated_at": "2026-04-09T23:42:01.463678",
   "indexes": [
     {
       "id": 1,
@@ -36,31 +36,31 @@
       "id": 2,
       "ticker": "XU030.IS",
       "name": "XU030.IS",
-      "close": 2.41,
-      "open": 2.4,
-      "high": 2.44,
-      "low": 2.39,
+      "close": 15520.7,
+      "open": 15257.9,
+      "high": 15693.9,
+      "low": 15228.8,
       "pivots": {
-        "daily": 2.413,
-        "monthly": 2.38,
-        "monthlyP": 1.4
+        "daily": 15481.133,
+        "monthly": 15256.67,
+        "monthlyP": 1.73
       },
-      "rsi": 52.5,
+      "rsi": 61.37,
       "ema": {
-        "EMA_5": 2.36,
-        "EMA_8": 2.34,
-        "EMA_10": 2.34,
-        "EMA_13": 2.34,
-        "EMA_20": 2.36,
-        "EMA_21": 2.36,
-        "EMA_34": 2.42,
-        "EMA_50": 2.47,
-        "EMA_55": 2.49
+        "EMA_5": 15028.81,
+        "EMA_8": 14927.43,
+        "EMA_10": 14893.85,
+        "EMA_13": 14869.68,
+        "EMA_20": 14860.46,
+        "EMA_21": 14860.23,
+        "EMA_34": 14818.94,
+        "EMA_50": 14668.01,
+        "EMA_55": 14608.58
       },
       "bb": {
-        "upper": 2.4,
-        "mid": 2.33,
-        "lower": 2.26
+        "upper": 15354.13,
+        "mid": 14825.35,
+        "lower": 14296.58
       }
     },
     {
@@ -2919,6 +2919,37 @@
     },
     {
       "id": 91,
+      "ticker": "TUKAS.IS",
+      "name": "TUKAS.IS",
+      "close": 2.41,
+      "open": 2.4,
+      "high": 2.44,
+      "low": 2.39,
+      "pivots": {
+        "daily": 2.413,
+        "monthly": 2.38,
+        "monthlyP": 1.4
+      },
+      "rsi": 52.5,
+      "ema": {
+        "EMA_5": 2.36,
+        "EMA_8": 2.34,
+        "EMA_10": 2.34,
+        "EMA_13": 2.34,
+        "EMA_20": 2.36,
+        "EMA_21": 2.36,
+        "EMA_34": 2.42,
+        "EMA_50": 2.47,
+        "EMA_55": 2.49
+      },
+      "bb": {
+        "upper": 2.4,
+        "mid": 2.33,
+        "lower": 2.26
+      }
+    },
+    {
+      "id": 92,
       "ticker": "TUPRS.IS",
       "name": "TUPRS.IS",
       "close": 251.0,
@@ -2949,7 +2980,7 @@
       }
     },
     {
-      "id": 92,
+      "id": 93,
       "ticker": "TUREX.IS",
       "name": "TUREX.IS",
       "close": 8.03,
@@ -2980,7 +3011,7 @@
       }
     },
     {
-      "id": 93,
+      "id": 94,
       "ticker": "TURSG.IS",
       "name": "TURSG.IS",
       "close": 12.9,
@@ -3011,7 +3042,7 @@
       }
     },
     {
-      "id": 94,
+      "id": 95,
       "ticker": "ULKER.IS",
       "name": "ULKER.IS",
       "close": 117.0,
@@ -3042,7 +3073,7 @@
       }
     },
     {
-      "id": 95,
+      "id": 96,
       "ticker": "VAKBN.IS",
       "name": "VAKBN.IS",
       "close": 33.74,
@@ -3073,7 +3104,7 @@
       }
     },
     {
-      "id": 96,
+      "id": 97,
       "ticker": "VESTL.IS",
       "name": "VESTL.IS",
       "close": 28.36,
@@ -3104,7 +3135,7 @@
       }
     },
     {
-      "id": 97,
+      "id": 98,
       "ticker": "YEOTK.IS",
       "name": "YEOTK.IS",
       "close": 50.7,
@@ -3135,7 +3166,7 @@
       }
     },
     {
-      "id": 98,
+      "id": 99,
       "ticker": "YKBNK.IS",
       "name": "YKBNK.IS",
       "close": 37.54,
@@ -3166,7 +3197,7 @@
       }
     },
     {
-      "id": 99,
+      "id": 100,
       "ticker": "ZOREN.IS",
       "name": "ZOREN.IS",
       "close": 2.88,
