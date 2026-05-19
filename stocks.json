@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T07:51:23.739602",
+  "updated_at": "2026-05-19T00:12:56.067981",
   "indexes": [
     {
       "id": 1,
@@ -31,34 +31,6 @@
     },
     {
       "id": 2,
-      "ticker": "XU030.IS",
-      "name": "XU030.IS",
-      "tier": {
-        "no": 0,
-        "amount": 0
-      },
-      "close": 16368.6,
-      "open": 16489.2,
-      "high": 16526.2,
-      "low": 16222.7,
-      "pivots": {
-        "daily": 16372.5,
-        "monthly": 16656.07,
-        "monthlyP": -1.73
-      },
-      "rsi": 49.41,
-      "ema": {
-        "EMA_20": 16554.82,
-        "EMA_50": 15917.14
-      },
-      "bb": {
-        "upper": 17265.58,
-        "mid": 16690.23,
-        "lower": 16114.88
-      }
-    },
-    {
-      "id": 3,
       "ticker": "XU100.IS",
       "name": "XU100.IS",
       "tier": {
@@ -88,17 +60,17 @@
   ],
   "stocks": [
     {
-      "id": 4,
+      "id": 3,
       "ticker": "AEFES.IS",
       "name": "Anadolu Efes Biracılık ve Malt Sanayi A.Ş.",
       "tier": {
         "no": 2,
         "amount": 100000
       },
-      "close": 19.57,
-      "open": 20.44,
-      "high": 20.44,
-      "low": 19.49,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 19.833,
         "monthly": 19.78,
@@ -116,17 +88,17 @@
       }
     },
     {
-      "id": 5,
+      "id": 4,
       "ticker": "AKBNK.IS",
       "name": "Akbank T.A.Ş.",
       "tier": {
         "no": 1,
         "amount": 200000
       },
-      "close": 70.25,
-      "open": 71.35,
-      "high": 71.45,
-      "low": 69.75,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 70.483,
         "monthly": 72.15,
@@ -144,17 +116,17 @@
       }
     },
     {
-      "id": 6,
+      "id": 5,
       "ticker": "ASELS.IS",
       "name": "Aselsan Elektronik Sanayi ve Ticaret A.Ş.",
       "tier": {
         "no": 1,
         "amount": 200000
       },
-      "close": 415.0,
-      "open": 415.5,
-      "high": 419.0,
-      "low": 410.5,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 414.833,
         "monthly": 425.17,
@@ -172,17 +144,17 @@
       }
     },
     {
-      "id": 7,
+      "id": 6,
       "ticker": "ASTOR.IS",
       "name": "Astor Enerji A.Ş.",
       "tier": {
         "no": 2,
         "amount": 100000
       },
-      "close": 322.0,
-      "open": 334.0,
-      "high": 337.0,
-      "low": 322.0,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 327.0,
         "monthly": 316.83,
@@ -200,17 +172,17 @@
       }
     },
     {
-      "id": 8,
+      "id": 7,
       "ticker": "BIMAS.IS",
       "name": "BİM Birleşik Mağazalar A.Ş.",
       "tier": {
         "no": 3,
         "amount": 40000
       },
-      "close": 405.25,
-      "open": 413.0,
-      "high": 413.0,
-      "low": 398.0,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 405.417,
         "monthly": 397.67,
@@ -228,45 +200,45 @@
       }
     },
     {
-      "id": 9,
+      "id": 8,
       "ticker": "DSTKF.IS",
       "name": "DSTKF.IS",
       "tier": {
         "no": 4,
         "amount": 10000
       },
-      "close": 1970.0,
-      "open": 1767.0,
-      "high": 2030.0,
-      "low": 1767.0,
+      "close": 1950.0,
+      "open": 1970.0,
+      "high": 1993.0,
+      "low": 1901.0,
       "pivots": {
-        "daily": 1922.333,
-        "monthly": 2193.17,
-        "monthlyP": -10.18
+        "daily": 1948.0,
+        "monthly": 2186.5,
+        "monthlyP": -10.82
       },
-      "rsi": 34.99,
+      "rsi": 34.39,
       "ema": {
-        "EMA_20": 2359.16,
-        "EMA_50": 2092.62
+        "EMA_20": 2320.2,
+        "EMA_50": 2087.03
       },
       "bb": {
-        "upper": 3002.62,
-        "mid": 2486.28,
-        "lower": 1969.93
+        "upper": 3027.65,
+        "mid": 2474.07,
+        "lower": 1920.5
       }
     },
     {
-      "id": 10,
+      "id": 9,
       "ticker": "EKGYO.IS",
       "name": "Emlak Konut Gayrimenkul Yatırım Ortaklığı A.Ş.",
       "tier": {
         "no": 2,
         "amount": 100000
       },
-      "close": 20.32,
-      "open": 19.98,
-      "high": 20.44,
-      "low": 19.96,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 20.24,
         "monthly": 20.83,
@@ -284,17 +256,17 @@
       }
     },
     {
-      "id": 11,
+      "id": 10,
       "ticker": "ENKAI.IS",
       "name": "Enka İnşaat ve Sanayi A.Ş.",
       "tier": {
         "no": 2,
         "amount": 100000
       },
-      "close": 101.7,
-      "open": 104.0,
-      "high": 104.0,
-      "low": 99.0,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 101.567,
         "monthly": 105.0,
@@ -312,17 +284,17 @@
       }
     },
     {
-      "id": 12,
+      "id": 11,
       "ticker": "EREGL.IS",
       "name": "Ereğli Demir ve Çelik Fabrikaları T.A.Ş.",
       "tier": {
         "no": 3,
         "amount": 40000
       },
-      "close": 39.62,
-      "open": 39.48,
-      "high": 39.86,
-      "low": 39.04,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 39.507,
         "monthly": 39.25,
@@ -340,17 +312,17 @@
       }
     },
     {
-      "id": 13,
+      "id": 12,
       "ticker": "FROTO.IS",
       "name": "Ford Otomotiv Sanayi A.Ş.",
       "tier": {
         "no": 2,
         "amount": 100000
       },
-      "close": 91.45,
-      "open": 92.8,
-      "high": 92.85,
-      "low": 90.75,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 91.683,
         "monthly": 94.03,
@@ -368,17 +340,17 @@
       }
     },
     {
-      "id": 14,
+      "id": 13,
       "ticker": "GARAN.IS",
       "name": "Türkiye Garanti Bankası A.Ş.",
       "tier": {
         "no": 1,
         "amount": 200000
       },
-      "close": 129.8,
-      "open": 131.5,
-      "high": 131.7,
-      "low": 129.0,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 130.167,
         "monthly": 132.37,
@@ -396,17 +368,17 @@
       }
     },
     {
-      "id": 15,
+      "id": 14,
       "ticker": "GUBRF.IS",
       "name": "Gübre Fabrikaları T.A.Ş.",
       "tier": {
         "no": 3,
         "amount": 40000
       },
-      "close": 594.5,
-      "open": 605.5,
-      "high": 613.5,
-      "low": 591.0,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 599.667,
         "monthly": 582.67,
@@ -424,17 +396,17 @@
       }
     },
     {
-      "id": 16,
+      "id": 15,
       "ticker": "ISCTR.IS",
       "name": "Türkiye İş Bankası A.Ş.",
       "tier": {
         "no": 1,
         "amount": 200000
       },
-      "close": 13.87,
-      "open": 14.05,
-      "high": 14.06,
-      "low": 13.67,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 13.867,
         "monthly": 14.15,
@@ -452,45 +424,45 @@
       }
     },
     {
-      "id": 17,
+      "id": 16,
       "ticker": "KCHOL.IS",
       "name": "Koç Holding A.Ş.",
       "tier": {
         "no": 1,
         "amount": 200000
       },
-      "close": 199.0,
-      "open": 202.5,
-      "high": 202.9,
-      "low": 197.4,
+      "close": 16368.6,
+      "open": 16489.2,
+      "high": 16526.2,
+      "low": 16222.7,
       "pivots": {
-        "daily": 199.767,
-        "monthly": 203.6,
-        "monthlyP": -2.26
+        "daily": 16372.5,
+        "monthly": 16656.07,
+        "monthlyP": -1.73
       },
-      "rsi": 44.62,
+      "rsi": 49.41,
       "ema": {
-        "EMA_20": 204.22,
-        "EMA_50": 199.87
+        "EMA_20": 16554.82,
+        "EMA_50": 15917.14
       },
       "bb": {
-        "upper": 214.22,
-        "mid": 205.61,
-        "lower": 197.0
+        "upper": 17265.58,
+        "mid": 16690.23,
+        "lower": 16114.88
       }
     },
     {
-      "id": 18,
+      "id": 17,
       "ticker": "KRDMD.IS",
       "name": "Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.",
       "tier": {
         "no": 2,
         "amount": 100000
       },
-      "close": 41.98,
-      "open": 42.68,
-      "high": 43.22,
-      "low": 41.48,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 42.227,
         "monthly": 42.01,
@@ -508,17 +480,17 @@
       }
     },
     {
-      "id": 19,
+      "id": 18,
       "ticker": "MGROS.IS",
       "name": "Migros Ticaret A.Ş.",
       "tier": {
         "no": 3,
         "amount": 40000
       },
-      "close": 682.5,
-      "open": 720.0,
-      "high": 720.0,
-      "low": 680.0,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 694.167,
         "monthly": 679.58,
@@ -536,17 +508,17 @@
       }
     },
     {
-      "id": 20,
+      "id": 19,
       "ticker": "PETKM.IS",
       "name": "Petkim Petrokimya Holding A.Ş.",
       "tier": {
         "no": 2,
         "amount": 100000
       },
-      "close": 26.0,
-      "open": 26.56,
-      "high": 27.22,
-      "low": 25.6,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 26.273,
         "monthly": 25.82,
@@ -564,17 +536,17 @@
       }
     },
     {
-      "id": 21,
+      "id": 20,
       "ticker": "PGSUS.IS",
       "name": "Pegasus Hava Taşımacılığı A.Ş.",
       "tier": {
         "no": 2,
         "amount": 100000
       },
-      "close": 176.6,
-      "open": 178.0,
-      "high": 178.1,
-      "low": 175.6,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 176.767,
         "monthly": 180.13,
@@ -592,17 +564,17 @@
       }
     },
     {
-      "id": 22,
+      "id": 21,
       "ticker": "SAHOL.IS",
       "name": "Hacı Ömer Sabancı Holding A.Ş.",
       "tier": {
         "no": 1,
         "amount": 200000
       },
-      "close": 93.05,
-      "open": 94.8,
-      "high": 94.8,
-      "low": 92.2,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 93.35,
         "monthly": 95.88,
@@ -620,17 +592,17 @@
       }
     },
     {
-      "id": 23,
+      "id": 22,
       "ticker": "SASA.IS",
       "name": "Sasa Polyester Sanayi A.Ş.",
       "tier": {
         "no": 3,
         "amount": 40000
       },
-      "close": 2.83,
-      "open": 2.98,
-      "high": 3.02,
-      "low": 2.83,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 2.893,
         "monthly": 3.12,
@@ -648,17 +620,17 @@
       }
     },
     {
-      "id": 24,
+      "id": 23,
       "ticker": "SISE.IS",
       "name": "Türkiye Şişe ve Cam Fabrikaları A.Ş.",
       "tier": {
         "no": 2,
         "amount": 100000
       },
-      "close": 48.2,
-      "open": 48.78,
-      "high": 49.1,
-      "low": 47.88,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 48.393,
         "monthly": 49.38,
@@ -676,17 +648,17 @@
       }
     },
     {
-      "id": 25,
+      "id": 24,
       "ticker": "TAVHL.IS",
       "name": "TAV Havalimanları Holding A.Ş.",
       "tier": {
         "no": 3,
         "amount": 40000
       },
-      "close": 258.25,
-      "open": 265.5,
-      "high": 265.75,
-      "low": 257.0,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 260.333,
         "monthly": 269.42,
@@ -704,17 +676,17 @@
       }
     },
     {
-      "id": 26,
+      "id": 25,
       "ticker": "TCELL.IS",
       "name": "Turkcell İletişim Hizmetleri A.Ş.",
       "tier": {
         "no": 1,
         "amount": 200000
       },
-      "close": 109.5,
-      "open": 112.5,
-      "high": 113.0,
-      "low": 109.5,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 110.667,
         "monthly": 114.13,
@@ -732,17 +704,17 @@
       }
     },
     {
-      "id": 27,
+      "id": 26,
       "ticker": "THYAO.IS",
       "name": "Türk Hava Yolları A.O.",
       "tier": {
         "no": 1,
         "amount": 200000
       },
-      "close": 300.0,
-      "open": 303.5,
-      "high": 304.25,
-      "low": 298.5,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 300.917,
         "monthly": 304.83,
@@ -760,17 +732,17 @@
       }
     },
     {
-      "id": 28,
+      "id": 27,
       "ticker": "TOASO.IS",
       "name": "Tofaş Türk Otomobil Fabrikası A.Ş.",
       "tier": {
         "no": 3,
         "amount": 40000
       },
-      "close": 302.0,
-      "open": 306.0,
-      "high": 313.0,
-      "low": 297.5,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 304.167,
         "monthly": 303.17,
@@ -788,17 +760,17 @@
       }
     },
     {
-      "id": 29,
+      "id": 28,
       "ticker": "TTKOM.IS",
       "name": "Türk Telekomünikasyon A.Ş.",
       "tier": {
         "no": 2,
         "amount": 100000
       },
-      "close": 61.7,
-      "open": 63.25,
-      "high": 63.3,
-      "low": 61.2,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 62.067,
         "monthly": 63.53,
@@ -816,17 +788,17 @@
       }
     },
     {
-      "id": 30,
+      "id": 29,
       "ticker": "TUPRS.IS",
       "name": "Türkiye Petrol Rafinerileri A.Ş.",
       "tier": {
         "no": 1,
         "amount": 200000
       },
-      "close": 258.5,
-      "open": 255.0,
-      "high": 258.5,
-      "low": 252.75,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 256.583,
         "monthly": 261.08,
@@ -844,17 +816,17 @@
       }
     },
     {
-      "id": 31,
+      "id": 30,
       "ticker": "YKBNK.IS",
       "name": "Yapı ve Kredi Bankası A.Ş.",
       "tier": {
         "no": 1,
         "amount": 200000
       },
-      "close": 36.82,
-      "open": 37.32,
-      "high": 37.36,
-      "low": 36.46,
+      "close": NaN,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
       "pivots": {
         "daily": 36.88,
         "monthly": 37.49,
