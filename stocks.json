@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T11:15:34.382893",
+  "updated_at": "2026-05-21T12:53:18.069456",
   "indexes": [
     {
       "id": 1,
@@ -677,6 +677,34 @@
     },
     {
       "id": 25,
+      "ticker": "TAVHL.IS",
+      "name": "TAV Havalimanları Holding A.Ş.",
+      "tier": {
+        "no": 3,
+        "amount": 40000
+      },
+      "close": 260.75,
+      "open": 250.25,
+      "high": 260.75,
+      "low": 248.6,
+      "pivots": {
+        "daily": 256.7,
+        "monthly": 267.45,
+        "monthlyP": -2.51
+      },
+      "rsi": 35.91,
+      "ema": {
+        "EMA_20": 279.93,
+        "EMA_50": 295.51
+      },
+      "bb": {
+        "upper": 318.52,
+        "mid": 282.41,
+        "lower": 246.31
+      }
+    },
+    {
+      "id": 26,
       "ticker": "TCELL.IS",
       "name": "Turkcell İletişim Hizmetleri A.Ş.",
       "tier": {
@@ -704,7 +732,7 @@
       }
     },
     {
-      "id": 26,
+      "id": 27,
       "ticker": "THYAO.IS",
       "name": "Türk Hava Yolları A.O.",
       "tier": {
@@ -732,7 +760,7 @@
       }
     },
     {
-      "id": 27,
+      "id": 28,
       "ticker": "TOASO.IS",
       "name": "Tofaş Türk Otomobil Fabrikası A.Ş.",
       "tier": {
@@ -760,7 +788,7 @@
       }
     },
     {
-      "id": 28,
+      "id": 29,
       "ticker": "TTKOM.IS",
       "name": "Türk Telekomünikasyon A.Ş.",
       "tier": {
@@ -788,7 +816,7 @@
       }
     },
     {
-      "id": 29,
+      "id": 30,
       "ticker": "TUPRS.IS",
       "name": "Türkiye Petrol Rafinerileri A.Ş.",
       "tier": {
@@ -816,7 +844,7 @@
       }
     },
     {
-      "id": 30,
+      "id": 31,
       "ticker": "YKBNK.IS",
       "name": "Yapı ve Kredi Bankası A.Ş.",
       "tier": {
