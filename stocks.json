@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-28T18:43:41.619614",
+  "updated_at": "2026-05-28T18:52:53.721403Z",
   "indexes": [
     {
       "id": 1,
-      "ticker": "XBANK.IS",
-      "name": "XBANK.IS",
+      "ticker": "XBANK",
+      "name": "XBANK",
       "tier": {
         "no": 0,
         "amount": 0
@@ -31,8 +31,8 @@
     },
     {
       "id": 2,
-      "ticker": "XU030.IS",
-      "name": "XU030.IS",
+      "ticker": "XU030",
+      "name": "XU030",
       "tier": {
         "no": 0,
         "amount": 0
@@ -59,8 +59,8 @@
     },
     {
       "id": 3,
-      "ticker": "XU100.IS",
-      "name": "XU100.IS",
+      "ticker": "XU100",
+      "name": "XU100",
       "tier": {
         "no": 0,
         "amount": 0
@@ -89,11 +89,11 @@
   "stocks": [
     {
       "id": 4,
-      "ticker": "AEFES.IS",
-      "name": "Anadolu Efes Biracılık ve Malt Sanayi A.Ş.",
+      "ticker": "AEFES",
+      "name": "AEFES",
       "tier": {
-        "no": 2,
-        "amount": 100000
+        "no": 4,
+        "amount": 10000
       },
       "close": 19.3,
       "open": 19.38,
@@ -117,11 +117,11 @@
     },
     {
       "id": 5,
-      "ticker": "AKBNK.IS",
-      "name": "Akbank T.A.Ş.",
+      "ticker": "AKBNK",
+      "name": "AKBNK",
       "tier": {
-        "no": 1,
-        "amount": 200000
+        "no": 4,
+        "amount": 10000
       },
       "close": 64.0,
       "open": 65.1,
@@ -145,11 +145,11 @@
     },
     {
       "id": 6,
-      "ticker": "ASELS.IS",
-      "name": "Aselsan Elektronik Sanayi ve Ticaret A.Ş.",
+      "ticker": "ASELS",
+      "name": "ASELS",
       "tier": {
-        "no": 1,
-        "amount": 200000
+        "no": 4,
+        "amount": 10000
       },
       "close": 380.25,
       "open": 399.75,
@@ -173,11 +173,11 @@
     },
     {
       "id": 7,
-      "ticker": "ASTOR.IS",
-      "name": "Astor Enerji A.Ş.",
+      "ticker": "ASTOR",
+      "name": "ASTOR",
       "tier": {
-        "no": 2,
-        "amount": 100000
+        "no": 4,
+        "amount": 10000
       },
       "close": 312.75,
       "open": 342.5,
@@ -201,11 +201,11 @@
     },
     {
       "id": 8,
-      "ticker": "BIMAS.IS",
-      "name": "BİM Birleşik Mağazalar A.Ş.",
+      "ticker": "BIMAS",
+      "name": "BIMAS",
       "tier": {
-        "no": 3,
-        "amount": 50000
+        "no": 4,
+        "amount": 10000
       },
       "close": 373.0,
       "open": 380.0,
@@ -229,8 +229,8 @@
     },
     {
       "id": 9,
-      "ticker": "DSTKF.IS",
-      "name": "DSTKF.IS",
+      "ticker": "DSTKF",
+      "name": "DSTKF",
       "tier": {
         "no": 4,
         "amount": 10000
@@ -257,11 +257,11 @@
     },
     {
       "id": 10,
-      "ticker": "EKGYO.IS",
-      "name": "Emlak Konut Gayrimenkul Yatırım Ortaklığı A.Ş.",
+      "ticker": "EKGYO",
+      "name": "EKGYO",
       "tier": {
-        "no": 2,
-        "amount": 100000
+        "no": 4,
+        "amount": 10000
       },
       "close": 19.1,
       "open": 19.58,
@@ -285,11 +285,11 @@
     },
     {
       "id": 11,
-      "ticker": "ENKAI.IS",
-      "name": "Enka İnşaat ve Sanayi A.Ş.",
+      "ticker": "ENKAI",
+      "name": "ENKAI",
       "tier": {
-        "no": 2,
-        "amount": 100000
+        "no": 4,
+        "amount": 10000
       },
       "close": 100.5,
       "open": 99.05,
@@ -313,11 +313,11 @@
     },
     {
       "id": 12,
-      "ticker": "EREGL.IS",
-      "name": "Ereğli Demir ve Çelik Fabrikaları T.A.Ş.",
+      "ticker": "EREGL",
+      "name": "EREGL",
       "tier": {
-        "no": 3,
-        "amount": 50000
+        "no": 4,
+        "amount": 10000
       },
       "close": 39.18,
       "open": 39.74,
@@ -341,11 +341,11 @@
     },
     {
       "id": 13,
-      "ticker": "FROTO.IS",
-      "name": "Ford Otomotiv Sanayi A.Ş.",
+      "ticker": "FROTO",
+      "name": "FROTO",
       "tier": {
-        "no": 2,
-        "amount": 100000
+        "no": 4,
+        "amount": 10000
       },
       "close": 84.15,
       "open": 87.4,
@@ -369,11 +369,11 @@
     },
     {
       "id": 14,
-      "ticker": "GARAN.IS",
-      "name": "Türkiye Garanti Bankası A.Ş.",
+      "ticker": "GARAN",
+      "name": "GARAN",
       "tier": {
-        "no": 1,
-        "amount": 200000
+        "no": 4,
+        "amount": 10000
       },
       "close": 122.9,
       "open": 125.1,
@@ -397,11 +397,11 @@
     },
     {
       "id": 15,
-      "ticker": "GUBRF.IS",
-      "name": "Gübre Fabrikaları T.A.Ş.",
+      "ticker": "GUBRF",
+      "name": "GUBRF",
       "tier": {
-        "no": 3,
-        "amount": 50000
+        "no": 4,
+        "amount": 10000
       },
       "close": 550.0,
       "open": 570.5,
@@ -425,11 +425,11 @@
     },
     {
       "id": 16,
-      "ticker": "ISCTR.IS",
-      "name": "Türkiye İş Bankası A.Ş.",
+      "ticker": "ISCTR",
+      "name": "ISCTR",
       "tier": {
-        "no": 1,
-        "amount": 200000
+        "no": 4,
+        "amount": 10000
       },
       "close": 13.14,
       "open": 13.25,
@@ -453,11 +453,11 @@
     },
     {
       "id": 17,
-      "ticker": "KCHOL.IS",
-      "name": "Koç Holding A.Ş.",
+      "ticker": "KCHOL",
+      "name": "KCHOL",
       "tier": {
-        "no": 1,
-        "amount": 200000
+        "no": 4,
+        "amount": 10000
       },
       "close": 189.1,
       "open": 191.0,
@@ -481,11 +481,11 @@
     },
     {
       "id": 18,
-      "ticker": "KRDMD.IS",
-      "name": "Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.",
+      "ticker": "KRDMD",
+      "name": "KRDMD",
       "tier": {
-        "no": 2,
-        "amount": 100000
+        "no": 4,
+        "amount": 10000
       },
       "close": 39.74,
       "open": 40.22,
@@ -509,11 +509,11 @@
     },
     {
       "id": 19,
-      "ticker": "MGROS.IS",
-      "name": "Migros Ticaret A.Ş.",
+      "ticker": "MGROS",
+      "name": "MGROS",
       "tier": {
-        "no": 3,
-        "amount": 50000
+        "no": 4,
+        "amount": 10000
       },
       "close": 659.0,
       "open": 680.0,
@@ -537,11 +537,11 @@
     },
     {
       "id": 20,
-      "ticker": "PETKM.IS",
-      "name": "Petkim Petrokimya Holding A.Ş.",
+      "ticker": "PETKM",
+      "name": "PETKM",
       "tier": {
-        "no": 2,
-        "amount": 100000
+        "no": 4,
+        "amount": 10000
       },
       "close": 22.1,
       "open": 22.5,
@@ -565,11 +565,11 @@
     },
     {
       "id": 21,
-      "ticker": "PGSUS.IS",
-      "name": "Pegasus Hava Taşımacılığı A.Ş.",
+      "ticker": "PGSUS",
+      "name": "PGSUS",
       "tier": {
-        "no": 2,
-        "amount": 100000
+        "no": 4,
+        "amount": 10000
       },
       "close": 170.1,
       "open": 172.5,
@@ -593,11 +593,11 @@
     },
     {
       "id": 22,
-      "ticker": "SAHOL.IS",
-      "name": "Hacı Ömer Sabancı Holding A.Ş.",
+      "ticker": "SAHOL",
+      "name": "SAHOL",
       "tier": {
-        "no": 1,
-        "amount": 200000
+        "no": 4,
+        "amount": 10000
       },
       "close": 92.0,
       "open": 90.05,
@@ -621,11 +621,11 @@
     },
     {
       "id": 23,
-      "ticker": "SASA.IS",
-      "name": "Sasa Polyester Sanayi A.Ş.",
+      "ticker": "SASA",
+      "name": "SASA",
       "tier": {
-        "no": 3,
-        "amount": 50000
+        "no": 4,
+        "amount": 10000
       },
       "close": 2.64,
       "open": 2.7,
@@ -649,11 +649,11 @@
     },
     {
       "id": 24,
-      "ticker": "SISE.IS",
-      "name": "Türkiye Şişe ve Cam Fabrikaları A.Ş.",
+      "ticker": "SISE",
+      "name": "SISE",
       "tier": {
-        "no": 2,
-        "amount": 100000
+        "no": 4,
+        "amount": 10000
       },
       "close": 45.8,
       "open": 46.7,
@@ -677,11 +677,11 @@
     },
     {
       "id": 25,
-      "ticker": "TAVHL.IS",
-      "name": "TAV Havalimanları Holding A.Ş.",
+      "ticker": "TAVHL",
+      "name": "TAVHL",
       "tier": {
-        "no": 3,
-        "amount": 50000
+        "no": 4,
+        "amount": 10000
       },
       "close": 251.75,
       "open": 258.25,
@@ -705,11 +705,11 @@
     },
     {
       "id": 26,
-      "ticker": "TCELL.IS",
-      "name": "Turkcell İletişim Hizmetleri A.Ş.",
+      "ticker": "TCELL",
+      "name": "TCELL",
       "tier": {
-        "no": 1,
-        "amount": 200000
+        "no": 4,
+        "amount": 10000
       },
       "close": 101.0,
       "open": 106.2,
@@ -733,11 +733,11 @@
     },
     {
       "id": 27,
-      "ticker": "THYAO.IS",
-      "name": "Türk Hava Yolları A.O.",
+      "ticker": "THYAO",
+      "name": "THYAO",
       "tier": {
-        "no": 1,
-        "amount": 200000
+        "no": 4,
+        "amount": 10000
       },
       "close": 296.75,
       "open": 297.5,
@@ -761,11 +761,11 @@
     },
     {
       "id": 28,
-      "ticker": "TOASO.IS",
-      "name": "Tofaş Türk Otomobil Fabrikası A.Ş.",
+      "ticker": "TOASO",
+      "name": "TOASO",
       "tier": {
-        "no": 3,
-        "amount": 50000
+        "no": 4,
+        "amount": 10000
       },
       "close": 296.0,
       "open": 301.25,
@@ -789,11 +789,11 @@
     },
     {
       "id": 29,
-      "ticker": "TRALT.IS",
-      "name": "Türk Altın İşletmeleri A.Ş.",
+      "ticker": "TRALT",
+      "name": "TRALT",
       "tier": {
-        "no": 3,
-        "amount": 50000
+        "no": 4,
+        "amount": 10000
       },
       "close": 43.54,
       "open": 45.32,
@@ -817,11 +817,11 @@
     },
     {
       "id": 30,
-      "ticker": "TTKOM.IS",
-      "name": "Türk Telekomünikasyon A.Ş.",
+      "ticker": "TTKOM",
+      "name": "TTKOM",
       "tier": {
-        "no": 2,
-        "amount": 100000
+        "no": 4,
+        "amount": 10000
       },
       "close": 61.25,
       "open": 61.05,
@@ -845,11 +845,11 @@
     },
     {
       "id": 31,
-      "ticker": "TUPRS.IS",
-      "name": "Türkiye Petrol Rafinerileri A.Ş.",
+      "ticker": "TUPRS",
+      "name": "TUPRS",
       "tier": {
-        "no": 1,
-        "amount": 200000
+        "no": 4,
+        "amount": 10000
       },
       "close": 236.2,
       "open": 236.0,
@@ -873,11 +873,11 @@
     },
     {
       "id": 32,
-      "ticker": "ULKER.IS",
-      "name": "Ülker Bisküvi Sanayi A.Ş.",
+      "ticker": "ULKER",
+      "name": "ULKER",
       "tier": {
-        "no": 3,
-        "amount": 50000
+        "no": 4,
+        "amount": 10000
       },
       "close": 115.8,
       "open": 117.3,
@@ -901,11 +901,11 @@
     },
     {
       "id": 33,
-      "ticker": "YKBNK.IS",
-      "name": "Yapı ve Kredi Bankası A.Ş.",
+      "ticker": "YKBNK",
+      "name": "YKBNK",
       "tier": {
-        "no": 1,
-        "amount": 200000
+        "no": 4,
+        "amount": 10000
       },
       "close": 33.16,
       "open": 33.24,
