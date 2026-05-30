@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T00:14:50.109352Z",
+  "updated_at": "2026-05-30T00:13:10.392996Z",
   "indexes": [
     {
       "id": 1,
@@ -13,8 +13,30 @@
       "open": 15693.3,
       "high": 15809.5,
       "low": 15499.8,
+      "volume_analysis": {
+        "current_volume_lot": 441100,
+        "current_volume_tl": 6882497945.898438,
+        "current_volume_tl_formatted": "6.88 B",
+        "volume_ratio": 0.44,
+        "is_volume_burst": false,
+        "avg_30_days_volume_lot": 1043874,
+        "avg_10_days_volume_lot": 995540
+      },
+      "fundamental": {
+        "pe_ratio": null,
+        "pb_ratio": null,
+        "free_float": null,
+        "market_cap": null,
+        "market_cap_formatted": null
+      },
+      "technical_extremes": {
+        "fifty_two_week_high": 20940.2,
+        "fifty_two_week_low": 12044.8,
+        "dist_from_high_pct": -25.98,
+        "dist_from_low_pct": 28.68
+      },
       "pivots": {
-        "daily": 15603.033,
+        "daily": 15603.03,
         "monthly": 16516.8,
         "monthlyP": -6.16
       },
@@ -29,6 +51,96 @@
         "upper": 18203.41,
         "mid": 16684.31,
         "lower": 15165.22
+      },
+      "signal_matrix": {
+        "total_score": 7.4,
+        "matrix_rows": {
+          "bollinger": {
+            "score": 9.0,
+            "label": "Bollinger",
+            "status": "SUCCESS",
+            "direction": "BUY",
+            "metrics": {
+              "price_position_pct": 11.0,
+              "band_width_pct": 18.21
+            }
+          },
+          "pivots": {
+            "score": 10.0,
+            "label": "Pivot",
+            "status": "SUCCESS",
+            "direction": "BUY",
+            "metrics": {
+              "monthly_diff_pct": -6.16,
+              "daily_diff_pct": -0.66
+            }
+          },
+          "rsi": {
+            "score": 5.7,
+            "label": "RSI Güç Endeksi",
+            "status": "NORMAL",
+            "direction": "BUY",
+            "desc": "RSI zayıf bölgede (37.68). Net bir dönüş formasyonu henüz yok.",
+            "metrics": {
+              "raw_rsi": 37.68,
+              "divergence": "NONE"
+            }
+          },
+          "ema": {
+            "score": 3.6,
+            "label": "EMA",
+            "status": "NORMAL",
+            "direction": "SELL",
+            "metrics": {
+              "is_aligned": false,
+              "is_squeezed": false,
+              "trend_phase": "YOUNG_TREND",
+              "squeeze_pct": 3.54,
+              "ema20_diff_pct": -6.06,
+              "ema50_diff_pct": -8.61,
+              "ema100_diff_pct": -9.09,
+              "ema200_diff_pct": -6.38
+            }
+          },
+          "volume": {
+            "score": 8.7,
+            "label": "Hacim Analizi",
+            "status": "SUCCESS",
+            "direction": "BUY",
+            "desc": "Satıcı Tükenişi: Fiyat düşerken hacim ciddi şekilde kurudu (0.44x). Satıcılar tükendi, dönüş yakın!",
+            "metrics": {
+              "volume_ratio_10_30": 0.44,
+              "is_volume_burst": false,
+              "price_trend_5d": "DOWN",
+              "volume_trend_5d": "DECREASING"
+            }
+          },
+          "fundamental": {
+            "score": 1.0,
+            "label": "Fundamental",
+            "status": "DANGER",
+            "direction": "SELL",
+            "metrics": {
+              "is_growth_stock": false,
+              "is_dividend_stock": false,
+              "peg_ratio": 0.0
+            }
+          },
+          "extremes": {
+            "score": 6.5,
+            "label": "Extremes",
+            "status": "NORMAL",
+            "direction": "BUY",
+            "metrics": {
+              "price_position_52w_pct": 38.8,
+              "dist_from_high_pct": -25.98,
+              "dist_from_low_pct": 28.68,
+              "volume_ratio_10_30": 0.95,
+              "daily_surge_ratio": 0.44,
+              "is_volume_burst": false
+            }
+          }
+        }
       }
     },
     {
@@ -43,6 +155,28 @@
       "open": 15816.7,
       "high": 15844.7,
       "low": 15493.7,
+      "volume_analysis": {
+        "current_volume_lot": 1549800,
+        "current_volume_tl": 24193463162.69531,
+        "current_volume_tl_formatted": "24.19 B",
+        "volume_ratio": 0.24,
+        "is_volume_burst": false,
+        "avg_30_days_volume_lot": 5588501,
+        "avg_10_days_volume_lot": 6494060
+      },
+      "fundamental": {
+        "pe_ratio": null,
+        "pb_ratio": null,
+        "free_float": null,
+        "market_cap": null,
+        "market_cap_formatted": null
+      },
+      "technical_extremes": {
+        "fifty_two_week_high": 17376.9,
+        "fifty_two_week_low": 9899.9,
+        "dist_from_high_pct": -10.84,
+        "dist_from_low_pct": 56.5
+      },
       "pivots": {
         "daily": 15610.7,
         "monthly": 14976.7,
@@ -59,6 +193,96 @@
         "upper": 17610.56,
         "mid": 16443.85,
         "lower": 15277.15
+      },
+      "signal_matrix": {
+        "total_score": 5.7,
+        "matrix_rows": {
+          "bollinger": {
+            "score": 9.2,
+            "label": "Bollinger",
+            "status": "SUCCESS",
+            "direction": "BUY",
+            "metrics": {
+              "price_position_pct": 9.3,
+              "band_width_pct": 14.19
+            }
+          },
+          "pivots": {
+            "score": 3.8,
+            "label": "Pivot",
+            "status": "NORMAL",
+            "direction": "SELL",
+            "metrics": {
+              "monthly_diff_pct": 3.45,
+              "daily_diff_pct": -0.75
+            }
+          },
+          "rsi": {
+            "score": 5.5,
+            "label": "RSI Güç Endeksi",
+            "status": "NORMAL",
+            "direction": "NEUTRAL",
+            "desc": "RSI nötr bölgede (40.47). Trend yönü belirsiz.",
+            "metrics": {
+              "raw_rsi": 40.47,
+              "divergence": "NONE"
+            }
+          },
+          "ema": {
+            "score": 1.1,
+            "label": "EMA",
+            "status": "NORMAL",
+            "direction": "BUY",
+            "metrics": {
+              "is_aligned": false,
+              "is_squeezed": false,
+              "trend_phase": "MATURE_TREND",
+              "squeeze_pct": 13.91,
+              "ema20_diff_pct": -4.1,
+              "ema50_diff_pct": -2.35,
+              "ema100_diff_pct": 2.43,
+              "ema200_diff_pct": 10.67
+            }
+          },
+          "volume": {
+            "score": 8.8,
+            "label": "Hacim Analizi",
+            "status": "SUCCESS",
+            "direction": "BUY",
+            "desc": "Satıcı Tükenişi: Fiyat düşerken hacim ciddi şekilde kurudu (0.24x). Satıcılar tükendi, dönüş yakın!",
+            "metrics": {
+              "volume_ratio_10_30": 0.24,
+              "is_volume_burst": false,
+              "price_trend_5d": "DOWN",
+              "volume_trend_5d": "DECREASING"
+            }
+          },
+          "fundamental": {
+            "score": 1.0,
+            "label": "Fundamental",
+            "status": "DANGER",
+            "direction": "SELL",
+            "metrics": {
+              "is_growth_stock": false,
+              "is_dividend_stock": false,
+              "peg_ratio": 0.0
+            }
+          },
+          "extremes": {
+            "score": 3.8,
+            "label": "Extremes",
+            "status": "NORMAL",
+            "direction": "SELL",
+            "metrics": {
+              "price_position_52w_pct": 74.8,
+              "dist_from_high_pct": -10.84,
+              "dist_from_low_pct": 56.5,
+              "volume_ratio_10_30": 1.16,
+              "daily_surge_ratio": 0.24,
+              "is_volume_burst": false
+            }
+          }
+        }
       }
     },
     {
@@ -73,8 +297,30 @@
       "open": 13902.6,
       "high": 13920.9,
       "low": 13662.8,
+      "volume_analysis": {
+        "current_volume_lot": 3431900000,
+        "current_volume_tl": 47184621116666.67,
+        "current_volume_tl_formatted": "47184.62 B",
+        "volume_ratio": 0.31,
+        "is_volume_burst": false,
+        "avg_30_days_volume_lot": 9554900000,
+        "avg_10_days_volume_lot": 10951810000
+      },
+      "fundamental": {
+        "pe_ratio": null,
+        "pb_ratio": null,
+        "free_float": null,
+        "market_cap": null,
+        "market_cap_formatted": null
+      },
+      "technical_extremes": {
+        "fifty_two_week_high": 15204.9,
+        "fifty_two_week_low": 8965.0,
+        "dist_from_high_pct": -10.14,
+        "dist_from_low_pct": 52.4
+      },
       "pivots": {
-        "daily": 13748.833,
+        "daily": 13748.83,
         "monthly": 13346.93,
         "monthlyP": 2.37
       },
@@ -89,909 +335,98 @@
         "upper": 15375.15,
         "mid": 14382.72,
         "lower": 13390.29
+      },
+      "signal_matrix": {
+        "total_score": 4.6,
+        "matrix_rows": {
+          "bollinger": {
+            "score": 8.8,
+            "label": "Bollinger",
+            "status": "SUCCESS",
+            "direction": "BUY",
+            "metrics": {
+              "price_position_pct": 13.7,
+              "band_width_pct": 13.8
+            }
+          },
+          "pivots": {
+            "score": 5.7,
+            "label": "Pivot",
+            "status": "NORMAL",
+            "direction": "BUY",
+            "metrics": {
+              "monthly_diff_pct": 2.37,
+              "daily_diff_pct": -0.63
+            }
+          },
+          "rsi": {
+            "score": 5.6,
+            "label": "RSI Güç Endeksi",
+            "status": "NORMAL",
+            "direction": "NEUTRAL",
+            "desc": "RSI nötr bölgede (42.18). Trend yönü belirsiz.",
+            "metrics": {
+              "raw_rsi": 42.18,
+              "divergence": "NONE"
+            }
+          },
+          "ema": {
+            "score": 1.0,
+            "label": "EMA",
+            "status": "NORMAL",
+            "direction": "BUY",
+            "metrics": {
+              "is_aligned": false,
+              "is_squeezed": false,
+              "trend_phase": "MATURE_TREND",
+              "squeeze_pct": 12.01,
+              "ema20_diff_pct": -3.45,
+              "ema50_diff_pct": -1.95,
+              "ema100_diff_pct": 2.02,
+              "ema200_diff_pct": 9.21
+            }
+          },
+          "volume": {
+            "score": 1.8,
+            "label": "Hacim Analizi",
+            "status": "DANGER",
+            "direction": "SELL",
+            "desc": "🚨 TEHLİKELİ UYUMSUZLUK: Fiyat yükseliyor ama hacim tamamen kesilmiş (0.31x). Alıcı iştahı sahte!",
+            "metrics": {
+              "volume_ratio_10_30": 0.31,
+              "is_volume_burst": false,
+              "price_trend_5d": "UP",
+              "volume_trend_5d": "DECREASING"
+            }
+          },
+          "fundamental": {
+            "score": 1.0,
+            "label": "Fundamental",
+            "status": "DANGER",
+            "direction": "SELL",
+            "metrics": {
+              "is_growth_stock": false,
+              "is_dividend_stock": false,
+              "peg_ratio": 0.0
+            }
+          },
+          "extremes": {
+            "score": 3.7,
+            "label": "Extremes",
+            "status": "NORMAL",
+            "direction": "SELL",
+            "metrics": {
+              "price_position_52w_pct": 75.3,
+              "dist_from_high_pct": -10.14,
+              "dist_from_low_pct": 52.4,
+              "volume_ratio_10_30": 1.15,
+              "daily_surge_ratio": 0.31,
+              "is_volume_burst": false
+            }
+          }
+        }
       }
     }
   ],
-  "stocks": [
-    {
-      "id": 4,
-      "ticker": "AEFES",
-      "name": "Anadolu Efes Biracılık ve Malt Sanayi A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 19.3,
-      "open": 19.38,
-      "high": 19.66,
-      "low": 19.28,
-      "pivots": {
-        "daily": 19.413,
-        "monthly": 18.72,
-        "monthlyP": 3.12
-      },
-      "rsi": 50.07,
-      "ema": {
-        "EMA_20": 19.43,
-        "EMA_50": 18.91,
-        "EMA_100": 18.26,
-        "EMA_200": 17.53
-      },
-      "bb": {
-        "upper": 21.04,
-        "mid": 19.58,
-        "lower": 18.13
-      }
-    },
-    {
-      "id": 5,
-      "ticker": "AKBNK",
-      "name": "Akbank T.A.Ş.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 64.0,
-      "open": 65.1,
-      "high": 65.6,
-      "low": 64.0,
-      "pivots": {
-        "daily": 64.533,
-        "monthly": 69.29,
-        "monthlyP": -7.64
-      },
-      "rsi": 34.31,
-      "ema": {
-        "EMA_20": 70.12,
-        "EMA_50": 72.73,
-        "EMA_100": 72.71,
-        "EMA_200": 69.76
-      },
-      "bb": {
-        "upper": 79.84,
-        "mid": 71.19,
-        "lower": 62.54
-      }
-    },
-    {
-      "id": 6,
-      "ticker": "ASELS",
-      "name": "Aselsan Elektronik Sanayi ve Ticaret A.Ş.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 380.25,
-      "open": 399.75,
-      "high": 401.75,
-      "low": 380.25,
-      "pivots": {
-        "daily": 387.417,
-        "monthly": 349.25,
-        "monthlyP": 8.88
-      },
-      "rsi": 42.46,
-      "ema": {
-        "EMA_20": 403.6,
-        "EMA_50": 383.01,
-        "EMA_100": 343.9,
-        "EMA_200": 286.75
-      },
-      "bb": {
-        "upper": 445.83,
-        "mid": 414.21,
-        "lower": 382.59
-      }
-    },
-    {
-      "id": 7,
-      "ticker": "ASTOR",
-      "name": "Astor Enerji A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 312.75,
-      "open": 342.5,
-      "high": 343.5,
-      "low": 312.75,
-      "pivots": {
-        "daily": 323.0,
-        "monthly": 263.18,
-        "monthlyP": 18.83
-      },
-      "rsi": 55.86,
-      "ema": {
-        "EMA_20": 305.89,
-        "EMA_50": 259.79,
-        "EMA_100": 217.18,
-        "EMA_200": 175.82
-      },
-      "bb": {
-        "upper": 370.71,
-        "mid": 311.61,
-        "lower": 252.5
-      }
-    },
-    {
-      "id": 8,
-      "ticker": "BIMAS",
-      "name": "BİM Birleşik Mağazalar A.Ş.",
-      "tier": {
-        "no": 3,
-        "amount": 50000
-      },
-      "close": 373.0,
-      "open": 380.0,
-      "high": 380.75,
-      "low": 371.75,
-      "pivots": {
-        "daily": 375.167,
-        "monthly": 356.5,
-        "monthlyP": 4.63
-      },
-      "rsi": 45.89,
-      "ema": {
-        "EMA_20": 384.49,
-        "EMA_50": 370.85,
-        "EMA_100": 349.41,
-        "EMA_200": 319.91
-      },
-      "bb": {
-        "upper": 413.63,
-        "mid": 384.79,
-        "lower": 355.95
-      }
-    },
-    {
-      "id": 9,
-      "ticker": "DSTKF",
-      "name": "DSTKF",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 2105.0,
-      "open": 2075.0,
-      "high": 2170.0,
-      "low": 2038.0,
-      "pivots": {
-        "daily": 2104.333,
-        "monthly": 1833.67,
-        "monthlyP": 14.8
-      },
-      "rsi": 45.48,
-      "ema": {
-        "EMA_20": 2193.32,
-        "EMA_50": 2069.5,
-        "EMA_100": 1723.42,
-        "EMA_200": 1286.95
-      },
-      "bb": {
-        "upper": 3058.77,
-        "mid": 2362.6,
-        "lower": 1666.43
-      }
-    },
-    {
-      "id": 10,
-      "ticker": "EKGYO",
-      "name": "Emlak Konut Gayrimenkul Yatırım Ortaklığı A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 19.1,
-      "open": 19.58,
-      "high": 19.67,
-      "low": 19.1,
-      "pivots": {
-        "daily": 19.29,
-        "monthly": 20.84,
-        "monthlyP": -8.33
-      },
-      "rsi": 41.17,
-      "ema": {
-        "EMA_20": 20.15,
-        "EMA_50": 20.71,
-        "EMA_100": 20.97,
-        "EMA_200": 20.21
-      },
-      "bb": {
-        "upper": 22.23,
-        "mid": 20.35,
-        "lower": 18.48
-      }
-    },
-    {
-      "id": 11,
-      "ticker": "ENKAI",
-      "name": "Enka İnşaat ve Sanayi A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 100.5,
-      "open": 99.05,
-      "high": 100.5,
-      "low": 97.3,
-      "pivots": {
-        "daily": 99.433,
-        "monthly": 94.82,
-        "monthlyP": 5.99
-      },
-      "rsi": 48.27,
-      "ema": {
-        "EMA_20": 101.53,
-        "EMA_50": 99.55,
-        "EMA_100": 94.23,
-        "EMA_200": 85.07
-      },
-      "bb": {
-        "upper": 111.95,
-        "mid": 103.33,
-        "lower": 94.71
-      }
-    },
-    {
-      "id": 12,
-      "ticker": "EREGL",
-      "name": "Ereğli Demir ve Çelik Fabrikaları T.A.Ş.",
-      "tier": {
-        "no": 3,
-        "amount": 50000
-      },
-      "close": 39.18,
-      "open": 39.74,
-      "high": 39.88,
-      "low": 39.18,
-      "pivots": {
-        "daily": 39.413,
-        "monthly": 34.85,
-        "monthlyP": 12.44
-      },
-      "rsi": 59.48,
-      "ema": {
-        "EMA_20": 37.46,
-        "EMA_50": 34.37,
-        "EMA_100": 31.72,
-        "EMA_200": 29.38
-      },
-      "bb": {
-        "upper": 42.8,
-        "mid": 37.82,
-        "lower": 32.84
-      }
-    },
-    {
-      "id": 13,
-      "ticker": "FROTO",
-      "name": "Ford Otomotiv Sanayi A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 84.15,
-      "open": 87.4,
-      "high": 87.7,
-      "low": 84.15,
-      "pivots": {
-        "daily": 85.333,
-        "monthly": 93.36,
-        "monthlyP": -9.86
-      },
-      "rsi": 30.75,
-      "ema": {
-        "EMA_20": 92.51,
-        "EMA_50": 98.08,
-        "EMA_100": 99.57,
-        "EMA_200": 97.32
-      },
-      "bb": {
-        "upper": 104.99,
-        "mid": 93.58,
-        "lower": 82.18
-      }
-    },
-    {
-      "id": 14,
-      "ticker": "GARAN",
-      "name": "Türkiye Garanti Bankası A.Ş.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 122.9,
-      "open": 125.1,
-      "high": 125.9,
-      "low": 122.9,
-      "pivots": {
-        "daily": 123.9,
-        "monthly": 131.26,
-        "monthlyP": -6.37
-      },
-      "rsi": 38.61,
-      "ema": {
-        "EMA_20": 129.99,
-        "EMA_50": 133.19,
-        "EMA_100": 134.82,
-        "EMA_200": 132.86
-      },
-      "bb": {
-        "upper": 141.62,
-        "mid": 131.22,
-        "lower": 120.82
-      }
-    },
-    {
-      "id": 15,
-      "ticker": "GUBRF",
-      "name": "Gübre Fabrikaları T.A.Ş.",
-      "tier": {
-        "no": 3,
-        "amount": 50000
-      },
-      "close": 550.0,
-      "open": 570.5,
-      "high": 572.0,
-      "low": 542.0,
-      "pivots": {
-        "daily": 554.667,
-        "monthly": 506.25,
-        "monthlyP": 8.64
-      },
-      "rsi": 49.14,
-      "ema": {
-        "EMA_20": 559.53,
-        "EMA_50": 533.95,
-        "EMA_100": 492.03,
-        "EMA_200": 427.43
-      },
-      "bb": {
-        "upper": 626.44,
-        "mid": 567.17,
-        "lower": 507.91
-      }
-    },
-    {
-      "id": 16,
-      "ticker": "ISCTR",
-      "name": "Türkiye İş Bankası A.Ş.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 13.14,
-      "open": 13.25,
-      "high": 13.31,
-      "low": 13.14,
-      "pivots": {
-        "daily": 13.197,
-        "monthly": 13.96,
-        "monthlyP": -5.89
-      },
-      "rsi": 38.81,
-      "ema": {
-        "EMA_20": 13.81,
-        "EMA_50": 14.04,
-        "EMA_100": 14.05,
-        "EMA_200": 13.76
-      },
-      "bb": {
-        "upper": 15.02,
-        "mid": 13.97,
-        "lower": 12.91
-      }
-    },
-    {
-      "id": 17,
-      "ticker": "KCHOL",
-      "name": "Koç Holding A.Ş.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 189.1,
-      "open": 191.0,
-      "high": 191.5,
-      "low": 189.1,
-      "pivots": {
-        "daily": 189.9,
-        "monthly": 188.34,
-        "monthlyP": 0.41
-      },
-      "rsi": 39.53,
-      "ema": {
-        "EMA_20": 198.01,
-        "EMA_50": 197.9,
-        "EMA_100": 192.7,
-        "EMA_200": 183.63
-      },
-      "bb": {
-        "upper": 216.69,
-        "mid": 200.72,
-        "lower": 184.76
-      }
-    },
-    {
-      "id": 18,
-      "ticker": "KRDMD",
-      "name": "Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 39.74,
-      "open": 40.22,
-      "high": 40.64,
-      "low": 39.74,
-      "pivots": {
-        "daily": 40.04,
-        "monthly": 37.13,
-        "monthlyP": 7.02
-      },
-      "rsi": 52.54,
-      "ema": {
-        "EMA_20": 39.64,
-        "EMA_50": 36.84,
-        "EMA_100": 33.91,
-        "EMA_200": 31.19
-      },
-      "bb": {
-        "upper": 44.58,
-        "mid": 40.18,
-        "lower": 35.79
-      }
-    },
-    {
-      "id": 19,
-      "ticker": "MGROS",
-      "name": "Migros Ticaret A.Ş.",
-      "tier": {
-        "no": 3,
-        "amount": 50000
-      },
-      "close": 659.0,
-      "open": 680.0,
-      "high": 680.5,
-      "low": 659.0,
-      "pivots": {
-        "daily": 666.167,
-        "monthly": 637.65,
-        "monthlyP": 3.35
-      },
-      "rsi": 49.17,
-      "ema": {
-        "EMA_20": 667.93,
-        "EMA_50": 648.04,
-        "EMA_100": 621.12,
-        "EMA_200": 581.25
-      },
-      "bb": {
-        "upper": 721.63,
-        "mid": 666.0,
-        "lower": 610.36
-      }
-    },
-    {
-      "id": 20,
-      "ticker": "PETKM",
-      "name": "Petkim Petrokimya Holding A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 22.1,
-      "open": 22.5,
-      "high": 22.64,
-      "low": 22.1,
-      "pivots": {
-        "daily": 22.28,
-        "monthly": 21.95,
-        "monthlyP": 0.68
-      },
-      "rsi": 40.6,
-      "ema": {
-        "EMA_20": 23.86,
-        "EMA_50": 22.55,
-        "EMA_100": 20.98,
-        "EMA_200": 19.69
-      },
-      "bb": {
-        "upper": 27.2,
-        "mid": 24.48,
-        "lower": 21.77
-      }
-    },
-    {
-      "id": 21,
-      "ticker": "PGSUS",
-      "name": "Pegasus Hava Taşımacılığı A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 170.1,
-      "open": 172.5,
-      "high": 172.7,
-      "low": 170.1,
-      "pivots": {
-        "daily": 170.967,
-        "monthly": 179.93,
-        "monthlyP": -5.46
-      },
-      "rsi": 41.08,
-      "ema": {
-        "EMA_20": 176.63,
-        "EMA_50": 181.96,
-        "EMA_100": 189.38,
-        "EMA_200": 201.14
-      },
-      "bb": {
-        "upper": 190.7,
-        "mid": 177.9,
-        "lower": 165.1
-      }
-    },
-    {
-      "id": 22,
-      "ticker": "SAHOL",
-      "name": "Hacı Ömer Sabancı Holding A.Ş.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 92.0,
-      "open": 90.05,
-      "high": 92.0,
-      "low": 89.35,
-      "pivots": {
-        "daily": 91.117,
-        "monthly": 94.1,
-        "monthlyP": -2.24
-      },
-      "rsi": 44.56,
-      "ema": {
-        "EMA_20": 93.99,
-        "EMA_50": 95.05,
-        "EMA_100": 94.08,
-        "EMA_200": 91.63
-      },
-      "bb": {
-        "upper": 102.12,
-        "mid": 94.92,
-        "lower": 87.72
-      }
-    },
-    {
-      "id": 23,
-      "ticker": "SASA",
-      "name": "Sasa Polyester Sanayi A.Ş.",
-      "tier": {
-        "no": 3,
-        "amount": 50000
-      },
-      "close": 2.64,
-      "open": 2.7,
-      "high": 2.71,
-      "low": 2.62,
-      "pivots": {
-        "daily": 2.657,
-        "monthly": 2.72,
-        "monthlyP": -3.06
-      },
-      "rsi": 42.73,
-      "ema": {
-        "EMA_20": 2.88,
-        "EMA_50": 2.81,
-        "EMA_100": 2.79,
-        "EMA_200": 2.95
-      },
-      "bb": {
-        "upper": 3.6,
-        "mid": 3.02,
-        "lower": 2.45
-      }
-    },
-    {
-      "id": 24,
-      "ticker": "SISE",
-      "name": "Türkiye Şişe ve Cam Fabrikaları A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 45.8,
-      "open": 46.7,
-      "high": 46.86,
-      "low": 45.8,
-      "pivots": {
-        "daily": 46.153,
-        "monthly": 45.53,
-        "monthlyP": 0.6
-      },
-      "rsi": 46.01,
-      "ema": {
-        "EMA_20": 47.19,
-        "EMA_50": 46.54,
-        "EMA_100": 44.83,
-        "EMA_200": 42.56
-      },
-      "bb": {
-        "upper": 52.54,
-        "mid": 47.79,
-        "lower": 43.03
-      }
-    },
-    {
-      "id": 25,
-      "ticker": "TAVHL",
-      "name": "TAV Havalimanları Holding A.Ş.",
-      "tier": {
-        "no": 3,
-        "amount": 50000
-      },
-      "close": 251.75,
-      "open": 258.25,
-      "high": 259.0,
-      "low": 251.75,
-      "pivots": {
-        "daily": 254.167,
-        "monthly": 283.98,
-        "monthlyP": -11.35
-      },
-      "rsi": 36.84,
-      "ema": {
-        "EMA_20": 270.79,
-        "EMA_50": 289.08,
-        "EMA_100": 295.5,
-        "EMA_200": 288.27
-      },
-      "bb": {
-        "upper": 300.59,
-        "mid": 270.72,
-        "lower": 240.84
-      }
-    },
-    {
-      "id": 26,
-      "ticker": "TCELL",
-      "name": "Turkcell İletişim Hizmetleri A.Ş.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 101.0,
-      "open": 106.2,
-      "high": 106.9,
-      "low": 101.0,
-      "pivots": {
-        "daily": 102.967,
-        "monthly": 105.05,
-        "monthlyP": -3.86
-      },
-      "rsi": 32.18,
-      "ema": {
-        "EMA_20": 110.58,
-        "EMA_50": 111.73,
-        "EMA_100": 109.91,
-        "EMA_200": 105.33
-      },
-      "bb": {
-        "upper": 122.91,
-        "mid": 112.35,
-        "lower": 101.79
-      }
-    },
-    {
-      "id": 27,
-      "ticker": "THYAO",
-      "name": "Türk Hava Yolları A.O.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 296.75,
-      "open": 297.5,
-      "high": 298.0,
-      "low": 295.25,
-      "pivots": {
-        "daily": 296.667,
-        "monthly": 296.75,
-        "monthlyP": null
-      },
-      "rsi": 45.93,
-      "ema": {
-        "EMA_20": 301.0,
-        "EMA_50": 303.97,
-        "EMA_100": 302.31,
-        "EMA_200": 299.43
-      },
-      "bb": {
-        "upper": 323.99,
-        "mid": 303.19,
-        "lower": 282.38
-      }
-    },
-    {
-      "id": 28,
-      "ticker": "TOASO",
-      "name": "Tofaş Türk Otomobil Fabrikası A.Ş.",
-      "tier": {
-        "no": 3,
-        "amount": 50000
-      },
-      "close": 296.0,
-      "open": 301.25,
-      "high": 303.25,
-      "low": 296.0,
-      "pivots": {
-        "daily": 298.417,
-        "monthly": 284.26,
-        "monthlyP": 4.13
-      },
-      "rsi": 49.37,
-      "ema": {
-        "EMA_20": 298.44,
-        "EMA_50": 292.86,
-        "EMA_100": 282.13,
-        "EMA_200": 261.99
-      },
-      "bb": {
-        "upper": 323.06,
-        "mid": 301.4,
-        "lower": 279.74
-      }
-    },
-    {
-      "id": 29,
-      "ticker": "TRALT",
-      "name": "Türk Altın İşletmeleri A.Ş.",
-      "tier": {
-        "no": 3,
-        "amount": 50000
-      },
-      "close": 43.54,
-      "open": 45.32,
-      "high": 45.56,
-      "low": 43.46,
-      "pivots": {
-        "daily": 44.187,
-        "monthly": 45.45,
-        "monthlyP": -4.21
-      },
-      "rsi": 46.71,
-      "ema": {
-        "EMA_20": 44.65,
-        "EMA_50": 45.58,
-        "EMA_100": 44.91,
-        "EMA_200": 40.67
-      },
-      "bb": {
-        "upper": 48.71,
-        "mid": 44.0,
-        "lower": 39.29
-      }
-    },
-    {
-      "id": 30,
-      "ticker": "TTKOM",
-      "name": "Türk Telekomünikasyon A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 61.25,
-      "open": 61.05,
-      "high": 62.4,
-      "low": 60.4,
-      "pivots": {
-        "daily": 61.35,
-        "monthly": 62.43,
-        "monthlyP": -1.9
-      },
-      "rsi": 46.86,
-      "ema": {
-        "EMA_20": 62.17,
-        "EMA_50": 62.44,
-        "EMA_100": 61.78,
-        "EMA_200": 59.62
-      },
-      "bb": {
-        "upper": 67.6,
-        "mid": 62.82,
-        "lower": 58.04
-      }
-    },
-    {
-      "id": 31,
-      "ticker": "TUPRS",
-      "name": "Türkiye Petrol Rafinerileri A.Ş.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 236.2,
-      "open": 236.0,
-      "high": 236.4,
-      "low": 232.2,
-      "pivots": {
-        "daily": 234.933,
-        "monthly": 229.77,
-        "monthlyP": 2.8
-      },
-      "rsi": 35.43,
-      "ema": {
-        "EMA_20": 252.02,
-        "EMA_50": 250.13,
-        "EMA_100": 236.05,
-        "EMA_200": 211.4
-      },
-      "bb": {
-        "upper": 282.6,
-        "mid": 257.84,
-        "lower": 233.09
-      }
-    },
-    {
-      "id": 32,
-      "ticker": "ULKER",
-      "name": "Ülker Bisküvi Sanayi A.Ş.",
-      "tier": {
-        "no": 3,
-        "amount": 50000
-      },
-      "close": 115.8,
-      "open": 117.3,
-      "high": 117.5,
-      "low": 115.7,
-      "pivots": {
-        "daily": 116.333,
-        "monthly": 119.93,
-        "monthlyP": -3.45
-      },
-      "rsi": 39.88,
-      "ema": {
-        "EMA_20": 121.33,
-        "EMA_50": 121.47,
-        "EMA_100": 120.42,
-        "EMA_200": 117.8
-      },
-      "bb": {
-        "upper": 133.81,
-        "mid": 123.51,
-        "lower": 113.21
-      }
-    },
-    {
-      "id": 33,
-      "ticker": "YKBNK",
-      "name": "Yapı ve Kredi Bankası A.Ş.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 33.16,
-      "open": 33.24,
-      "high": 33.56,
-      "low": 33.0,
-      "pivots": {
-        "daily": 33.24,
-        "monthly": 34.39,
-        "monthlyP": -3.57
-      },
-      "rsi": 36.28,
-      "ema": {
-        "EMA_20": 35.83,
-        "EMA_50": 36.56,
-        "EMA_100": 36.57,
-        "EMA_200": 35.35
-      },
-      "bb": {
-        "upper": 40.6,
-        "mid": 36.45,
-        "lower": 32.31
-      }
-    }
-  ]
+  "stocks": []
 }
