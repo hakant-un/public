@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T01:44:34.971135Z",
+  "updated_at": "2026-06-04T06:21:05.238822Z",
   "indexes": [
     {
       "id": 30,
@@ -159,7 +159,7 @@
         "current_volume_tl_formatted": "81.54 B",
         "volume_ratio": 0.99,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 5631372,
+        "avg_30_days_volume_lot": 5674296,
         "avg_10_days_volume_lot": 5182140
       },
       "fundamental": {
@@ -289,17 +289,17 @@
         "no": 0,
         "amount": 0
       },
-      "close": 14200.2,
-      "open": 13798.5,
-      "high": 14200.2,
-      "low": 13798.5,
+      "close": 13965.7,
+      "open": 14191.2,
+      "high": 14220.0,
+      "low": 13940.5,
       "volume_analysis": {
-        "current_volume_lot": 8531000000,
-        "current_volume_tl": 119999606410807.3,
-        "current_volume_tl_formatted": "119999.61 B",
-        "volume_ratio": 0.92,
+        "current_volume_lot": 9905000000,
+        "current_volume_tl": 139086670978190.1,
+        "current_volume_tl_formatted": "139086.67 B",
+        "volume_ratio": 1.07,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 9618477586,
+        "avg_30_days_volume_lot": 9684456140,
         "avg_10_days_volume_lot": 9224860000
       },
       "fundamental": {
@@ -316,33 +316,33 @@
         "dist_from_low_pct": null
       },
       "pivots": {
-        "daily": 14066.3,
-        "monthly": 13182.33,
-        "monthlyP": 7.72
+        "daily": 14042.07,
+        "monthly": 13204.2,
+        "monthlyP": 5.77
       },
-      "rsi": 51.46,
+      "rsi": 47.83,
       "ema": {
-        "EMA_20": 14117.27,
-        "EMA_50": 13935.72,
-        "EMA_100": 13414.85,
-        "EMA_200": 12538.85
+        "EMA_20": 14102.84,
+        "EMA_50": 13936.9,
+        "EMA_100": 13425.76,
+        "EMA_200": 12553.05
       },
       "bb": {
-        "upper": 15363.19,
-        "mid": 14331.77,
-        "lower": 13300.34
+        "upper": 15358.21,
+        "mid": 14314.49,
+        "lower": 13270.77
       },
       "signal_matrix": {
-        "total_score": 5.0,
+        "total_score": 5.5,
         "matrix_rows": {
           "bollinger": {
-            "score": 6.1,
+            "score": 7.0,
             "label": "Bollinger",
             "status": "NORMAL",
             "direction": "BUY",
             "metrics": {
-              "price_position_pct": 43.6,
-              "band_width_pct": 14.39
+              "price_position_pct": 33.3,
+              "band_width_pct": 14.58
             }
           },
           "pivots": {
@@ -351,48 +351,48 @@
             "status": "DANGER",
             "direction": "SELL",
             "metrics": {
-              "monthly_diff_pct": 7.72,
-              "daily_diff_pct": 0.95
+              "monthly_diff_pct": 5.77,
+              "daily_diff_pct": -0.54
             }
           },
           "rsi": {
-            "score": 6.3,
+            "score": 6.0,
             "label": "RSI",
             "status": "NORMAL",
-            "direction": "BUY",
-            "desc": "RSI nötr bölgede (51.46). Trend yönü belirsiz.",
+            "direction": "NEUTRAL",
+            "desc": "RSI nötr bölgede (47.83). Trend yönü belirsiz.",
             "metrics": {
-              "raw_rsi": 51.46,
+              "raw_rsi": 47.83,
               "divergence": "NONE"
             }
           },
           "ema": {
-            "score": 6.7,
+            "score": 5.2,
             "label": "EMA",
-            "status": "SUCCESS",
+            "status": "NORMAL",
             "direction": "BUY",
             "metrics": {
-              "is_aligned": true,
+              "is_aligned": false,
               "is_squeezed": false,
               "trend_phase": "MATURE_TREND",
-              "squeeze_pct": 11.12,
-              "ema20_diff_pct": 0.59,
-              "ema50_diff_pct": 1.9,
-              "ema100_diff_pct": 5.85,
-              "ema200_diff_pct": 13.25
+              "squeeze_pct": 11.1,
+              "ema20_diff_pct": -0.97,
+              "ema50_diff_pct": 0.21,
+              "ema100_diff_pct": 4.02,
+              "ema200_diff_pct": 11.25
             }
           },
           "volume": {
-            "score": 5.0,
+            "score": 8.5,
             "label": "Hacim Analizi",
-            "status": "NORMAL",
-            "direction": "NEUTRAL",
-            "desc": "Hacim ve fiyat dengeli seyrediyor. Kurumsal kararsızlık hakim.",
+            "status": "SUCCESS",
+            "direction": "BUY",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.07x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 0.92,
+              "volume_ratio_10_30": 1.07,
               "is_volume_burst": false,
               "price_trend_5d": "UP",
-              "volume_trend_5d": "STABLE"
+              "volume_trend_5d": "INCREASING"
             }
           },
           "fundamental": {
@@ -439,10 +439,10 @@
         "current_volume_lot": 33553748,
         "current_volume_tl": 677562017.0933508,
         "current_volume_tl_formatted": "677.56 M",
-        "volume_ratio": 0.97,
+        "volume_ratio": 1.0,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 44883590,
-        "avg_10_days_volume_lot": 34415191
+        "avg_30_days_volume_lot": 44817862,
+        "avg_10_days_volume_lot": 33568620
       },
       "fundamental": {
         "pe_ratio": 13.69,
@@ -529,9 +529,9 @@
             "label": "Hacim Analizi",
             "status": "SUCCESS",
             "direction": "BUY",
-            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (0.97x) destekleniyor, kurumsal toplama var.",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.00x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 0.97,
+              "volume_ratio_10_30": 1.0,
               "is_volume_burst": false,
               "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
@@ -727,13 +727,13 @@
         "current_volume_lot": 33258536,
         "current_volume_tl": 13017945299.33333,
         "current_volume_tl_formatted": "13.02 B",
-        "volume_ratio": 1.41,
+        "volume_ratio": 1.31,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 25860549,
-        "avg_10_days_volume_lot": 23561887
+        "avg_30_days_volume_lot": 25634454,
+        "avg_10_days_volume_lot": 25310563
       },
       "fundamental": {
-        "pe_ratio": 53.71,
+        "pe_ratio": 53.79,
         "pb_ratio": 6.22,
         "free_float": null,
         "market_cap": 1748760002560,
@@ -813,13 +813,13 @@
             }
           },
           "volume": {
-            "score": 8.8,
+            "score": 8.7,
             "label": "Hacim Analizi",
             "status": "SUCCESS",
             "direction": "BUY",
-            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.41x) destekleniyor, kurumsal toplama var.",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.31x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 1.41,
+              "volume_ratio_10_30": 1.31,
               "is_volume_burst": false,
               "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
@@ -834,7 +834,7 @@
               "is_growth_stock": false,
               "is_dividend_stock": false,
               "peg_ratio": 0.0,
-              "target_pe": 53.7,
+              "target_pe": 53.8,
               "pb_ratio": 6.2,
               "growth_pct": 0.0,
               "dividend_yield_pct": 0.0
@@ -871,10 +871,10 @@
         "current_volume_lot": 44583016,
         "current_volume_tl": 16335960112.66667,
         "current_volume_tl_formatted": "16.34 B",
-        "volume_ratio": 1.41,
+        "volume_ratio": 1.33,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 34935670,
-        "avg_10_days_volume_lot": 31717203
+        "avg_30_days_volume_lot": 35132178,
+        "avg_10_days_volume_lot": 33637790
       },
       "fundamental": {
         "pe_ratio": 43.09,
@@ -957,13 +957,13 @@
             }
           },
           "volume": {
-            "score": 8.8,
+            "score": 8.7,
             "label": "Hacim Analizi",
             "status": "SUCCESS",
             "direction": "BUY",
-            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.41x) destekleniyor, kurumsal toplama var.",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.33x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 1.41,
+              "volume_ratio_10_30": 1.33,
               "is_volume_burst": false,
               "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
@@ -1017,8 +1017,8 @@
         "current_volume_tl_formatted": "4.0 B",
         "volume_ratio": 1.03,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 9726417,
-        "avg_10_days_volume_lot": 10215027
+        "avg_30_days_volume_lot": 9696992,
+        "avg_10_days_volume_lot": 10168596
       },
       "fundamental": {
         "pe_ratio": 21.2,
@@ -1165,7 +1165,7 @@
         "avg_10_days_volume_lot": 940953
       },
       "fundamental": {
-        "pe_ratio": 167.3,
+        "pe_ratio": 166.67,
         "pb_ratio": 60.08,
         "free_float": 25.0,
         "market_cap": 733333356544,
@@ -1266,7 +1266,7 @@
               "is_growth_stock": false,
               "is_dividend_stock": false,
               "peg_ratio": 0.0,
-              "target_pe": 167.3,
+              "target_pe": 166.7,
               "pb_ratio": 60.1,
               "growth_pct": 0.0,
               "dividend_yield_pct": 0.0
@@ -1305,8 +1305,8 @@
         "current_volume_tl_formatted": "1.73 B",
         "volume_ratio": 0.8,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 99204909,
-        "avg_10_days_volume_lot": 108798868
+        "avg_30_days_volume_lot": 99134464,
+        "avg_10_days_volume_lot": 108303182
       },
       "fundamental": {
         "pe_ratio": 247.5,
@@ -1453,7 +1453,7 @@
         "avg_10_days_volume_lot": 10152501
       },
       "fundamental": {
-        "pe_ratio": 15.64,
+        "pe_ratio": 15.62,
         "pb_ratio": 64.58,
         "free_float": 34.28,
         "market_cap": 562237145088,
@@ -1879,10 +1879,10 @@
         "current_volume_lot": 28021323,
         "current_volume_tl": 3559642050.847618,
         "current_volume_tl_formatted": "3.56 B",
-        "volume_ratio": 0.91,
+        "volume_ratio": 0.89,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 29493420,
-        "avg_10_days_volume_lot": 30948694
+        "avg_30_days_volume_lot": 29412064,
+        "avg_10_days_volume_lot": 31488532
       },
       "fundamental": {
         "pe_ratio": 4.48,
@@ -1969,9 +1969,9 @@
             "label": "Hacim Analizi",
             "status": "SUCCESS",
             "direction": "BUY",
-            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (0.91x) destekleniyor, kurumsal toplama var.",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (0.89x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 0.91,
+              "volume_ratio_10_30": 0.89,
               "is_volume_burst": false,
               "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
@@ -2029,7 +2029,7 @@
         "avg_10_days_volume_lot": 2197088
       },
       "fundamental": {
-        "pe_ratio": 32.37,
+        "pe_ratio": 32.35,
         "pb_ratio": 6.05,
         "free_float": 20.63,
         "market_cap": 180360003584,
@@ -2311,13 +2311,13 @@
         "current_volume_lot": 13539636,
         "current_volume_tl": 2576141423.37323,
         "current_volume_tl_formatted": "2.58 B",
-        "volume_ratio": 0.67,
+        "volume_ratio": 0.68,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 22922931,
-        "avg_10_days_volume_lot": 20279613
+        "avg_30_days_volume_lot": 22746156,
+        "avg_10_days_volume_lot": 19891010
       },
       "fundamental": {
-        "pe_ratio": 19.63,
+        "pe_ratio": 19.6,
         "pb_ratio": 0.67,
         "free_float": 73.23,
         "market_cap": 478102421504,
@@ -2401,9 +2401,9 @@
             "label": "Hacim Analizi",
             "status": "SUCCESS",
             "direction": "BUY",
-            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (0.67x) destekleniyor, kurumsal toplama var.",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (0.68x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 0.67,
+              "volume_ratio_10_30": 0.68,
               "is_volume_burst": false,
               "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
@@ -2599,10 +2599,10 @@
         "current_volume_lot": 1582173,
         "current_volume_tl": 1061110692.0,
         "current_volume_tl_formatted": "1.06 B",
-        "volume_ratio": 0.76,
+        "volume_ratio": 0.78,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 2489625,
-        "avg_10_days_volume_lot": 2086285
+        "avg_30_days_volume_lot": 2473802,
+        "avg_10_days_volume_lot": 2025838
       },
       "fundamental": {
         "pe_ratio": 16.44,
@@ -2689,9 +2689,9 @@
             "label": "Hacim Analizi",
             "status": "SUCCESS",
             "direction": "BUY",
-            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (0.76x) destekleniyor, kurumsal toplama var.",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (0.78x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 0.76,
+              "volume_ratio_10_30": 0.78,
               "is_volume_burst": false,
               "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
@@ -2745,8 +2745,8 @@
         "current_volume_tl_formatted": "1.25 B",
         "volume_ratio": 1.09,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 111775745,
-        "avg_10_days_volume_lot": 49515136
+        "avg_30_days_volume_lot": 110086621,
+        "avg_10_days_volume_lot": 49336545
       },
       "fundamental": {
         "pe_ratio": 5.39,
@@ -3031,13 +3031,13 @@
         "current_volume_lot": 35597499,
         "current_volume_tl": 3253611372.388351,
         "current_volume_tl_formatted": "3.25 B",
-        "volume_ratio": 0.86,
+        "volume_ratio": 0.82,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 34950946,
-        "avg_10_days_volume_lot": 41568777
+        "avg_30_days_volume_lot": 34758303,
+        "avg_10_days_volume_lot": 43163646
       },
       "fundamental": {
-        "pe_ratio": 23.44,
+        "pe_ratio": 24.12,
         "pb_ratio": 0.49,
         "free_float": 65.5,
         "market_cap": 187552628736,
@@ -3121,16 +3121,16 @@
             "label": "Hacim Analizi",
             "status": "WARNING",
             "direction": "SELL",
-            "desc": "Kontrollü Satış Baskısı: Fiyat düşerken hacimde hafif bir hareketlenme var (0.86x).",
+            "desc": "Kontrollü Satış Baskısı: Fiyat düşerken hacimde hafif bir hareketlenme var (0.82x).",
             "metrics": {
-              "volume_ratio_10_30": 0.86,
+              "volume_ratio_10_30": 0.82,
               "is_volume_burst": false,
               "price_trend_5d": "DOWN",
               "volume_trend_5d": "INCREASING"
             }
           },
           "fundamental": {
-            "score": 4.2,
+            "score": 4.1,
             "label": "Fundamental",
             "status": "NORMAL",
             "direction": "SELL",
@@ -3138,7 +3138,7 @@
               "is_growth_stock": false,
               "is_dividend_stock": false,
               "peg_ratio": 0.0,
-              "target_pe": 23.4,
+              "target_pe": 24.1,
               "pb_ratio": 0.5,
               "growth_pct": 0.0,
               "dividend_yield_pct": 0.0
@@ -3315,13 +3315,13 @@
         "current_volume_lot": 51399139,
         "current_volume_tl": 2397598480.358008,
         "current_volume_tl_formatted": "2.4 B",
-        "volume_ratio": 0.94,
+        "volume_ratio": 0.91,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 62552037,
-        "avg_10_days_volume_lot": 54889880
+        "avg_30_days_volume_lot": 62689262,
+        "avg_10_days_volume_lot": 56306458
       },
       "fundamental": {
-        "pe_ratio": 12.25,
+        "pe_ratio": 12.49,
         "pb_ratio": 0.57,
         "free_float": 25.67,
         "market_cap": 138609639424,
@@ -3405,9 +3405,9 @@
             "label": "Hacim Analizi",
             "status": "SUCCESS",
             "direction": "BUY",
-            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (0.94x) destekleniyor, kurumsal toplama var.",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (0.91x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 0.94,
+              "volume_ratio_10_30": 0.91,
               "is_volume_burst": false,
               "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
@@ -3422,7 +3422,7 @@
               "is_growth_stock": false,
               "is_dividend_stock": false,
               "peg_ratio": 0.0,
-              "target_pe": 12.2,
+              "target_pe": 12.5,
               "pb_ratio": 0.6,
               "growth_pct": 0.0,
               "dividend_yield_pct": 0.0
@@ -3747,13 +3747,13 @@
         "current_volume_lot": 36533990,
         "current_volume_tl": 10902351515.83333,
         "current_volume_tl_formatted": "10.9 B",
-        "volume_ratio": 0.86,
+        "volume_ratio": 0.85,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 45076128,
-        "avg_10_days_volume_lot": 42475319
+        "avg_30_days_volume_lot": 44903429,
+        "avg_10_days_volume_lot": 42763742
       },
       "fundamental": {
-        "pe_ratio": 30.65,
+        "pe_ratio": 30.68,
         "pb_ratio": 18.79,
         "free_float": 51.16,
         "market_cap": 407568154624,
@@ -3837,9 +3837,9 @@
             "label": "Hacim Analizi",
             "status": "SUCCESS",
             "direction": "BUY",
-            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (0.86x) destekleniyor, kurumsal toplama var.",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (0.85x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 0.86,
+              "volume_ratio_10_30": 0.85,
               "is_volume_burst": false,
               "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
@@ -3854,7 +3854,7 @@
               "is_growth_stock": false,
               "is_dividend_stock": false,
               "peg_ratio": 0.0,
-              "target_pe": 30.6,
+              "target_pe": 30.7,
               "pb_ratio": 18.8,
               "growth_pct": 0.0,
               "dividend_yield_pct": 0.0
@@ -4037,8 +4037,8 @@
         "current_volume_tl_formatted": "6.76 B",
         "volume_ratio": 1.45,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 106016582,
-        "avg_10_days_volume_lot": 100817773
+        "avg_30_days_volume_lot": 107019764,
+        "avg_10_days_volume_lot": 100627556
       },
       "fundamental": {
         "pe_ratio": 29.62,
@@ -4185,7 +4185,7 @@
         "avg_10_days_volume_lot": 25302941
       },
       "fundamental": {
-        "pe_ratio": 8.24,
+        "pe_ratio": 8.23,
         "pb_ratio": 0.9,
         "free_float": null,
         "market_cap": 220150005760,
@@ -4323,13 +4323,13 @@
         "current_volume_lot": 33696650,
         "current_volume_tl": 8156274063.94399,
         "current_volume_tl_formatted": "8.16 B",
-        "volume_ratio": 1.62,
-        "is_volume_burst": true,
-        "avg_30_days_volume_lot": 35574925,
-        "avg_10_days_volume_lot": 20782216
+        "volume_ratio": 1.42,
+        "is_volume_burst": false,
+        "avg_30_days_volume_lot": 35470383,
+        "avg_10_days_volume_lot": 23707435
       },
       "fundamental": {
-        "pe_ratio": 13.84,
+        "pe_ratio": 13.85,
         "pb_ratio": 1.3,
         "free_float": 48.85,
         "market_cap": 458384670720,
@@ -4359,7 +4359,7 @@
         "lower": 228.02
       },
       "signal_matrix": {
-        "total_score": 8.0,
+        "total_score": 7.8,
         "matrix_rows": {
           "bollinger": {
             "score": 7.8,
@@ -4409,14 +4409,14 @@
             }
           },
           "volume": {
-            "score": 9.8,
+            "score": 8.8,
             "label": "Hacim Analizi",
             "status": "SUCCESS",
             "direction": "BUY",
-            "desc": "🔥 BALİNA ALIMI: Olağanüstü hacim patlaması ile hissede agresif para girişi var!",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.42x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 1.62,
-              "is_volume_burst": true,
+              "volume_ratio_10_30": 1.42,
+              "is_volume_burst": false,
               "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
             }
@@ -4613,8 +4613,8 @@
         "current_volume_tl_formatted": "6.62 B",
         "volume_ratio": 0.92,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 167025353,
-        "avg_10_days_volume_lot": 206130406
+        "avg_30_days_volume_lot": 167122287,
+        "avg_10_days_volume_lot": 206411345
       },
       "fundamental": {
         "pe_ratio": 6.15,
