@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T00:22:22.631765Z",
+  "updated_at": "2026-06-16T01:43:21.980928Z",
   "indexes": [
     {
       "id": 4,
@@ -9,18 +9,18 @@
         "no": 4,
         "amount": 10000
       },
-      "close": 86.71,
-      "open": 89.23,
-      "high": 89.87,
-      "low": 85.8,
+      "close": 83.39,
+      "open": 83.55,
+      "high": 83.8,
+      "low": 83.27,
       "volume_analysis": {
-        "current_volume_lot": 33223,
-        "current_volume_tl": 2905683.634073894,
-        "current_volume_tl_formatted": "2.91 M",
-        "volume_ratio": 0.81,
+        "current_volume_lot": 457,
+        "current_volume_tl": 38153.40652720134,
+        "current_volume_tl_formatted": "38153.41",
+        "volume_ratio": 0.01,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 45900,
-        "avg_10_days_volume_lot": 40906
+        "avg_30_days_volume_lot": 45608,
+        "avg_10_days_volume_lot": 42281
       },
       "fundamental": {
         "pe_ratio": null,
@@ -40,34 +40,34 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 35.0,
+      "rsi": 31.97,
       "pivots": {
-        "daily": 87.46,
+        "daily": 83.49,
         "monthly": 99.59,
-        "monthlyP": -12.93
+        "monthlyP": -16.26
       },
       "ema": {
-        "EMA_20": 96.06,
-        "EMA_50": 97.82,
-        "EMA_100": 92.52,
+        "EMA_20": 94.91,
+        "EMA_50": 97.28,
+        "EMA_100": 92.35,
         "EMA_200": 84.41
       },
       "bb": {
-        "upper": 111.85,
-        "mid": 97.81,
-        "lower": 83.78
+        "upper": 110.81,
+        "mid": 96.55,
+        "lower": 82.29
       },
       "signal_matrix": {
-        "total_score": 7.5,
+        "total_score": 8.7,
         "matrix_rows": {
           "bollinger": {
-            "score": 9.1,
+            "score": 9.7,
             "label": "Bollinger",
             "status": "SUCCESS",
             "direction": "BUY",
             "metrics": {
-              "price_position_pct": 10.5,
-              "band_width_pct": 28.7
+              "price_position_pct": 3.9,
+              "band_width_pct": 29.54
             }
           },
           "pivots": {
@@ -76,45 +76,45 @@
             "status": "SUCCESS",
             "direction": "BUY",
             "metrics": {
-              "monthly_diff_pct": -12.93,
-              "daily_diff_pct": -0.86
+              "monthly_diff_pct": -16.26,
+              "daily_diff_pct": -0.12
             }
           },
           "rsi": {
-            "score": 5.9,
+            "score": 6.1,
             "label": "RSI",
             "status": "NORMAL",
             "direction": "BUY",
-            "desc": "RSI zayıf bölgede (35.00). Net bir dönüş formasyonu henüz yok.",
+            "desc": "RSI zayıf bölgede (31.97). Net bir dönüş formasyonu henüz yok.",
             "metrics": {
-              "raw_rsi": 35.0,
+              "raw_rsi": 31.97,
               "divergence": "NONE"
             }
           },
           "ema": {
-            "score": 4.9,
+            "score": 8.9,
             "label": "EMA",
             "status": "NORMAL",
-            "direction": "BUY",
+            "direction": "SELL",
             "metrics": {
               "is_aligned": false,
               "is_squeezed": false,
               "trend_phase": "MATURE_TREND",
-              "squeeze_pct": 15.46,
-              "ema20_diff_pct": -9.73,
-              "ema50_diff_pct": -11.36,
-              "ema100_diff_pct": -6.28,
-              "ema200_diff_pct": 2.72
+              "squeeze_pct": 15.43,
+              "ema20_diff_pct": -12.13,
+              "ema50_diff_pct": -14.28,
+              "ema100_diff_pct": -9.7,
+              "ema200_diff_pct": -1.2
             }
           },
           "volume": {
-            "score": 7.6,
+            "score": 8.8,
             "label": "Hacim Analizi",
             "status": "SUCCESS",
             "direction": "BUY",
-            "desc": "Satıcı Tükenişi: Fiyat düşerken hacim ciddi şekilde kurudu (0.81x). Satıcılar tükendi, dönüş yakın!",
+            "desc": "Satıcı Tükenişi: Fiyat düşerken hacim ciddi şekilde kurudu (0.01x). Satıcılar tükendi, dönüş yakın!",
             "metrics": {
-              "volume_ratio_10_30": 0.81,
+              "volume_ratio_10_30": 0.01,
               "is_volume_burst": false,
               "price_trend_5d": "DOWN",
               "volume_trend_5d": "DECREASING"
@@ -154,18 +154,18 @@
         "no": 4,
         "amount": 10000
       },
-      "close": 4239.9,
-      "open": 4234.9,
-      "high": 4267.8,
-      "low": 4191.1,
+      "close": 4337.4,
+      "open": 4331.3,
+      "high": 4346.8,
+      "low": 4326.7,
       "volume_analysis": {
-        "current_volume_lot": 132801,
-        "current_volume_tl": 562137770.9541016,
-        "current_volume_tl_formatted": "562.14 M",
-        "volume_ratio": 99.7,
+        "current_volume_lot": 9260,
+        "current_volume_tl": 40160311.03190104,
+        "current_volume_tl_formatted": "40.16 M",
+        "volume_ratio": 6.26,
         "is_volume_burst": true,
-        "avg_30_days_volume_lot": 3534,
-        "avg_10_days_volume_lot": 1332
+        "avg_30_days_volume_lot": 3579,
+        "avg_10_days_volume_lot": 1479
       },
       "fundamental": {
         "pe_ratio": null,
@@ -181,63 +181,63 @@
         "dist_from_low_pct": null
       },
       "divergence": {
-        "status": "RSI",
-        "rsi_divergence": true,
+        "status": "NONE",
+        "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 37.3,
+      "rsi": 44.23,
       "pivots": {
-        "daily": 4232.93,
+        "daily": 4336.97,
         "monthly": 4563.07,
-        "monthlyP": -7.08
+        "monthlyP": -4.95
       },
       "ema": {
-        "EMA_20": 4395.57,
-        "EMA_50": 4540.25,
-        "EMA_100": 4568.38,
-        "EMA_200": 4356.61
+        "EMA_20": 4387.88,
+        "EMA_50": 4531.36,
+        "EMA_100": 4563.32,
+        "EMA_200": 4356.17
       },
       "bb": {
-        "upper": 4706.87,
-        "mid": 4423.13,
-        "lower": 4139.38
+        "upper": 4693.49,
+        "mid": 4410.96,
+        "lower": 4128.44
       },
       "signal_matrix": {
-        "total_score": 6.5,
+        "total_score": 8.4,
         "matrix_rows": {
           "bollinger": {
-            "score": 8.4,
+            "score": 6.7,
             "label": "Bollinger",
             "status": "NORMAL",
             "direction": "BUY",
             "metrics": {
-              "price_position_pct": 17.7,
-              "band_width_pct": 12.83
+              "price_position_pct": 37.0,
+              "band_width_pct": 12.81
             }
           },
           "pivots": {
             "score": 10.0,
             "label": "Pivot",
-            "status": "SUCCESS",
+            "status": "NORMAL",
             "direction": "BUY",
             "metrics": {
-              "monthly_diff_pct": -7.08,
-              "daily_diff_pct": 0.16
+              "monthly_diff_pct": -4.95,
+              "daily_diff_pct": 0.01
             }
           },
           "rsi": {
-            "score": 5.7,
+            "score": 5.8,
             "label": "RSI",
             "status": "NORMAL",
-            "direction": "BUY",
-            "desc": "RSI zayıf bölgede (37.30). Net bir dönüş formasyonu henüz yok.",
+            "direction": "NEUTRAL",
+            "desc": "RSI nötr bölgede (44.23). Trend yönü belirsiz.",
             "metrics": {
-              "raw_rsi": 37.3,
+              "raw_rsi": 44.23,
               "divergence": "NONE"
             }
           },
           "ema": {
-            "score": 7.6,
+            "score": 9.6,
             "label": "EMA",
             "status": "NORMAL",
             "direction": "SELL",
@@ -245,23 +245,23 @@
               "is_aligned": false,
               "is_squeezed": false,
               "trend_phase": "YOUNG_TREND",
-              "squeeze_pct": 4.99,
-              "ema20_diff_pct": -3.54,
-              "ema50_diff_pct": -6.62,
-              "ema100_diff_pct": -7.19,
-              "ema200_diff_pct": -2.68
+              "squeeze_pct": 4.78,
+              "ema20_diff_pct": -1.15,
+              "ema50_diff_pct": -4.28,
+              "ema100_diff_pct": -4.95,
+              "ema200_diff_pct": -0.43
             }
           },
           "volume": {
-            "score": 1.0,
+            "score": 10.0,
             "label": "Hacim Analizi",
-            "status": "DANGER",
-            "direction": "SELL",
-            "desc": "🚨 PANİK SATIŞI / KAPİTÜLASYON: Fiyat düşerken hacim olağanüstü patlamış (99.70x). Tahtadan büyük para çıkışı var!",
+            "status": "SUCCESS",
+            "direction": "BUY",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (6.26x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 99.7,
+              "volume_ratio_10_30": 6.26,
               "is_volume_burst": true,
-              "price_trend_5d": "DOWN",
+              "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
             }
           },
@@ -299,18 +299,18 @@
         "no": 0,
         "amount": 0
       },
-      "close": 16224.9,
-      "open": 16216.7,
-      "high": 16447.8,
-      "low": 15862.8,
+      "close": 18157.8,
+      "open": 18377.2,
+      "high": 18377.2,
+      "low": 18005.5,
       "volume_analysis": {
-        "current_volume_lot": 1055000,
-        "current_volume_tl": 17068317843.42448,
-        "current_volume_tl_formatted": "17.07 B",
-        "volume_ratio": 1.04,
+        "current_volume_lot": 1289900,
+        "current_volume_tl": 23450596983.33334,
+        "current_volume_tl_formatted": "23.45 B",
+        "volume_ratio": 1.13,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 1042367,
-        "avg_10_days_volume_lot": 1010670
+        "avg_30_days_volume_lot": 1063586,
+        "avg_10_days_volume_lot": 1137400
       },
       "fundamental": {
         "pe_ratio": null,
@@ -326,88 +326,88 @@
         "dist_from_low_pct": null
       },
       "divergence": {
-        "status": "VOLUME",
+        "status": "NONE",
         "rsi_divergence": false,
-        "volume_divergence": true
+        "volume_divergence": false
       },
-      "rsi": 48.2,
+      "rsi": 64.29,
       "pivots": {
-        "daily": 16178.5,
+        "daily": 18180.17,
         "monthly": 15954.53,
-        "monthlyP": 1.69
+        "monthlyP": 13.81
       },
       "ema": {
-        "EMA_20": 16265.14,
-        "EMA_50": 16695.46,
-        "EMA_100": 16888.53,
-        "EMA_200": 16513.92
+        "EMA_20": 16532.01,
+        "EMA_50": 16774.47,
+        "EMA_100": 16921.07,
+        "EMA_200": 16537.73
       },
       "bb": {
-        "upper": 17540.44,
-        "mid": 16227.51,
-        "lower": 14914.58
+        "upper": 17697.91,
+        "mid": 16257.02,
+        "lower": 14816.13
       },
       "signal_matrix": {
-        "total_score": 6.1,
+        "total_score": 3.8,
         "matrix_rows": {
           "bollinger": {
-            "score": 5.5,
+            "score": 1.0,
             "label": "Bollinger",
-            "status": "NORMAL",
-            "direction": "BUY",
+            "status": "DANGER",
+            "direction": "SELL",
             "metrics": {
-              "price_position_pct": 49.9,
-              "band_width_pct": 16.18
+              "price_position_pct": 116.0,
+              "band_width_pct": 17.73
             }
           },
           "pivots": {
-            "score": 6.9,
+            "score": 1.0,
             "label": "Pivot",
-            "status": "NORMAL",
-            "direction": "BUY",
+            "status": "DANGER",
+            "direction": "SELL",
             "metrics": {
-              "monthly_diff_pct": 1.69,
-              "daily_diff_pct": 0.29
+              "monthly_diff_pct": 13.81,
+              "daily_diff_pct": -0.12
             }
           },
           "rsi": {
-            "score": 6.0,
+            "score": 7.4,
             "label": "RSI",
             "status": "NORMAL",
-            "direction": "NEUTRAL",
-            "desc": "RSI nötr bölgede (48.20). Trend yönü belirsiz.",
+            "direction": "BUY",
+            "desc": "RSI güçlü momentum bölgesinde (64.29). Trend yukarı yönlü korunuyor.",
             "metrics": {
-              "raw_rsi": 48.2,
+              "raw_rsi": 64.29,
               "divergence": "NONE"
             }
           },
           "ema": {
-            "score": 7.3,
+            "score": 1.0,
             "label": "EMA",
-            "status": "NORMAL",
-            "direction": "SELL",
+            "status": "WARNING",
+            "direction": "BUY",
             "metrics": {
               "is_aligned": false,
-              "is_squeezed": false,
-              "trend_phase": "YOUNG_TREND",
-              "squeeze_pct": 3.84,
-              "ema20_diff_pct": -0.25,
-              "ema50_diff_pct": -2.82,
-              "ema100_diff_pct": -3.93,
-              "ema200_diff_pct": -1.75
+              "is_squeezed": true,
+              "trend_phase": "COMPRESSION",
+              "squeeze_pct": 2.14,
+              "ema20_diff_pct": 9.83,
+              "ema50_diff_pct": 8.25,
+              "ema100_diff_pct": 7.31,
+              "ema200_diff_pct": 9.8
             }
           },
           "volume": {
-            "score": 5.0,
+            "score": 8.5,
             "label": "Hacim Analizi",
-            "status": "NORMAL",
-            "direction": "NEUTRAL",
-            "desc": "Hacim ve fiyat dengeli seyrediyor. Kurumsal kararsızlık hakim.",
+            "status": "SUCCESS",
+            "direction": "BUY",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.13x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 1.04,
+              "volume_ratio_10_30": 1.13,
               "is_volume_burst": false,
               "price_trend_5d": "UP",
-              "volume_trend_5d": "STABLE"
+              "volume_trend_5d": "INCREASING"
             }
           },
           "fundamental": {
@@ -444,18 +444,18 @@
         "no": 0,
         "amount": 0
       },
-      "close": 15698.9,
-      "open": 15703.9,
-      "high": 15846.0,
-      "low": 15463.8,
+      "close": 16587.2,
+      "open": 16458.3,
+      "high": 16672.3,
+      "low": 16304.5,
       "volume_analysis": {
-        "current_volume_lot": 8347400,
-        "current_volume_tl": 130800141336.7839,
-        "current_volume_tl_formatted": "130.8 B",
-        "volume_ratio": 1.79,
-        "is_volume_burst": true,
-        "avg_30_days_volume_lot": 5856498,
-        "avg_10_days_volume_lot": 4676260
+        "current_volume_lot": 4942600,
+        "current_volume_tl": 81658342133.33333,
+        "current_volume_tl_formatted": "81.66 B",
+        "volume_ratio": 0.97,
+        "is_volume_burst": false,
+        "avg_30_days_volume_lot": 5833175,
+        "avg_10_days_volume_lot": 5072320
       },
       "fundamental": {
         "pe_ratio": null,
@@ -475,82 +475,82 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 46.0,
+      "rsi": 59.51,
       "pivots": {
-        "daily": 15669.57,
+        "daily": 16521.33,
         "monthly": 15905.27,
-        "monthlyP": -1.3
+        "monthlyP": 4.29
       },
       "ema": {
-        "EMA_20": 15882.34,
-        "EMA_50": 15816.95,
-        "EMA_100": 15221.17,
-        "EMA_200": 14147.29
+        "EMA_20": 15954.39,
+        "EMA_50": 15851.77,
+        "EMA_100": 15262.17,
+        "EMA_200": 14189.22
       },
       "bb": {
-        "upper": 17010.63,
-        "mid": 15961.6,
-        "lower": 14912.57
+        "upper": 16699.77,
+        "mid": 15883.67,
+        "lower": 15067.58
       },
       "signal_matrix": {
-        "total_score": 6.7,
+        "total_score": 4.3,
         "matrix_rows": {
           "bollinger": {
-            "score": 6.6,
+            "score": 1.6,
             "label": "Bollinger",
-            "status": "NORMAL",
-            "direction": "BUY",
+            "status": "DANGER",
+            "direction": "SELL",
             "metrics": {
-              "price_position_pct": 37.5,
-              "band_width_pct": 13.14
+              "price_position_pct": 93.1,
+              "band_width_pct": 10.28
             }
           },
           "pivots": {
-            "score": 6.7,
+            "score": 2.3,
             "label": "Pivot",
             "status": "NORMAL",
-            "direction": "BUY",
+            "direction": "SELL",
             "metrics": {
-              "monthly_diff_pct": -1.3,
-              "daily_diff_pct": 0.19
+              "monthly_diff_pct": 4.29,
+              "daily_diff_pct": 0.4
             }
           },
           "rsi": {
-            "score": 5.9,
+            "score": 7.0,
             "label": "RSI",
             "status": "NORMAL",
-            "direction": "NEUTRAL",
-            "desc": "RSI nötr bölgede (46.00). Trend yönü belirsiz.",
+            "direction": "BUY",
+            "desc": "RSI güçlü momentum bölgesinde (59.51). Trend yukarı yönlü korunuyor.",
             "metrics": {
-              "raw_rsi": 46.0,
+              "raw_rsi": 59.51,
               "divergence": "NONE"
             }
           },
           "ema": {
-            "score": 4.9,
+            "score": 2.3,
             "label": "EMA",
-            "status": "NORMAL",
+            "status": "SUCCESS",
             "direction": "BUY",
             "metrics": {
-              "is_aligned": false,
+              "is_aligned": true,
               "is_squeezed": false,
               "trend_phase": "MATURE_TREND",
-              "squeeze_pct": 11.05,
-              "ema20_diff_pct": -1.15,
-              "ema50_diff_pct": -0.75,
-              "ema100_diff_pct": 3.14,
-              "ema200_diff_pct": 10.97
+              "squeeze_pct": 10.64,
+              "ema20_diff_pct": 3.97,
+              "ema50_diff_pct": 4.64,
+              "ema100_diff_pct": 8.68,
+              "ema200_diff_pct": 16.9
             }
           },
           "volume": {
-            "score": 9.2,
+            "score": 8.5,
             "label": "Hacim Analizi",
             "status": "SUCCESS",
             "direction": "BUY",
-            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.79x) destekleniyor, kurumsal toplama var.",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (0.97x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 1.79,
-              "is_volume_burst": true,
+              "volume_ratio_10_30": 0.97,
+              "is_volume_burst": false,
               "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
             }
@@ -637,18 +637,18 @@
         "no": 0,
         "amount": 0
       },
-      "close": 13743.5,
-      "open": 13785.9,
-      "high": 13889.6,
-      "low": 13567.4,
+      "close": 13938.5,
+      "open": 13912.1,
+      "high": 14125.8,
+      "low": 13801.3,
       "volume_analysis": {
-        "current_volume_lot": 12496400000,
-        "current_volume_tl": 171619309400000.0,
-        "current_volume_tl_formatted": "171619.31 B",
-        "volume_ratio": 1.45,
+        "current_volume_lot": 9534100000,
+        "current_volume_tl": 133050271078580.7,
+        "current_volume_tl_formatted": "133050.27 B",
+        "volume_ratio": 1.03,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 10025741379,
-        "avg_10_days_volume_lot": 8615060000
+        "avg_30_days_volume_lot": 10011429310,
+        "avg_10_days_volume_lot": 9225280000
       },
       "fundamental": {
         "pe_ratio": null,
@@ -664,63 +664,63 @@
         "dist_from_low_pct": null
       },
       "divergence": {
-        "status": "VOLUME",
+        "status": "NONE",
         "rsi_divergence": false,
-        "volume_divergence": true
+        "volume_divergence": false
       },
-      "rsi": 45.0,
+      "rsi": 49.15,
       "pivots": {
-        "daily": 13733.5,
+        "daily": 13955.2,
         "monthly": 13944.67,
-        "monthlyP": -1.44
+        "monthlyP": -0.04
       },
       "ema": {
-        "EMA_20": 13953.13,
-        "EMA_50": 13902.17,
-        "EMA_100": 13465.27,
-        "EMA_200": 12624.25
+        "EMA_20": 13951.74,
+        "EMA_50": 13903.59,
+        "EMA_100": 13474.64,
+        "EMA_200": 12637.33
       },
       "bb": {
-        "upper": 14936.59,
-        "mid": 14030.93,
-        "lower": 13125.26
+        "upper": 14722.52,
+        "mid": 13971.18,
+        "lower": 13219.83
       },
       "signal_matrix": {
-        "total_score": 4.8,
+        "total_score": 5.9,
         "matrix_rows": {
           "bollinger": {
-            "score": 6.9,
+            "score": 5.7,
             "label": "Bollinger",
             "status": "NORMAL",
             "direction": "BUY",
             "metrics": {
-              "price_position_pct": 34.1,
-              "band_width_pct": 12.91
+              "price_position_pct": 47.8,
+              "band_width_pct": 10.76
             }
           },
           "pivots": {
-            "score": 6.8,
+            "score": 5.1,
             "label": "Pivot",
             "status": "NORMAL",
-            "direction": "BUY",
+            "direction": "SELL",
             "metrics": {
-              "monthly_diff_pct": -1.44,
-              "daily_diff_pct": 0.07
+              "monthly_diff_pct": -0.04,
+              "daily_diff_pct": -0.12
             }
           },
           "rsi": {
-            "score": 5.8,
+            "score": 6.1,
             "label": "RSI",
             "status": "NORMAL",
             "direction": "NEUTRAL",
-            "desc": "RSI nötr bölgede (45.00). Trend yönü belirsiz.",
+            "desc": "RSI nötr bölgede (49.15). Trend yönü belirsiz.",
             "metrics": {
-              "raw_rsi": 45.0,
+              "raw_rsi": 49.15,
               "divergence": "NONE"
             }
           },
           "ema": {
-            "score": 2.8,
+            "score": 3.9,
             "label": "EMA",
             "status": "NORMAL",
             "direction": "BUY",
@@ -728,23 +728,23 @@
               "is_aligned": false,
               "is_squeezed": false,
               "trend_phase": "YOUNG_TREND",
-              "squeeze_pct": 9.67,
-              "ema20_diff_pct": -1.5,
-              "ema50_diff_pct": -1.14,
-              "ema100_diff_pct": 2.07,
-              "ema200_diff_pct": 8.87
+              "squeeze_pct": 9.43,
+              "ema20_diff_pct": -0.09,
+              "ema50_diff_pct": 0.25,
+              "ema100_diff_pct": 3.44,
+              "ema200_diff_pct": 10.3
             }
           },
           "volume": {
-            "score": 1.8,
+            "score": 8.5,
             "label": "Hacim Analizi",
-            "status": "DANGER",
-            "direction": "SELL",
-            "desc": "Sert Satış Baskısı: Belirgin kurumsal satış hacmi (1.45x) fiyatı eziyor.",
+            "status": "SUCCESS",
+            "direction": "BUY",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.03x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 1.45,
+              "volume_ratio_10_30": 1.03,
               "is_volume_burst": false,
-              "price_trend_5d": "DOWN",
+              "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
             }
           },
@@ -789,20 +789,20 @@
       "high": 0.0,
       "low": 0.0,
       "volume_analysis": {
-        "current_volume_lot": 246723163,
+        "current_volume_lot": 174534688,
         "current_volume_tl": 0.0,
         "current_volume_tl_formatted": "0.0",
-        "volume_ratio": 1.52,
-        "is_volume_burst": true,
-        "avg_30_days_volume_lot": 128565609,
-        "avg_10_days_volume_lot": 162767592
+        "volume_ratio": 1.02,
+        "is_volume_burst": false,
+        "avg_30_days_volume_lot": 130698394,
+        "avg_10_days_volume_lot": 171263149
       },
       "fundamental": {
-        "pe_ratio": 6.02,
-        "pb_ratio": 1.25,
+        "pe_ratio": 6.37,
+        "pb_ratio": 1.32,
         "free_float": 58.62,
-        "market_cap": 377519996928,
-        "market_cap_formatted": "377.52 B"
+        "market_cap": 399099985920,
+        "market_cap_formatted": "399.1 B"
       },
       "technical_extremes": {
         "fifty_two_week_high": null,
@@ -815,17 +815,17 @@
         "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 46.94,
+      "rsi": 59.76,
       "pivots": {
         "daily": 0.0,
         "monthly": 67.03,
         "monthlyP": 0.0
       },
       "ema": {
-        "EMA_20": 67.08,
-        "EMA_50": 70.0,
-        "EMA_100": 71.17,
-        "EMA_200": 69.27
+        "EMA_20": 67.6,
+        "EMA_50": 70.1,
+        "EMA_100": 71.2,
+        "EMA_200": 69.31
       },
       "bb": {
         "upper": 0.0,
@@ -833,7 +833,7 @@
         "lower": 0.0
       },
       "signal_matrix": {
-        "total_score": 4.6,
+        "total_score": 6.1,
         "matrix_rows": {
           "bollinger": {
             "score": 5.0,
@@ -856,13 +856,13 @@
             }
           },
           "rsi": {
-            "score": 6.0,
+            "score": 7.0,
             "label": "RSI",
             "status": "NORMAL",
-            "direction": "NEUTRAL",
-            "desc": "RSI nötr bölgede (46.94). Trend yönü belirsiz.",
+            "direction": "BUY",
+            "desc": "RSI güçlü momentum bölgesinde (59.76). Trend yukarı yönlü korunuyor.",
             "metrics": {
-              "raw_rsi": 46.94,
+              "raw_rsi": 59.76,
               "divergence": "NONE"
             }
           },
@@ -883,20 +883,20 @@
             }
           },
           "volume": {
-            "score": 1.8,
+            "score": 8.5,
             "label": "Hacim Analizi",
-            "status": "DANGER",
-            "direction": "SELL",
-            "desc": "Sert Satış Baskısı: Belirgin kurumsal satış hacmi (1.52x) fiyatı eziyor.",
+            "status": "SUCCESS",
+            "direction": "BUY",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.02x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 1.52,
-              "is_volume_burst": true,
-              "price_trend_5d": "DOWN",
+              "volume_ratio_10_30": 1.02,
+              "is_volume_burst": false,
+              "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
             }
           },
           "fundamental": {
-            "score": 5.8,
+            "score": 5.7,
             "label": "Fundamental",
             "status": "NORMAL",
             "direction": "BUY",
@@ -904,8 +904,8 @@
               "is_growth_stock": false,
               "is_dividend_stock": false,
               "peg_ratio": 0.0,
-              "target_pe": 6.0,
-              "pb_ratio": 1.2,
+              "target_pe": 6.4,
+              "pb_ratio": 1.3,
               "growth_pct": 0.0,
               "dividend_yield_pct": 0.0
             }
@@ -938,20 +938,20 @@
       "high": 0.0,
       "low": 0.0,
       "volume_analysis": {
-        "current_volume_lot": 26510524,
+        "current_volume_lot": 30445838,
         "current_volume_tl": 0.0,
         "current_volume_tl_formatted": "0.0",
-        "volume_ratio": 0.89,
+        "volume_ratio": 1.04,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 25415553,
-        "avg_10_days_volume_lot": 29623171
+        "avg_30_days_volume_lot": 25485938,
+        "avg_10_days_volume_lot": 29311906
       },
       "fundamental": {
-        "pe_ratio": 52.0,
-        "pb_ratio": 6.02,
+        "pe_ratio": 52.7,
+        "pb_ratio": 6.1,
         "free_float": null,
-        "market_cap": 1692899999744,
-        "market_cap_formatted": "1692.9 B"
+        "market_cap": 1713419976704,
+        "market_cap_formatted": "1713.42 B"
       },
       "technical_extremes": {
         "fifty_two_week_high": null,
@@ -964,17 +964,17 @@
         "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 46.91,
+      "rsi": 44.66,
       "pivots": {
         "daily": 0.0,
         "monthly": 400.25,
         "monthlyP": 0.0
       },
       "ema": {
-        "EMA_20": 383.57,
-        "EMA_50": 380.34,
-        "EMA_100": 350.83,
-        "EMA_200": 296.91
+        "EMA_20": 382.4,
+        "EMA_50": 379.98,
+        "EMA_100": 351.24,
+        "EMA_200": 297.64
       },
       "bb": {
         "upper": 0.0,
@@ -1005,14 +1005,14 @@
             }
           },
           "rsi": {
-            "score": 6.0,
+            "score": 5.8,
             "label": "RSI",
             "status": "NORMAL",
             "direction": "NEUTRAL",
-            "desc": "RSI nötr bölgede (46.91). Trend yönü belirsiz.",
+            "desc": "RSI nötr bölgede (44.66). Trend yönü belirsiz.",
             "metrics": {
-              "raw_rsi": 46.91,
-              "divergence": "NONE"
+              "raw_rsi": 44.66,
+              "divergence": "BULLISH"
             }
           },
           "ema": {
@@ -1036,9 +1036,9 @@
             "label": "Hacim Analizi",
             "status": "SUCCESS",
             "direction": "BUY",
-            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (0.89x) destekleniyor, kurumsal toplama var.",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.04x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 0.89,
+              "volume_ratio_10_30": 1.04,
               "is_volume_burst": false,
               "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
@@ -1053,8 +1053,8 @@
               "is_growth_stock": false,
               "is_dividend_stock": false,
               "peg_ratio": 0.0,
-              "target_pe": 52.0,
-              "pb_ratio": 6.0,
+              "target_pe": 52.7,
+              "pb_ratio": 6.1,
               "growth_pct": 0.0,
               "dividend_yield_pct": 0.0
             }
@@ -1082,25 +1082,25 @@
         "no": 2,
         "amount": 100000
       },
-      "close": 0.0,
-      "open": 0.0,
-      "high": 0.0,
-      "low": 0.0,
+      "close": 287.0,
+      "open": 270.0,
+      "high": 292.0,
+      "low": 262.5,
       "volume_analysis": {
-        "current_volume_lot": 41034438,
-        "current_volume_tl": 0.0,
-        "current_volume_tl_formatted": "0.0",
-        "volume_ratio": 0.95,
-        "is_volume_burst": false,
-        "avg_30_days_volume_lot": 37025081,
-        "avg_10_days_volume_lot": 43198842
+        "current_volume_lot": 78040101,
+        "current_volume_tl": 21890248330.5,
+        "current_volume_tl_formatted": "21.89 B",
+        "volume_ratio": 1.82,
+        "is_volume_burst": true,
+        "avg_30_days_volume_lot": 37391265,
+        "avg_10_days_volume_lot": 42982402
       },
       "fundamental": {
-        "pe_ratio": 31.91,
-        "pb_ratio": 6.9,
+        "pe_ratio": 34.54,
+        "pb_ratio": 7.46,
         "free_float": 19.73,
-        "market_cap": 264968994816,
-        "market_cap_formatted": "264.97 B"
+        "market_cap": 286426005504,
+        "market_cap_formatted": "286.43 B"
       },
       "technical_extremes": {
         "fifty_two_week_high": null,
@@ -1113,44 +1113,44 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 46.63,
+      "rsi": 45.98,
       "pivots": {
-        "daily": 0.0,
+        "daily": 280.5,
         "monthly": 318.25,
-        "monthlyP": 0.0
+        "monthlyP": -9.82
       },
       "ema": {
-        "EMA_20": 311.59,
-        "EMA_50": 281.46,
-        "EMA_100": 238.56,
-        "EMA_200": 191.87
+        "EMA_20": 305.28,
+        "EMA_50": 281.08,
+        "EMA_100": 240.05,
+        "EMA_200": 193.54
       },
       "bb": {
-        "upper": 0.0,
-        "mid": 0.0,
-        "lower": 0.0
+        "upper": 365.61,
+        "mid": 317.02,
+        "lower": 268.44
       },
       "signal_matrix": {
-        "total_score": 4.7,
+        "total_score": 6.1,
         "matrix_rows": {
           "bollinger": {
-            "score": 5.0,
+            "score": 8.3,
             "label": "Bollinger",
             "status": "NORMAL",
-            "direction": "NEUTRAL",
+            "direction": "BUY",
             "metrics": {
-              "price_position_pct": 50.0,
-              "band_width_pct": 0.0
+              "price_position_pct": 19.1,
+              "band_width_pct": 30.65
             }
           },
           "pivots": {
-            "score": 5.0,
+            "score": 10.0,
             "label": "Pivot",
-            "status": "NORMAL",
-            "direction": "NEUTRAL",
+            "status": "SUCCESS",
+            "direction": "BUY",
             "metrics": {
-              "monthly_diff_pct": 0.0,
-              "daily_diff_pct": 0.0
+              "monthly_diff_pct": -9.82,
+              "daily_diff_pct": 2.32
             }
           },
           "rsi": {
@@ -1158,43 +1158,43 @@
             "label": "RSI",
             "status": "NORMAL",
             "direction": "NEUTRAL",
-            "desc": "RSI nötr bölgede (46.63). Trend yönü belirsiz.",
+            "desc": "RSI nötr bölgede (45.98). Trend yönü belirsiz.",
             "metrics": {
-              "raw_rsi": 46.63,
+              "raw_rsi": 45.98,
               "divergence": "NONE"
             }
           },
           "ema": {
-            "score": 5.0,
+            "score": 4.3,
             "label": "EMA",
             "status": "NORMAL",
-            "direction": "NEUTRAL",
+            "direction": "BUY",
             "metrics": {
               "is_aligned": false,
               "is_squeezed": false,
-              "trend_phase": "UNKNOWN",
-              "squeeze_pct": 0.0,
-              "ema20_diff_pct": 0.0,
-              "ema50_diff_pct": 0.0,
-              "ema100_diff_pct": 0.0,
-              "ema200_diff_pct": 0.0
+              "trend_phase": "EXHAUSTED",
+              "squeeze_pct": 38.93,
+              "ema20_diff_pct": -5.99,
+              "ema50_diff_pct": 2.11,
+              "ema100_diff_pct": 19.56,
+              "ema200_diff_pct": 48.29
             }
           },
           "volume": {
-            "score": 2.8,
+            "score": 1.8,
             "label": "Hacim Analizi",
-            "status": "WARNING",
+            "status": "DANGER",
             "direction": "SELL",
-            "desc": "Kontrollü Satış Baskısı: Fiyat düşerken hacimde hafif bir hareketlenme var (0.95x).",
+            "desc": "Sert Satış Baskısı: Belirgin kurumsal satış hacmi (1.82x) fiyatı eziyor.",
             "metrics": {
-              "volume_ratio_10_30": 0.95,
-              "is_volume_burst": false,
+              "volume_ratio_10_30": 1.82,
+              "is_volume_burst": true,
               "price_trend_5d": "DOWN",
               "volume_trend_5d": "INCREASING"
             }
           },
           "fundamental": {
-            "score": 1.4,
+            "score": 1.2,
             "label": "Fundamental",
             "status": "DANGER",
             "direction": "SELL",
@@ -1202,8 +1202,8 @@
               "is_growth_stock": false,
               "is_dividend_stock": false,
               "peg_ratio": 0.0,
-              "target_pe": 31.9,
-              "pb_ratio": 6.9,
+              "target_pe": 34.5,
+              "pb_ratio": 7.5,
               "growth_pct": 0.0,
               "dividend_yield_pct": 0.0
             }
@@ -1236,20 +1236,20 @@
       "high": 0.0,
       "low": 0.0,
       "volume_analysis": {
-        "current_volume_lot": 61924913,
+        "current_volume_lot": 42802777,
         "current_volume_tl": 0.0,
         "current_volume_tl_formatted": "0.0",
-        "volume_ratio": 2.14,
-        "is_volume_burst": true,
-        "avg_30_days_volume_lot": 29945539,
-        "avg_10_days_volume_lot": 28953279
+        "volume_ratio": 1.33,
+        "is_volume_burst": false,
+        "avg_30_days_volume_lot": 30570025,
+        "avg_10_days_volume_lot": 32250443
       },
       "fundamental": {
-        "pe_ratio": 4.84,
-        "pb_ratio": 1.27,
+        "pe_ratio": 5.02,
+        "pb_ratio": 1.31,
         "free_float": 14.03,
-        "market_cap": 570779959296,
-        "market_cap_formatted": "570.78 B"
+        "market_cap": 592200007680,
+        "market_cap_formatted": "592.2 B"
       },
       "technical_extremes": {
         "fifty_two_week_high": null,
@@ -1258,21 +1258,21 @@
         "dist_from_low_pct": null
       },
       "divergence": {
-        "status": "NONE",
-        "rsi_divergence": false,
+        "status": "RSI",
+        "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 50.47,
+      "rsi": 59.29,
       "pivots": {
         "daily": 0.0,
         "monthly": 126.27,
         "monthlyP": 0.0
       },
       "ema": {
-        "EMA_20": 128.07,
-        "EMA_50": 130.75,
-        "EMA_100": 133.08,
-        "EMA_200": 132.15
+        "EMA_20": 128.81,
+        "EMA_50": 130.95,
+        "EMA_100": 133.13,
+        "EMA_200": 132.19
       },
       "bb": {
         "upper": 0.0,
@@ -1280,7 +1280,7 @@
         "lower": 0.0
       },
       "signal_matrix": {
-        "total_score": 4.4,
+        "total_score": 6.1,
         "matrix_rows": {
           "bollinger": {
             "score": 5.0,
@@ -1303,13 +1303,13 @@
             }
           },
           "rsi": {
-            "score": 6.2,
+            "score": 6.9,
             "label": "RSI",
             "status": "NORMAL",
             "direction": "BUY",
-            "desc": "RSI nötr bölgede (50.47). Trend yönü belirsiz.",
+            "desc": "RSI güçlü momentum bölgesinde (59.29). Trend yukarı yönlü korunuyor.",
             "metrics": {
-              "raw_rsi": 50.47,
+              "raw_rsi": 59.29,
               "divergence": "NONE"
             }
           },
@@ -1330,15 +1330,15 @@
             }
           },
           "volume": {
-            "score": 1.0,
+            "score": 8.7,
             "label": "Hacim Analizi",
-            "status": "DANGER",
-            "direction": "SELL",
-            "desc": "🚨 PANİK SATIŞI / KAPİTÜLASYON: Fiyat düşerken hacim olağanüstü patlamış (2.14x). Tahtadan büyük para çıkışı var!",
+            "status": "SUCCESS",
+            "direction": "BUY",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.33x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 2.14,
-              "is_volume_burst": true,
-              "price_trend_5d": "DOWN",
+              "volume_ratio_10_30": 1.33,
+              "is_volume_burst": false,
+              "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
             }
           },
@@ -1351,7 +1351,7 @@
               "is_growth_stock": false,
               "is_dividend_stock": false,
               "peg_ratio": 0.0,
-              "target_pe": 4.8,
+              "target_pe": 5.0,
               "pb_ratio": 1.3,
               "growth_pct": 0.0,
               "dividend_yield_pct": 0.0
@@ -1385,20 +1385,318 @@
       "high": 0.0,
       "low": 0.0,
       "volume_analysis": {
-        "current_volume_lot": 761022920,
+        "current_volume_lot": 619943405,
         "current_volume_tl": 0.0,
         "current_volume_tl_formatted": "0.0",
-        "volume_ratio": 1.6,
-        "is_volume_burst": true,
-        "avg_30_days_volume_lot": 492804241,
-        "avg_10_days_volume_lot": 476534105
+        "volume_ratio": 1.23,
+        "is_volume_burst": false,
+        "avg_30_days_volume_lot": 497186816,
+        "avg_10_days_volume_lot": 505182987
       },
       "fundamental": {
-        "pe_ratio": 4.69,
-        "pb_ratio": 0.85,
+        "pe_ratio": 4.88,
+        "pb_ratio": 0.88,
         "free_float": 83.13,
-        "market_cap": 357750013952,
-        "market_cap_formatted": "357.75 B"
+        "market_cap": 372249985024,
+        "market_cap_formatted": "372.25 B"
+      },
+      "technical_extremes": {
+        "fifty_two_week_high": null,
+        "fifty_two_week_low": null,
+        "dist_from_high_pct": null,
+        "dist_from_low_pct": null
+      },
+      "divergence": {
+        "status": "RSI",
+        "rsi_divergence": true,
+        "volume_divergence": false
+      },
+      "rsi": 58.91,
+      "pivots": {
+        "daily": 0.0,
+        "monthly": 13.44,
+        "monthlyP": 0.0
+      },
+      "ema": {
+        "EMA_20": 13.69,
+        "EMA_50": 13.85,
+        "EMA_100": 13.94,
+        "EMA_200": 13.73
+      },
+      "bb": {
+        "upper": 0.0,
+        "mid": 0.0,
+        "lower": 0.0
+      },
+      "signal_matrix": {
+        "total_score": 6.1,
+        "matrix_rows": {
+          "bollinger": {
+            "score": 5.0,
+            "label": "Bollinger",
+            "status": "NORMAL",
+            "direction": "NEUTRAL",
+            "metrics": {
+              "price_position_pct": 50.0,
+              "band_width_pct": 0.0
+            }
+          },
+          "pivots": {
+            "score": 5.0,
+            "label": "Pivot",
+            "status": "NORMAL",
+            "direction": "NEUTRAL",
+            "metrics": {
+              "monthly_diff_pct": 0.0,
+              "daily_diff_pct": 0.0
+            }
+          },
+          "rsi": {
+            "score": 6.9,
+            "label": "RSI",
+            "status": "NORMAL",
+            "direction": "BUY",
+            "desc": "RSI güçlü momentum bölgesinde (58.91). Trend yukarı yönlü korunuyor.",
+            "metrics": {
+              "raw_rsi": 58.91,
+              "divergence": "NONE"
+            }
+          },
+          "ema": {
+            "score": 5.0,
+            "label": "EMA",
+            "status": "NORMAL",
+            "direction": "NEUTRAL",
+            "metrics": {
+              "is_aligned": false,
+              "is_squeezed": false,
+              "trend_phase": "UNKNOWN",
+              "squeeze_pct": 0.0,
+              "ema20_diff_pct": 0.0,
+              "ema50_diff_pct": 0.0,
+              "ema100_diff_pct": 0.0,
+              "ema200_diff_pct": 0.0
+            }
+          },
+          "volume": {
+            "score": 8.6,
+            "label": "Hacim Analizi",
+            "status": "SUCCESS",
+            "direction": "BUY",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.23x) destekleniyor, kurumsal toplama var.",
+            "metrics": {
+              "volume_ratio_10_30": 1.23,
+              "is_volume_burst": false,
+              "price_trend_5d": "UP",
+              "volume_trend_5d": "INCREASING"
+            }
+          },
+          "fundamental": {
+            "score": 6.0,
+            "label": "Fundamental",
+            "status": "NORMAL",
+            "direction": "BUY",
+            "metrics": {
+              "is_growth_stock": false,
+              "is_dividend_stock": false,
+              "peg_ratio": 0.0,
+              "target_pe": 4.9,
+              "pb_ratio": 0.9,
+              "growth_pct": 0.0,
+              "dividend_yield_pct": 0.0
+            }
+          },
+          "extremes": {
+            "score": 5.0,
+            "label": "Extremes",
+            "status": "NORMAL",
+            "direction": "NEUTRAL",
+            "metrics": {
+              "price_position_52w_pct": 50.0,
+              "volume_ratio_10_30": 1.0,
+              "daily_surge_ratio": 1.0,
+              "is_volume_burst": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 8,
+      "ticker": "KCHOL",
+      "name": "Koç Holding A.Ş.",
+      "tier": {
+        "no": 1,
+        "amount": 200000
+      },
+      "close": 0.0,
+      "open": 0.0,
+      "high": 0.0,
+      "low": 0.0,
+      "volume_analysis": {
+        "current_volume_lot": 22727407,
+        "current_volume_tl": 0.0,
+        "current_volume_tl_formatted": "0.0",
+        "volume_ratio": 1.26,
+        "is_volume_burst": false,
+        "avg_30_days_volume_lot": 21318642,
+        "avg_10_days_volume_lot": 18096234
+      },
+      "fundamental": {
+        "pe_ratio": 20.46,
+        "pb_ratio": 0.7,
+        "free_float": 7.42,
+        "market_cap": 498889490432,
+        "market_cap_formatted": "498.89 B"
+      },
+      "technical_extremes": {
+        "fifty_two_week_high": null,
+        "fifty_two_week_low": null,
+        "dist_from_high_pct": null,
+        "dist_from_low_pct": null
+      },
+      "divergence": {
+        "status": "RSI",
+        "rsi_divergence": true,
+        "volume_divergence": false
+      },
+      "rsi": 43.86,
+      "pivots": {
+        "daily": 0.0,
+        "monthly": 194.07,
+        "monthlyP": 0.0
+      },
+      "ema": {
+        "EMA_20": 190.72,
+        "EMA_50": 193.99,
+        "EMA_100": 191.71,
+        "EMA_200": 184.21
+      },
+      "bb": {
+        "upper": 0.0,
+        "mid": 0.0,
+        "lower": 0.0
+      },
+      "signal_matrix": {
+        "total_score": 5.9,
+        "matrix_rows": {
+          "bollinger": {
+            "score": 5.0,
+            "label": "Bollinger",
+            "status": "NORMAL",
+            "direction": "NEUTRAL",
+            "metrics": {
+              "price_position_pct": 50.0,
+              "band_width_pct": 0.0
+            }
+          },
+          "pivots": {
+            "score": 5.0,
+            "label": "Pivot",
+            "status": "NORMAL",
+            "direction": "NEUTRAL",
+            "metrics": {
+              "monthly_diff_pct": 0.0,
+              "daily_diff_pct": 0.0
+            }
+          },
+          "rsi": {
+            "score": 5.8,
+            "label": "RSI",
+            "status": "NORMAL",
+            "direction": "NEUTRAL",
+            "desc": "RSI nötr bölgede (43.86). Trend yönü belirsiz.",
+            "metrics": {
+              "raw_rsi": 43.86,
+              "divergence": "NONE"
+            }
+          },
+          "ema": {
+            "score": 5.0,
+            "label": "EMA",
+            "status": "NORMAL",
+            "direction": "NEUTRAL",
+            "metrics": {
+              "is_aligned": false,
+              "is_squeezed": false,
+              "trend_phase": "UNKNOWN",
+              "squeeze_pct": 0.0,
+              "ema20_diff_pct": 0.0,
+              "ema50_diff_pct": 0.0,
+              "ema100_diff_pct": 0.0,
+              "ema200_diff_pct": 0.0
+            }
+          },
+          "volume": {
+            "score": 8.6,
+            "label": "Hacim Analizi",
+            "status": "SUCCESS",
+            "direction": "BUY",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.26x) destekleniyor, kurumsal toplama var.",
+            "metrics": {
+              "volume_ratio_10_30": 1.26,
+              "is_volume_burst": false,
+              "price_trend_5d": "UP",
+              "volume_trend_5d": "INCREASING"
+            }
+          },
+          "fundamental": {
+            "score": 4.5,
+            "label": "Fundamental",
+            "status": "NORMAL",
+            "direction": "SELL",
+            "metrics": {
+              "is_growth_stock": false,
+              "is_dividend_stock": false,
+              "peg_ratio": 0.0,
+              "target_pe": 20.5,
+              "pb_ratio": 0.7,
+              "growth_pct": 0.0,
+              "dividend_yield_pct": 0.0
+            }
+          },
+          "extremes": {
+            "score": 5.0,
+            "label": "Extremes",
+            "status": "NORMAL",
+            "direction": "NEUTRAL",
+            "metrics": {
+              "price_position_52w_pct": 50.0,
+              "volume_ratio_10_30": 1.0,
+              "daily_surge_ratio": 1.0,
+              "is_volume_burst": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 9,
+      "ticker": "PETKM",
+      "name": "Petkim Petrokimya Holding A.Ş.",
+      "tier": {
+        "no": 2,
+        "amount": 100000
+      },
+      "close": 0.0,
+      "open": 0.0,
+      "high": 0.0,
+      "low": 0.0,
+      "volume_analysis": {
+        "current_volume_lot": 130177637,
+        "current_volume_tl": 0.0,
+        "current_volume_tl_formatted": "0.0",
+        "volume_ratio": 1.92,
+        "is_volume_burst": true,
+        "avg_30_days_volume_lot": 102644538,
+        "avg_10_days_volume_lot": 67910956
+      },
+      "fundamental": {
+        "pe_ratio": 4.63,
+        "pb_ratio": 0.72,
+        "free_float": 49.0,
+        "market_cap": 49040642048,
+        "market_cap_formatted": "49.04 B"
       },
       "technical_extremes": {
         "fifty_two_week_high": null,
@@ -1411,17 +1709,17 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 51.08,
+      "rsi": 30.84,
       "pivots": {
         "daily": 0.0,
-        "monthly": 13.44,
+        "monthly": 23.98,
         "monthlyP": 0.0
       },
       "ema": {
-        "EMA_20": 13.62,
-        "EMA_50": 13.83,
-        "EMA_100": 13.93,
-        "EMA_200": 13.73
+        "EMA_20": 21.74,
+        "EMA_50": 22.0,
+        "EMA_100": 21.05,
+        "EMA_200": 19.89
       },
       "bb": {
         "upper": 0.0,
@@ -1456,9 +1754,9 @@
             "label": "RSI",
             "status": "NORMAL",
             "direction": "BUY",
-            "desc": "RSI nötr bölgede (51.08). Trend yönü belirsiz.",
+            "desc": "RSI zayıf bölgede (30.84). Net bir dönüş formasyonu henüz yok.",
             "metrics": {
-              "raw_rsi": 51.08,
+              "raw_rsi": 30.84,
               "divergence": "NONE"
             }
           },
@@ -1483,307 +1781,9 @@
             "label": "Hacim Analizi",
             "status": "DANGER",
             "direction": "SELL",
-            "desc": "Sert Satış Baskısı: Belirgin kurumsal satış hacmi (1.60x) fiyatı eziyor.",
+            "desc": "Sert Satış Baskısı: Belirgin kurumsal satış hacmi (1.92x) fiyatı eziyor.",
             "metrics": {
-              "volume_ratio_10_30": 1.6,
-              "is_volume_burst": true,
-              "price_trend_5d": "DOWN",
-              "volume_trend_5d": "INCREASING"
-            }
-          },
-          "fundamental": {
-            "score": 6.0,
-            "label": "Fundamental",
-            "status": "NORMAL",
-            "direction": "BUY",
-            "metrics": {
-              "is_growth_stock": false,
-              "is_dividend_stock": false,
-              "peg_ratio": 0.0,
-              "target_pe": 4.7,
-              "pb_ratio": 0.8,
-              "growth_pct": 0.0,
-              "dividend_yield_pct": 0.0
-            }
-          },
-          "extremes": {
-            "score": 5.0,
-            "label": "Extremes",
-            "status": "NORMAL",
-            "direction": "NEUTRAL",
-            "metrics": {
-              "price_position_52w_pct": 50.0,
-              "volume_ratio_10_30": 1.0,
-              "daily_surge_ratio": 1.0,
-              "is_volume_burst": false
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 8,
-      "ticker": "KCHOL",
-      "name": "Koç Holding A.Ş.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 0.0,
-      "open": 0.0,
-      "high": 0.0,
-      "low": 0.0,
-      "volume_analysis": {
-        "current_volume_lot": 32351826,
-        "current_volume_tl": 0.0,
-        "current_volume_tl_formatted": "0.0",
-        "volume_ratio": 1.96,
-        "is_volume_burst": true,
-        "avg_30_days_volume_lot": 21224866,
-        "avg_10_days_volume_lot": 16512280
-      },
-      "fundamental": {
-        "pe_ratio": 19.49,
-        "pb_ratio": 0.67,
-        "free_float": 73.23,
-        "market_cap": 475313897472,
-        "market_cap_formatted": "475.31 B"
-      },
-      "technical_extremes": {
-        "fifty_two_week_high": null,
-        "fifty_two_week_low": null,
-        "dist_from_high_pct": null,
-        "dist_from_low_pct": null
-      },
-      "divergence": {
-        "status": "NONE",
-        "rsi_divergence": false,
-        "volume_divergence": false
-      },
-      "rsi": 38.9,
-      "pivots": {
-        "daily": 0.0,
-        "monthly": 194.07,
-        "monthlyP": 0.0
-      },
-      "ema": {
-        "EMA_20": 191.05,
-        "EMA_50": 194.26,
-        "EMA_100": 191.79,
-        "EMA_200": 184.18
-      },
-      "bb": {
-        "upper": 0.0,
-        "mid": 0.0,
-        "lower": 0.0
-      },
-      "signal_matrix": {
-        "total_score": 4.5,
-        "matrix_rows": {
-          "bollinger": {
-            "score": 5.0,
-            "label": "Bollinger",
-            "status": "NORMAL",
-            "direction": "NEUTRAL",
-            "metrics": {
-              "price_position_pct": 50.0,
-              "band_width_pct": 0.0
-            }
-          },
-          "pivots": {
-            "score": 5.0,
-            "label": "Pivot",
-            "status": "NORMAL",
-            "direction": "NEUTRAL",
-            "metrics": {
-              "monthly_diff_pct": 0.0,
-              "daily_diff_pct": 0.0
-            }
-          },
-          "rsi": {
-            "score": 5.6,
-            "label": "RSI",
-            "status": "NORMAL",
-            "direction": "BUY",
-            "desc": "RSI zayıf bölgede (38.90). Net bir dönüş formasyonu henüz yok.",
-            "metrics": {
-              "raw_rsi": 38.9,
-              "divergence": "NONE"
-            }
-          },
-          "ema": {
-            "score": 5.0,
-            "label": "EMA",
-            "status": "NORMAL",
-            "direction": "NEUTRAL",
-            "metrics": {
-              "is_aligned": false,
-              "is_squeezed": false,
-              "trend_phase": "UNKNOWN",
-              "squeeze_pct": 0.0,
-              "ema20_diff_pct": 0.0,
-              "ema50_diff_pct": 0.0,
-              "ema100_diff_pct": 0.0,
-              "ema200_diff_pct": 0.0
-            }
-          },
-          "volume": {
-            "score": 1.8,
-            "label": "Hacim Analizi",
-            "status": "DANGER",
-            "direction": "SELL",
-            "desc": "Sert Satış Baskısı: Belirgin kurumsal satış hacmi (1.96x) fiyatı eziyor.",
-            "metrics": {
-              "volume_ratio_10_30": 1.96,
-              "is_volume_burst": true,
-              "price_trend_5d": "DOWN",
-              "volume_trend_5d": "INCREASING"
-            }
-          },
-          "fundamental": {
-            "score": 4.6,
-            "label": "Fundamental",
-            "status": "NORMAL",
-            "direction": "SELL",
-            "metrics": {
-              "is_growth_stock": false,
-              "is_dividend_stock": false,
-              "peg_ratio": 0.0,
-              "target_pe": 19.5,
-              "pb_ratio": 0.7,
-              "growth_pct": 0.0,
-              "dividend_yield_pct": 0.0
-            }
-          },
-          "extremes": {
-            "score": 5.0,
-            "label": "Extremes",
-            "status": "NORMAL",
-            "direction": "NEUTRAL",
-            "metrics": {
-              "price_position_52w_pct": 50.0,
-              "volume_ratio_10_30": 1.0,
-              "daily_surge_ratio": 1.0,
-              "is_volume_burst": false
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 9,
-      "ticker": "PETKM",
-      "name": "Petkim Petrokimya Holding A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 0.0,
-      "open": 0.0,
-      "high": 0.0,
-      "low": 0.0,
-      "volume_analysis": {
-        "current_volume_lot": 112557296,
-        "current_volume_tl": 0.0,
-        "current_volume_tl_formatted": "0.0",
-        "volume_ratio": 1.79,
-        "is_volume_burst": true,
-        "avg_30_days_volume_lot": 104108717,
-        "avg_10_days_volume_lot": 62950251
-      },
-      "fundamental": {
-        "pe_ratio": 4.64,
-        "pb_ratio": 0.72,
-        "free_float": 49.0,
-        "market_cap": 49142013952,
-        "market_cap_formatted": "49.14 B"
-      },
-      "technical_extremes": {
-        "fifty_two_week_high": null,
-        "fifty_two_week_low": null,
-        "dist_from_high_pct": null,
-        "dist_from_low_pct": null
-      },
-      "divergence": {
-        "status": "NONE",
-        "rsi_divergence": false,
-        "volume_divergence": false
-      },
-      "rsi": 32.24,
-      "pivots": {
-        "daily": 0.0,
-        "monthly": 23.98,
-        "monthlyP": 0.0
-      },
-      "ema": {
-        "EMA_20": 21.99,
-        "EMA_50": 22.11,
-        "EMA_100": 21.08,
-        "EMA_200": 19.89
-      },
-      "bb": {
-        "upper": 0.0,
-        "mid": 0.0,
-        "lower": 0.0
-      },
-      "signal_matrix": {
-        "total_score": 4.6,
-        "matrix_rows": {
-          "bollinger": {
-            "score": 5.0,
-            "label": "Bollinger",
-            "status": "NORMAL",
-            "direction": "NEUTRAL",
-            "metrics": {
-              "price_position_pct": 50.0,
-              "band_width_pct": 0.0
-            }
-          },
-          "pivots": {
-            "score": 5.0,
-            "label": "Pivot",
-            "status": "NORMAL",
-            "direction": "NEUTRAL",
-            "metrics": {
-              "monthly_diff_pct": 0.0,
-              "daily_diff_pct": 0.0
-            }
-          },
-          "rsi": {
-            "score": 6.1,
-            "label": "RSI",
-            "status": "NORMAL",
-            "direction": "BUY",
-            "desc": "RSI zayıf bölgede (32.24). Net bir dönüş formasyonu henüz yok.",
-            "metrics": {
-              "raw_rsi": 32.24,
-              "divergence": "NONE"
-            }
-          },
-          "ema": {
-            "score": 5.0,
-            "label": "EMA",
-            "status": "NORMAL",
-            "direction": "NEUTRAL",
-            "metrics": {
-              "is_aligned": false,
-              "is_squeezed": false,
-              "trend_phase": "UNKNOWN",
-              "squeeze_pct": 0.0,
-              "ema20_diff_pct": 0.0,
-              "ema50_diff_pct": 0.0,
-              "ema100_diff_pct": 0.0,
-              "ema200_diff_pct": 0.0
-            }
-          },
-          "volume": {
-            "score": 1.8,
-            "label": "Hacim Analizi",
-            "status": "DANGER",
-            "direction": "SELL",
-            "desc": "Sert Satış Baskısı: Belirgin kurumsal satış hacmi (1.79x) fiyatı eziyor.",
-            "metrics": {
-              "volume_ratio_10_30": 1.79,
+              "volume_ratio_10_30": 1.92,
               "is_volume_burst": true,
               "price_trend_5d": "DOWN",
               "volume_trend_5d": "INCREASING"
@@ -1832,20 +1832,20 @@
       "high": 0.0,
       "low": 0.0,
       "volume_analysis": {
-        "current_volume_lot": 42768377,
+        "current_volume_lot": 34264384,
         "current_volume_tl": 0.0,
         "current_volume_tl_formatted": "0.0",
-        "volume_ratio": 1.24,
+        "volume_ratio": 0.97,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 33847172,
-        "avg_10_days_volume_lot": 34415321
+        "avg_30_days_volume_lot": 34134882,
+        "avg_10_days_volume_lot": 35250627
       },
       "fundamental": {
-        "pe_ratio": 24.79,
-        "pb_ratio": 0.52,
+        "pe_ratio": 26.15,
+        "pb_ratio": 0.55,
         "free_float": 65.5,
-        "market_cap": 198408765440,
-        "market_cap_formatted": "198.41 B"
+        "market_cap": 209264902144,
+        "market_cap_formatted": "209.26 B"
       },
       "technical_extremes": {
         "fifty_two_week_high": null,
@@ -1858,17 +1858,17 @@
         "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 47.25,
+      "rsi": 57.07,
       "pivots": {
         "daily": 0.0,
         "monthly": 93.17,
         "monthlyP": 0.0
       },
       "ema": {
-        "EMA_20": 92.13,
-        "EMA_50": 93.64,
-        "EMA_100": 93.5,
-        "EMA_200": 91.6
+        "EMA_20": 92.49,
+        "EMA_50": 93.73,
+        "EMA_100": 93.55,
+        "EMA_200": 91.65
       },
       "bb": {
         "upper": 0.0,
@@ -1876,7 +1876,7 @@
         "lower": 0.0
       },
       "signal_matrix": {
-        "total_score": 5.9,
+        "total_score": 6.0,
         "matrix_rows": {
           "bollinger": {
             "score": 5.0,
@@ -1899,13 +1899,13 @@
             }
           },
           "rsi": {
-            "score": 6.0,
+            "score": 6.7,
             "label": "RSI",
             "status": "NORMAL",
-            "direction": "NEUTRAL",
-            "desc": "RSI nötr bölgede (47.25). Trend yönü belirsiz.",
+            "direction": "BUY",
+            "desc": "RSI güçlü momentum bölgesinde (57.07). Trend yukarı yönlü korunuyor.",
             "metrics": {
-              "raw_rsi": 47.25,
+              "raw_rsi": 57.07,
               "divergence": "NONE"
             }
           },
@@ -1926,20 +1926,20 @@
             }
           },
           "volume": {
-            "score": 8.6,
+            "score": 8.5,
             "label": "Hacim Analizi",
             "status": "SUCCESS",
             "direction": "BUY",
-            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.24x) destekleniyor, kurumsal toplama var.",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (0.97x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 1.24,
+              "volume_ratio_10_30": 0.97,
               "is_volume_burst": false,
               "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
             }
           },
           "fundamental": {
-            "score": 4.0,
+            "score": 3.9,
             "label": "Fundamental",
             "status": "NORMAL",
             "direction": "SELL",
@@ -1947,8 +1947,8 @@
               "is_growth_stock": false,
               "is_dividend_stock": false,
               "peg_ratio": 0.0,
-              "target_pe": 24.8,
-              "pb_ratio": 0.5,
+              "target_pe": 26.1,
+              "pb_ratio": 0.6,
               "growth_pct": 0.0,
               "dividend_yield_pct": 0.0
             }
@@ -1981,20 +1981,20 @@
       "high": 0.0,
       "low": 0.0,
       "volume_analysis": {
-        "current_volume_lot": 26346795,
+        "current_volume_lot": 20830584,
         "current_volume_tl": 0.0,
         "current_volume_tl_formatted": "0.0",
-        "volume_ratio": 1.12,
+        "volume_ratio": 0.87,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 20367937,
-        "avg_10_days_volume_lot": 23535729
+        "avg_30_days_volume_lot": 20522499,
+        "avg_10_days_volume_lot": 23816835
       },
       "fundamental": {
-        "pe_ratio": 13.1,
-        "pb_ratio": 0.93,
+        "pe_ratio": 13.6,
+        "pb_ratio": 0.96,
         "free_float": 29.59,
-        "market_cap": 240932192256,
-        "market_cap_formatted": "240.93 B"
+        "market_cap": 250073268224,
+        "market_cap_formatted": "250.07 B"
       },
       "technical_extremes": {
         "fifty_two_week_high": null,
@@ -2007,17 +2007,17 @@
         "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 49.6,
+      "rsi": 54.85,
       "pivots": {
         "daily": 0.0,
         "monthly": 108.4,
         "monthlyP": 0.0
       },
       "ema": {
-        "EMA_20": 106.95,
-        "EMA_50": 109.19,
-        "EMA_100": 108.85,
-        "EMA_200": 105.28
+        "EMA_20": 107.3,
+        "EMA_50": 109.25,
+        "EMA_100": 108.89,
+        "EMA_200": 105.33
       },
       "bb": {
         "upper": 0.0,
@@ -2025,7 +2025,7 @@
         "lower": 0.0
       },
       "signal_matrix": {
-        "total_score": 5.9,
+        "total_score": 6.0,
         "matrix_rows": {
           "bollinger": {
             "score": 5.0,
@@ -2048,13 +2048,13 @@
             }
           },
           "rsi": {
-            "score": 6.1,
+            "score": 6.5,
             "label": "RSI",
             "status": "NORMAL",
-            "direction": "NEUTRAL",
-            "desc": "RSI nötr bölgede (49.60). Trend yönü belirsiz.",
+            "direction": "BUY",
+            "desc": "RSI nötr bölgede (54.85). Trend yönü belirsiz.",
             "metrics": {
-              "raw_rsi": 49.6,
+              "raw_rsi": 54.85,
               "divergence": "NONE"
             }
           },
@@ -2079,16 +2079,16 @@
             "label": "Hacim Analizi",
             "status": "SUCCESS",
             "direction": "BUY",
-            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.12x) destekleniyor, kurumsal toplama var.",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (0.87x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 1.12,
+              "volume_ratio_10_30": 0.87,
               "is_volume_burst": false,
               "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
             }
           },
           "fundamental": {
-            "score": 5.2,
+            "score": 5.1,
             "label": "Fundamental",
             "status": "NORMAL",
             "direction": "SELL",
@@ -2096,8 +2096,8 @@
               "is_growth_stock": false,
               "is_dividend_stock": false,
               "peg_ratio": 0.0,
-              "target_pe": 13.1,
-              "pb_ratio": 0.9,
+              "target_pe": 13.6,
+              "pb_ratio": 1.0,
               "growth_pct": 0.0,
               "dividend_yield_pct": 0.0
             }
@@ -2130,20 +2130,20 @@
       "high": 0.0,
       "low": 0.0,
       "volume_analysis": {
-        "current_volume_lot": 87561133,
+        "current_volume_lot": 60566048,
         "current_volume_tl": 0.0,
         "current_volume_tl_formatted": "0.0",
-        "volume_ratio": 2.33,
-        "is_volume_burst": true,
-        "avg_30_days_volume_lot": 43532111,
-        "avg_10_days_volume_lot": 37589256
+        "volume_ratio": 1.42,
+        "is_volume_burst": false,
+        "avg_30_days_volume_lot": 44589750,
+        "avg_10_days_volume_lot": 42586443
       },
       "fundamental": {
-        "pe_ratio": 31.6,
-        "pb_ratio": 19.47,
+        "pe_ratio": 33.38,
+        "pb_ratio": 20.61,
         "free_float": 51.16,
-        "market_cap": 422320209920,
-        "market_cap_formatted": "422.32 B"
+        "market_cap": 447021318144,
+        "market_cap_formatted": "447.02 B"
       },
       "technical_extremes": {
         "fifty_two_week_high": null,
@@ -2152,21 +2152,21 @@
         "dist_from_low_pct": null
       },
       "divergence": {
-        "status": "NONE",
-        "rsi_divergence": false,
+        "status": "RSI",
+        "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 43.82,
+      "rsi": 57.22,
       "pivots": {
         "daily": 0.0,
         "monthly": 294.83,
         "monthlyP": 0.0
       },
       "ema": {
-        "EMA_20": 297.75,
-        "EMA_50": 301.11,
-        "EMA_100": 301.07,
-        "EMA_200": 299.1
+        "EMA_20": 298.71,
+        "EMA_50": 301.37,
+        "EMA_100": 301.21,
+        "EMA_200": 299.18
       },
       "bb": {
         "upper": 0.0,
@@ -2174,7 +2174,7 @@
         "lower": 0.0
       },
       "signal_matrix": {
-        "total_score": 4.4,
+        "total_score": 6.1,
         "matrix_rows": {
           "bollinger": {
             "score": 5.0,
@@ -2197,13 +2197,13 @@
             }
           },
           "rsi": {
-            "score": 5.8,
+            "score": 6.7,
             "label": "RSI",
             "status": "NORMAL",
-            "direction": "NEUTRAL",
-            "desc": "RSI nötr bölgede (43.82). Trend yönü belirsiz.",
+            "direction": "BUY",
+            "desc": "RSI güçlü momentum bölgesinde (57.22). Trend yukarı yönlü korunuyor.",
             "metrics": {
-              "raw_rsi": 43.82,
+              "raw_rsi": 57.22,
               "divergence": "NONE"
             }
           },
@@ -2224,15 +2224,15 @@
             }
           },
           "volume": {
-            "score": 1.0,
+            "score": 8.8,
             "label": "Hacim Analizi",
-            "status": "DANGER",
-            "direction": "SELL",
-            "desc": "🚨 PANİK SATIŞI / KAPİTÜLASYON: Fiyat düşerken hacim olağanüstü patlamış (2.33x). Tahtadan büyük para çıkışı var!",
+            "status": "SUCCESS",
+            "direction": "BUY",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.42x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 2.33,
-              "is_volume_burst": true,
-              "price_trend_5d": "DOWN",
+              "volume_ratio_10_30": 1.42,
+              "is_volume_burst": false,
+              "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
             }
           },
@@ -2245,8 +2245,8 @@
               "is_growth_stock": false,
               "is_dividend_stock": false,
               "peg_ratio": 0.0,
-              "target_pe": 31.6,
-              "pb_ratio": 19.5,
+              "target_pe": 33.4,
+              "pb_ratio": 20.6,
               "growth_pct": 0.0,
               "dividend_yield_pct": 0.0
             }
@@ -2279,20 +2279,20 @@
       "high": 0.0,
       "low": 0.0,
       "volume_analysis": {
-        "current_volume_lot": 21445851,
+        "current_volume_lot": 32241582,
         "current_volume_tl": 0.0,
         "current_volume_tl_formatted": "0.0",
-        "volume_ratio": 0.92,
+        "volume_ratio": 1.4,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 31905675,
-        "avg_10_days_volume_lot": 23296968
+        "avg_30_days_volume_lot": 31537659,
+        "avg_10_days_volume_lot": 23111857
       },
       "fundamental": {
-        "pe_ratio": 13.61,
-        "pb_ratio": 1.27,
+        "pe_ratio": 13.5,
+        "pb_ratio": 1.26,
         "free_float": 48.85,
-        "market_cap": 450484830208,
-        "market_cap_formatted": "450.48 B"
+        "market_cap": 446823890944,
+        "market_cap_formatted": "446.82 B"
       },
       "technical_extremes": {
         "fifty_two_week_high": null,
@@ -2301,21 +2301,21 @@
         "dist_from_low_pct": null
       },
       "divergence": {
-        "status": "NONE",
-        "rsi_divergence": false,
+        "status": "RSI",
+        "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 43.76,
+      "rsi": 42.28,
       "pivots": {
         "daily": 0.0,
         "monthly": 247.72,
         "monthlyP": 0.0
       },
       "ema": {
-        "EMA_20": 241.67,
-        "EMA_50": 245.35,
-        "EMA_100": 236.4,
-        "EMA_200": 214.38
+        "EMA_20": 240.92,
+        "EMA_50": 244.89,
+        "EMA_100": 236.35,
+        "EMA_200": 214.58
       },
       "bb": {
         "upper": 0.0,
@@ -2346,13 +2346,13 @@
             }
           },
           "rsi": {
-            "score": 5.8,
+            "score": 5.7,
             "label": "RSI",
             "status": "NORMAL",
             "direction": "NEUTRAL",
-            "desc": "RSI nötr bölgede (43.76). Trend yönü belirsiz.",
+            "desc": "RSI nötr bölgede (42.28). Trend yönü belirsiz.",
             "metrics": {
-              "raw_rsi": 43.76,
+              "raw_rsi": 42.28,
               "divergence": "BULLISH"
             }
           },
@@ -2373,20 +2373,20 @@
             }
           },
           "volume": {
-            "score": 8.5,
+            "score": 8.8,
             "label": "Hacim Analizi",
             "status": "SUCCESS",
             "direction": "BUY",
-            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (0.92x) destekleniyor, kurumsal toplama var.",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.40x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 0.92,
+              "volume_ratio_10_30": 1.4,
               "is_volume_burst": false,
               "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
             }
           },
           "fundamental": {
-            "score": 5.0,
+            "score": 5.1,
             "label": "Fundamental",
             "status": "NORMAL",
             "direction": "SELL",
@@ -2394,7 +2394,7 @@
               "is_growth_stock": false,
               "is_dividend_stock": false,
               "peg_ratio": 0.0,
-              "target_pe": 13.6,
+              "target_pe": 13.5,
               "pb_ratio": 1.3,
               "growth_pct": 0.0,
               "dividend_yield_pct": 0.0
@@ -2428,20 +2428,20 @@
       "high": 0.0,
       "low": 0.0,
       "volume_analysis": {
-        "current_volume_lot": 261322310,
+        "current_volume_lot": 191796943,
         "current_volume_tl": 0.0,
         "current_volume_tl_formatted": "0.0",
-        "volume_ratio": 1.48,
+        "volume_ratio": 1.04,
         "is_volume_burst": false,
-        "avg_30_days_volume_lot": 165776396,
-        "avg_10_days_volume_lot": 176439270
+        "avg_30_days_volume_lot": 167852381,
+        "avg_10_days_volume_lot": 184977574
       },
       "fundamental": {
-        "pe_ratio": 6.82,
-        "pb_ratio": 1.19,
+        "pe_ratio": 7.24,
+        "pb_ratio": 1.26,
         "free_float": 38.83,
-        "market_cap": 321832615936,
-        "market_cap_formatted": "321.83 B"
+        "market_cap": 341767651328,
+        "market_cap_formatted": "341.77 B"
       },
       "technical_extremes": {
         "fifty_two_week_high": null,
@@ -2454,17 +2454,17 @@
         "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 49.42,
+      "rsi": 61.57,
       "pivots": {
         "daily": 0.0,
         "monthly": 34.5,
         "monthlyP": 0.0
       },
       "ema": {
-        "EMA_20": 34.9,
-        "EMA_50": 35.73,
-        "EMA_100": 36.09,
-        "EMA_200": 35.23
+        "EMA_20": 35.2,
+        "EMA_50": 35.82,
+        "EMA_100": 36.13,
+        "EMA_200": 35.26
       },
       "bb": {
         "upper": 0.0,
@@ -2472,7 +2472,7 @@
         "lower": 0.0
       },
       "signal_matrix": {
-        "total_score": 4.6,
+        "total_score": 6.1,
         "matrix_rows": {
           "bollinger": {
             "score": 5.0,
@@ -2495,13 +2495,13 @@
             }
           },
           "rsi": {
-            "score": 6.1,
+            "score": 7.2,
             "label": "RSI",
             "status": "NORMAL",
-            "direction": "NEUTRAL",
-            "desc": "RSI nötr bölgede (49.42). Trend yönü belirsiz.",
+            "direction": "BUY",
+            "desc": "RSI güçlü momentum bölgesinde (61.57). Trend yukarı yönlü korunuyor.",
             "metrics": {
-              "raw_rsi": 49.42,
+              "raw_rsi": 61.57,
               "divergence": "NONE"
             }
           },
@@ -2522,20 +2522,20 @@
             }
           },
           "volume": {
-            "score": 1.8,
+            "score": 8.5,
             "label": "Hacim Analizi",
-            "status": "DANGER",
-            "direction": "SELL",
-            "desc": "Sert Satış Baskısı: Belirgin kurumsal satış hacmi (1.48x) fiyatı eziyor.",
+            "status": "SUCCESS",
+            "direction": "BUY",
+            "desc": "Sağlıklı Yükseliş: Fiyat artışı güçlü hacimle (1.04x) destekleniyor, kurumsal toplama var.",
             "metrics": {
-              "volume_ratio_10_30": 1.48,
+              "volume_ratio_10_30": 1.04,
               "is_volume_burst": false,
-              "price_trend_5d": "DOWN",
+              "price_trend_5d": "UP",
               "volume_trend_5d": "INCREASING"
             }
           },
           "fundamental": {
-            "score": 5.8,
+            "score": 5.7,
             "label": "Fundamental",
             "status": "NORMAL",
             "direction": "BUY",
@@ -2543,8 +2543,8 @@
               "is_growth_stock": false,
               "is_dividend_stock": false,
               "peg_ratio": 0.0,
-              "target_pe": 6.8,
-              "pb_ratio": 1.2,
+              "target_pe": 7.2,
+              "pb_ratio": 1.3,
               "growth_pct": 0.0,
               "dividend_yield_pct": 0.0
             }
