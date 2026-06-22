@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T19:57:56.088778Z",
+  "updated_at": "2026-06-22T06:33:49.578886Z",
   "indexes": [
     {
       "id": 4,
@@ -9,12 +9,12 @@
         "no": 4,
         "amount": 10000
       },
-      "close": 80.59,
-      "open": 79.34,
-      "high": 80.82,
-      "low": 78.8,
+      "close": 79.85,
+      "open": 78.35,
+      "high": 80.04,
+      "low": 76.58,
       "volume_analysis": {
-        "volume_ratio": 0.4,
+        "volume_ratio": 0.87,
         "is_volume_burst": false
       },
       "divergence": {
@@ -22,23 +22,23 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 31.78,
+      "rsi": 30.27,
       "pivots": {
-        "daily": 80.07,
-        "dailyP": 0.65,
+        "daily": 78.82,
+        "dailyP": 1.31,
         "weekly": 90.39,
-        "weeklyP": -10.84,
+        "weeklyP": -11.66,
         "monthly": 99.59,
-        "monthlyP": -19.08
+        "monthlyP": -19.82
       },
       "ema": {
-        "EMA_100": 91.18,
-        "EMA_200": 84.03
+        "EMA_100": 91.39,
+        "EMA_200": 84.06
       },
       "bb": {
-        "upper": 104.77,
-        "mid": 90.94,
-        "lower": 77.1
+        "upper": 105.9,
+        "mid": 92.04,
+        "lower": 78.17
       }
     },
     {
@@ -49,36 +49,36 @@
         "no": 4,
         "amount": 10000
       },
-      "close": 4172.9,
-      "open": 4231.2,
-      "high": 4231.4,
-      "low": 4138.7,
+      "close": 4224.1,
+      "open": 4279.8,
+      "high": 4323.2,
+      "low": 4223.7,
       "volume_analysis": {
-        "volume_ratio": 52.73,
-        "is_volume_burst": true
+        "volume_ratio": 0.54,
+        "is_volume_burst": false
       },
       "divergence": {
-        "status": "NONE",
+        "status": "VOLUME",
         "rsi_divergence": false,
-        "volume_divergence": false
+        "volume_divergence": true
       },
-      "rsi": 36.48,
+      "rsi": 38.77,
       "pivots": {
-        "daily": 4181.0,
-        "dailyP": -0.19,
+        "daily": 4257.0,
+        "dailyP": -0.77,
         "weekly": 4196.83,
-        "weeklyP": -0.57,
+        "weeklyP": 0.65,
         "monthly": 4563.07,
-        "monthlyP": -8.55
+        "monthlyP": -7.43
       },
       "ema": {
-        "EMA_100": 4539.85,
-        "EMA_200": 4347.39
+        "EMA_100": 4547.27,
+        "EMA_200": 4349.14
       },
       "bb": {
-        "upper": 4636.08,
-        "mid": 4358.34,
-        "lower": 4080.6
+        "upper": 4651.46,
+        "mid": 4376.69,
+        "lower": 4101.91
       }
     },
     {
