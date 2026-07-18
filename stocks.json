@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T05:16:25.994730Z",
+  "updated_at": "2026-07-18T04:51:24.910178Z",
   "indexes": [
     {
       "id": 4,
@@ -9,34 +9,34 @@
         "no": 4,
         "amount": 10000
       },
-      "close": 84.23,
-      "open": 85.22,
-      "high": 86.26,
-      "low": 83.83,
+      "close": 88.1,
+      "open": 84.89,
+      "high": 88.32,
+      "low": 83.71,
       "volume_analysis": {
-        "volume_ratio": 0.89,
+        "volume_ratio": 0.67,
         "is_volume_burst": false
       },
       "divergence": {
-        "status": "NONE",
+        "status": "VOLUME",
         "rsi_divergence": false,
-        "volume_divergence": false
+        "volume_divergence": true
       },
-      "rsi": 53.51,
+      "rsi": 59.38,
       "pivots": {
-        "daily": 84.77,
-        "dailyP": -0.64,
+        "daily": 86.71,
+        "dailyP": 1.6,
         "weekly": 75.87,
-        "weeklyP": 11.02,
+        "weeklyP": 16.12,
         "monthly": 81.11,
-        "monthlyP": 3.85,
+        "monthlyP": 8.62,
         "daily_levels": {
-          "r1": 85.71,
-          "r2": 87.2,
-          "r3": 88.14,
-          "s1": 83.28,
-          "s2": 82.34,
-          "s3": 80.85
+          "r1": 89.71,
+          "r2": 91.32,
+          "r3": 94.32,
+          "s1": 85.1,
+          "s2": 82.1,
+          "s3": 80.49
         },
         "weekly_levels": {
           "r1": 80.71,
@@ -56,13 +56,13 @@
         }
       },
       "ema": {
-        "EMA_100": 87.3,
-        "EMA_200": 82.97
+        "EMA_100": 87.32,
+        "EMA_200": 83.02
       },
       "bb": {
-        "upper": 85.86,
-        "mid": 77.28,
-        "lower": 68.7
+        "upper": 87.52,
+        "mid": 77.74,
+        "lower": 67.96
       }
     },
     {
@@ -73,12 +73,12 @@
         "no": 4,
         "amount": 10000
       },
-      "close": 3985.6,
-      "open": 4030.5,
-      "high": 4030.5,
-      "low": 3972.6,
+      "close": 4012.7,
+      "open": 3975.5,
+      "high": 4017.2,
+      "low": 3964.2,
       "volume_analysis": {
-        "volume_ratio": 0.73,
+        "volume_ratio": 1.58,
         "is_volume_burst": false
       },
       "divergence": {
@@ -86,21 +86,21 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 37.81,
+      "rsi": 40.12,
       "pivots": {
-        "daily": 3996.23,
-        "dailyP": -0.27,
+        "daily": 3998.03,
+        "dailyP": 0.37,
         "weekly": 4118.93,
-        "weeklyP": -3.24,
+        "weeklyP": -2.58,
         "monthly": 4175.6,
-        "monthlyP": -4.55,
+        "monthlyP": -3.9,
         "daily_levels": {
-          "r1": 4019.86,
-          "r2": 4054.13,
-          "r3": 4077.76,
-          "s1": 3961.96,
-          "s2": 3938.33,
-          "s3": 3904.06
+          "r1": 4031.86,
+          "r2": 4051.03,
+          "r3": 4084.86,
+          "s1": 3978.86,
+          "s2": 3945.03,
+          "s3": 3925.86
         },
         "weekly_levels": {
           "r1": 4184.87,
@@ -120,13 +120,13 @@
         }
       },
       "ema": {
-        "EMA_100": 4403.72,
-        "EMA_200": 4303.69
+        "EMA_100": 4395.98,
+        "EMA_200": 4300.79
       },
       "bb": {
-        "upper": 4271.98,
-        "mid": 4095.71,
-        "lower": 3919.44
+        "upper": 4210.3,
+        "mid": 4078.4,
+        "lower": 3946.5
       }
     },
     {
@@ -137,12 +137,12 @@
         "no": 0,
         "amount": 0
       },
-      "close": 16398.0,
-      "open": 16457.3,
-      "high": 16512.6,
-      "low": 16093.9,
+      "close": 16085.4,
+      "open": 16327.2,
+      "high": 16342.8,
+      "low": 15985.8,
       "volume_analysis": {
-        "volume_ratio": 1.54,
+        "volume_ratio": 1.03,
         "is_volume_burst": false
       },
       "divergence": {
@@ -150,21 +150,21 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 38.0,
+      "rsi": 34.8,
       "pivots": {
-        "daily": 16334.83,
-        "dailyP": 0.39,
+        "daily": 16138.0,
+        "dailyP": -0.33,
         "weekly": 16894.17,
-        "weeklyP": -2.94,
+        "weeklyP": -4.79,
         "monthly": 17545.83,
-        "monthlyP": -6.54,
+        "monthlyP": -8.32,
         "daily_levels": {
-          "r1": 16575.76,
-          "r2": 16753.53,
-          "r3": 16994.46,
-          "s1": 16157.06,
-          "s2": 15916.13,
-          "s3": 15738.36
+          "r1": 16290.2,
+          "r2": 16495.0,
+          "r3": 16647.2,
+          "s1": 15933.2,
+          "s2": 15781.0,
+          "s3": 15576.2
         },
         "weekly_levels": {
           "r1": 17339.53,
@@ -184,13 +184,13 @@
         }
       },
       "ema": {
-        "EMA_100": 17180.55,
-        "EMA_200": 16767.64
+        "EMA_100": 17158.87,
+        "EMA_200": 16760.85
       },
       "bb": {
-        "upper": 19541.54,
-        "mid": 17705.6,
-        "lower": 15869.67
+        "upper": 19437.09,
+        "mid": 17563.1,
+        "lower": 15689.1
       }
     },
     {
@@ -201,34 +201,34 @@
         "no": 0,
         "amount": 0
       },
-      "close": 16317.2,
-      "open": 16082.0,
-      "high": 16335.3,
-      "low": 16082.0,
+      "close": 15961.9,
+      "open": 16154.0,
+      "high": 16171.2,
+      "low": 15924.1,
       "volume_analysis": {
-        "volume_ratio": 0.96,
+        "volume_ratio": 0.81,
         "is_volume_burst": false
       },
       "divergence": {
-        "status": "RSI",
-        "rsi_divergence": true,
+        "status": "NONE",
+        "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 47.42,
+      "rsi": 41.29,
       "pivots": {
-        "daily": 16244.83,
-        "dailyP": 0.45,
+        "daily": 16019.07,
+        "dailyP": -0.36,
         "weekly": 16658.57,
-        "weeklyP": -2.05,
+        "weeklyP": -4.18,
         "monthly": 16322.57,
-        "monthlyP": -0.03,
+        "monthlyP": -2.21,
         "daily_levels": {
-          "r1": 16407.66,
-          "r2": 16498.13,
-          "r3": 16660.96,
-          "s1": 16154.36,
-          "s2": 15991.53,
-          "s3": 15901.06
+          "r1": 16114.04,
+          "r2": 16266.17,
+          "r3": 16361.14,
+          "s1": 15866.94,
+          "s2": 15771.97,
+          "s3": 15619.84
         },
         "weekly_levels": {
           "r1": 17033.13,
@@ -248,13 +248,13 @@
         }
       },
       "ema": {
-        "EMA_100": 15741.29,
-        "EMA_200": 14668.86
+        "EMA_100": 15745.66,
+        "EMA_200": 14681.73
       },
       "bb": {
-        "upper": 17152.33,
-        "mid": 16625.34,
-        "lower": 16098.35
+        "upper": 17116.28,
+        "mid": 16567.05,
+        "lower": 16017.81
       }
     },
     {
@@ -305,34 +305,34 @@
         "no": 0,
         "amount": 0
       },
-      "close": 14251.3,
-      "open": 14029.2,
-      "high": 14254.6,
-      "low": 14029.2,
+      "close": 13981.1,
+      "open": 14145.8,
+      "high": 14153.7,
+      "low": 13962.6,
       "volume_analysis": {
-        "volume_ratio": 0.94,
+        "volume_ratio": 0.84,
         "is_volume_burst": false
       },
       "divergence": {
-        "status": "VOLUME",
+        "status": "NONE",
         "rsi_divergence": false,
-        "volume_divergence": true
+        "volume_divergence": false
       },
-      "rsi": 50.01,
+      "rsi": 43.67,
       "pivots": {
-        "daily": 14178.37,
-        "dailyP": 0.51,
+        "daily": 14032.47,
+        "dailyP": -0.37,
         "weekly": 14334.8,
-        "weeklyP": -0.58,
+        "weeklyP": -2.47,
         "monthly": 14188.43,
-        "monthlyP": 0.44,
+        "monthlyP": -1.46,
         "daily_levels": {
-          "r1": 14327.54,
-          "r2": 14403.77,
-          "r3": 14552.94,
-          "s1": 14102.14,
-          "s2": 13952.97,
-          "s3": 13876.74
+          "r1": 14102.34,
+          "r2": 14223.57,
+          "r3": 14293.44,
+          "s1": 13911.24,
+          "s2": 13841.37,
+          "s3": 13720.14
         },
         "weekly_levels": {
           "r1": 14616.1,
@@ -352,13 +352,13 @@
         }
       },
       "ema": {
-        "EMA_100": 13799.08,
-        "EMA_200": 12991.91
+        "EMA_100": 13802.68,
+        "EMA_200": 13001.75
       },
       "bb": {
-        "upper": 14789.83,
-        "mid": 14359.32,
-        "lower": 13928.82
+        "upper": 14720.7,
+        "mid": 14317.01,
+        "lower": 13913.32
       }
     }
   ],
@@ -371,12 +371,12 @@
         "no": 1,
         "amount": 200000
       },
-      "close": 69.1,
-      "open": 69.3,
-      "high": 69.75,
-      "low": 67.15,
+      "close": 68.6,
+      "open": 68.3,
+      "high": 68.4,
+      "low": 66.5,
       "volume_analysis": {
-        "volume_ratio": 1.29,
+        "volume_ratio": 1.17,
         "is_volume_burst": false
       },
       "divergence": {
@@ -384,21 +384,21 @@
         "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 38.71,
+      "rsi": 37.65,
       "pivots": {
-        "daily": 68.67,
-        "dailyP": 0.63,
+        "daily": 67.83,
+        "dailyP": 1.14,
         "weekly": 70.83,
-        "weeklyP": -2.44,
+        "weeklyP": -3.15,
         "monthly": 74.47,
-        "monthlyP": -7.21,
+        "monthlyP": -7.88,
         "daily_levels": {
-          "r1": 70.19,
-          "r2": 71.27,
-          "r3": 72.79,
-          "s1": 67.59,
-          "s2": 66.07,
-          "s3": 64.99
+          "r1": 69.16,
+          "r2": 69.73,
+          "r3": 71.06,
+          "s1": 67.26,
+          "s2": 65.93,
+          "s3": 65.36
         },
         "weekly_levels": {
           "r1": 73.07,
@@ -418,13 +418,13 @@
         }
       },
       "ema": {
-        "EMA_100": 73.43,
-        "EMA_200": 71.77
+        "EMA_100": 73.33,
+        "EMA_200": 71.74
       },
       "bb": {
-        "upper": 84.76,
-        "mid": 75.36,
-        "lower": 65.95
+        "upper": 84.23,
+        "mid": 74.71,
+        "lower": 65.19
       }
     },
     {
@@ -435,12 +435,12 @@
         "no": 1,
         "amount": 200000
       },
-      "close": 348.5,
-      "open": 349.0,
-      "high": 363.0,
-      "low": 349.0,
+      "close": 352.5,
+      "open": 350.25,
+      "high": 353.25,
+      "low": 344.5,
       "volume_analysis": {
-        "volume_ratio": 0.84,
+        "volume_ratio": 0.97,
         "is_volume_burst": false
       },
       "divergence": {
@@ -448,21 +448,21 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 40.74,
+      "rsi": 42.29,
       "pivots": {
-        "daily": 353.5,
-        "dailyP": -1.41,
+        "daily": 350.08,
+        "dailyP": 0.69,
         "weekly": 378.75,
-        "weeklyP": -7.99,
+        "weeklyP": -6.93,
         "monthly": 366.75,
-        "monthlyP": -4.98,
+        "monthlyP": -3.89,
         "daily_levels": {
-          "r1": 358.0,
-          "r2": 367.5,
-          "r3": 372.0,
-          "s1": 344.0,
-          "s2": 339.5,
-          "s3": 330.0
+          "r1": 355.66,
+          "r2": 358.83,
+          "r3": 364.41,
+          "s1": 346.91,
+          "s2": 341.33,
+          "s3": 338.16
         },
         "weekly_levels": {
           "r1": 402.5,
@@ -482,13 +482,13 @@
         }
       },
       "ema": {
-        "EMA_100": 359.03,
-        "EMA_200": 311.81
+        "EMA_100": 358.98,
+        "EMA_200": 312.25
       },
       "bb": {
-        "upper": 414.66,
-        "mid": 375.02,
-        "lower": 335.39
+        "upper": 409.03,
+        "mid": 372.31,
+        "lower": 335.6
       }
     },
     {
@@ -499,34 +499,34 @@
         "no": 2,
         "amount": 100000
       },
-      "close": 325.0,
-      "open": 325.75,
-      "high": 329.0,
-      "low": 311.25,
+      "close": 312.5,
+      "open": 312.25,
+      "high": 312.25,
+      "low": 286.0,
       "volume_analysis": {
-        "volume_ratio": 0.75,
+        "volume_ratio": 0.92,
         "is_volume_burst": false
       },
       "divergence": {
-        "status": "VOLUME",
+        "status": "NONE",
         "rsi_divergence": false,
-        "volume_divergence": true
+        "volume_divergence": false
       },
-      "rsi": 56.66,
+      "rsi": 52.16,
       "pivots": {
-        "daily": 321.75,
-        "dailyP": 1.01,
+        "daily": 303.58,
+        "dailyP": 2.94,
         "weekly": 321.67,
-        "weeklyP": 1.04,
+        "weeklyP": -2.85,
         "monthly": 308.25,
-        "monthlyP": 5.43,
+        "monthlyP": 1.38,
         "daily_levels": {
-          "r1": 332.25,
-          "r2": 339.5,
-          "r3": 350.0,
-          "s1": 314.5,
-          "s2": 304.0,
-          "s3": 296.75
+          "r1": 321.16,
+          "r2": 329.83,
+          "r3": 347.41,
+          "s1": 294.91,
+          "s2": 277.33,
+          "s3": 268.66
         },
         "weekly_levels": {
           "r1": 340.58,
@@ -546,13 +546,13 @@
         }
       },
       "ema": {
-        "EMA_100": 260.3,
-        "EMA_200": 212.65
+        "EMA_100": 261.09,
+        "EMA_200": 213.52
       },
       "bb": {
-        "upper": 337.32,
+        "upper": 336.34,
         "mid": 304.99,
-        "lower": 272.65
+        "lower": 273.63
       }
     },
     {
@@ -563,12 +563,12 @@
         "no": 1,
         "amount": 200000
       },
-      "close": 128.9,
-      "open": 129.2,
-      "high": 129.4,
-      "low": 126.6,
+      "close": 128.7,
+      "open": 127.8,
+      "high": 128.1,
+      "low": 125.0,
       "volume_analysis": {
-        "volume_ratio": 1.2,
+        "volume_ratio": 1.08,
         "is_volume_burst": false
       },
       "divergence": {
@@ -576,21 +576,21 @@
         "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 40.17,
+      "rsi": 39.84,
       "pivots": {
-        "daily": 128.3,
-        "dailyP": 0.47,
+        "daily": 127.27,
+        "dailyP": 1.12,
         "weekly": 130.97,
-        "weeklyP": -1.58,
+        "weeklyP": -1.73,
         "monthly": 135.07,
-        "monthlyP": -4.57,
+        "monthlyP": -4.72,
         "daily_levels": {
-          "r1": 130.0,
-          "r2": 131.1,
-          "r3": 132.8,
-          "s1": 127.2,
-          "s2": 125.5,
-          "s3": 124.4
+          "r1": 129.54,
+          "r2": 130.37,
+          "r3": 132.64,
+          "s1": 126.44,
+          "s2": 124.17,
+          "s3": 123.34
         },
         "weekly_levels": {
           "r1": 134.53,
@@ -610,13 +610,13 @@
         }
       },
       "ema": {
-        "EMA_100": 135.96,
-        "EMA_200": 136.16
+        "EMA_100": 135.81,
+        "EMA_200": 136.08
       },
       "bb": {
-        "upper": 146.47,
-        "mid": 135.82,
-        "lower": 125.18
+        "upper": 145.46,
+        "mid": 135.05,
+        "lower": 124.64
       }
     },
     {
@@ -627,34 +627,34 @@
         "no": 1,
         "amount": 200000
       },
-      "close": 13.89,
-      "open": 13.9,
-      "high": 13.99,
-      "low": 13.55,
+      "close": 13.99,
+      "open": 13.92,
+      "high": 13.95,
+      "low": 13.45,
       "volume_analysis": {
-        "volume_ratio": 1.35,
+        "volume_ratio": 1.02,
         "is_volume_burst": false
       },
       "divergence": {
-        "status": "RSI",
-        "rsi_divergence": true,
+        "status": "NONE",
+        "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 42.5,
+      "rsi": 44.49,
       "pivots": {
-        "daily": 13.81,
-        "dailyP": 0.58,
+        "daily": 13.8,
+        "dailyP": 1.38,
         "weekly": 14.06,
-        "weeklyP": -1.21,
+        "weeklyP": -0.5,
         "monthly": 14.46,
-        "monthlyP": -3.94,
+        "monthlyP": -3.25,
         "daily_levels": {
-          "r1": 14.07,
-          "r2": 14.25,
-          "r3": 14.51,
-          "s1": 13.63,
-          "s2": 13.37,
-          "s3": 13.19
+          "r1": 14.15,
+          "r2": 14.3,
+          "r3": 14.65,
+          "s1": 13.65,
+          "s2": 13.3,
+          "s3": 13.15
         },
         "weekly_levels": {
           "r1": 14.43,
@@ -674,13 +674,13 @@
         }
       },
       "ema": {
-        "EMA_100": 14.34,
+        "EMA_100": 14.33,
         "EMA_200": 14.22
       },
       "bb": {
-        "upper": 15.69,
-        "mid": 14.57,
-        "lower": 13.45
+        "upper": 15.56,
+        "mid": 14.5,
+        "lower": 13.44
       }
     },
     {
@@ -691,12 +691,12 @@
         "no": 1,
         "amount": 200000
       },
-      "close": 191.1,
-      "open": 191.1,
-      "high": 197.4,
-      "low": 190.7,
+      "close": 197.0,
+      "open": 196.7,
+      "high": 199.6,
+      "low": 196.3,
       "volume_analysis": {
-        "volume_ratio": 1.0,
+        "volume_ratio": 0.99,
         "is_volume_burst": false
       },
       "divergence": {
@@ -704,21 +704,21 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 48.6,
+      "rsi": 55.51,
       "pivots": {
-        "daily": 193.07,
-        "dailyP": -1.02,
+        "daily": 197.63,
+        "dailyP": -0.32,
         "weekly": 189.53,
-        "weeklyP": 0.83,
+        "weeklyP": 3.94,
         "monthly": 192.0,
-        "monthlyP": -0.47,
+        "monthlyP": 2.6,
         "daily_levels": {
-          "r1": 195.44,
-          "r2": 199.77,
-          "r3": 202.14,
-          "s1": 188.74,
-          "s2": 186.37,
-          "s3": 182.04
+          "r1": 198.96,
+          "r2": 200.93,
+          "r3": 202.26,
+          "s1": 195.66,
+          "s2": 194.33,
+          "s3": 192.36
         },
         "weekly_levels": {
           "r1": 196.97,
@@ -738,13 +738,13 @@
         }
       },
       "ema": {
-        "EMA_100": 193.75,
-        "EMA_200": 189.35
+        "EMA_100": 193.93,
+        "EMA_200": 189.48
       },
       "bb": {
-        "upper": 200.4,
-        "mid": 192.51,
-        "lower": 184.62
+        "upper": 200.39,
+        "mid": 192.67,
+        "lower": 184.95
       }
     },
     {
@@ -755,12 +755,12 @@
         "no": 2,
         "amount": 100000
       },
-      "close": 19.6,
-      "open": 19.61,
-      "high": 20.74,
-      "low": 19.61,
+      "close": 20.62,
+      "open": 20.64,
+      "high": 21.2,
+      "low": 20.62,
       "volume_analysis": {
-        "volume_ratio": 1.53,
+        "volume_ratio": 0.92,
         "is_volume_burst": false
       },
       "divergence": {
@@ -768,21 +768,21 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 45.79,
+      "rsi": 56.98,
       "pivots": {
-        "daily": 19.98,
-        "dailyP": -1.9,
+        "daily": 20.81,
+        "dailyP": -0.91,
         "weekly": 19.28,
-        "weeklyP": 1.66,
+        "weeklyP": 6.95,
         "monthly": 20.78,
-        "monthlyP": -5.68,
+        "monthlyP": -0.77,
         "daily_levels": {
-          "r1": 20.35,
-          "r2": 21.11,
-          "r3": 21.48,
-          "s1": 19.22,
-          "s2": 18.85,
-          "s3": 18.09
+          "r1": 21.0,
+          "r2": 21.39,
+          "r3": 21.58,
+          "s1": 20.42,
+          "s2": 20.23,
+          "s3": 19.84
         },
         "weekly_levels": {
           "r1": 19.77,
@@ -802,13 +802,13 @@
         }
       },
       "ema": {
-        "EMA_100": 20.43,
-        "EMA_200": 19.75
+        "EMA_100": 20.45,
+        "EMA_200": 19.77
       },
       "bb": {
-        "upper": 20.39,
-        "mid": 19.45,
-        "lower": 18.51
+        "upper": 20.61,
+        "mid": 19.51,
+        "lower": 18.4
       }
     },
     {
@@ -819,34 +819,34 @@
         "no": 1,
         "amount": 200000
       },
-      "close": 89.45,
-      "open": 89.55,
-      "high": 90.6,
-      "low": 89.3,
+      "close": 90.3,
+      "open": 90.2,
+      "high": 90.5,
+      "low": 88.4,
       "volume_analysis": {
-        "volume_ratio": 1.34,
+        "volume_ratio": 1.16,
         "is_volume_burst": false
       },
       "divergence": {
-        "status": "NONE",
-        "rsi_divergence": false,
+        "status": "RSI",
+        "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 36.65,
+      "rsi": 39.55,
       "pivots": {
-        "daily": 89.78,
-        "dailyP": -0.37,
+        "daily": 89.73,
+        "dailyP": 0.64,
         "weekly": 92.07,
-        "weeklyP": -2.85,
+        "weeklyP": -1.92,
         "monthly": 96.53,
-        "monthlyP": -7.33,
+        "monthlyP": -6.45,
         "daily_levels": {
-          "r1": 90.26,
-          "r2": 91.08,
-          "r3": 91.56,
+          "r1": 91.06,
+          "r2": 91.83,
+          "r3": 93.16,
           "s1": 88.96,
-          "s2": 88.48,
-          "s3": 87.66
+          "s2": 87.63,
+          "s3": 86.86
         },
         "weekly_levels": {
           "r1": 95.38,
@@ -866,13 +866,13 @@
         }
       },
       "ema": {
-        "EMA_100": 94.7,
-        "EMA_200": 93.34
+        "EMA_100": 94.63,
+        "EMA_200": 93.32
       },
       "bb": {
-        "upper": 104.21,
-        "mid": 95.38,
-        "lower": 86.54
+        "upper": 103.16,
+        "mid": 94.81,
+        "lower": 86.45
       }
     },
     {
@@ -883,12 +883,12 @@
         "no": 1,
         "amount": 200000
       },
-      "close": 110.2,
-      "open": 110.2,
-      "high": 112.4,
-      "low": 109.7,
+      "close": 112.2,
+      "open": 111.7,
+      "high": 112.3,
+      "low": 108.3,
       "volume_analysis": {
-        "volume_ratio": 1.4,
+        "volume_ratio": 0.89,
         "is_volume_burst": false
       },
       "divergence": {
@@ -896,21 +896,21 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 52.7,
+      "rsi": 56.75,
       "pivots": {
-        "daily": 110.77,
-        "dailyP": -0.51,
+        "daily": 110.93,
+        "dailyP": 1.14,
         "weekly": 106.77,
-        "weeklyP": 3.21,
+        "weeklyP": 5.09,
         "monthly": 108.57,
-        "monthlyP": 1.5,
+        "monthlyP": 3.34,
         "daily_levels": {
-          "r1": 111.84,
-          "r2": 113.47,
-          "r3": 114.54,
-          "s1": 109.14,
-          "s2": 108.07,
-          "s3": 106.44
+          "r1": 113.56,
+          "r2": 114.93,
+          "r3": 117.56,
+          "s1": 109.56,
+          "s2": 106.93,
+          "s3": 105.56
         },
         "weekly_levels": {
           "r1": 109.63,
@@ -930,13 +930,13 @@
         }
       },
       "ema": {
-        "EMA_100": 109.62,
-        "EMA_200": 107.0
+        "EMA_100": 109.71,
+        "EMA_200": 107.08
       },
       "bb": {
-        "upper": 114.74,
-        "mid": 109.51,
-        "lower": 104.28
+        "upper": 114.08,
+        "mid": 109.42,
+        "lower": 104.76
       }
     },
     {
@@ -947,12 +947,12 @@
         "no": 1,
         "amount": 200000
       },
-      "close": 326.0,
-      "open": 326.0,
-      "high": 333.0,
-      "low": 324.25,
+      "close": 330.0,
+      "open": 329.5,
+      "high": 332.25,
+      "low": 327.0,
       "volume_analysis": {
-        "volume_ratio": 0.71,
+        "volume_ratio": 0.59,
         "is_volume_burst": false
       },
       "divergence": {
@@ -960,21 +960,21 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 49.61,
+      "rsi": 52.19,
       "pivots": {
-        "daily": 327.75,
-        "dailyP": -0.53,
+        "daily": 329.75,
+        "dailyP": 0.08,
         "weekly": 343.42,
-        "weeklyP": -5.07,
+        "weeklyP": -3.91,
         "monthly": 316.75,
-        "monthlyP": 2.92,
+        "monthlyP": 4.18,
         "daily_levels": {
-          "r1": 331.25,
-          "r2": 336.5,
-          "r3": 340.0,
-          "s1": 322.5,
-          "s2": 319.0,
-          "s3": 313.75
+          "r1": 332.5,
+          "r2": 335.0,
+          "r3": 337.75,
+          "s1": 327.25,
+          "s2": 324.5,
+          "s3": 322.0
         },
         "weekly_levels": {
           "r1": 356.58,
@@ -994,13 +994,13 @@
         }
       },
       "ema": {
-        "EMA_100": 312.54,
-        "EMA_200": 306.39
+        "EMA_100": 312.96,
+        "EMA_200": 306.67
       },
       "bb": {
         "upper": 346.1,
-        "mid": 331.76,
-        "lower": 317.42
+        "mid": 332.04,
+        "lower": 317.97
       }
     },
     {
@@ -1011,12 +1011,12 @@
         "no": 1,
         "amount": 200000
       },
-      "close": 270.75,
-      "open": 271.25,
-      "high": 286.75,
-      "low": 271.25,
+      "close": 286.25,
+      "open": 287.0,
+      "high": 289.75,
+      "low": 283.25,
       "volume_analysis": {
-        "volume_ratio": 1.11,
+        "volume_ratio": 0.9,
         "is_volume_burst": false
       },
       "divergence": {
@@ -1024,21 +1024,21 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 73.29,
+      "rsi": 79.23,
       "pivots": {
-        "daily": 276.25,
-        "dailyP": -1.99,
+        "daily": 286.42,
+        "dailyP": -0.06,
         "weekly": 260.0,
-        "weeklyP": 4.13,
+        "weeklyP": 10.1,
         "monthly": 231.78,
-        "monthlyP": 16.81,
+        "monthlyP": 23.5,
         "daily_levels": {
-          "r1": 281.25,
-          "r2": 291.75,
-          "r3": 296.75,
-          "s1": 265.75,
-          "s2": 260.75,
-          "s3": 250.25
+          "r1": 289.59,
+          "r2": 292.92,
+          "r3": 296.09,
+          "s1": 283.09,
+          "s2": 279.92,
+          "s3": 276.59
         },
         "weekly_levels": {
           "r1": 277.0,
@@ -1058,13 +1058,13 @@
         }
       },
       "ema": {
-        "EMA_100": 240.07,
-        "EMA_200": 223.99
+        "EMA_100": 241.28,
+        "EMA_200": 224.76
       },
       "bb": {
-        "upper": 280.78,
-        "mid": 241.06,
-        "lower": 201.35
+        "upper": 290.77,
+        "mid": 244.95,
+        "lower": 199.13
       }
     },
     {
@@ -1075,33 +1075,33 @@
         "no": 1,
         "amount": 200000
       },
-      "close": 33.96,
-      "open": 34.02,
-      "high": 34.14,
-      "low": 32.96,
+      "close": 33.52,
+      "open": 33.38,
+      "high": 33.56,
+      "low": 32.68,
       "volume_analysis": {
-        "volume_ratio": 2.37,
-        "is_volume_burst": true
+        "volume_ratio": 1.04,
+        "is_volume_burst": false
       },
       "divergence": {
         "status": "NONE",
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 31.56,
+      "rsi": 30.26,
       "pivots": {
-        "daily": 33.69,
-        "dailyP": 0.8,
+        "daily": 33.25,
+        "dailyP": 0.81,
         "weekly": 36.16,
-        "weeklyP": -6.08,
+        "weeklyP": -7.3,
         "monthly": 39.1,
-        "monthlyP": -13.15,
+        "monthlyP": -14.27,
         "daily_levels": {
-          "r1": 34.42,
-          "r2": 34.87,
-          "r3": 35.6,
-          "s1": 33.24,
-          "s2": 32.51,
+          "r1": 33.82,
+          "r2": 34.13,
+          "r3": 34.7,
+          "s1": 32.94,
+          "s2": 32.37,
           "s3": 32.06
         },
         "weekly_levels": {
@@ -1122,13 +1122,13 @@
         }
       },
       "ema": {
-        "EMA_100": 37.24,
-        "EMA_200": 36.08
+        "EMA_100": 37.16,
+        "EMA_200": 36.05
       },
       "bb": {
-        "upper": 45.5,
-        "mid": 39.02,
-        "lower": 32.53
+        "upper": 45.27,
+        "mid": 38.54,
+        "lower": 31.8
       }
     }
   ]
