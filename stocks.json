@@ -1,5 +1,263 @@
 {
-  "updated_at": "2026-08-05T07:49:18.667934Z",
-  "indexes": [],
-  "stocks": []
+  "updated_at": "2026-08-05T07:53:32.050489Z",
+  "indexes": [
+    {
+      "id": 2,
+      "ticker": "XAUUSD",
+      "name": "Ons Altın",
+      "tier": {
+        "no": 4,
+        "amount": 10000
+      },
+      "close": 4095.4,
+      "open": 4050.5,
+      "high": 4095.4,
+      "low": 4048.8,
+      "volume_analysis": {
+        "volume_ratio": 0.06,
+        "is_volume_burst": false
+      },
+      "divergence": {
+        "status": "VOLUME",
+        "rsi_divergence": false,
+        "volume_divergence": true
+      },
+      "rsi": 49.78,
+      "pivots": {
+        "daily": 4079.87,
+        "dailyP": 0.38,
+        "weekly": 4061.83,
+        "weeklyP": 0.83,
+        "monthly": 4070.6,
+        "monthlyP": 0.61,
+        "daily_levels": {
+          "r1": 4110.94,
+          "r2": 4126.47,
+          "r3": 4157.54,
+          "s1": 4064.34,
+          "s2": 4033.27,
+          "s3": 4017.74
+        },
+        "weekly_levels": {
+          "r1": 4105.77,
+          "r2": 4162.43,
+          "r3": 4206.37,
+          "s1": 4005.17,
+          "s2": 3961.23,
+          "s3": 3904.57
+        },
+        "monthly_levels": {
+          "r1": 4178.2,
+          "r2": 4307.3,
+          "r3": 4414.9,
+          "s1": 3941.5,
+          "s2": 3833.9,
+          "s3": 3704.8
+        }
+      },
+      "ema": {
+        "EMA_100": 4325.56,
+        "EMA_200": 4278.47
+      },
+      "bb": {
+        "upper": 4141.65,
+        "mid": 4058.62,
+        "lower": 3975.58
+      }
+    },
+    {
+      "id": 4,
+      "ticker": "XU030",
+      "name": "Bist 30",
+      "tier": {
+        "no": 0,
+        "amount": 0
+      },
+      "close": 15506.8,
+      "open": 15216.2,
+      "high": 15523.3,
+      "low": 15195.5,
+      "volume_analysis": {
+        "volume_ratio": 0.85,
+        "is_volume_burst": false
+      },
+      "divergence": {
+        "status": "VOLUME",
+        "rsi_divergence": false,
+        "volume_divergence": true
+      },
+      "rsi": 42.0,
+      "pivots": {
+        "daily": 15408.53,
+        "dailyP": 0.64,
+        "weekly": 15420.03,
+        "weeklyP": 0.56,
+        "monthly": 15761.23,
+        "monthlyP": -1.61,
+        "daily_levels": {
+          "r1": 15621.56,
+          "r2": 15736.33,
+          "r3": 15949.36,
+          "s1": 15293.76,
+          "s2": 15080.73,
+          "s3": 14965.96
+        },
+        "weekly_levels": {
+          "r1": 15881.27,
+          "r2": 16514.13,
+          "r3": 16975.37,
+          "s1": 14787.17,
+          "s2": 14325.93,
+          "s3": 13693.07
+        },
+        "monthly_levels": {
+          "r1": 16563.67,
+          "r2": 17878.93,
+          "r3": 18681.37,
+          "s1": 14445.97,
+          "s2": 13643.53,
+          "s3": 12328.27
+        }
+      },
+      "ema": {
+        "EMA_100": 15713.66,
+        "EMA_200": 14786.26
+      },
+      "bb": {
+        "upper": 16912.98,
+        "mid": 15922.73,
+        "lower": 14932.48
+      }
+    }
+  ],
+  "stocks": [
+    {
+      "id": 1,
+      "ticker": "AKBNK",
+      "name": "Akbank T.A.Ş.",
+      "tier": {
+        "no": 1,
+        "amount": 200000
+      },
+      "close": 67.9,
+      "open": 66.0,
+      "high": 68.3,
+      "low": 65.35,
+      "volume_analysis": {
+        "volume_ratio": 1.52,
+        "is_volume_burst": false
+      },
+      "divergence": {
+        "status": "NONE",
+        "rsi_divergence": false,
+        "volume_divergence": false
+      },
+      "rsi": 48.65,
+      "pivots": {
+        "daily": 67.18,
+        "dailyP": 1.07,
+        "weekly": 64.78,
+        "weeklyP": 4.82,
+        "monthly": 67.85,
+        "monthlyP": 0.07,
+        "daily_levels": {
+          "r1": 69.01,
+          "r2": 70.13,
+          "r3": 71.96,
+          "s1": 66.06,
+          "s2": 64.23,
+          "s3": 63.11
+        },
+        "weekly_levels": {
+          "r1": 68.27,
+          "r2": 73.13,
+          "r3": 76.62,
+          "s1": 59.92,
+          "s2": 56.43,
+          "s3": 51.57
+        },
+        "monthly_levels": {
+          "r1": 74.4,
+          "r2": 85.4,
+          "r3": 91.95,
+          "s1": 56.85,
+          "s2": 50.3,
+          "s3": 39.3
+        }
+      },
+      "ema": {
+        "EMA_100": 71.67,
+        "EMA_200": 71.04
+      },
+      "bb": {
+        "upper": 72.45,
+        "mid": 67.21,
+        "lower": 61.98
+      }
+    },
+    {
+      "id": 3,
+      "ticker": "ISCTR",
+      "name": "Türkiye İş Bankası A.Ş.",
+      "tier": {
+        "no": 1,
+        "amount": 200000
+      },
+      "close": 12.59,
+      "open": 12.4,
+      "high": 12.63,
+      "low": 12.34,
+      "volume_analysis": {
+        "volume_ratio": 1.48,
+        "is_volume_burst": false
+      },
+      "divergence": {
+        "status": "NONE",
+        "rsi_divergence": false,
+        "volume_divergence": false
+      },
+      "rsi": 37.07,
+      "pivots": {
+        "daily": 12.52,
+        "dailyP": 0.56,
+        "weekly": 12.54,
+        "weeklyP": 0.4,
+        "monthly": 13.18,
+        "monthlyP": -4.48,
+        "daily_levels": {
+          "r1": 12.7,
+          "r2": 12.81,
+          "r3": 12.99,
+          "s1": 12.41,
+          "s2": 12.23,
+          "s3": 12.12
+        },
+        "weekly_levels": {
+          "r1": 13.12,
+          "r2": 13.76,
+          "r3": 14.34,
+          "s1": 11.9,
+          "s2": 11.32,
+          "s3": 10.68
+        },
+        "monthly_levels": {
+          "r1": 14.4,
+          "r2": 16.32,
+          "r3": 17.54,
+          "s1": 11.26,
+          "s2": 10.04,
+          "s3": 8.12
+        }
+      },
+      "ema": {
+        "EMA_100": 13.99,
+        "EMA_200": 14.05
+      },
+      "bb": {
+        "upper": 14.52,
+        "mid": 13.22,
+        "lower": 11.91
+      }
+    }
+  ]
 }
