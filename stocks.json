@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-18T11:10:43.618069Z",
+  "updated_at": "2026-08-18T14:05:38.066383Z",
   "indexes": [
     {
-      "id": 18,
+      "id": 19,
       "ticker": "UKOIL",
       "name": "Brent Petrol",
       "tier": {
@@ -74,7 +74,7 @@
       }
     },
     {
-      "id": 39,
+      "id": 44,
       "ticker": "XAUUSD",
       "name": "Ons Altın",
       "tier": {
@@ -146,9 +146,9 @@
       }
     },
     {
-      "id": 100,
+      "id": 107,
       "ticker": "XBANK",
-      "name": "XBANK",
+      "name": "Bist Banka Endeksi",
       "tier": {
         "no": 0,
         "amount": 0
@@ -158,28 +158,28 @@
       "high": 15893.3,
       "low": 15697.7,
       "volume_analysis": {
-        "volume_ratio": 0.54,
+        "volume_ratio": 0.55,
         "is_volume_burst": false
       },
       "divergence": {
-        "status": "VOLUME",
+        "status": "NONE",
         "rsi_divergence": false,
-        "volume_divergence": true
+        "volume_divergence": false
       },
-      "rsi": 47.43,
+      "rsi": 46.74,
       "pivots": {
         "daily": 15792.4,
         "dailyP": -0.12,
         "weekly": 15491.6,
         "weeklyP": 1.82,
-        "monthly": 16005.9,
-        "monthlyP": -1.45,
+        "monthly": 15865.4,
+        "monthlyP": -0.58,
         "next_daily": 15788.1,
         "next_dailyP": -0.09,
-        "next_weekly": 15640.83,
-        "next_weeklyP": 0.85,
-        "next_monthly": 15640.63,
-        "next_monthlyP": 0.85,
+        "next_weekly": 15550.47,
+        "next_weeklyP": 1.43,
+        "next_monthly": 15550.47,
+        "next_monthlyP": 1.43,
         "daily_levels": {
           "r1": 16001.8,
           "r2": 16210.5,
@@ -197,28 +197,28 @@
           "s3": 14455.7
         },
         "monthly_levels": {
-          "r1": 17472.0,
-          "r2": 19933.8,
-          "r3": 21399.9,
-          "s1": 13544.1,
-          "s2": 12078.0,
-          "s3": 9616.2
+          "r1": 17191.0,
+          "r2": 19793.3,
+          "r3": 21118.9,
+          "s1": 13263.1,
+          "s2": 11937.5,
+          "s3": 9335.2
         }
       },
       "ema": {
-        "EMA_20": 15764.4,
-        "EMA_50": 16294.42,
-        "EMA_100": 16638.35,
-        "EMA_200": 16541.86
+        "EMA_20": 15806.12,
+        "EMA_50": 16353.78,
+        "EMA_100": 16680.67,
+        "EMA_200": 16560.55
       },
       "bb": {
-        "upper": 16232.54,
-        "mid": 15540.11,
-        "lower": 14847.68
+        "upper": 16461.76,
+        "mid": 15617.45,
+        "lower": 14773.14
       }
     },
     {
-      "id": 101,
+      "id": 108,
       "ticker": "XU030",
       "name": "Bist 30",
       "tier": {
@@ -230,7 +230,7 @@
       "high": 16213.8,
       "low": 15971.2,
       "volume_analysis": {
-        "volume_ratio": 0.83,
+        "volume_ratio": 0.81,
         "is_volume_burst": false
       },
       "divergence": {
@@ -238,18 +238,18 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 54.42,
+      "rsi": 53.56,
       "pivots": {
         "daily": 16021.0,
         "dailyP": 0.05,
         "weekly": 15521.9,
         "weeklyP": 3.27,
-        "monthly": 15761.23,
-        "monthlyP": 1.7,
+        "monthly": 15689.57,
+        "monthlyP": 2.16,
         "next_daily": 16071.37,
         "next_dailyP": -0.26,
-        "next_weekly": 15897.9,
-        "next_weeklyP": 0.83,
+        "next_weekly": 15839.97,
+        "next_weeklyP": 1.19,
         "next_monthly": 15796.5,
         "next_monthlyP": 1.47,
         "daily_levels": {
@@ -269,28 +269,28 @@
           "s3": 14543.8
         },
         "monthly_levels": {
-          "r1": 16563.67,
-          "r2": 17878.93,
-          "r3": 18681.37,
-          "s1": 14445.97,
-          "s2": 13643.53,
-          "s3": 12328.27
+          "r1": 16420.33,
+          "r2": 17807.27,
+          "r3": 18538.03,
+          "s1": 14302.63,
+          "s2": 13571.87,
+          "s3": 12184.93
         }
       },
       "ema": {
-        "EMA_20": 15799.44,
-        "EMA_50": 15952.06,
-        "EMA_100": 15722.34,
-        "EMA_200": 14851.96
+        "EMA_20": 15818.86,
+        "EMA_50": 15967.58,
+        "EMA_100": 15718.37,
+        "EMA_200": 14831.65
       },
       "bb": {
-        "upper": 16324.11,
-        "mid": 15688.52,
-        "lower": 15052.94
+        "upper": 16395.45,
+        "mid": 15722.78,
+        "lower": 15050.1
       }
     },
     {
-      "id": 102,
+      "id": 109,
       "ticker": "XU100",
       "name": "Bist 100",
       "tier": {
@@ -302,7 +302,7 @@
       "high": 14250.0,
       "low": 14092.8,
       "volume_analysis": {
-        "volume_ratio": 0.8,
+        "volume_ratio": 0.78,
         "is_volume_burst": false
       },
       "divergence": {
@@ -310,14 +310,14 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 57.67,
+      "rsi": 56.82,
       "pivots": {
         "daily": 14141.93,
         "dailyP": 0.21,
         "weekly": 13703.87,
         "weeklyP": 3.42,
-        "monthly": 13768.0,
-        "monthlyP": 2.94,
+        "monthly": 13715.43,
+        "monthlyP": 3.33,
         "next_daily": 14171.7,
         "next_dailyP": 0.0,
         "next_weekly": 13994.93,
@@ -341,24 +341,24 @@
           "s3": 12871.33
         },
         "monthly_levels": {
-          "r1": 14319.8,
-          "r2": 15181.5,
-          "r3": 15733.3,
-          "s1": 12906.3,
-          "s2": 12354.5,
-          "s3": 11492.8
+          "r1": 14207.17,
+          "r2": 15121.43,
+          "r3": 15613.17,
+          "s1": 12801.17,
+          "s2": 12309.43,
+          "s3": 11395.17
         }
       },
       "ema": {
-        "EMA_20": 13895.78,
-        "EMA_50": 13970.3,
-        "EMA_100": 13806.17,
-        "EMA_200": 13147.52
+        "EMA_20": 13918.85,
+        "EMA_50": 13989.77,
+        "EMA_100": 13804.7,
+        "EMA_200": 13126.39
       },
       "bb": {
-        "upper": 14325.09,
-        "mid": 13811.56,
-        "lower": 13298.04
+        "upper": 14363.74,
+        "mid": 13848.63,
+        "lower": 13333.52
       }
     }
   ],
@@ -384,7 +384,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 33.2,
+      "rsi": 33.57,
       "pivots": {
         "daily": 19.29,
         "dailyP": -1.76,
@@ -425,90 +425,18 @@
       },
       "ema": {
         "EMA_20": 20.63,
-        "EMA_50": 20.59,
-        "EMA_100": 19.98,
-        "EMA_200": 18.97
+        "EMA_50": 20.57,
+        "EMA_100": 19.95,
+        "EMA_200": 18.94
       },
       "bb": {
-        "upper": 23.09,
-        "mid": 21.1,
-        "lower": 19.11
+        "upper": 23.08,
+        "mid": 21.09,
+        "lower": 19.09
       }
     },
     {
       "id": 2,
-      "ticker": "AGHOL",
-      "name": "AGHOL",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 30.8,
-      "open": 31.14,
-      "high": 31.36,
-      "low": 30.8,
-      "volume_analysis": {
-        "volume_ratio": 0.78,
-        "is_volume_burst": false
-      },
-      "divergence": {
-        "status": "NONE",
-        "rsi_divergence": false,
-        "volume_divergence": false
-      },
-      "rsi": 32.35,
-      "pivots": {
-        "daily": 31.73,
-        "dailyP": -2.93,
-        "weekly": 32.73,
-        "weeklyP": -5.9,
-        "monthly": 34.43,
-        "monthlyP": -10.54,
-        "next_daily": 30.99,
-        "next_dailyP": -0.61,
-        "next_weekly": 30.99,
-        "next_weeklyP": -0.61,
-        "next_monthly": 32.57,
-        "next_monthlyP": -5.43,
-        "daily_levels": {
-          "r1": 32.31,
-          "r2": 33.49,
-          "r3": 34.07,
-          "s1": 30.55,
-          "s2": 29.97,
-          "s3": 28.79
-        },
-        "weekly_levels": {
-          "r1": 34.33,
-          "r2": 37.51,
-          "r3": 39.11,
-          "s1": 29.55,
-          "s2": 27.95,
-          "s3": 24.77
-        },
-        "monthly_levels": {
-          "r1": 37.07,
-          "r2": 38.67,
-          "r3": 41.31,
-          "s1": 32.83,
-          "s2": 30.19,
-          "s3": 28.59
-        }
-      },
-      "ema": {
-        "EMA_20": 33.71,
-        "EMA_50": 33.65,
-        "EMA_100": 33.0,
-        "EMA_200": 31.89
-      },
-      "bb": {
-        "upper": 37.13,
-        "mid": 34.3,
-        "lower": 31.48
-      }
-    },
-    {
-      "id": 3,
       "ticker": "AKBNK",
       "name": "Akbank T.A.Ş.",
       "tier": {
@@ -528,7 +456,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 48.95,
+      "rsi": 48.64,
       "pivots": {
         "daily": 69.0,
         "dailyP": -1.45,
@@ -568,19 +496,19 @@
         }
       },
       "ema": {
-        "EMA_20": 67.87,
-        "EMA_50": 69.62,
-        "EMA_100": 71.17,
-        "EMA_200": 70.82
+        "EMA_20": 67.95,
+        "EMA_50": 69.73,
+        "EMA_100": 71.25,
+        "EMA_200": 70.86
       },
       "bb": {
-        "upper": 70.23,
-        "mid": 66.78,
-        "lower": 63.33
+        "upper": 70.22,
+        "mid": 66.76,
+        "lower": 63.31
       }
     },
     {
-      "id": 4,
+      "id": 3,
       "ticker": "AKSA",
       "name": "AKSA",
       "tier": {
@@ -600,7 +528,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 40.99,
+      "rsi": 41.11,
       "pivots": {
         "daily": 11.85,
         "dailyP": -2.78,
@@ -640,19 +568,19 @@
         }
       },
       "ema": {
-        "EMA_20": 12.13,
-        "EMA_50": 11.88,
-        "EMA_100": 11.51,
-        "EMA_200": 11.13
+        "EMA_20": 12.12,
+        "EMA_50": 11.86,
+        "EMA_100": 11.49,
+        "EMA_200": 11.12
       },
       "bb": {
-        "upper": 12.85,
-        "mid": 12.24,
-        "lower": 11.64
+        "upper": 12.82,
+        "mid": 12.23,
+        "lower": 11.65
       }
     },
     {
-      "id": 5,
+      "id": 4,
       "ticker": "AKSEN",
       "name": "AKSEN",
       "tier": {
@@ -672,7 +600,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 41.86,
+      "rsi": 42.34,
       "pivots": {
         "daily": 84.88,
         "dailyP": -0.57,
@@ -712,10 +640,10 @@
         }
       },
       "ema": {
-        "EMA_20": 90.64,
-        "EMA_50": 89.74,
-        "EMA_100": 84.81,
-        "EMA_200": 75.32
+        "EMA_20": 90.41,
+        "EMA_50": 89.36,
+        "EMA_100": 84.45,
+        "EMA_200": 75.03
       },
       "bb": {
         "upper": 117.01,
@@ -724,9 +652,9 @@
       }
     },
     {
-      "id": 6,
+      "id": 5,
       "ticker": "ALARK",
-      "name": "ALARK",
+      "name": "Alarko Holding A.Ş.",
       "tier": {
         "no": 4,
         "amount": 10000
@@ -744,14 +672,14 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 51.18,
+      "rsi": 51.49,
       "pivots": {
         "daily": 103.6,
         "dailyP": 0.19,
         "weekly": 103.97,
         "weeklyP": -0.16,
-        "monthly": 103.02,
-        "monthlyP": 0.76,
+        "monthly": 102.92,
+        "monthlyP": 0.86,
         "next_daily": 103.8,
         "next_dailyP": 0.0,
         "next_weekly": 103.8,
@@ -775,28 +703,28 @@
           "s3": 93.63
         },
         "monthly_levels": {
-          "r1": 108.88,
-          "r2": 116.87,
-          "r3": 122.73,
-          "s1": 95.03,
-          "s2": 89.17,
-          "s3": 81.18
+          "r1": 108.68,
+          "r2": 116.47,
+          "r3": 122.23,
+          "s1": 95.13,
+          "s2": 89.37,
+          "s3": 81.58
         }
       },
       "ema": {
-        "EMA_20": 103.31,
-        "EMA_50": 102.55,
-        "EMA_100": 100.94,
-        "EMA_200": 98.52
+        "EMA_20": 103.19,
+        "EMA_50": 102.37,
+        "EMA_100": 100.79,
+        "EMA_200": 98.41
       },
       "bb": {
-        "upper": 109.84,
-        "mid": 104.13,
-        "lower": 98.42
+        "upper": 108.76,
+        "mid": 103.84,
+        "lower": 98.91
       }
     },
     {
-      "id": 7,
+      "id": 6,
       "ticker": "ALTNY",
       "name": "ALTNY",
       "tier": {
@@ -816,7 +744,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 46.1,
+      "rsi": 46.27,
       "pivots": {
         "daily": 16.84,
         "dailyP": -6.24,
@@ -856,19 +784,19 @@
         }
       },
       "ema": {
-        "EMA_20": 16.15,
-        "EMA_50": 16.21,
-        "EMA_100": 16.22,
-        "EMA_200": 16.39
+        "EMA_20": 16.14,
+        "EMA_50": 16.2,
+        "EMA_100": 16.21,
+        "EMA_200": 16.38
       },
       "bb": {
-        "upper": 17.31,
-        "mid": 16.17,
-        "lower": 15.03
+        "upper": 17.25,
+        "mid": 16.09,
+        "lower": 14.94
       }
     },
     {
-      "id": 8,
+      "id": 7,
       "ticker": "ANSGR",
       "name": "ANSGR",
       "tier": {
@@ -888,7 +816,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 53.5,
+      "rsi": 53.47,
       "pivots": {
         "daily": 28.7,
         "dailyP": -1.05,
@@ -928,10 +856,10 @@
         }
       },
       "ema": {
-        "EMA_20": 28.16,
+        "EMA_20": 28.15,
         "EMA_50": 27.98,
-        "EMA_100": 27.67,
-        "EMA_200": 26.69
+        "EMA_100": 27.66,
+        "EMA_200": 26.68
       },
       "bb": {
         "upper": 29.39,
@@ -940,7 +868,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 8,
       "ticker": "ARCLK",
       "name": "ARCLK",
       "tier": {
@@ -960,7 +888,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 33.44,
+      "rsi": 33.69,
       "pivots": {
         "daily": 95.05,
         "dailyP": -1.0,
@@ -1000,15 +928,87 @@
         }
       },
       "ema": {
-        "EMA_20": 97.21,
-        "EMA_50": 100.06,
-        "EMA_100": 104.03,
-        "EMA_200": 109.31
+        "EMA_20": 97.23,
+        "EMA_50": 100.16,
+        "EMA_100": 104.15,
+        "EMA_200": 109.42
       },
       "bb": {
-        "upper": 100.24,
-        "mid": 97.46,
-        "lower": 94.68
+        "upper": 100.16,
+        "mid": 97.42,
+        "lower": 94.67
+      }
+    },
+    {
+      "id": 9,
+      "ticker": "ARDYZ",
+      "name": "ARDEAZ Bilişim Teknolojileri A.Ş.",
+      "tier": {
+        "no": 4,
+        "amount": 10000
+      },
+      "close": 91.6,
+      "open": 89.5,
+      "high": 91.6,
+      "low": 85.05,
+      "volume_analysis": {
+        "volume_ratio": 4.35,
+        "is_volume_burst": true
+      },
+      "divergence": {
+        "status": "NONE",
+        "rsi_divergence": false,
+        "volume_divergence": false
+      },
+      "rsi": 75.32,
+      "pivots": {
+        "daily": 82.78,
+        "dailyP": 10.65,
+        "weekly": 81.75,
+        "weeklyP": 12.05,
+        "monthly": 67.18,
+        "monthlyP": 36.35,
+        "next_daily": 89.42,
+        "next_dailyP": 2.44,
+        "next_weekly": 89.42,
+        "next_weeklyP": 2.44,
+        "next_monthly": 85.5,
+        "next_monthlyP": 7.13,
+        "daily_levels": {
+          "r1": 84.67,
+          "r2": 86.03,
+          "r3": 87.92,
+          "s1": 81.42,
+          "s2": 79.53,
+          "s3": 78.17
+        },
+        "weekly_levels": {
+          "r1": 86.55,
+          "r2": 89.8,
+          "r3": 94.6,
+          "s1": 78.5,
+          "s2": 73.7,
+          "s3": 70.45
+        },
+        "monthly_levels": {
+          "r1": 76.37,
+          "r2": 84.88,
+          "r3": 94.07,
+          "s1": 58.67,
+          "s2": 49.48,
+          "s3": 40.97
+        }
+      },
+      "ema": {
+        "EMA_20": 76.42,
+        "EMA_50": 68.59,
+        "EMA_100": 60.67,
+        "EMA_200": 51.55
+      },
+      "bb": {
+        "upper": 87.97,
+        "mid": 75.17,
+        "lower": 62.37
       }
     },
     {
@@ -1032,7 +1032,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 59.03,
+      "rsi": 58.71,
       "pivots": {
         "daily": 394.17,
         "dailyP": -1.31,
@@ -1072,15 +1072,15 @@
         }
       },
       "ema": {
-        "EMA_20": 368.18,
-        "EMA_50": 369.68,
-        "EMA_100": 360.63,
-        "EMA_200": 321.55
+        "EMA_20": 368.39,
+        "EMA_50": 370.06,
+        "EMA_100": 360.69,
+        "EMA_200": 321.2
       },
       "bb": {
-        "upper": 396.09,
-        "mid": 363.31,
-        "lower": 330.53
+        "upper": 396.13,
+        "mid": 363.16,
+        "lower": 330.19
       }
     },
     {
@@ -1104,7 +1104,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 61.7,
+      "rsi": 61.36,
       "pivots": {
         "daily": 342.42,
         "dailyP": -0.85,
@@ -1144,15 +1144,15 @@
         }
       },
       "ema": {
-        "EMA_20": 314.29,
-        "EMA_50": 302.6,
-        "EMA_100": 276.3,
-        "EMA_200": 230.31
+        "EMA_20": 314.44,
+        "EMA_50": 302.55,
+        "EMA_100": 275.81,
+        "EMA_200": 229.63
       },
       "bb": {
-        "upper": 345.5,
-        "mid": 306.59,
-        "lower": 267.67
+        "upper": 345.76,
+        "mid": 306.1,
+        "lower": 266.44
       }
     },
     {
@@ -1176,7 +1176,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 27.83,
+      "rsi": 26.62,
       "pivots": {
         "daily": 10.87,
         "dailyP": -6.16,
@@ -1217,18 +1217,90 @@
       },
       "ema": {
         "EMA_20": 13.18,
-        "EMA_50": 14.35,
-        "EMA_100": 14.93,
+        "EMA_50": 14.34,
+        "EMA_100": 14.92,
         "EMA_200": 15.96
       },
       "bb": {
-        "upper": 18.36,
-        "mid": 13.95,
-        "lower": 9.55
+        "upper": 18.59,
+        "mid": 14.02,
+        "lower": 9.45
       }
     },
     {
       "id": 13,
+      "ticker": "BERA",
+      "name": "BERA",
+      "tier": {
+        "no": 4,
+        "amount": 10000
+      },
+      "close": 13.34,
+      "open": 13.6,
+      "high": 13.61,
+      "low": 13.14,
+      "volume_analysis": {
+        "volume_ratio": 1.13,
+        "is_volume_burst": false
+      },
+      "divergence": {
+        "status": "NONE",
+        "rsi_divergence": false,
+        "volume_divergence": false
+      },
+      "rsi": 42.14,
+      "pivots": {
+        "daily": 13.52,
+        "dailyP": -1.33,
+        "weekly": 13.41,
+        "weeklyP": -0.52,
+        "monthly": 13.85,
+        "monthlyP": -3.68,
+        "next_daily": 13.36,
+        "next_dailyP": -0.15,
+        "next_weekly": 13.36,
+        "next_weeklyP": -0.15,
+        "next_monthly": 13.29,
+        "next_monthlyP": 0.38,
+        "daily_levels": {
+          "r1": 13.86,
+          "r2": 14.25,
+          "r3": 14.59,
+          "s1": 13.13,
+          "s2": 12.79,
+          "s3": 12.4
+        },
+        "weekly_levels": {
+          "r1": 13.97,
+          "r2": 14.47,
+          "r3": 15.03,
+          "s1": 12.91,
+          "s2": 12.35,
+          "s3": 11.85
+        },
+        "monthly_levels": {
+          "r1": 15.06,
+          "r2": 17.47,
+          "r3": 18.68,
+          "s1": 11.44,
+          "s2": 10.23,
+          "s3": 7.82
+        }
+      },
+      "ema": {
+        "EMA_20": 13.52,
+        "EMA_50": 14.65,
+        "EMA_100": 15.69,
+        "EMA_200": 16.38
+      },
+      "bb": {
+        "upper": 14.24,
+        "mid": 13.25,
+        "lower": 12.26
+      }
+    },
+    {
+      "id": 14,
       "ticker": "BIMAS",
       "name": "BİM Birleşik Mağazalar A.Ş.",
       "tier": {
@@ -1248,7 +1320,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 50.24,
+      "rsi": 50.53,
       "pivots": {
         "daily": 375.83,
         "dailyP": 1.64,
@@ -1288,19 +1360,91 @@
         }
       },
       "ema": {
-        "EMA_20": 381.75,
-        "EMA_50": 379.85,
-        "EMA_100": 369.72,
-        "EMA_200": 345.19
+        "EMA_20": 381.43,
+        "EMA_50": 379.39,
+        "EMA_100": 369.22,
+        "EMA_200": 344.67
       },
       "bb": {
-        "upper": 398.31,
-        "mid": 384.98,
-        "lower": 371.64
+        "upper": 395.72,
+        "mid": 384.28,
+        "lower": 372.83
       }
     },
     {
-      "id": 14,
+      "id": 15,
+      "ticker": "BJKAS",
+      "name": "Beşiktaş Futbol Yatırımları Sanayi ve Ticaret A.Ş.",
+      "tier": {
+        "no": 4,
+        "amount": 10000
+      },
+      "close": 2.02,
+      "open": 1.9,
+      "high": 2.02,
+      "low": 1.9,
+      "volume_analysis": {
+        "volume_ratio": 2.78,
+        "is_volume_burst": true
+      },
+      "divergence": {
+        "status": "NONE",
+        "rsi_divergence": false,
+        "volume_divergence": false
+      },
+      "rsi": 62.05,
+      "pivots": {
+        "daily": 1.92,
+        "dailyP": 5.21,
+        "weekly": 1.89,
+        "weeklyP": 6.88,
+        "monthly": 1.81,
+        "monthlyP": 11.6,
+        "next_daily": 1.98,
+        "next_dailyP": 2.02,
+        "next_weekly": 1.98,
+        "next_weeklyP": 2.02,
+        "next_monthly": 1.94,
+        "next_monthlyP": 4.12,
+        "daily_levels": {
+          "r1": 1.99,
+          "r2": 2.15,
+          "r3": 2.22,
+          "s1": 1.76,
+          "s2": 1.69,
+          "s3": 1.53
+        },
+        "weekly_levels": {
+          "r1": 2.02,
+          "r2": 2.21,
+          "r3": 2.34,
+          "s1": 1.7,
+          "s2": 1.57,
+          "s3": 1.38
+        },
+        "monthly_levels": {
+          "r1": 2.0,
+          "r2": 2.25,
+          "r3": 2.44,
+          "s1": 1.56,
+          "s2": 1.37,
+          "s3": 1.12
+        }
+      },
+      "ema": {
+        "EMA_20": 1.83,
+        "EMA_50": 1.75,
+        "EMA_100": 1.71,
+        "EMA_200": 2.01
+      },
+      "bb": {
+        "upper": 2.01,
+        "mid": 1.84,
+        "lower": 1.67
+      }
+    },
+    {
+      "id": 16,
       "ticker": "BRSAN",
       "name": "BRSAN",
       "tier": {
@@ -1320,7 +1464,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 68.01,
+      "rsi": 67.63,
       "pivots": {
         "daily": 653.83,
         "dailyP": 0.33,
@@ -1360,19 +1504,19 @@
         }
       },
       "ema": {
-        "EMA_20": 596.3,
-        "EMA_50": 578.04,
-        "EMA_100": 568.9,
-        "EMA_200": 545.98
+        "EMA_20": 596.41,
+        "EMA_50": 578.28,
+        "EMA_100": 569.04,
+        "EMA_200": 545.87
       },
       "bb": {
-        "upper": 663.34,
-        "mid": 582.52,
-        "lower": 501.71
+        "upper": 663.36,
+        "mid": 582.5,
+        "lower": 501.64
       }
     },
     {
-      "id": 15,
+      "id": 17,
       "ticker": "BRYAT",
       "name": "BRYAT",
       "tier": {
@@ -1392,7 +1536,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 40.8,
+      "rsi": 40.78,
       "pivots": {
         "daily": 1727.0,
         "dailyP": -1.39,
@@ -1432,10 +1576,10 @@
         }
       },
       "ema": {
-        "EMA_20": 1769.5,
-        "EMA_50": 1847.09,
-        "EMA_100": 1951.82,
-        "EMA_200": 2049.09
+        "EMA_20": 1770.35,
+        "EMA_50": 1849.73,
+        "EMA_100": 1955.01,
+        "EMA_200": 2051.57
       },
       "bb": {
         "upper": 1878.06,
@@ -1444,7 +1588,7 @@
       }
     },
     {
-      "id": 16,
+      "id": 18,
       "ticker": "BSOKE",
       "name": "BSOKE",
       "tier": {
@@ -1464,7 +1608,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 42.1,
+      "rsi": 42.32,
       "pivots": {
         "daily": 34.45,
         "dailyP": -1.02,
@@ -1504,91 +1648,19 @@
         }
       },
       "ema": {
-        "EMA_20": 35.35,
-        "EMA_50": 35.5,
-        "EMA_100": 34.19,
-        "EMA_200": 30.57
+        "EMA_20": 35.34,
+        "EMA_50": 35.48,
+        "EMA_100": 34.14,
+        "EMA_200": 30.51
       },
       "bb": {
-        "upper": 36.98,
-        "mid": 35.24,
-        "lower": 33.49
+        "upper": 37.09,
+        "mid": 35.26,
+        "lower": 33.43
       }
     },
     {
-      "id": 17,
-      "ticker": "BTCIM",
-      "name": "BTCIM",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 4.79,
-      "open": 4.75,
-      "high": 4.83,
-      "low": 4.71,
-      "volume_analysis": {
-        "volume_ratio": 0.89,
-        "is_volume_burst": false
-      },
-      "divergence": {
-        "status": "VOLUME",
-        "rsi_divergence": false,
-        "volume_divergence": true
-      },
-      "rsi": 36.77,
-      "pivots": {
-        "daily": 4.7,
-        "dailyP": 1.91,
-        "weekly": 4.79,
-        "weeklyP": 0.0,
-        "monthly": 5.3,
-        "monthlyP": -9.62,
-        "next_daily": 4.78,
-        "next_dailyP": 0.21,
-        "next_weekly": 4.78,
-        "next_weeklyP": 0.21,
-        "next_monthly": 4.87,
-        "next_monthlyP": -1.64,
-        "daily_levels": {
-          "r1": 4.76,
-          "r2": 4.8,
-          "r3": 4.86,
-          "s1": 4.66,
-          "s2": 4.6,
-          "s3": 4.56
-        },
-        "weekly_levels": {
-          "r1": 4.95,
-          "r2": 5.19,
-          "r3": 5.35,
-          "s1": 4.55,
-          "s2": 4.39,
-          "s3": 4.15
-        },
-        "monthly_levels": {
-          "r1": 5.74,
-          "r2": 6.61,
-          "r3": 7.05,
-          "s1": 4.43,
-          "s2": 3.99,
-          "s3": 3.12
-        }
-      },
-      "ema": {
-        "EMA_20": 5.02,
-        "EMA_50": 5.39,
-        "EMA_100": 5.52,
-        "EMA_200": 5.35
-      },
-      "bb": {
-        "upper": 5.44,
-        "mid": 5.01,
-        "lower": 4.57
-      }
-    },
-    {
-      "id": 19,
+      "id": 20,
       "ticker": "CANTE",
       "name": "CANTE",
       "tier": {
@@ -1608,7 +1680,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 46.27,
+      "rsi": 45.98,
       "pivots": {
         "daily": 1.19,
         "dailyP": 3.36,
@@ -1649,18 +1721,18 @@
       },
       "ema": {
         "EMA_20": 1.23,
-        "EMA_50": 1.32,
+        "EMA_50": 1.33,
         "EMA_100": 1.46,
-        "EMA_200": 1.62
+        "EMA_200": 1.63
       },
       "bb": {
-        "upper": 1.31,
+        "upper": 1.3,
         "mid": 1.22,
         "lower": 1.14
       }
     },
     {
-      "id": 20,
+      "id": 21,
       "ticker": "CCOLA",
       "name": "CCOLA",
       "tier": {
@@ -1680,7 +1752,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 37.78,
+      "rsi": 38.33,
       "pivots": {
         "daily": 83.2,
         "dailyP": -3.43,
@@ -1720,19 +1792,19 @@
         }
       },
       "ema": {
-        "EMA_20": 86.21,
-        "EMA_50": 84.71,
-        "EMA_100": 80.81,
-        "EMA_200": 77.5
+        "EMA_20": 86.1,
+        "EMA_50": 84.53,
+        "EMA_100": 80.63,
+        "EMA_200": 77.37
       },
       "bb": {
-        "upper": 95.08,
-        "mid": 88.34,
-        "lower": 81.59
+        "upper": 94.82,
+        "mid": 88.17,
+        "lower": 81.52
       }
     },
     {
-      "id": 21,
+      "id": 22,
       "ticker": "CIMSA",
       "name": "Çimsa Çimento Sanayi ve Ticaret A.Ş.",
       "tier": {
@@ -1752,7 +1824,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 42.16,
+      "rsi": 42.55,
       "pivots": {
         "daily": 45.67,
         "dailyP": -0.07,
@@ -1792,21 +1864,93 @@
         }
       },
       "ema": {
-        "EMA_20": 46.31,
-        "EMA_50": 47.94,
-        "EMA_100": 49.05,
+        "EMA_20": 46.28,
+        "EMA_50": 47.93,
+        "EMA_100": 49.06,
         "EMA_200": 49.0
       },
       "bb": {
-        "upper": 51.04,
-        "mid": 46.85,
-        "lower": 42.67
+        "upper": 50.86,
+        "mid": 46.8,
+        "lower": 42.74
       }
     },
     {
-      "id": 22,
+      "id": 23,
+      "ticker": "CVKMD",
+      "name": "CVKMD",
+      "tier": {
+        "no": 4,
+        "amount": 10000
+      },
+      "close": 16.81,
+      "open": 17.17,
+      "high": 17.56,
+      "low": 16.81,
+      "volume_analysis": {
+        "volume_ratio": 0.92,
+        "is_volume_burst": false
+      },
+      "divergence": {
+        "status": "NONE",
+        "rsi_divergence": false,
+        "volume_divergence": false
+      },
+      "rsi": 25.04,
+      "pivots": {
+        "daily": 16.5,
+        "dailyP": 1.88,
+        "weekly": 16.32,
+        "weeklyP": 3.0,
+        "monthly": 38.24,
+        "monthlyP": -56.04,
+        "next_daily": 17.06,
+        "next_dailyP": -1.47,
+        "next_weekly": 17.06,
+        "next_weeklyP": -1.47,
+        "next_monthly": 16.23,
+        "next_monthlyP": 3.57,
+        "daily_levels": {
+          "r1": 17.18,
+          "r2": 17.56,
+          "r3": 18.24,
+          "s1": 16.12,
+          "s2": 15.44,
+          "s3": 15.06
+        },
+        "weekly_levels": {
+          "r1": 17.36,
+          "r2": 17.93,
+          "r3": 18.97,
+          "s1": 15.75,
+          "s2": 14.71,
+          "s3": 14.14
+        },
+        "monthly_levels": {
+          "r1": 40.92,
+          "r2": 44.02,
+          "r3": 46.7,
+          "s1": 35.14,
+          "s2": 32.46,
+          "s3": 29.36
+        }
+      },
+      "ema": {
+        "EMA_20": 23.42,
+        "EMA_50": 30.78,
+        "EMA_100": 33.13,
+        "EMA_200": 30.85
+      },
+      "bb": {
+        "upper": 47.35,
+        "mid": 25.62,
+        "lower": 3.88
+      }
+    },
+    {
+      "id": 24,
       "ticker": "CWENE",
-      "name": "CWENE",
+      "name": "CW Enerji Mühendislik A.Ş.",
       "tier": {
         "no": 4,
         "amount": 10000
@@ -1824,7 +1968,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 46.78,
+      "rsi": 46.86,
       "pivots": {
         "daily": 37.59,
         "dailyP": 1.09,
@@ -1864,19 +2008,19 @@
         }
       },
       "ema": {
-        "EMA_20": 39.44,
-        "EMA_50": 38.86,
-        "EMA_100": 36.94,
-        "EMA_200": 33.13
+        "EMA_20": 39.43,
+        "EMA_50": 38.82,
+        "EMA_100": 36.88,
+        "EMA_200": 33.06
       },
       "bb": {
-        "upper": 44.85,
-        "mid": 39.45,
-        "lower": 34.06
+        "upper": 44.83,
+        "mid": 39.44,
+        "lower": 34.05
       }
     },
     {
-      "id": 23,
+      "id": 25,
       "ticker": "DAPGM",
       "name": "DAPGM",
       "tier": {
@@ -1896,7 +2040,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 39.71,
+      "rsi": 39.62,
       "pivots": {
         "daily": 8.66,
         "dailyP": -1.15,
@@ -1938,19 +2082,19 @@
       "ema": {
         "EMA_20": 8.91,
         "EMA_50": 9.49,
-        "EMA_100": 10.21,
-        "EMA_200": 10.81
+        "EMA_100": 10.23,
+        "EMA_200": 10.82
       },
       "bb": {
-        "upper": 10.04,
-        "mid": 9.02,
-        "lower": 7.99
+        "upper": 9.98,
+        "mid": 9.0,
+        "lower": 8.02
       }
     },
     {
-      "id": 24,
+      "id": 26,
       "ticker": "DOAS",
-      "name": "DOAS",
+      "name": "Doğuş Otomotiv Servis ve Ticaret A.Ş.",
       "tier": {
         "no": 4,
         "amount": 10000
@@ -1968,7 +2112,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 34.52,
+      "rsi": 34.7,
       "pivots": {
         "daily": 172.37,
         "dailyP": 0.48,
@@ -2008,10 +2152,10 @@
         }
       },
       "ema": {
-        "EMA_20": 184.87,
-        "EMA_50": 186.71,
-        "EMA_100": 189.52,
-        "EMA_200": 192.64
+        "EMA_20": 184.88,
+        "EMA_50": 186.77,
+        "EMA_100": 189.61,
+        "EMA_200": 192.72
       },
       "bb": {
         "upper": 199.13,
@@ -2020,9 +2164,9 @@
       }
     },
     {
-      "id": 25,
+      "id": 27,
       "ticker": "DOHOL",
-      "name": "DOHOL",
+      "name": "Doğan Şirketler Grubu Holding A.Ş.",
       "tier": {
         "no": 4,
         "amount": 10000
@@ -2040,7 +2184,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 45.85,
+      "rsi": 45.83,
       "pivots": {
         "daily": 21.08,
         "dailyP": -1.8,
@@ -2080,19 +2224,19 @@
         }
       },
       "ema": {
-        "EMA_20": 21.01,
+        "EMA_20": 21.0,
         "EMA_50": 21.24,
-        "EMA_100": 21.19,
-        "EMA_200": 20.35
+        "EMA_100": 21.18,
+        "EMA_200": 20.34
       },
       "bb": {
-        "upper": 21.68,
-        "mid": 21.04,
-        "lower": 20.39
+        "upper": 21.61,
+        "mid": 21.02,
+        "lower": 20.43
       }
     },
     {
-      "id": 26,
+      "id": 28,
       "ticker": "DSTKF",
       "name": "DSTKF",
       "tier": {
@@ -2112,7 +2256,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 42.67,
+      "rsi": 42.18,
       "pivots": {
         "daily": 1906.67,
         "dailyP": 4.95,
@@ -2152,19 +2296,19 @@
         }
       },
       "ema": {
-        "EMA_20": 2040.86,
-        "EMA_50": 2337.74,
-        "EMA_100": 2243.93,
-        "EMA_200": 1824.52
+        "EMA_20": 2055.21,
+        "EMA_50": 2349.74,
+        "EMA_100": 2246.08,
+        "EMA_200": 1820.77
       },
       "bb": {
-        "upper": 2228.26,
-        "mid": 1874.85,
-        "lower": 1521.44
+        "upper": 2307.86,
+        "mid": 1887.42,
+        "lower": 1466.99
       }
     },
     {
-      "id": 27,
+      "id": 29,
       "ticker": "ECILC",
       "name": "ECILC",
       "tier": {
@@ -2184,7 +2328,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 56.61,
+      "rsi": 56.27,
       "pivots": {
         "daily": 75.92,
         "dailyP": -0.09,
@@ -2224,19 +2368,19 @@
         }
       },
       "ema": {
-        "EMA_20": 72.72,
-        "EMA_50": 76.35,
-        "EMA_100": 82.58,
-        "EMA_200": 84.34
+        "EMA_20": 72.77,
+        "EMA_50": 76.52,
+        "EMA_100": 82.78,
+        "EMA_200": 84.46
       },
       "bb": {
-        "upper": 77.24,
-        "mid": 71.3,
-        "lower": 65.37
+        "upper": 77.29,
+        "mid": 71.33,
+        "lower": 65.36
       }
     },
     {
-      "id": 28,
+      "id": 30,
       "ticker": "EFOR",
       "name": "EFOR",
       "tier": {
@@ -2256,7 +2400,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 48.62,
+      "rsi": 48.87,
       "pivots": {
         "daily": 19.6,
         "dailyP": -7.14,
@@ -2296,19 +2440,19 @@
         }
       },
       "ema": {
-        "EMA_20": 18.99,
-        "EMA_50": 17.12,
-        "EMA_100": 16.37,
-        "EMA_200": 16.84
+        "EMA_20": 18.95,
+        "EMA_50": 17.06,
+        "EMA_100": 16.33,
+        "EMA_200": 16.83
       },
       "bb": {
-        "upper": 22.0,
-        "mid": 19.37,
-        "lower": 16.75
+        "upper": 21.99,
+        "mid": 19.38,
+        "lower": 16.77
       }
     },
     {
-      "id": 29,
+      "id": 31,
       "ticker": "EGEEN",
       "name": "EGEEN",
       "tier": {
@@ -2328,7 +2472,7 @@
         "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 39.85,
+      "rsi": 40.03,
       "pivots": {
         "daily": 5295.0,
         "dailyP": -1.04,
@@ -2368,19 +2512,19 @@
         }
       },
       "ema": {
-        "EMA_20": 5330.7,
-        "EMA_50": 5507.62,
-        "EMA_100": 5816.85,
-        "EMA_200": 6425.81
+        "EMA_20": 5331.32,
+        "EMA_50": 5511.18,
+        "EMA_100": 5823.72,
+        "EMA_200": 6435.0
       },
       "bb": {
-        "upper": 5563.57,
-        "mid": 5332.88,
-        "lower": 5102.18
+        "upper": 5561.78,
+        "mid": 5332.5,
+        "lower": 5103.22
       }
     },
     {
-      "id": 30,
+      "id": 32,
       "ticker": "EKGYO",
       "name": "Emlak Konut Gayrimenkul Yatırım Ortaklığı A.Ş.",
       "tier": {
@@ -2400,7 +2544,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 45.83,
+      "rsi": 45.8,
       "pivots": {
         "daily": 18.36,
         "dailyP": 1.36,
@@ -2440,19 +2584,19 @@
         }
       },
       "ema": {
-        "EMA_20": 18.69,
-        "EMA_50": 19.48,
-        "EMA_100": 20.06,
+        "EMA_20": 18.7,
+        "EMA_50": 19.49,
+        "EMA_100": 20.07,
         "EMA_200": 20.03
       },
       "bb": {
-        "upper": 19.87,
-        "mid": 18.55,
-        "lower": 17.22
+        "upper": 19.93,
+        "mid": 18.56,
+        "lower": 17.19
       }
     },
     {
-      "id": 31,
+      "id": 33,
       "ticker": "ENERY",
       "name": "ENERY",
       "tier": {
@@ -2472,7 +2616,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 44.91,
+      "rsi": 44.99,
       "pivots": {
         "daily": 8.95,
         "dailyP": -1.9,
@@ -2515,16 +2659,16 @@
         "EMA_20": 8.95,
         "EMA_50": 9.15,
         "EMA_100": 9.2,
-        "EMA_200": 9.01
+        "EMA_200": 9.0
       },
       "bb": {
         "upper": 9.84,
         "mid": 8.99,
-        "lower": 8.13
+        "lower": 8.14
       }
     },
     {
-      "id": 32,
+      "id": 34,
       "ticker": "ENJSA",
       "name": "ENJSA",
       "tier": {
@@ -2544,7 +2688,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 49.02,
+      "rsi": 49.12,
       "pivots": {
         "daily": 107.13,
         "dailyP": 0.63,
@@ -2584,19 +2728,19 @@
         }
       },
       "ema": {
-        "EMA_20": 108.41,
-        "EMA_50": 108.39,
-        "EMA_100": 108.03,
-        "EMA_200": 101.89
+        "EMA_20": 108.37,
+        "EMA_50": 108.4,
+        "EMA_100": 108.04,
+        "EMA_200": 101.83
       },
       "bb": {
-        "upper": 113.97,
-        "mid": 108.98,
-        "lower": 103.99
+        "upper": 114.44,
+        "mid": 108.76,
+        "lower": 103.09
       }
     },
     {
-      "id": 33,
+      "id": 35,
       "ticker": "ENKAI",
       "name": "Enka İnşaat ve Sanayi A.Ş.",
       "tier": {
@@ -2616,7 +2760,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 30.83,
+      "rsi": 30.57,
       "pivots": {
         "daily": 87.07,
         "dailyP": -7.95,
@@ -2656,19 +2800,19 @@
         }
       },
       "ema": {
-        "EMA_20": 86.98,
-        "EMA_50": 90.08,
-        "EMA_100": 91.64,
-        "EMA_200": 88.29
+        "EMA_20": 87.0,
+        "EMA_50": 90.16,
+        "EMA_100": 91.69,
+        "EMA_200": 88.28
       },
       "bb": {
-        "upper": 92.06,
-        "mid": 87.28,
-        "lower": 82.49
+        "upper": 92.23,
+        "mid": 87.32,
+        "lower": 82.42
       }
     },
     {
-      "id": 34,
+      "id": 36,
       "ticker": "EREGL",
       "name": "Ereğli Demir ve Çelik Fabrikaları T.A.Ş.",
       "tier": {
@@ -2688,7 +2832,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 40.81,
+      "rsi": 40.71,
       "pivots": {
         "daily": 37.86,
         "dailyP": 0.21,
@@ -2728,21 +2872,93 @@
         }
       },
       "ema": {
-        "EMA_20": 39.79,
-        "EMA_50": 39.76,
-        "EMA_100": 37.56,
-        "EMA_200": 34.06
+        "EMA_20": 39.75,
+        "EMA_50": 39.68,
+        "EMA_100": 37.46,
+        "EMA_200": 33.97
       },
       "bb": {
-        "upper": 45.99,
-        "mid": 40.87,
-        "lower": 35.75
+        "upper": 45.82,
+        "mid": 40.81,
+        "lower": 35.79
       }
     },
     {
-      "id": 35,
+      "id": 37,
+      "ticker": "ESEN",
+      "name": "ESEN",
+      "tier": {
+        "no": 4,
+        "amount": 10000
+      },
+      "close": 3.65,
+      "open": 3.49,
+      "high": 3.76,
+      "low": 3.46,
+      "volume_analysis": {
+        "volume_ratio": 3.29,
+        "is_volume_burst": true
+      },
+      "divergence": {
+        "status": "NONE",
+        "rsi_divergence": false,
+        "volume_divergence": false
+      },
+      "rsi": 60.76,
+      "pivots": {
+        "daily": 3.45,
+        "dailyP": 5.8,
+        "weekly": 3.43,
+        "weeklyP": 6.41,
+        "monthly": 3.52,
+        "monthlyP": 3.69,
+        "next_daily": 3.62,
+        "next_dailyP": 0.83,
+        "next_weekly": 3.62,
+        "next_weeklyP": 0.83,
+        "next_monthly": 3.57,
+        "next_monthlyP": 2.24,
+        "daily_levels": {
+          "r1": 3.5,
+          "r2": 3.54,
+          "r3": 3.59,
+          "s1": 3.41,
+          "s2": 3.36,
+          "s3": 3.32
+        },
+        "weekly_levels": {
+          "r1": 3.52,
+          "r2": 3.57,
+          "r3": 3.66,
+          "s1": 3.38,
+          "s2": 3.29,
+          "s3": 3.24
+        },
+        "monthly_levels": {
+          "r1": 3.73,
+          "r2": 4.07,
+          "r3": 4.28,
+          "s1": 3.18,
+          "s2": 2.97,
+          "s3": 2.63
+        }
+      },
+      "ema": {
+        "EMA_20": 3.46,
+        "EMA_50": 3.6,
+        "EMA_100": 3.96,
+        "EMA_200": 4.88
+      },
+      "bb": {
+        "upper": 3.65,
+        "mid": 3.44,
+        "lower": 3.23
+      }
+    },
+    {
+      "id": 38,
       "ticker": "EUPWR",
-      "name": "EUPWR",
+      "name": "Europower Enerji A.Ş.",
       "tier": {
         "no": 4,
         "amount": 10000
@@ -2760,7 +2976,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 57.81,
+      "rsi": 57.89,
       "pivots": {
         "daily": 95.58,
         "dailyP": 1.49,
@@ -2800,21 +3016,93 @@
         }
       },
       "ema": {
-        "EMA_20": 92.14,
-        "EMA_50": 86.68,
-        "EMA_100": 75.27,
-        "EMA_200": 60.88
+        "EMA_20": 92.01,
+        "EMA_50": 86.36,
+        "EMA_100": 74.87,
+        "EMA_200": 60.53
       },
       "bb": {
-        "upper": 103.92,
-        "mid": 93.54,
-        "lower": 83.17
+        "upper": 103.76,
+        "mid": 93.11,
+        "lower": 82.46
       }
     },
     {
-      "id": 36,
+      "id": 39,
+      "ticker": "EUREN",
+      "name": "EUREN",
+      "tier": {
+        "no": 4,
+        "amount": 10000
+      },
+      "close": 3.86,
+      "open": 3.89,
+      "high": 3.92,
+      "low": 3.85,
+      "volume_analysis": {
+        "volume_ratio": 0.55,
+        "is_volume_burst": false
+      },
+      "divergence": {
+        "status": "VOLUME",
+        "rsi_divergence": false,
+        "volume_divergence": true
+      },
+      "rsi": 38.57,
+      "pivots": {
+        "daily": 3.86,
+        "dailyP": 0.0,
+        "weekly": 3.89,
+        "weeklyP": -0.77,
+        "monthly": 4.06,
+        "monthlyP": -4.93,
+        "next_daily": 3.88,
+        "next_dailyP": -0.52,
+        "next_weekly": 3.88,
+        "next_weeklyP": -0.52,
+        "next_monthly": 3.88,
+        "next_monthlyP": -0.52,
+        "daily_levels": {
+          "r1": 3.94,
+          "r2": 3.99,
+          "r3": 4.07,
+          "s1": 3.81,
+          "s2": 3.73,
+          "s3": 3.68
+        },
+        "weekly_levels": {
+          "r1": 4.02,
+          "r2": 4.16,
+          "r3": 4.29,
+          "s1": 3.75,
+          "s2": 3.62,
+          "s3": 3.48
+        },
+        "monthly_levels": {
+          "r1": 4.32,
+          "r2": 4.78,
+          "r3": 5.04,
+          "s1": 3.6,
+          "s2": 3.34,
+          "s3": 2.88
+        }
+      },
+      "ema": {
+        "EMA_20": 3.96,
+        "EMA_50": 4.23,
+        "EMA_100": 4.61,
+        "EMA_200": 5.25
+      },
+      "bb": {
+        "upper": 4.19,
+        "mid": 3.94,
+        "lower": 3.7
+      }
+    },
+    {
+      "id": 40,
       "ticker": "FENER",
-      "name": "FENER",
+      "name": "Fenerbahçe Futbol A.Ş.",
       "tier": {
         "no": 4,
         "amount": 10000
@@ -2832,7 +3120,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 46.45,
+      "rsi": 46.51,
       "pivots": {
         "daily": 3.14,
         "dailyP": -2.55,
@@ -2874,17 +3162,89 @@
       "ema": {
         "EMA_20": 3.1,
         "EMA_50": 3.17,
-        "EMA_100": 3.65,
-        "EMA_200": 7.96
+        "EMA_100": 3.66,
+        "EMA_200": 8.01
       },
       "bb": {
-        "upper": 3.24,
-        "mid": 3.09,
+        "upper": 3.22,
+        "mid": 3.08,
         "lower": 2.94
       }
     },
     {
-      "id": 37,
+      "id": 41,
+      "ticker": "FONET",
+      "name": "FONET",
+      "tier": {
+        "no": 4,
+        "amount": 10000
+      },
+      "close": 5.42,
+      "open": 5.19,
+      "high": 5.46,
+      "low": 5.18,
+      "volume_analysis": {
+        "volume_ratio": 1.36,
+        "is_volume_burst": false
+      },
+      "divergence": {
+        "status": "NONE",
+        "rsi_divergence": false,
+        "volume_divergence": false
+      },
+      "rsi": 59.31,
+      "pivots": {
+        "daily": 5.22,
+        "dailyP": 3.83,
+        "weekly": 5.11,
+        "weeklyP": 6.07,
+        "monthly": 5.1,
+        "monthlyP": 6.27,
+        "next_daily": 5.35,
+        "next_dailyP": 1.31,
+        "next_weekly": 5.35,
+        "next_weeklyP": 1.31,
+        "next_monthly": 5.22,
+        "next_monthlyP": 3.83,
+        "daily_levels": {
+          "r1": 5.31,
+          "r2": 5.44,
+          "r3": 5.53,
+          "s1": 5.09,
+          "s2": 5.0,
+          "s3": 4.87
+        },
+        "weekly_levels": {
+          "r1": 5.46,
+          "r2": 5.74,
+          "r3": 6.09,
+          "s1": 4.83,
+          "s2": 4.48,
+          "s3": 4.2
+        },
+        "monthly_levels": {
+          "r1": 5.42,
+          "r2": 5.85,
+          "r3": 6.17,
+          "s1": 4.67,
+          "s2": 4.35,
+          "s3": 3.92
+        }
+      },
+      "ema": {
+        "EMA_20": 5.16,
+        "EMA_50": 5.18,
+        "EMA_100": 4.96,
+        "EMA_200": 4.4
+      },
+      "bb": {
+        "upper": 5.47,
+        "mid": 5.17,
+        "lower": 4.87
+      }
+    },
+    {
+      "id": 42,
       "ticker": "FROTO",
       "name": "Ford Otomotiv Sanayi A.Ş.",
       "tier": {
@@ -2904,7 +3264,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 44.16,
+      "rsi": 44.12,
       "pivots": {
         "daily": 79.53,
         "dailyP": -0.67,
@@ -2944,19 +3304,19 @@
         }
       },
       "ema": {
-        "EMA_20": 79.7,
-        "EMA_50": 83.34,
-        "EMA_100": 88.83,
-        "EMA_200": 93.61
+        "EMA_20": 79.72,
+        "EMA_50": 83.45,
+        "EMA_100": 88.98,
+        "EMA_200": 93.73
       },
       "bb": {
-        "upper": 82.27,
-        "mid": 79.14,
-        "lower": 76.01
+        "upper": 82.55,
+        "mid": 79.18,
+        "lower": 75.82
       }
     },
     {
-      "id": 38,
+      "id": 43,
       "ticker": "GARAN",
       "name": "Türkiye Garanti Bankası A.Ş.",
       "tier": {
@@ -2976,7 +3336,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 49.75,
+      "rsi": 49.44,
       "pivots": {
         "daily": 130.5,
         "dailyP": -1.15,
@@ -3016,19 +3376,19 @@
         }
       },
       "ema": {
-        "EMA_20": 128.77,
-        "EMA_50": 130.49,
-        "EMA_100": 133.06,
-        "EMA_200": 134.48
+        "EMA_20": 128.88,
+        "EMA_50": 130.67,
+        "EMA_100": 133.21,
+        "EMA_200": 134.58
       },
       "bb": {
-        "upper": 132.04,
-        "mid": 127.36,
-        "lower": 122.68
+        "upper": 131.96,
+        "mid": 127.49,
+        "lower": 123.01
       }
     },
     {
-      "id": 40,
+      "id": 45,
       "ticker": "GENIL",
       "name": "GENIL",
       "tier": {
@@ -3048,7 +3408,7 @@
         "rsi_divergence": true,
         "volume_divergence": true
       },
-      "rsi": 69.3,
+      "rsi": 69.02,
       "pivots": {
         "daily": 10.84,
         "dailyP": 2.58,
@@ -3090,19 +3450,19 @@
       "ema": {
         "EMA_20": 10.06,
         "EMA_50": 9.59,
-        "EMA_100": 9.53,
+        "EMA_100": 9.54,
         "EMA_200": 9.74
       },
       "bb": {
-        "upper": 11.35,
+        "upper": 11.34,
         "mid": 9.82,
-        "lower": 8.28
+        "lower": 8.3
       }
     },
     {
-      "id": 41,
+      "id": 46,
       "ticker": "GESAN",
-      "name": "GESAN",
+      "name": "Girişim Elektrik Sanayi A.Ş.",
       "tier": {
         "no": 4,
         "amount": 10000
@@ -3120,7 +3480,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 60.09,
+      "rsi": 60.52,
       "pivots": {
         "daily": 83.75,
         "dailyP": 1.49,
@@ -3160,19 +3520,19 @@
         }
       },
       "ema": {
-        "EMA_20": 81.0,
-        "EMA_50": 77.2,
-        "EMA_100": 70.3,
-        "EMA_200": 62.28
+        "EMA_20": 80.85,
+        "EMA_50": 76.91,
+        "EMA_100": 69.98,
+        "EMA_200": 62.03
       },
       "bb": {
-        "upper": 88.75,
-        "mid": 81.21,
-        "lower": 73.66
+        "upper": 87.62,
+        "mid": 80.8,
+        "lower": 73.99
       }
     },
     {
-      "id": 42,
+      "id": 47,
       "ticker": "GLRMK",
       "name": "GLRMK",
       "tier": {
@@ -3188,11 +3548,11 @@
         "is_volume_burst": false
       },
       "divergence": {
-        "status": "CONFIRMED",
-        "rsi_divergence": true,
+        "status": "VOLUME",
+        "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 59.6,
+      "rsi": 59.29,
       "pivots": {
         "daily": 180.37,
         "dailyP": -1.7,
@@ -3232,19 +3592,19 @@
         }
       },
       "ema": {
-        "EMA_20": 168.39,
-        "EMA_50": 169.78,
-        "EMA_100": 174.14,
-        "EMA_200": 174.5
+        "EMA_20": 168.49,
+        "EMA_50": 170.05,
+        "EMA_100": 174.39,
+        "EMA_200": 174.64
       },
       "bb": {
-        "upper": 184.9,
-        "mid": 164.18,
-        "lower": 143.46
+        "upper": 184.91,
+        "mid": 164.24,
+        "lower": 143.57
       }
     },
     {
-      "id": 43,
+      "id": 48,
       "ticker": "GRSEL",
       "name": "GRSEL",
       "tier": {
@@ -3264,7 +3624,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 55.04,
+      "rsi": 55.1,
       "pivots": {
         "daily": 350.33,
         "dailyP": -2.09,
@@ -3304,19 +3664,19 @@
         }
       },
       "ema": {
-        "EMA_20": 340.41,
-        "EMA_50": 329.28,
-        "EMA_100": 325.92,
-        "EMA_200": 320.67
+        "EMA_20": 340.26,
+        "EMA_50": 329.14,
+        "EMA_100": 325.9,
+        "EMA_200": 320.64
       },
       "bb": {
-        "upper": 367.26,
-        "mid": 342.75,
-        "lower": 318.24
+        "upper": 367.76,
+        "mid": 342.59,
+        "lower": 317.42
       }
     },
     {
-      "id": 44,
+      "id": 49,
       "ticker": "GRTHO",
       "name": "GRTHO",
       "tier": {
@@ -3336,14 +3696,14 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 38.4,
+      "rsi": 38.63,
       "pivots": {
         "daily": 227.23,
         "dailyP": -1.07,
         "weekly": 231.5,
         "weeklyP": -2.89,
-        "monthly": 247.52,
-        "monthlyP": -9.18,
+        "monthly": 247.58,
+        "monthlyP": -9.2,
         "next_daily": 226.23,
         "next_dailyP": -0.63,
         "next_weekly": 226.23,
@@ -3367,30 +3727,30 @@
           "s3": 199.1
         },
         "monthly_levels": {
-          "r1": 264.63,
-          "r2": 281.37,
-          "r3": 298.48,
-          "s1": 230.78,
-          "s2": 213.67,
-          "s3": 196.93
+          "r1": 264.57,
+          "r2": 281.23,
+          "r3": 298.22,
+          "s1": 230.92,
+          "s2": 213.93,
+          "s3": 197.27
         }
       },
       "ema": {
-        "EMA_20": 236.49,
-        "EMA_50": 238.64,
-        "EMA_100": 245.02,
-        "EMA_200": 264.34
+        "EMA_20": 236.55,
+        "EMA_50": 238.67,
+        "EMA_100": 245.15,
+        "EMA_200": 264.6
       },
       "bb": {
-        "upper": 254.41,
-        "mid": 238.8,
-        "lower": 223.18
+        "upper": 254.58,
+        "mid": 238.94,
+        "lower": 223.29
       }
     },
     {
-      "id": 45,
+      "id": 50,
       "ticker": "GSRAY",
-      "name": "GSRAY",
+      "name": "Galatasaray Sportif Sınaî ve Ticari Yatırımlar A.Ş.",
       "tier": {
         "no": 4,
         "amount": 10000
@@ -3408,14 +3768,14 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 53.85,
+      "rsi": 54.07,
       "pivots": {
         "daily": 1.02,
         "dailyP": 0.0,
         "weekly": 1.02,
         "weeklyP": 0.0,
-        "monthly": 1.0,
-        "monthlyP": 2.0,
+        "monthly": 0.99,
+        "monthlyP": 3.03,
         "next_daily": 1.02,
         "next_dailyP": 0.0,
         "next_weekly": 1.02,
@@ -3440,11 +3800,11 @@
         },
         "monthly_levels": {
           "r1": 1.02,
-          "r2": 1.08,
-          "r3": 1.1,
-          "s1": 0.94,
+          "r2": 1.06,
+          "r3": 1.09,
+          "s1": 0.95,
           "s2": 0.92,
-          "s3": 0.86
+          "s3": 0.88
         }
       },
       "ema": {
@@ -3460,7 +3820,7 @@
       }
     },
     {
-      "id": 46,
+      "id": 51,
       "ticker": "GUBRF",
       "name": "Gübre Fabrikaları T.A.Ş.",
       "tier": {
@@ -3480,7 +3840,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 54.86,
+      "rsi": 54.46,
       "pivots": {
         "daily": 416.92,
         "dailyP": 6.8,
@@ -3520,21 +3880,21 @@
         }
       },
       "ema": {
-        "EMA_20": 428.77,
-        "EMA_50": 449.27,
-        "EMA_100": 461.56,
-        "EMA_200": 437.27
+        "EMA_20": 429.34,
+        "EMA_50": 450.57,
+        "EMA_100": 462.51,
+        "EMA_200": 437.52
       },
       "bb": {
-        "upper": 448.41,
-        "mid": 422.3,
-        "lower": 396.19
+        "upper": 448.32,
+        "mid": 422.44,
+        "lower": 396.55
       }
     },
     {
-      "id": 47,
+      "id": 52,
       "ticker": "HALKB",
-      "name": "HALKB",
+      "name": "Türkiye Halk Bankası A.Ş.",
       "tier": {
         "no": 4,
         "amount": 10000
@@ -3552,7 +3912,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 34.67,
+      "rsi": 34.58,
       "pivots": {
         "daily": 34.42,
         "dailyP": -1.86,
@@ -3592,19 +3952,19 @@
         }
       },
       "ema": {
-        "EMA_20": 36.24,
-        "EMA_50": 38.78,
-        "EMA_100": 39.73,
-        "EMA_200": 37.96
+        "EMA_20": 36.3,
+        "EMA_50": 38.87,
+        "EMA_100": 39.79,
+        "EMA_200": 37.97
       },
       "bb": {
-        "upper": 38.95,
-        "mid": 35.93,
-        "lower": 32.91
+        "upper": 39.07,
+        "mid": 35.96,
+        "lower": 32.85
       }
     },
     {
-      "id": 48,
+      "id": 53,
       "ticker": "HEKTS",
       "name": "HEKTS",
       "tier": {
@@ -3624,7 +3984,7 @@
         "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 36.46,
+      "rsi": 36.45,
       "pivots": {
         "daily": 2.8,
         "dailyP": 0.71,
@@ -3665,18 +4025,90 @@
       },
       "ema": {
         "EMA_20": 2.94,
-        "EMA_50": 3.17,
+        "EMA_50": 3.18,
         "EMA_100": 3.3,
         "EMA_200": 3.46
       },
       "bb": {
         "upper": 3.09,
         "mid": 2.92,
-        "lower": 2.75
+        "lower": 2.74
       }
     },
     {
-      "id": 49,
+      "id": 54,
+      "ticker": "IEYHO",
+      "name": "IEYHO",
+      "tier": {
+        "no": 4,
+        "amount": 10000
+      },
+      "close": 181.9,
+      "open": 179.5,
+      "high": 181.9,
+      "low": 179.5,
+      "volume_analysis": {
+        "volume_ratio": 0.21,
+        "is_volume_burst": false
+      },
+      "divergence": {
+        "status": "CONFIRMED",
+        "rsi_divergence": true,
+        "volume_divergence": true
+      },
+      "rsi": 83.08,
+      "pivots": {
+        "daily": 179.73,
+        "dailyP": 1.21,
+        "weekly": 178.53,
+        "weeklyP": 1.89,
+        "monthly": 158.57,
+        "monthlyP": 14.71,
+        "next_daily": 181.1,
+        "next_dailyP": 0.44,
+        "next_weekly": 181.1,
+        "next_weeklyP": 0.44,
+        "next_monthly": 176.77,
+        "next_monthlyP": 2.9,
+        "daily_levels": {
+          "r1": 180.87,
+          "r2": 183.13,
+          "r3": 184.27,
+          "s1": 177.47,
+          "s2": 176.33,
+          "s3": 174.07
+        },
+        "weekly_levels": {
+          "r1": 182.07,
+          "r2": 185.53,
+          "r3": 189.07,
+          "s1": 175.07,
+          "s2": 171.53,
+          "s3": 168.07
+        },
+        "monthly_levels": {
+          "r1": 172.73,
+          "r2": 181.17,
+          "r3": 195.33,
+          "s1": 150.13,
+          "s2": 135.97,
+          "s3": 127.53
+        }
+      },
+      "ema": {
+        "EMA_20": 170.38,
+        "EMA_50": 153.37,
+        "EMA_100": 131.83,
+        "EMA_200": 103.24
+      },
+      "bb": {
+        "upper": 184.76,
+        "mid": 169.78,
+        "lower": 154.8
+      }
+    },
+    {
+      "id": 55,
       "ticker": "ISCTR",
       "name": "Türkiye İş Bankası A.Ş.",
       "tier": {
@@ -3696,7 +4128,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 40.25,
+      "rsi": 40.11,
       "pivots": {
         "daily": 12.54,
         "dailyP": -1.12,
@@ -3736,19 +4168,91 @@
         }
       },
       "ema": {
-        "EMA_20": 12.7,
-        "EMA_50": 13.31,
-        "EMA_100": 13.74,
-        "EMA_200": 13.91
+        "EMA_20": 12.72,
+        "EMA_50": 13.33,
+        "EMA_100": 13.76,
+        "EMA_200": 13.92
       },
       "bb": {
-        "upper": 13.26,
-        "mid": 12.58,
-        "lower": 11.9
+        "upper": 13.39,
+        "mid": 12.6,
+        "lower": 11.81
       }
     },
     {
-      "id": 50,
+      "id": 56,
+      "ticker": "ISGYO",
+      "name": "İş Gayrimenkul Yatırım Ortaklığı A.Ş.",
+      "tier": {
+        "no": 4,
+        "amount": 10000
+      },
+      "close": 26.88,
+      "open": 26.8,
+      "high": 27.7,
+      "low": 26.62,
+      "volume_analysis": {
+        "volume_ratio": 1.19,
+        "is_volume_burst": false
+      },
+      "divergence": {
+        "status": "NONE",
+        "rsi_divergence": false,
+        "volume_divergence": false
+      },
+      "rsi": 55.52,
+      "pivots": {
+        "daily": 27.1,
+        "dailyP": -0.81,
+        "weekly": 27.33,
+        "weeklyP": -1.65,
+        "monthly": 26.05,
+        "monthlyP": 3.19,
+        "next_daily": 27.07,
+        "next_dailyP": -0.7,
+        "next_weekly": 27.07,
+        "next_weeklyP": -0.7,
+        "next_monthly": 27.18,
+        "next_monthlyP": -1.1,
+        "daily_levels": {
+          "r1": 27.64,
+          "r2": 28.4,
+          "r3": 28.94,
+          "s1": 26.34,
+          "s2": 25.8,
+          "s3": 25.04
+        },
+        "weekly_levels": {
+          "r1": 28.77,
+          "r2": 30.65,
+          "r3": 32.09,
+          "s1": 25.45,
+          "s2": 24.01,
+          "s3": 22.13
+        },
+        "monthly_levels": {
+          "r1": 28.49,
+          "r2": 31.27,
+          "r3": 33.71,
+          "s1": 23.27,
+          "s2": 20.83,
+          "s3": 18.05
+        }
+      },
+      "ema": {
+        "EMA_20": 26.51,
+        "EMA_50": 25.1,
+        "EMA_100": 23.66,
+        "EMA_200": 22.22
+      },
+      "bb": {
+        "upper": 28.3,
+        "mid": 26.38,
+        "lower": 24.46
+      }
+    },
+    {
+      "id": 57,
       "ticker": "ISMEN",
       "name": "ISMEN",
       "tier": {
@@ -3768,7 +4272,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 27.91,
+      "rsi": 28.21,
       "pivots": {
         "daily": 33.17,
         "dailyP": -2.86,
@@ -3808,19 +4312,19 @@
         }
       },
       "ema": {
-        "EMA_20": 34.3,
-        "EMA_50": 35.94,
-        "EMA_100": 38.03,
-        "EMA_200": 39.76
+        "EMA_20": 34.29,
+        "EMA_50": 35.96,
+        "EMA_100": 38.07,
+        "EMA_200": 39.79
       },
       "bb": {
-        "upper": 37.35,
-        "mid": 34.7,
-        "lower": 32.04
+        "upper": 37.33,
+        "mid": 34.69,
+        "lower": 32.05
       }
     },
     {
-      "id": 51,
+      "id": 58,
       "ticker": "IZENR",
       "name": "IZENR",
       "tier": {
@@ -3840,7 +4344,7 @@
         "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 40.16,
+      "rsi": 40.34,
       "pivots": {
         "daily": 8.52,
         "dailyP": 0.47,
@@ -3881,30 +4385,30 @@
       },
       "ema": {
         "EMA_20": 8.9,
-        "EMA_50": 9.36,
-        "EMA_100": 9.62,
+        "EMA_50": 9.37,
+        "EMA_100": 9.63,
         "EMA_200": 9.44
       },
       "bb": {
-        "upper": 10.04,
-        "mid": 9.03,
+        "upper": 10.01,
+        "mid": 9.02,
         "lower": 8.03
       }
     },
     {
-      "id": 52,
-      "ticker": "KCAER",
-      "name": "KCAER",
+      "id": 59,
+      "ticker": "KATMR",
+      "name": "KATMR",
       "tier": {
         "no": 4,
         "amount": 10000
       },
-      "close": 16.05,
-      "open": 16.05,
-      "high": 16.23,
-      "low": 15.81,
+      "close": 2.27,
+      "open": 2.31,
+      "high": 2.32,
+      "low": 2.25,
       "volume_analysis": {
-        "volume_ratio": 0.95,
+        "volume_ratio": 1.05,
         "is_volume_burst": false
       },
       "divergence": {
@@ -3912,59 +4416,59 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 66.44,
+      "rsi": 40.59,
       "pivots": {
-        "daily": 15.94,
-        "dailyP": 0.69,
-        "weekly": 15.69,
-        "weeklyP": 2.29,
-        "monthly": 14.67,
-        "monthlyP": 9.41,
-        "next_daily": 16.03,
-        "next_dailyP": 0.12,
-        "next_weekly": 16.03,
-        "next_weeklyP": 0.12,
-        "next_monthly": 15.5,
-        "next_monthlyP": 3.55,
+        "daily": 2.28,
+        "dailyP": -0.44,
+        "weekly": 2.26,
+        "weeklyP": 0.44,
+        "monthly": 2.4,
+        "monthlyP": -5.42,
+        "next_daily": 2.28,
+        "next_dailyP": -0.44,
+        "next_weekly": 2.28,
+        "next_weeklyP": -0.44,
+        "next_monthly": 2.25,
+        "next_monthlyP": 0.89,
         "daily_levels": {
-          "r1": 16.35,
-          "r2": 16.72,
-          "r3": 17.13,
-          "s1": 15.57,
-          "s2": 15.16,
-          "s3": 14.79
+          "r1": 2.32,
+          "r2": 2.34,
+          "r3": 2.38,
+          "s1": 2.26,
+          "s2": 2.22,
+          "s3": 2.2
         },
         "weekly_levels": {
-          "r1": 16.6,
-          "r2": 17.21,
-          "r3": 18.12,
-          "s1": 15.08,
-          "s2": 14.17,
-          "s3": 13.56
+          "r1": 2.34,
+          "r2": 2.39,
+          "r3": 2.47,
+          "s1": 2.21,
+          "s2": 2.13,
+          "s3": 2.08
         },
         "monthly_levels": {
-          "r1": 16.42,
-          "r2": 18.08,
-          "r3": 19.83,
-          "s1": 13.01,
-          "s2": 11.26,
-          "s3": 9.6
+          "r1": 2.62,
+          "r2": 3.02,
+          "r3": 3.24,
+          "s1": 2.0,
+          "s2": 1.78,
+          "s3": 1.38
         }
       },
       "ema": {
-        "EMA_20": 15.09,
-        "EMA_50": 14.52,
-        "EMA_100": 13.77,
-        "EMA_200": 13.2
+        "EMA_20": 2.3,
+        "EMA_50": 2.47,
+        "EMA_100": 2.61,
+        "EMA_200": 2.69
       },
       "bb": {
-        "upper": 16.28,
-        "mid": 14.98,
-        "lower": 13.68
+        "upper": 2.45,
+        "mid": 2.28,
+        "lower": 2.12
       }
     },
     {
-      "id": 53,
+      "id": 60,
       "ticker": "KCHOL",
       "name": "Koç Holding A.Ş.",
       "tier": {
@@ -3984,7 +4488,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 56.82,
+      "rsi": 56.85,
       "pivots": {
         "daily": 205.5,
         "dailyP": 0.05,
@@ -4024,19 +4528,19 @@
         }
       },
       "ema": {
-        "EMA_20": 200.13,
-        "EMA_50": 197.56,
-        "EMA_100": 195.99,
-        "EMA_200": 191.37
+        "EMA_20": 200.03,
+        "EMA_50": 197.45,
+        "EMA_100": 195.91,
+        "EMA_200": 191.28
       },
       "bb": {
-        "upper": 208.71,
-        "mid": 199.95,
-        "lower": 191.19
+        "upper": 208.67,
+        "mid": 199.81,
+        "lower": 190.95
       }
     },
     {
-      "id": 54,
+      "id": 61,
       "ticker": "KLRHO",
       "name": "KLRHO",
       "tier": {
@@ -4056,7 +4560,7 @@
         "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 39.68,
+      "rsi": 39.66,
       "pivots": {
         "daily": 77.92,
         "dailyP": -6.76,
@@ -4096,93 +4600,21 @@
         }
       },
       "ema": {
-        "EMA_20": 78.39,
-        "EMA_50": 89.57,
-        "EMA_100": 119.0,
-        "EMA_200": 143.73
+        "EMA_20": 78.49,
+        "EMA_50": 89.97,
+        "EMA_100": 119.76,
+        "EMA_200": 144.35
       },
       "bb": {
-        "upper": 85.18,
-        "mid": 77.85,
-        "lower": 70.53
+        "upper": 85.47,
+        "mid": 77.92,
+        "lower": 70.38
       }
     },
     {
-      "id": 55,
-      "ticker": "KONTR",
-      "name": "KONTR",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 3.98,
-      "open": 4.19,
-      "high": 4.19,
-      "low": 3.97,
-      "volume_analysis": {
-        "volume_ratio": 1.06,
-        "is_volume_burst": false
-      },
-      "divergence": {
-        "status": "NONE",
-        "rsi_divergence": false,
-        "volume_divergence": false
-      },
-      "rsi": 42.61,
-      "pivots": {
-        "daily": 4.13,
-        "dailyP": -3.63,
-        "weekly": 4.08,
-        "weeklyP": -2.45,
-        "monthly": 4.83,
-        "monthlyP": -17.6,
-        "next_daily": 4.05,
-        "next_dailyP": -1.73,
-        "next_weekly": 4.05,
-        "next_weeklyP": -1.73,
-        "next_monthly": 4.1,
-        "next_monthlyP": -2.93,
-        "daily_levels": {
-          "r1": 4.3,
-          "r2": 4.38,
-          "r3": 4.55,
-          "s1": 4.05,
-          "s2": 3.88,
-          "s3": 3.8
-        },
-        "weekly_levels": {
-          "r1": 4.35,
-          "r2": 4.48,
-          "r3": 4.75,
-          "s1": 3.95,
-          "s2": 3.68,
-          "s3": 3.55
-        },
-        "monthly_levels": {
-          "r1": 6.62,
-          "r2": 8.38,
-          "r3": 10.17,
-          "s1": 3.07,
-          "s2": 1.28,
-          "s3": -0.48
-        }
-      },
-      "ema": {
-        "EMA_20": 4.33,
-        "EMA_50": 5.23,
-        "EMA_100": 7.12,
-        "EMA_200": 11.57
-      },
-      "bb": {
-        "upper": 5.29,
-        "mid": 4.4,
-        "lower": 3.51
-      }
-    },
-    {
-      "id": 56,
+      "id": 62,
       "ticker": "KRDMD",
-      "name": "Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.",
+      "name": "Kardemir Karabük Demir Çelik Sanayi A.Ş.",
       "tier": {
         "no": 2,
         "amount": 100000
@@ -4200,14 +4632,14 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 66.0,
+      "rsi": 66.68,
       "pivots": {
         "daily": 41.63,
         "dailyP": 9.58,
         "weekly": 40.97,
         "weeklyP": 11.35,
-        "monthly": 40.57,
-        "monthlyP": 12.45,
+        "monthly": 40.55,
+        "monthlyP": 12.5,
         "next_daily": 44.37,
         "next_dailyP": 2.82,
         "next_weekly": 44.37,
@@ -4231,100 +4663,28 @@
           "s3": 35.95
         },
         "monthly_levels": {
-          "r1": 45.41,
-          "r2": 49.93,
-          "r3": 54.77,
-          "s1": 36.05,
-          "s2": 31.21,
-          "s3": 26.69
+          "r1": 45.35,
+          "r2": 49.83,
+          "r3": 54.63,
+          "s1": 36.07,
+          "s2": 31.27,
+          "s3": 26.79
         }
       },
       "ema": {
-        "EMA_20": 41.52,
-        "EMA_50": 40.51,
-        "EMA_100": 38.42,
-        "EMA_200": 35.12
+        "EMA_20": 41.45,
+        "EMA_50": 40.4,
+        "EMA_100": 38.31,
+        "EMA_200": 35.02
       },
       "bb": {
-        "upper": 44.83,
-        "mid": 41.9,
-        "lower": 38.98
+        "upper": 44.45,
+        "mid": 41.8,
+        "lower": 39.16
       }
     },
     {
-      "id": 57,
-      "ticker": "KTLEV",
-      "name": "KTLEV",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 53.0,
-      "open": 55.0,
-      "high": 56.55,
-      "low": 53.0,
-      "volume_analysis": {
-        "volume_ratio": 0.92,
-        "is_volume_burst": false
-      },
-      "divergence": {
-        "status": "VOLUME",
-        "rsi_divergence": false,
-        "volume_divergence": true
-      },
-      "rsi": 58.46,
-      "pivots": {
-        "daily": 53.93,
-        "dailyP": -1.72,
-        "weekly": 50.93,
-        "weeklyP": 4.06,
-        "monthly": 48.98,
-        "monthlyP": 8.21,
-        "next_daily": 54.18,
-        "next_dailyP": -2.18,
-        "next_weekly": 54.18,
-        "next_weeklyP": -2.18,
-        "next_monthly": 48.94,
-        "next_monthlyP": 8.3,
-        "daily_levels": {
-          "r1": 56.07,
-          "r2": 57.13,
-          "r3": 59.27,
-          "s1": 52.87,
-          "s2": 50.73,
-          "s3": 49.67
-        },
-        "weekly_levels": {
-          "r1": 59.07,
-          "r2": 63.13,
-          "r3": 71.27,
-          "s1": 46.87,
-          "s2": 38.73,
-          "s3": 34.67
-        },
-        "monthly_levels": {
-          "r1": 56.5,
-          "r2": 66.6,
-          "r3": 74.12,
-          "s1": 38.88,
-          "s2": 31.36,
-          "s3": 21.26
-        }
-      },
-      "ema": {
-        "EMA_20": 49.33,
-        "EMA_50": 47.43,
-        "EMA_100": 40.47,
-        "EMA_200": 29.73
-      },
-      "bb": {
-        "upper": 56.21,
-        "mid": 47.92,
-        "lower": 39.63
-      }
-    },
-    {
-      "id": 58,
+      "id": 63,
       "ticker": "KUYAS",
       "name": "KUYAS",
       "tier": {
@@ -4344,7 +4704,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 41.03,
+      "rsi": 40.8,
       "pivots": {
         "daily": 64.68,
         "dailyP": -1.59,
@@ -4384,19 +4744,19 @@
         }
       },
       "ema": {
-        "EMA_20": 67.42,
-        "EMA_50": 70.34,
-        "EMA_100": 71.32,
-        "EMA_200": 67.08
+        "EMA_20": 67.58,
+        "EMA_50": 70.59,
+        "EMA_100": 71.49,
+        "EMA_200": 67.13
       },
       "bb": {
-        "upper": 73.12,
-        "mid": 67.0,
-        "lower": 60.88
+        "upper": 72.86,
+        "mid": 67.34,
+        "lower": 61.82
       }
     },
     {
-      "id": 59,
+      "id": 64,
       "ticker": "MAGEN",
       "name": "MAGEN",
       "tier": {
@@ -4416,7 +4776,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 45.17,
+      "rsi": 45.3,
       "pivots": {
         "daily": 35.33,
         "dailyP": -0.2,
@@ -4456,10 +4816,10 @@
         }
       },
       "ema": {
-        "EMA_20": 36.14,
-        "EMA_50": 39.31,
-        "EMA_100": 42.34,
-        "EMA_200": 40.33
+        "EMA_20": 36.11,
+        "EMA_50": 39.37,
+        "EMA_100": 42.43,
+        "EMA_200": 40.35
       },
       "bb": {
         "upper": 42.23,
@@ -4468,7 +4828,7 @@
       }
     },
     {
-      "id": 60,
+      "id": 65,
       "ticker": "MAVI",
       "name": "MAVI",
       "tier": {
@@ -4488,7 +4848,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 41.04,
+      "rsi": 41.18,
       "pivots": {
         "daily": 38.47,
         "dailyP": -0.86,
@@ -4528,19 +4888,19 @@
         }
       },
       "ema": {
-        "EMA_20": 39.06,
-        "EMA_50": 39.99,
-        "EMA_100": 40.99,
-        "EMA_200": 41.34
+        "EMA_20": 39.05,
+        "EMA_50": 40.0,
+        "EMA_100": 41.01,
+        "EMA_200": 41.35
       },
       "bb": {
-        "upper": 41.01,
-        "mid": 39.21,
-        "lower": 37.42
+        "upper": 41.06,
+        "mid": 39.22,
+        "lower": 37.39
       }
     },
     {
-      "id": 61,
+      "id": 66,
       "ticker": "MGROS",
       "name": "Migros Ticaret A.Ş.",
       "tier": {
@@ -4560,7 +4920,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 33.82,
+      "rsi": 33.43,
       "pivots": {
         "daily": 556.0,
         "dailyP": 1.08,
@@ -4600,21 +4960,21 @@
         }
       },
       "ema": {
-        "EMA_20": 611.18,
-        "EMA_50": 632.04,
-        "EMA_100": 633.43,
-        "EMA_200": 609.57
+        "EMA_20": 611.13,
+        "EMA_50": 632.14,
+        "EMA_100": 633.33,
+        "EMA_200": 609.23
       },
       "bb": {
-        "upper": 680.78,
-        "mid": 618.42,
-        "lower": 556.07
+        "upper": 678.97,
+        "mid": 617.72,
+        "lower": 556.48
       }
     },
     {
-      "id": 62,
+      "id": 67,
       "ticker": "MIATK",
-      "name": "MIATK",
+      "name": "MIA Teknoloji A.Ş.",
       "tier": {
         "no": 4,
         "amount": 10000
@@ -4632,7 +4992,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 47.36,
+      "rsi": 47.02,
       "pivots": {
         "daily": 32.36,
         "dailyP": -0.43,
@@ -4672,19 +5032,19 @@
         }
       },
       "ema": {
-        "EMA_20": 31.97,
-        "EMA_50": 35.39,
-        "EMA_100": 37.76,
-        "EMA_200": 38.71
+        "EMA_20": 32.03,
+        "EMA_50": 35.53,
+        "EMA_100": 37.87,
+        "EMA_200": 38.77
       },
       "bb": {
-        "upper": 34.65,
-        "mid": 31.5,
-        "lower": 28.35
+        "upper": 34.73,
+        "mid": 31.53,
+        "lower": 28.33
       }
     },
     {
-      "id": 63,
+      "id": 68,
       "ticker": "MPARK",
       "name": "MPARK",
       "tier": {
@@ -4704,7 +5064,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 59.3,
+      "rsi": 59.78,
       "pivots": {
         "daily": 434.08,
         "dailyP": 0.9,
@@ -4744,19 +5104,19 @@
         }
       },
       "ema": {
-        "EMA_20": 421.46,
-        "EMA_50": 425.84,
-        "EMA_100": 428.32,
-        "EMA_200": 415.78
+        "EMA_20": 421.43,
+        "EMA_50": 425.99,
+        "EMA_100": 428.4,
+        "EMA_200": 415.67
       },
       "bb": {
-        "upper": 442.32,
-        "mid": 414.95,
-        "lower": 387.58
+        "upper": 440.96,
+        "mid": 414.3,
+        "lower": 387.64
       }
     },
     {
-      "id": 64,
+      "id": 69,
       "ticker": "OBAMS",
       "name": "OBAMS",
       "tier": {
@@ -4776,7 +5136,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 48.56,
+      "rsi": 48.08,
       "pivots": {
         "daily": 5.02,
         "dailyP": 3.39,
@@ -4816,19 +5176,19 @@
         }
       },
       "ema": {
-        "EMA_20": 5.08,
-        "EMA_50": 5.76,
-        "EMA_100": 6.52,
-        "EMA_200": 7.18
+        "EMA_20": 5.09,
+        "EMA_50": 5.79,
+        "EMA_100": 6.55,
+        "EMA_200": 7.2
       },
       "bb": {
-        "upper": 5.43,
+        "upper": 5.42,
         "mid": 5.01,
         "lower": 4.6
       }
     },
     {
-      "id": 65,
+      "id": 70,
       "ticker": "ODAS",
       "name": "ODAS",
       "tier": {
@@ -4848,7 +5208,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 44.94,
+      "rsi": 44.99,
       "pivots": {
         "daily": 7.49,
         "dailyP": 2.54,
@@ -4889,18 +5249,90 @@
       },
       "ema": {
         "EMA_20": 7.83,
-        "EMA_50": 7.91,
-        "EMA_100": 7.53,
-        "EMA_200": 6.94
+        "EMA_50": 7.9,
+        "EMA_100": 7.52,
+        "EMA_200": 6.93
       },
       "bb": {
-        "upper": 9.27,
-        "mid": 8.02,
+        "upper": 9.28,
+        "mid": 8.03,
         "lower": 6.78
       }
     },
     {
-      "id": 66,
+      "id": 71,
+      "ticker": "ODINE",
+      "name": "Odine Teknoloji A.Ş.",
+      "tier": {
+        "no": 4,
+        "amount": 10000
+      },
+      "close": 3010.0,
+      "open": 3260.0,
+      "high": 3347.5,
+      "low": 3010.0,
+      "volume_analysis": {
+        "volume_ratio": 0.45,
+        "is_volume_burst": false
+      },
+      "divergence": {
+        "status": "NONE",
+        "rsi_divergence": false,
+        "volume_divergence": false
+      },
+      "rsi": 62.96,
+      "pivots": {
+        "daily": 3165.0,
+        "dailyP": -4.9,
+        "weekly": 3154.17,
+        "weeklyP": -4.57,
+        "monthly": 2200.33,
+        "monthlyP": 36.8,
+        "next_daily": 3122.5,
+        "next_dailyP": -3.6,
+        "next_weekly": 3122.5,
+        "next_weeklyP": -3.6,
+        "next_monthly": 2964.83,
+        "next_monthlyP": 1.52,
+        "daily_levels": {
+          "r1": 3355.0,
+          "r2": 3450.0,
+          "r3": 3640.0,
+          "s1": 3070.0,
+          "s2": 2880.0,
+          "s3": 2785.0
+        },
+        "weekly_levels": {
+          "r1": 3618.33,
+          "r2": 3976.67,
+          "r3": 4440.83,
+          "s1": 2795.83,
+          "s2": 2331.67,
+          "s3": 1973.33
+        },
+        "monthly_levels": {
+          "r1": 2780.67,
+          "r2": 3245.33,
+          "r3": 3825.67,
+          "s1": 1735.67,
+          "s2": 1155.33,
+          "s3": 690.67
+        }
+      },
+      "ema": {
+        "EMA_20": 2737.93,
+        "EMA_50": 2239.84,
+        "EMA_100": 1745.28,
+        "EMA_200": 1225.45
+      },
+      "bb": {
+        "upper": 3399.4,
+        "mid": 2697.8,
+        "lower": 1996.2
+      }
+    },
+    {
+      "id": 72,
       "ticker": "OTKAR",
       "name": "OTKAR",
       "tier": {
@@ -4920,7 +5352,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 50.05,
+      "rsi": 49.86,
       "pivots": {
         "daily": 315.08,
         "dailyP": 0.61,
@@ -4960,21 +5392,21 @@
         }
       },
       "ema": {
-        "EMA_20": 311.79,
-        "EMA_50": 331.69,
-        "EMA_100": 356.02,
-        "EMA_200": 388.27
+        "EMA_20": 312.08,
+        "EMA_50": 332.29,
+        "EMA_100": 356.7,
+        "EMA_200": 388.89
       },
       "bb": {
-        "upper": 342.41,
-        "mid": 308.24,
-        "lower": 274.06
+        "upper": 342.11,
+        "mid": 308.15,
+        "lower": 274.19
       }
     },
     {
-      "id": 67,
+      "id": 73,
       "ticker": "OYAKC",
-      "name": "OYAKC",
+      "name": "Oyak Çimento Fabrikaları A.Ş.",
       "tier": {
         "no": 4,
         "amount": 10000
@@ -4992,7 +5424,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 63.56,
+      "rsi": 63.23,
       "pivots": {
         "daily": 21.73,
         "dailyP": 1.33,
@@ -5032,19 +5464,91 @@
         }
       },
       "ema": {
-        "EMA_20": 21.02,
-        "EMA_50": 21.17,
-        "EMA_100": 21.86,
-        "EMA_200": 22.51
+        "EMA_20": 21.03,
+        "EMA_50": 21.19,
+        "EMA_100": 21.89,
+        "EMA_200": 22.53
       },
       "bb": {
-        "upper": 21.93,
+        "upper": 21.94,
         "mid": 20.93,
-        "lower": 19.93
+        "lower": 19.92
       }
     },
     {
-      "id": 68,
+      "id": 74,
+      "ticker": "OZKGY",
+      "name": "OZKGY",
+      "tier": {
+        "no": 4,
+        "amount": 10000
+      },
+      "close": 12.43,
+      "open": 12.78,
+      "high": 12.8,
+      "low": 12.35,
+      "volume_analysis": {
+        "volume_ratio": 0.81,
+        "is_volume_burst": false
+      },
+      "divergence": {
+        "status": "NONE",
+        "rsi_divergence": false,
+        "volume_divergence": false
+      },
+      "rsi": 36.7,
+      "pivots": {
+        "daily": 12.76,
+        "dailyP": -2.59,
+        "weekly": 12.7,
+        "weeklyP": -2.13,
+        "monthly": 13.33,
+        "monthlyP": -6.75,
+        "next_daily": 12.53,
+        "next_dailyP": -0.8,
+        "next_weekly": 12.53,
+        "next_weeklyP": -0.8,
+        "next_monthly": 12.56,
+        "next_monthlyP": -1.04,
+        "daily_levels": {
+          "r1": 12.84,
+          "r2": 12.98,
+          "r3": 13.06,
+          "s1": 12.62,
+          "s2": 12.54,
+          "s3": 12.4
+        },
+        "weekly_levels": {
+          "r1": 12.96,
+          "r2": 13.2,
+          "r3": 13.46,
+          "s1": 12.46,
+          "s2": 12.2,
+          "s3": 11.96
+        },
+        "monthly_levels": {
+          "r1": 14.42,
+          "r2": 16.57,
+          "r3": 17.66,
+          "s1": 11.18,
+          "s2": 10.09,
+          "s3": 7.94
+        }
+      },
+      "ema": {
+        "EMA_20": 12.86,
+        "EMA_50": 13.29,
+        "EMA_100": 13.5,
+        "EMA_200": 13.51
+      },
+      "bb": {
+        "upper": 13.31,
+        "mid": 12.72,
+        "lower": 12.13
+      }
+    },
+    {
+      "id": 75,
       "ticker": "PASEU",
       "name": "PASEU",
       "tier": {
@@ -5064,7 +5568,7 @@
         "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 60.6,
+      "rsi": 60.48,
       "pivots": {
         "daily": 163.43,
         "dailyP": 0.35,
@@ -5104,19 +5608,19 @@
         }
       },
       "ema": {
-        "EMA_20": 148.71,
-        "EMA_50": 131.87,
-        "EMA_100": 126.25,
-        "EMA_200": 120.9
+        "EMA_20": 148.67,
+        "EMA_50": 131.97,
+        "EMA_100": 126.41,
+        "EMA_200": 121.0
       },
       "bb": {
-        "upper": 199.03,
-        "mid": 146.81,
-        "lower": 94.59
+        "upper": 200.25,
+        "mid": 146.34,
+        "lower": 92.44
       }
     },
     {
-      "id": 69,
+      "id": 76,
       "ticker": "PATEK",
       "name": "PATEK",
       "tier": {
@@ -5136,7 +5640,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 43.29,
+      "rsi": 43.04,
       "pivots": {
         "daily": 19.94,
         "dailyP": -1.2,
@@ -5176,19 +5680,19 @@
         }
       },
       "ema": {
-        "EMA_20": 20.01,
-        "EMA_50": 20.98,
-        "EMA_100": 21.47,
-        "EMA_200": 21.99
+        "EMA_20": 20.03,
+        "EMA_50": 21.0,
+        "EMA_100": 21.48,
+        "EMA_200": 22.0
       },
       "bb": {
-        "upper": 21.19,
-        "mid": 19.77,
-        "lower": 18.34
+        "upper": 21.11,
+        "mid": 19.75,
+        "lower": 18.4
       }
     },
     {
-      "id": 70,
+      "id": 77,
       "ticker": "PETKM",
       "name": "Petkim Petrokimya Holding A.Ş.",
       "tier": {
@@ -5208,7 +5712,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 45.79,
+      "rsi": 45.78,
       "pivots": {
         "daily": 19.13,
         "dailyP": 0.1,
@@ -5248,19 +5752,19 @@
         }
       },
       "ema": {
-        "EMA_20": 19.47,
-        "EMA_50": 20.09,
-        "EMA_100": 20.26,
-        "EMA_200": 19.8
+        "EMA_20": 19.43,
+        "EMA_50": 20.05,
+        "EMA_100": 20.23,
+        "EMA_200": 19.77
       },
       "bb": {
-        "upper": 22.76,
-        "mid": 19.98,
-        "lower": 17.21
+        "upper": 22.42,
+        "mid": 19.89,
+        "lower": 17.37
       }
     },
     {
-      "id": 71,
+      "id": 78,
       "ticker": "PGSUS",
       "name": "Pegasus Hava Taşımacılığı A.Ş.",
       "tier": {
@@ -5280,7 +5784,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 36.2,
+      "rsi": 36.24,
       "pivots": {
         "daily": 151.87,
         "dailyP": -0.44,
@@ -5320,19 +5824,91 @@
         }
       },
       "ema": {
-        "EMA_20": 156.49,
-        "EMA_50": 164.31,
-        "EMA_100": 173.02,
-        "EMA_200": 186.44
+        "EMA_20": 156.59,
+        "EMA_50": 164.51,
+        "EMA_100": 173.25,
+        "EMA_200": 186.68
       },
       "bb": {
-        "upper": 166.07,
-        "mid": 156.24,
-        "lower": 146.41
+        "upper": 166.5,
+        "mid": 156.33,
+        "lower": 146.16
       }
     },
     {
-      "id": 72,
+      "id": 79,
+      "ticker": "PSGYO",
+      "name": "PSGYO",
+      "tier": {
+        "no": 4,
+        "amount": 10000
+      },
+      "close": 3.47,
+      "open": 3.55,
+      "high": 3.6,
+      "low": 3.47,
+      "volume_analysis": {
+        "volume_ratio": 0.36,
+        "is_volume_burst": false
+      },
+      "divergence": {
+        "status": "VOLUME",
+        "rsi_divergence": false,
+        "volume_divergence": true
+      },
+      "rsi": 47.71,
+      "pivots": {
+        "daily": 3.57,
+        "dailyP": -2.8,
+        "weekly": 3.56,
+        "weeklyP": -2.53,
+        "monthly": 3.62,
+        "monthlyP": -4.14,
+        "next_daily": 3.51,
+        "next_dailyP": -1.14,
+        "next_weekly": 3.51,
+        "next_weeklyP": -1.14,
+        "next_monthly": 3.64,
+        "next_monthlyP": -4.67,
+        "daily_levels": {
+          "r1": 3.61,
+          "r2": 3.68,
+          "r3": 3.72,
+          "s1": 3.5,
+          "s2": 3.46,
+          "s3": 3.39
+        },
+        "weekly_levels": {
+          "r1": 3.7,
+          "r2": 3.87,
+          "r3": 4.01,
+          "s1": 3.39,
+          "s2": 3.25,
+          "s3": 3.08
+        },
+        "monthly_levels": {
+          "r1": 4.17,
+          "r2": 4.81,
+          "r3": 5.36,
+          "s1": 2.98,
+          "s2": 2.43,
+          "s3": 1.79
+        }
+      },
+      "ema": {
+        "EMA_20": 3.54,
+        "EMA_50": 3.45,
+        "EMA_100": 3.25,
+        "EMA_200": 3.0
+      },
+      "bb": {
+        "upper": 3.93,
+        "mid": 3.59,
+        "lower": 3.26
+      }
+    },
+    {
+      "id": 80,
       "ticker": "QUAGR",
       "name": "QUAGR",
       "tier": {
@@ -5352,14 +5928,14 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 38.26,
+      "rsi": 38.05,
       "pivots": {
         "daily": 3.21,
         "dailyP": 0.0,
         "weekly": 3.24,
         "weeklyP": -0.93,
-        "monthly": 3.64,
-        "monthlyP": -11.81,
+        "monthly": 3.65,
+        "monthlyP": -12.05,
         "next_daily": 3.21,
         "next_dailyP": 0.0,
         "next_weekly": 3.21,
@@ -5383,28 +5959,28 @@
           "s3": 2.86
         },
         "monthly_levels": {
-          "r1": 3.93,
+          "r1": 3.92,
           "r2": 4.45,
-          "r3": 4.74,
+          "r3": 4.72,
           "s1": 3.12,
-          "s2": 2.83,
-          "s3": 2.31
+          "s2": 2.85,
+          "s3": 2.32
         }
       },
       "ema": {
-        "EMA_20": 3.39,
+        "EMA_20": 3.4,
         "EMA_50": 3.56,
         "EMA_100": 3.66,
-        "EMA_200": 4.0
+        "EMA_200": 4.01
       },
       "bb": {
         "upper": 3.97,
-        "mid": 3.45,
+        "mid": 3.46,
         "lower": 2.94
       }
     },
     {
-      "id": 73,
+      "id": 81,
       "ticker": "RALYH",
       "name": "RALYH",
       "tier": {
@@ -5424,7 +6000,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 63.75,
+      "rsi": 63.72,
       "pivots": {
         "daily": 262.15,
         "dailyP": 1.56,
@@ -5464,21 +6040,21 @@
         }
       },
       "ema": {
-        "EMA_20": 242.58,
-        "EMA_50": 236.25,
-        "EMA_100": 231.04,
-        "EMA_200": 212.09
+        "EMA_20": 242.16,
+        "EMA_50": 235.9,
+        "EMA_100": 230.78,
+        "EMA_200": 211.78
       },
       "bb": {
-        "upper": 270.14,
-        "mid": 246.71,
-        "lower": 223.29
+        "upper": 270.15,
+        "mid": 246.74,
+        "lower": 223.33
       }
     },
     {
-      "id": 74,
+      "id": 82,
       "ticker": "REEDR",
-      "name": "REEDR",
+      "name": "Reeder Teknoloji Sanayi ve Ticaret A.Ş.",
       "tier": {
         "no": 4,
         "amount": 10000
@@ -5496,14 +6072,14 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 38.38,
+      "rsi": 37.37,
       "pivots": {
         "daily": 6.05,
         "dailyP": -0.99,
         "weekly": 6.06,
         "weeklyP": -1.16,
-        "monthly": 6.75,
-        "monthlyP": -11.26,
+        "monthly": 6.7,
+        "monthlyP": -10.6,
         "next_daily": 6.0,
         "next_dailyP": -0.17,
         "next_weekly": 6.0,
@@ -5527,28 +6103,28 @@
           "s3": 5.55
         },
         "monthly_levels": {
-          "r1": 7.22,
-          "r2": 8.06,
-          "r3": 8.53,
-          "s1": 5.91,
-          "s2": 5.44,
-          "s3": 4.6
+          "r1": 7.1,
+          "r2": 7.84,
+          "r3": 8.24,
+          "s1": 5.96,
+          "s2": 5.56,
+          "s3": 4.82
         }
       },
       "ema": {
-        "EMA_20": 6.33,
-        "EMA_50": 6.66,
-        "EMA_100": 6.97,
+        "EMA_20": 6.32,
+        "EMA_50": 6.65,
+        "EMA_100": 6.96,
         "EMA_200": 7.91
       },
       "bb": {
-        "upper": 7.3,
-        "mid": 6.46,
-        "lower": 5.61
+        "upper": 7.19,
+        "mid": 6.43,
+        "lower": 5.68
       }
     },
     {
-      "id": 75,
+      "id": 83,
       "ticker": "SAHOL",
       "name": "Hacı Ömer Sabancı Holding A.Ş.",
       "tier": {
@@ -5568,7 +6144,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 48.83,
+      "rsi": 48.54,
       "pivots": {
         "daily": 89.5,
         "dailyP": -0.67,
@@ -5608,19 +6184,91 @@
         }
       },
       "ema": {
-        "EMA_20": 88.7,
-        "EMA_50": 90.81,
-        "EMA_100": 92.35,
-        "EMA_200": 92.29
+        "EMA_20": 88.75,
+        "EMA_50": 90.9,
+        "EMA_100": 92.43,
+        "EMA_200": 92.33
       },
       "bb": {
-        "upper": 91.05,
-        "mid": 87.76,
+        "upper": 90.98,
+        "mid": 87.73,
         "lower": 84.48
       }
     },
     {
-      "id": 76,
+      "id": 84,
+      "ticker": "SARKY",
+      "name": "SARKY",
+      "tier": {
+        "no": 4,
+        "amount": 10000
+      },
+      "close": 26.8,
+      "open": 26.4,
+      "high": 27.02,
+      "low": 26.02,
+      "volume_analysis": {
+        "volume_ratio": 1.25,
+        "is_volume_burst": false
+      },
+      "divergence": {
+        "status": "VOLUME",
+        "rsi_divergence": false,
+        "volume_divergence": true
+      },
+      "rsi": 57.45,
+      "pivots": {
+        "daily": 25.85,
+        "dailyP": 3.68,
+        "weekly": 25.42,
+        "weeklyP": 5.43,
+        "monthly": 24.97,
+        "monthlyP": 7.33,
+        "next_daily": 26.61,
+        "next_dailyP": 0.71,
+        "next_weekly": 26.61,
+        "next_weeklyP": 0.71,
+        "next_monthly": 25.81,
+        "next_monthlyP": 3.84,
+        "daily_levels": {
+          "r1": 26.33,
+          "r2": 26.65,
+          "r3": 27.13,
+          "s1": 25.53,
+          "s2": 25.05,
+          "s3": 24.73
+        },
+        "weekly_levels": {
+          "r1": 26.76,
+          "r2": 27.5,
+          "r3": 28.84,
+          "s1": 24.68,
+          "s2": 23.34,
+          "s3": 22.6
+        },
+        "monthly_levels": {
+          "r1": 26.93,
+          "r2": 30.43,
+          "r3": 32.39,
+          "s1": 21.47,
+          "s2": 19.51,
+          "s3": 16.01
+        }
+      },
+      "ema": {
+        "EMA_20": 25.55,
+        "EMA_50": 26.38,
+        "EMA_100": 27.0,
+        "EMA_200": 25.44
+      },
+      "bb": {
+        "upper": 27.0,
+        "mid": 25.18,
+        "lower": 23.36
+      }
+    },
+    {
+      "id": 85,
       "ticker": "SASA",
       "name": "Sasa Polyester Sanayi A.Ş.",
       "tier": {
@@ -5692,7 +6340,7 @@
       }
     },
     {
-      "id": 77,
+      "id": 86,
       "ticker": "SISE",
       "name": "Türkiye Şişe ve Cam Fabrikaları A.Ş.",
       "tier": {
@@ -5712,7 +6360,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 29.35,
+      "rsi": 29.46,
       "pivots": {
         "daily": 41.77,
         "dailyP": -7.49,
@@ -5753,18 +6401,18 @@
       },
       "ema": {
         "EMA_20": 41.87,
-        "EMA_50": 43.26,
-        "EMA_100": 43.81,
-        "EMA_200": 43.01
+        "EMA_50": 43.27,
+        "EMA_100": 43.82,
+        "EMA_200": 42.99
       },
       "bb": {
-        "upper": 44.64,
-        "mid": 42.11,
-        "lower": 39.59
+        "upper": 44.57,
+        "mid": 42.1,
+        "lower": 39.63
       }
     },
     {
-      "id": 78,
+      "id": 87,
       "ticker": "SKBNK",
       "name": "SKBNK",
       "tier": {
@@ -5784,7 +6432,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 25.08,
+      "rsi": 25.76,
       "pivots": {
         "daily": 6.0,
         "dailyP": 4.33,
@@ -5824,19 +6472,91 @@
         }
       },
       "ema": {
-        "EMA_20": 8.7,
-        "EMA_50": 11.53,
-        "EMA_100": 12.04,
-        "EMA_200": 11.03
+        "EMA_20": 8.69,
+        "EMA_50": 11.49,
+        "EMA_100": 11.98,
+        "EMA_200": 10.98
       },
       "bb": {
-        "upper": 16.34,
-        "mid": 8.86,
-        "lower": 1.37
+        "upper": 16.87,
+        "mid": 8.94,
+        "lower": 1.02
       }
     },
     {
-      "id": 79,
+      "id": 88,
+      "ticker": "SNGYO",
+      "name": "SNGYO",
+      "tier": {
+        "no": 4,
+        "amount": 10000
+      },
+      "close": 3.21,
+      "open": 3.24,
+      "high": 3.25,
+      "low": 3.19,
+      "volume_analysis": {
+        "volume_ratio": 0.5,
+        "is_volume_burst": false
+      },
+      "divergence": {
+        "status": "NONE",
+        "rsi_divergence": false,
+        "volume_divergence": false
+      },
+      "rsi": 40.69,
+      "pivots": {
+        "daily": 3.25,
+        "dailyP": -1.23,
+        "weekly": 3.23,
+        "weeklyP": -0.62,
+        "monthly": 3.39,
+        "monthlyP": -5.31,
+        "next_daily": 3.22,
+        "next_dailyP": -0.31,
+        "next_weekly": 3.22,
+        "next_weeklyP": -0.31,
+        "next_monthly": 3.26,
+        "next_monthlyP": -1.53,
+        "daily_levels": {
+          "r1": 3.28,
+          "r2": 3.31,
+          "r3": 3.34,
+          "s1": 3.22,
+          "s2": 3.19,
+          "s3": 3.16
+        },
+        "weekly_levels": {
+          "r1": 3.35,
+          "r2": 3.46,
+          "r3": 3.58,
+          "s1": 3.12,
+          "s2": 3.0,
+          "s3": 2.89
+        },
+        "monthly_levels": {
+          "r1": 3.72,
+          "r2": 4.39,
+          "r3": 4.72,
+          "s1": 2.72,
+          "s2": 2.39,
+          "s3": 1.72
+        }
+      },
+      "ema": {
+        "EMA_20": 3.3,
+        "EMA_50": 3.49,
+        "EMA_100": 3.7,
+        "EMA_200": 3.91
+      },
+      "bb": {
+        "upper": 3.59,
+        "mid": 3.27,
+        "lower": 2.96
+      }
+    },
+    {
+      "id": 89,
       "ticker": "SOKM",
       "name": "SOKM",
       "tier": {
@@ -5856,7 +6576,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 54.02,
+      "rsi": 54.42,
       "pivots": {
         "daily": 53.0,
         "dailyP": -1.51,
@@ -5896,91 +6616,19 @@
         }
       },
       "ema": {
-        "EMA_20": 51.62,
-        "EMA_50": 50.8,
-        "EMA_100": 51.05,
-        "EMA_200": 50.3
+        "EMA_20": 51.54,
+        "EMA_50": 50.72,
+        "EMA_100": 51.01,
+        "EMA_200": 50.27
       },
       "bb": {
-        "upper": 55.09,
-        "mid": 52.49,
-        "lower": 49.89
+        "upper": 55.0,
+        "mid": 52.4,
+        "lower": 49.8
       }
     },
     {
-      "id": 80,
-      "ticker": "TABGD",
-      "name": "TABGD",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 250.5,
-      "open": 261.0,
-      "high": 264.0,
-      "low": 250.5,
-      "volume_analysis": {
-        "volume_ratio": 0.58,
-        "is_volume_burst": false
-      },
-      "divergence": {
-        "status": "NONE",
-        "rsi_divergence": false,
-        "volume_divergence": false
-      },
-      "rsi": 52.1,
-      "pivots": {
-        "daily": 260.67,
-        "dailyP": -3.9,
-        "weekly": 260.58,
-        "weeklyP": -3.87,
-        "monthly": 231.43,
-        "monthlyP": 8.24,
-        "next_daily": 255.0,
-        "next_dailyP": -1.76,
-        "next_weekly": 255.0,
-        "next_weeklyP": -1.76,
-        "next_monthly": 252.3,
-        "next_monthlyP": -0.71,
-        "daily_levels": {
-          "r1": 265.33,
-          "r2": 268.67,
-          "r3": 273.33,
-          "s1": 257.33,
-          "s2": 252.67,
-          "s3": 249.33
-        },
-        "weekly_levels": {
-          "r1": 268.42,
-          "r2": 274.83,
-          "r3": 282.67,
-          "s1": 254.17,
-          "s2": 246.33,
-          "s3": 239.92
-        },
-        "monthly_levels": {
-          "r1": 250.77,
-          "r2": 264.13,
-          "r3": 283.47,
-          "s1": 218.07,
-          "s2": 198.73,
-          "s3": 185.37
-        }
-      },
-      "ema": {
-        "EMA_20": 249.8,
-        "EMA_50": 247.93,
-        "EMA_100": 249.11,
-        "EMA_200": 242.42
-      },
-      "bb": {
-        "upper": 269.53,
-        "mid": 246.65,
-        "lower": 223.77
-      }
-    },
-    {
-      "id": 81,
+      "id": 90,
       "ticker": "TAVHL",
       "name": "TAV Havalimanları Holding A.Ş.",
       "tier": {
@@ -6000,7 +6648,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 54.47,
+      "rsi": 54.42,
       "pivots": {
         "daily": 278.08,
         "dailyP": 0.51,
@@ -6040,19 +6688,19 @@
         }
       },
       "ema": {
-        "EMA_20": 274.85,
-        "EMA_50": 275.87,
-        "EMA_100": 281.38,
-        "EMA_200": 282.36
+        "EMA_20": 274.84,
+        "EMA_50": 275.97,
+        "EMA_100": 281.55,
+        "EMA_200": 282.45
       },
       "bb": {
-        "upper": 287.35,
-        "mid": 273.25,
-        "lower": 259.15
+        "upper": 287.4,
+        "mid": 272.9,
+        "lower": 258.4
       }
     },
     {
-      "id": 82,
+      "id": 91,
       "ticker": "TCELL",
       "name": "Turkcell İletişim Hizmetleri A.Ş.",
       "tier": {
@@ -6072,7 +6720,7 @@
         "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 42.98,
+      "rsi": 43.16,
       "pivots": {
         "daily": 104.23,
         "dailyP": -1.28,
@@ -6112,19 +6760,19 @@
         }
       },
       "ema": {
-        "EMA_20": 104.94,
+        "EMA_20": 104.93,
         "EMA_50": 106.94,
         "EMA_100": 108.03,
-        "EMA_200": 106.62
+        "EMA_200": 106.6
       },
       "bb": {
-        "upper": 110.63,
-        "mid": 104.9,
-        "lower": 99.16
+        "upper": 110.42,
+        "mid": 104.84,
+        "lower": 99.26
       }
     },
     {
-      "id": 83,
+      "id": 92,
       "ticker": "THYAO",
       "name": "Türk Hava Yolları A.O.",
       "tier": {
@@ -6144,7 +6792,7 @@
         "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 39.41,
+      "rsi": 39.63,
       "pivots": {
         "daily": 306.67,
         "dailyP": -1.85,
@@ -6184,19 +6832,19 @@
         }
       },
       "ema": {
-        "EMA_20": 312.11,
-        "EMA_50": 315.31,
-        "EMA_100": 312.57,
-        "EMA_200": 307.61
+        "EMA_20": 312.13,
+        "EMA_50": 315.17,
+        "EMA_100": 312.37,
+        "EMA_200": 307.43
       },
       "bb": {
-        "upper": 327.01,
-        "mid": 312.45,
-        "lower": 297.89
+        "upper": 327.42,
+        "mid": 312.52,
+        "lower": 297.63
       }
     },
     {
-      "id": 84,
+      "id": 93,
       "ticker": "TKFEN",
       "name": "TKFEN",
       "tier": {
@@ -6216,7 +6864,7 @@
         "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 78.49,
+      "rsi": 78.32,
       "pivots": {
         "daily": 235.7,
         "dailyP": -1.48,
@@ -6256,19 +6904,19 @@
         }
       },
       "ema": {
-        "EMA_20": 192.91,
-        "EMA_50": 164.88,
-        "EMA_100": 143.57,
-        "EMA_200": 123.12
+        "EMA_20": 192.8,
+        "EMA_50": 164.67,
+        "EMA_100": 143.26,
+        "EMA_200": 122.82
       },
       "bb": {
-        "upper": 254.64,
-        "mid": 182.08,
-        "lower": 109.52
+        "upper": 254.67,
+        "mid": 182.04,
+        "lower": 109.42
       }
     },
     {
-      "id": 85,
+      "id": 94,
       "ticker": "TOASO",
       "name": "Tofaş Türk Otomobil Fabrikası A.Ş.",
       "tier": {
@@ -6288,7 +6936,7 @@
         "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 40.41,
+      "rsi": 40.55,
       "pivots": {
         "daily": 269.5,
         "dailyP": -1.02,
@@ -6328,19 +6976,19 @@
         }
       },
       "ema": {
-        "EMA_20": 274.27,
-        "EMA_50": 286.6,
-        "EMA_100": 290.26,
-        "EMA_200": 281.86
+        "EMA_20": 274.34,
+        "EMA_50": 286.66,
+        "EMA_100": 290.22,
+        "EMA_200": 281.71
       },
       "bb": {
-        "upper": 299.03,
-        "mid": 273.36,
-        "lower": 247.69
+        "upper": 300.75,
+        "mid": 273.66,
+        "lower": 246.57
       }
     },
     {
-      "id": 86,
+      "id": 95,
       "ticker": "TRALT",
       "name": "Türk Altın İşletmeleri A.Ş.",
       "tier": {
@@ -6360,7 +7008,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 50.85,
+      "rsi": 50.86,
       "pivots": {
         "daily": 47.47,
         "dailyP": 3.43,
@@ -6401,90 +7049,90 @@
       },
       "ema": {
         "EMA_20": 48.79,
-        "EMA_50": 48.42,
-        "EMA_100": 47.37,
-        "EMA_200": 43.93
+        "EMA_50": 48.38,
+        "EMA_100": 47.32,
+        "EMA_200": 43.87
       },
       "bb": {
-        "upper": 52.99,
-        "mid": 48.53,
-        "lower": 44.08
+        "upper": 53.02,
+        "mid": 48.55,
+        "lower": 44.07
       }
     },
     {
-      "id": 87,
-      "ticker": "TRENJ",
-      "name": "TRENJ",
+      "id": 96,
+      "ticker": "TRGYO",
+      "name": "TRGYO",
       "tier": {
         "no": 4,
         "amount": 10000
       },
-      "close": 94.35,
-      "open": 95.4,
-      "high": 97.15,
-      "low": 93.05,
+      "close": 91.95,
+      "open": 93.7,
+      "high": 93.8,
+      "low": 91.65,
       "volume_analysis": {
-        "volume_ratio": 2.31,
-        "is_volume_burst": true
+        "volume_ratio": 0.86,
+        "is_volume_burst": false
       },
       "divergence": {
-        "status": "NONE",
+        "status": "VOLUME",
         "rsi_divergence": false,
-        "volume_divergence": false
+        "volume_divergence": true
       },
-      "rsi": 48.41,
+      "rsi": 40.17,
       "pivots": {
-        "daily": 95.43,
-        "dailyP": -1.13,
-        "weekly": 98.08,
-        "weeklyP": -3.8,
-        "monthly": 95.57,
-        "monthlyP": -1.28,
-        "next_daily": 94.85,
-        "next_dailyP": -0.53,
-        "next_weekly": 94.85,
-        "next_weeklyP": -0.53,
-        "next_monthly": 96.95,
-        "next_monthlyP": -2.68,
+        "daily": 93.08,
+        "dailyP": -1.21,
+        "weekly": 92.23,
+        "weeklyP": -0.3,
+        "monthly": 96.27,
+        "monthlyP": -4.49,
+        "next_daily": 92.47,
+        "next_dailyP": -0.56,
+        "next_weekly": 92.47,
+        "next_weeklyP": -0.56,
+        "next_monthly": 92.05,
+        "next_monthlyP": -0.11,
         "daily_levels": {
-          "r1": 96.72,
-          "r2": 98.48,
-          "r3": 99.77,
-          "s1": 93.67,
-          "s2": 92.38,
-          "s3": 90.62
+          "r1": 94.52,
+          "r2": 95.58,
+          "r3": 97.02,
+          "s1": 92.02,
+          "s2": 90.58,
+          "s3": 89.52
         },
         "weekly_levels": {
-          "r1": 103.07,
-          "r2": 111.18,
-          "r3": 116.17,
-          "s1": 89.97,
-          "s2": 84.98,
-          "s3": 76.87
+          "r1": 95.37,
+          "r2": 97.28,
+          "r3": 100.42,
+          "s1": 90.32,
+          "s2": 87.18,
+          "s3": 85.27
         },
         "monthly_levels": {
-          "r1": 105.63,
-          "r2": 118.57,
-          "r3": 128.63,
-          "s1": 82.63,
-          "s2": 72.57,
-          "s3": 59.63
+          "r1": 100.03,
+          "r2": 106.97,
+          "r3": 110.73,
+          "s1": 89.33,
+          "s2": 85.57,
+          "s3": 78.63
         }
       },
       "ema": {
-        "EMA_20": 95.99,
-        "EMA_50": 94.19,
-        "EMA_100": 93.54,
-        "EMA_200": 89.69
+        "EMA_20": 93.88,
+        "EMA_50": 95.31,
+        "EMA_100": 93.51,
+        "EMA_200": 87.77
       },
       "bb": {
-        "upper": 104.87,
-        "mid": 96.32,
-        "lower": 87.77
+        "upper": 98.65,
+        "mid": 93.98,
+        "lower": 89.3
       }
     },
     {
-      "id": 88,
+      "id": 97,
       "ticker": "TRMET",
       "name": "TRMET",
       "tier": {
@@ -6504,7 +7152,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 50.86,
+      "rsi": 50.82,
       "pivots": {
         "daily": 127.17,
         "dailyP": 0.73,
@@ -6544,19 +7192,19 @@
         }
       },
       "ema": {
-        "EMA_20": 128.62,
-        "EMA_50": 124.82,
-        "EMA_100": 123.4,
-        "EMA_200": 117.65
+        "EMA_20": 128.65,
+        "EMA_50": 124.88,
+        "EMA_100": 123.47,
+        "EMA_200": 117.64
       },
       "bb": {
-        "upper": 142.49,
-        "mid": 129.38,
-        "lower": 116.27
+        "upper": 141.91,
+        "mid": 129.59,
+        "lower": 117.27
       }
     },
     {
-      "id": 89,
+      "id": 98,
       "ticker": "TSKB",
       "name": "TSKB",
       "tier": {
@@ -6576,7 +7224,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 39.89,
+      "rsi": 40.01,
       "pivots": {
         "daily": 11.01,
         "dailyP": -1.09,
@@ -6616,21 +7264,21 @@
         }
       },
       "ema": {
-        "EMA_20": 11.17,
-        "EMA_50": 11.46,
-        "EMA_100": 11.77,
-        "EMA_200": 12.08
+        "EMA_20": 11.18,
+        "EMA_50": 11.47,
+        "EMA_100": 11.78,
+        "EMA_200": 12.09
       },
       "bb": {
-        "upper": 11.52,
-        "mid": 11.14,
-        "lower": 10.76
+        "upper": 11.63,
+        "mid": 11.16,
+        "lower": 10.68
       }
     },
     {
-      "id": 90,
+      "id": 99,
       "ticker": "TSPOR",
-      "name": "TSPOR",
+      "name": "Trabzonspor Sportif Yatırım A.Ş.",
       "tier": {
         "no": 4,
         "amount": 10000
@@ -6648,7 +7296,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 58.4,
+      "rsi": 58.46,
       "pivots": {
         "daily": 1.02,
         "dailyP": -0.98,
@@ -6688,7 +7336,7 @@
         }
       },
       "ema": {
-        "EMA_20": 0.99,
+        "EMA_20": 0.98,
         "EMA_50": 0.97,
         "EMA_100": 0.98,
         "EMA_200": 1.02
@@ -6700,7 +7348,7 @@
       }
     },
     {
-      "id": 91,
+      "id": 100,
       "ticker": "TTKOM",
       "name": "Türk Telekomünikasyon A.Ş.",
       "tier": {
@@ -6720,7 +7368,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 39.44,
+      "rsi": 39.39,
       "pivots": {
         "daily": 54.77,
         "dailyP": -3.32,
@@ -6760,91 +7408,19 @@
         }
       },
       "ema": {
-        "EMA_20": 55.08,
-        "EMA_50": 57.42,
-        "EMA_100": 59.11,
-        "EMA_200": 59.05
+        "EMA_20": 55.09,
+        "EMA_50": 57.45,
+        "EMA_100": 59.14,
+        "EMA_200": 59.06
       },
       "bb": {
-        "upper": 59.12,
-        "mid": 54.54,
-        "lower": 49.96
+        "upper": 58.93,
+        "mid": 54.5,
+        "lower": 50.07
       }
     },
     {
-      "id": 92,
-      "ticker": "TTRAK",
-      "name": "TTRAK",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 416.0,
-      "open": 414.0,
-      "high": 419.0,
-      "low": 410.75,
-      "volume_analysis": {
-        "volume_ratio": 1.18,
-        "is_volume_burst": false
-      },
-      "divergence": {
-        "status": "VOLUME",
-        "rsi_divergence": false,
-        "volume_divergence": true
-      },
-      "rsi": 48.11,
-      "pivots": {
-        "daily": 412.25,
-        "dailyP": 0.91,
-        "weekly": 409.5,
-        "weeklyP": 1.59,
-        "monthly": 424.33,
-        "monthlyP": -1.96,
-        "next_daily": 415.25,
-        "next_dailyP": 0.18,
-        "next_weekly": 415.25,
-        "next_weeklyP": 0.18,
-        "next_monthly": 412.25,
-        "next_monthlyP": 0.91,
-        "daily_levels": {
-          "r1": 417.5,
-          "r2": 421.0,
-          "r3": 426.25,
-          "s1": 408.75,
-          "s2": 403.5,
-          "s3": 400.0
-        },
-        "weekly_levels": {
-          "r1": 420.25,
-          "r2": 426.5,
-          "r3": 437.25,
-          "s1": 403.25,
-          "s2": 392.5,
-          "s3": 386.25
-        },
-        "monthly_levels": {
-          "r1": 444.67,
-          "r2": 477.33,
-          "r3": 497.67,
-          "s1": 391.67,
-          "s2": 371.33,
-          "s3": 338.67
-        }
-      },
-      "ema": {
-        "EMA_20": 414.65,
-        "EMA_50": 427.6,
-        "EMA_100": 448.12,
-        "EMA_200": 486.69
-      },
-      "bb": {
-        "upper": 423.47,
-        "mid": 411.36,
-        "lower": 399.26
-      }
-    },
-    {
-      "id": 93,
+      "id": 101,
       "ticker": "TUKAS",
       "name": "TUKAS",
       "tier": {
@@ -6864,7 +7440,7 @@
         "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 32.4,
+      "rsi": 32.46,
       "pivots": {
         "daily": 1.99,
         "dailyP": 0.0,
@@ -6906,8 +7482,8 @@
       "ema": {
         "EMA_20": 2.04,
         "EMA_50": 2.16,
-        "EMA_100": 2.29,
-        "EMA_200": 2.53
+        "EMA_100": 2.3,
+        "EMA_200": 2.54
       },
       "bb": {
         "upper": 2.14,
@@ -6916,7 +7492,7 @@
       }
     },
     {
-      "id": 94,
+      "id": 102,
       "ticker": "TUPRS",
       "name": "Türkiye Petrol Rafinerileri A.Ş.",
       "tier": {
@@ -6936,7 +7512,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 79.5,
+      "rsi": 79.57,
       "pivots": {
         "daily": 357.33,
         "dailyP": 3.2,
@@ -6976,91 +7552,19 @@
         }
       },
       "ema": {
-        "EMA_20": 319.38,
-        "EMA_50": 288.59,
-        "EMA_100": 267.24,
-        "EMA_200": 241.8
+        "EMA_20": 318.64,
+        "EMA_50": 287.49,
+        "EMA_100": 266.35,
+        "EMA_200": 241.12
       },
       "bb": {
-        "upper": 366.63,
-        "mid": 317.74,
-        "lower": 268.85
+        "upper": 367.11,
+        "mid": 316.82,
+        "lower": 266.54
       }
     },
     {
-      "id": 95,
-      "ticker": "TUREX",
-      "name": "TUREX",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 6.51,
-      "open": 6.53,
-      "high": 6.58,
-      "low": 6.46,
-      "volume_analysis": {
-        "volume_ratio": 0.67,
-        "is_volume_burst": false
-      },
-      "divergence": {
-        "status": "NONE",
-        "rsi_divergence": false,
-        "volume_divergence": false
-      },
-      "rsi": 39.21,
-      "pivots": {
-        "daily": 6.59,
-        "dailyP": -1.21,
-        "weekly": 6.57,
-        "weeklyP": -0.91,
-        "monthly": 7.26,
-        "monthlyP": -10.33,
-        "next_daily": 6.52,
-        "next_dailyP": -0.15,
-        "next_weekly": 6.52,
-        "next_weeklyP": -0.15,
-        "next_monthly": 6.57,
-        "next_monthlyP": -0.91,
-        "daily_levels": {
-          "r1": 6.76,
-          "r2": 6.98,
-          "r3": 7.15,
-          "s1": 6.37,
-          "s2": 6.2,
-          "s3": 5.98
-        },
-        "weekly_levels": {
-          "r1": 6.78,
-          "r2": 7.02,
-          "r3": 7.23,
-          "s1": 6.33,
-          "s2": 6.12,
-          "s3": 5.88
-        },
-        "monthly_levels": {
-          "r1": 7.94,
-          "r2": 9.24,
-          "r3": 9.92,
-          "s1": 5.96,
-          "s2": 5.28,
-          "s3": 3.98
-        }
-      },
-      "ema": {
-        "EMA_20": 6.73,
-        "EMA_50": 7.16,
-        "EMA_100": 7.54,
-        "EMA_200": 8.42
-      },
-      "bb": {
-        "upper": 7.51,
-        "mid": 6.78,
-        "lower": 6.04
-      }
-    },
-    {
-      "id": 96,
+      "id": 103,
       "ticker": "TURSG",
       "name": "TURSG",
       "tier": {
@@ -7080,7 +7584,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 43.18,
+      "rsi": 43.62,
       "pivots": {
         "daily": 6.28,
         "dailyP": -1.11,
@@ -7120,19 +7624,19 @@
         }
       },
       "ema": {
-        "EMA_20": 6.32,
+        "EMA_20": 6.31,
         "EMA_50": 6.38,
         "EMA_100": 6.38,
         "EMA_200": 6.13
       },
       "bb": {
-        "upper": 6.78,
-        "mid": 6.39,
+        "upper": 6.77,
+        "mid": 6.38,
         "lower": 5.99
       }
     },
     {
-      "id": 97,
+      "id": 104,
       "ticker": "ULKER",
       "name": "Ülker Bisküvi Sanayi A.Ş.",
       "tier": {
@@ -7152,7 +7656,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 44.09,
+      "rsi": 43.87,
       "pivots": {
         "daily": 89.83,
         "dailyP": 1.41,
@@ -7192,21 +7696,21 @@
         }
       },
       "ema": {
-        "EMA_20": 91.07,
-        "EMA_50": 98.2,
-        "EMA_100": 105.43,
-        "EMA_200": 110.46
+        "EMA_20": 91.12,
+        "EMA_50": 98.4,
+        "EMA_100": 105.64,
+        "EMA_200": 110.6
       },
       "bb": {
-        "upper": 96.52,
-        "mid": 90.3,
-        "lower": 84.08
+        "upper": 96.64,
+        "mid": 90.32,
+        "lower": 84.0
       }
     },
     {
-      "id": 98,
+      "id": 105,
       "ticker": "VAKBN",
-      "name": "VAKBN",
+      "name": "Türkiye Vakıflar Bankası T.A.O.",
       "tier": {
         "no": 4,
         "amount": 10000
@@ -7224,7 +7728,7 @@
         "rsi_divergence": false,
         "volume_divergence": true
       },
-      "rsi": 49.89,
+      "rsi": 49.68,
       "pivots": {
         "daily": 30.91,
         "dailyP": -0.36,
@@ -7264,19 +7768,19 @@
         }
       },
       "ema": {
-        "EMA_20": 30.66,
-        "EMA_50": 31.31,
-        "EMA_100": 31.83,
-        "EMA_200": 31.28
+        "EMA_20": 30.68,
+        "EMA_50": 31.34,
+        "EMA_100": 31.86,
+        "EMA_200": 31.29
       },
       "bb": {
-        "upper": 31.78,
-        "mid": 30.36,
+        "upper": 31.83,
+        "mid": 30.38,
         "lower": 28.93
       }
     },
     {
-      "id": 99,
+      "id": 106,
       "ticker": "VESTL",
       "name": "VESTL",
       "tier": {
@@ -7296,7 +7800,7 @@
         "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 36.79,
+      "rsi": 36.71,
       "pivots": {
         "daily": 22.42,
         "dailyP": -1.52,
@@ -7337,90 +7841,18 @@
       },
       "ema": {
         "EMA_20": 23.13,
-        "EMA_50": 24.39,
-        "EMA_100": 25.99,
-        "EMA_200": 29.3
+        "EMA_50": 24.41,
+        "EMA_100": 26.02,
+        "EMA_200": 29.35
       },
       "bb": {
-        "upper": 25.19,
-        "mid": 23.25,
-        "lower": 21.31
+        "upper": 25.1,
+        "mid": 23.23,
+        "lower": 21.36
       }
     },
     {
-      "id": 103,
-      "ticker": "YEOTK",
-      "name": "YEOTK",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 41.24,
-      "open": 41.8,
-      "high": 43.38,
-      "low": 39.82,
-      "volume_analysis": {
-        "volume_ratio": 2.28,
-        "is_volume_burst": true
-      },
-      "divergence": {
-        "status": "NONE",
-        "rsi_divergence": false,
-        "volume_divergence": false
-      },
-      "rsi": 52.83,
-      "pivots": {
-        "daily": 40.7,
-        "dailyP": 1.33,
-        "weekly": 40.23,
-        "weeklyP": 2.51,
-        "monthly": 40.25,
-        "monthlyP": 2.46,
-        "next_daily": 41.48,
-        "next_dailyP": -0.58,
-        "next_weekly": 41.48,
-        "next_weeklyP": -0.58,
-        "next_monthly": 40.58,
-        "next_monthlyP": 1.63,
-        "daily_levels": {
-          "r1": 42.88,
-          "r2": 44.12,
-          "r3": 46.3,
-          "s1": 39.46,
-          "s2": 37.28,
-          "s3": 36.04
-        },
-        "weekly_levels": {
-          "r1": 43.35,
-          "r2": 45.05,
-          "r3": 48.17,
-          "s1": 38.53,
-          "s2": 35.41,
-          "s3": 33.71
-        },
-        "monthly_levels": {
-          "r1": 44.9,
-          "r2": 50.81,
-          "r3": 55.46,
-          "s1": 34.34,
-          "s2": 29.69,
-          "s3": 23.78
-        }
-      },
-      "ema": {
-        "EMA_20": 40.08,
-        "EMA_50": 39.99,
-        "EMA_100": 36.38,
-        "EMA_200": 30.53
-      },
-      "bb": {
-        "upper": 44.31,
-        "mid": 40.35,
-        "lower": 36.39
-      }
-    },
-    {
-      "id": 104,
+      "id": 110,
       "ticker": "YKBNK",
       "name": "Yapı ve Kredi Bankası A.Ş.",
       "tier": {
@@ -7440,7 +7872,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 50.82,
+      "rsi": 50.31,
       "pivots": {
         "daily": 35.45,
         "dailyP": -1.5,
@@ -7480,19 +7912,19 @@
         }
       },
       "ema": {
-        "EMA_20": 34.59,
-        "EMA_50": 35.47,
-        "EMA_100": 36.06,
-        "EMA_200": 35.64
+        "EMA_20": 34.64,
+        "EMA_50": 35.55,
+        "EMA_100": 36.12,
+        "EMA_200": 35.66
       },
       "bb": {
         "upper": 36.12,
-        "mid": 33.74,
-        "lower": 31.36
+        "mid": 33.76,
+        "lower": 31.4
       }
     },
     {
-      "id": 105,
+      "id": 111,
       "ticker": "ZOREN",
       "name": "ZOREN",
       "tier": {
@@ -7512,7 +7944,7 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 28.26,
+      "rsi": 28.64,
       "pivots": {
         "daily": 2.29,
         "dailyP": -0.87,
@@ -7553,13 +7985,13 @@
       },
       "ema": {
         "EMA_20": 2.39,
-        "EMA_50": 2.59,
+        "EMA_50": 2.6,
         "EMA_100": 2.78,
-        "EMA_200": 2.99
+        "EMA_200": 3.0
       },
       "bb": {
-        "upper": 2.64,
-        "mid": 2.39,
+        "upper": 2.66,
+        "mid": 2.4,
         "lower": 2.14
       }
     }
