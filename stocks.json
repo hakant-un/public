@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T20:25:27.543661Z",
+  "updated_at": "2026-10-09T20:01:10.204336Z",
   "scores": {
     "order_block_setups": {
       "bullish": [],
@@ -11,18 +11,14 @@
       "id": 11,
       "ticker": "UKOIL",
       "name": "Brent Petrol",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 103.28,
-      "open": 101.13,
-      "high": 105.91,
-      "low": 100.75,
+      "close": 104.03,
+      "open": 103.9,
+      "high": 105.07,
+      "low": 102.39,
       "wema_bands": {
-        "mid": 99.01,
-        "upper_green": 91.59,
-        "lower_red": 106.44,
+        "mid": 99.39,
+        "upper_green": 91.94,
+        "lower_red": 106.85,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -43,19 +39,19 @@
           "entry1": 101.11,
           "entry2": 99.62,
           "stop_loss": 98.14,
-          "distance_pct": -2.1
+          "distance_pct": -2.81
         },
         "bearish": {
           "candle_date": "20/05/2026",
           "entry1": 111.79,
           "entry2": 110.34,
           "stop_loss": 113.24,
-          "distance_pct": 8.24
+          "distance_pct": 7.46
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.12,
-        "max_recent_vol_ratio": 1.29,
+        "volume_ratio": 0.63,
+        "max_recent_vol_ratio": 1.14,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -66,24 +62,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 55.68,
+      "rsi": 56.77,
       "pivots": {
-        "daily": 100.8,
+        "daily": 103.65,
         "weekly": 102.54,
-        "weeklyP": 0.72,
+        "weeklyP": 1.45,
         "monthly": 101.48,
-        "monthlyP": 1.77,
-        "next_weekly": 102.09,
-        "next_weeklyP": 1.17,
-        "next_monthly": 101.92,
-        "next_monthlyP": 1.33,
+        "monthlyP": 2.51,
+        "next_weekly": 102.34,
+        "next_weeklyP": 1.65,
+        "next_monthly": 102.17,
+        "next_monthlyP": 1.82,
         "daily_levels": {
-          "r1": 101.99,
-          "r2": 103.77,
-          "r3": 104.96,
-          "s1": 99.02,
-          "s2": 97.83,
-          "s3": 96.05
+          "r1": 106.54,
+          "r2": 108.81,
+          "r3": 111.7,
+          "s1": 101.38,
+          "s2": 98.49,
+          "s3": 96.22
         },
         "weekly_levels": {
           "r1": 108.52,
@@ -103,34 +99,30 @@
         }
       },
       "ema": {
-        "EMA_5": 101.83,
-        "EMA_8": 102.0,
-        "EMA_13": 102.09,
-        "EMA_21": 101.4,
-        "EMA_34": 99.56,
-        "EMA_55": 97.15,
-        "EMA_89": 94.71,
-        "EMA_144": 91.56,
-        "EMA_233": 87.46,
-        "EMA_377": 83.7
+        "EMA_5": 102.79,
+        "EMA_8": 102.63,
+        "EMA_13": 102.49,
+        "EMA_21": 101.72,
+        "EMA_34": 99.87,
+        "EMA_55": 97.43,
+        "EMA_89": 94.94,
+        "EMA_144": 91.74,
+        "EMA_233": 87.61,
+        "EMA_377": 83.81
       }
     },
     {
       "id": 22,
       "ticker": "XAUUSD",
       "name": "Ons Altın",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 4159.5,
-      "open": 4139.9,
-      "high": 4170.7,
-      "low": 4128.1,
+      "close": 4220.6,
+      "open": 4159.7,
+      "high": 4232.7,
+      "low": 4156.1,
       "wema_bands": {
-        "mid": 4297.56,
-        "upper_green": 3975.24,
-        "lower_red": 4619.88,
+        "mid": 4294.05,
+        "upper_green": 3971.99,
+        "lower_red": 4616.1,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -151,19 +143,19 @@
           "entry1": 4109.75,
           "entry2": 4074.0,
           "stop_loss": 4038.25,
-          "distance_pct": -1.2
+          "distance_pct": -2.63
         },
         "bearish": {
           "candle_date": "02/10/2026",
           "entry1": 4222.8,
           "entry2": 4196.1,
           "stop_loss": 4249.5,
-          "distance_pct": 1.52
+          "distance_pct": 0.05
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.02,
-        "max_recent_vol_ratio": 1.14,
+        "volume_ratio": 0.88,
+        "max_recent_vol_ratio": 1.15,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -174,24 +166,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 36.75,
+      "rsi": 43.97,
       "pivots": {
-        "daily": 4143.23,
+        "daily": 4151.93,
         "weekly": 4207.0,
-        "weeklyP": -1.13,
+        "weeklyP": 0.32,
         "monthly": 4296.1,
-        "monthlyP": -3.18,
-        "next_weekly": 4154.37,
-        "next_weeklyP": 0.12,
-        "next_monthly": 4169.9,
-        "next_monthlyP": -0.25,
+        "monthlyP": -1.76,
+        "next_weekly": 4181.5,
+        "next_weeklyP": 0.94,
+        "next_monthly": 4190.27,
+        "next_monthlyP": 0.72,
         "daily_levels": {
-          "r1": 4195.27,
-          "r2": 4249.83,
-          "r3": 4301.87,
-          "s1": 4088.67,
-          "s2": 4036.63,
-          "s3": 3982.07
+          "r1": 4175.77,
+          "r2": 4194.53,
+          "r3": 4218.37,
+          "s1": 4133.17,
+          "s2": 4109.33,
+          "s3": 4090.57
         },
         "weekly_levels": {
           "r1": 4270.9,
@@ -211,34 +203,30 @@
         }
       },
       "ema": {
-        "EMA_5": 4167.1,
-        "EMA_8": 4185.09,
-        "EMA_13": 4219.72,
-        "EMA_21": 4264.44,
-        "EMA_34": 4300.62,
-        "EMA_55": 4323.91,
-        "EMA_89": 4353.04,
-        "EMA_144": 4366.22,
-        "EMA_233": 4285.75,
-        "EMA_377": 4053.85
+        "EMA_5": 4184.38,
+        "EMA_8": 4192.55,
+        "EMA_13": 4219.54,
+        "EMA_21": 4260.25,
+        "EMA_34": 4295.91,
+        "EMA_55": 4320.13,
+        "EMA_89": 4350.04,
+        "EMA_144": 4364.18,
+        "EMA_233": 4285.18,
+        "EMA_377": 4054.72
       }
     },
     {
       "id": 62,
       "ticker": "XBANK",
       "name": "Bist Banka Endeksi",
-      "tier": {
-        "no": 0,
-        "amount": 0
-      },
-      "close": 16161.3,
-      "open": 16159.2,
-      "high": 16252.1,
-      "low": 15886.6,
+      "close": 15912.0,
+      "open": 16139.0,
+      "high": 16161.0,
+      "low": 15734.9,
       "wema_bands": {
-        "mid": 16261.84,
-        "upper_green": 15042.2,
-        "lower_red": 17481.48,
+        "mid": 16241.27,
+        "upper_green": 15023.17,
+        "lower_red": 17459.37,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -259,19 +247,19 @@
           "entry1": 15706.1,
           "entry2": 15563.0,
           "stop_loss": 15419.9,
-          "distance_pct": -2.82
+          "distance_pct": -1.29
         },
         "bearish": {
-          "candle_date": "30/09/2026",
-          "entry1": 16369.1,
-          "entry2": 16220.7,
-          "stop_loss": 16517.5,
-          "distance_pct": 1.29
+          "candle_date": "08/10/2026",
+          "entry1": 16252.1,
+          "entry2": 16069.35,
+          "stop_loss": 16434.85,
+          "distance_pct": 2.14
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.99,
-        "max_recent_vol_ratio": 1.16,
+        "volume_ratio": 0.93,
+        "max_recent_vol_ratio": 0.99,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -282,24 +270,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 49.42,
+      "rsi": 46.11,
       "pivots": {
-        "daily": 16139.3,
+        "daily": 16100.0,
         "weekly": 15766.73,
-        "weeklyP": 2.5,
+        "weeklyP": 0.92,
         "monthly": 15938.4,
-        "monthlyP": 1.4,
-        "next_weekly": 16059.8,
-        "next_weeklyP": 0.63,
-        "next_monthly": 15907.1,
-        "next_monthlyP": 1.6,
+        "monthlyP": -0.17,
+        "next_weekly": 15966.33,
+        "next_weeklyP": -0.34,
+        "next_monthly": 15824.0,
+        "next_monthlyP": 0.56,
         "daily_levels": {
-          "r1": 16269.6,
-          "r2": 16351.3,
-          "r3": 16481.6,
-          "s1": 16057.6,
-          "s2": 15927.3,
-          "s3": 15845.6
+          "r1": 16313.4,
+          "r2": 16465.5,
+          "r3": 16678.9,
+          "s1": 15947.9,
+          "s2": 15734.5,
+          "s3": 15582.4
         },
         "weekly_levels": {
           "r1": 16242.07,
@@ -319,34 +307,30 @@
         }
       },
       "ema": {
-        "EMA_5": 16049.09,
-        "EMA_8": 16052.24,
-        "EMA_13": 16110.99,
-        "EMA_21": 16177.41,
-        "EMA_34": 16220.03,
-        "EMA_55": 16283.66,
-        "EMA_89": 16406.97,
-        "EMA_144": 16502.4,
-        "EMA_233": 16379.59,
-        "EMA_377": 15815.54
+        "EMA_5": 16003.39,
+        "EMA_8": 16021.07,
+        "EMA_13": 16082.57,
+        "EMA_21": 16153.28,
+        "EMA_34": 16202.43,
+        "EMA_55": 16270.39,
+        "EMA_89": 16395.97,
+        "EMA_144": 16494.26,
+        "EMA_233": 16375.59,
+        "EMA_377": 15816.05
       }
     },
     {
       "id": 63,
       "ticker": "XU030",
       "name": "Bist 30",
-      "tier": {
-        "no": 0,
-        "amount": 0
-      },
-      "close": 15013.8,
-      "open": 15407.6,
-      "high": 15407.6,
-      "low": 14922.1,
+      "close": 15137.6,
+      "open": 15075.1,
+      "high": 15162.0,
+      "low": 14899.3,
       "wema_bands": {
-        "mid": 15832.76,
-        "upper_green": 14645.31,
-        "lower_red": 17020.22,
+        "mid": 15793.15,
+        "upper_green": 14608.66,
+        "lower_red": 16977.63,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -368,12 +352,12 @@
           "entry1": 16506.3,
           "entry2": 16360.2,
           "stop_loss": 16652.4,
-          "distance_pct": 9.94
+          "distance_pct": 9.04
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.7,
-        "max_recent_vol_ratio": 0.98,
+        "volume_ratio": 0.65,
+        "max_recent_vol_ratio": 0.81,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -384,24 +368,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 36.71,
+      "rsi": 39.04,
       "pivots": {
-        "daily": 15373.57,
+        "daily": 15114.5,
         "weekly": 15280.5,
-        "weeklyP": -1.75,
+        "weeklyP": -0.94,
         "monthly": 15725.13,
-        "monthlyP": -4.52,
-        "next_weekly": 15164.93,
-        "next_weeklyP": -1.0,
-        "next_monthly": 15126.4,
-        "next_monthlyP": -0.74,
+        "monthlyP": -3.74,
+        "next_weekly": 15198.6,
+        "next_weeklyP": -0.4,
+        "next_monthly": 15167.67,
+        "next_monthlyP": -0.2,
         "daily_levels": {
-          "r1": 15463.03,
-          "r2": 15544.37,
-          "r3": 15633.83,
-          "s1": 15292.23,
-          "s2": 15202.77,
-          "s3": 15121.43
+          "r1": 15306.9,
+          "r2": 15600.0,
+          "r3": 15792.4,
+          "s1": 14821.4,
+          "s2": 14629.0,
+          "s3": 14335.9
         },
         "weekly_levels": {
           "r1": 15754.5,
@@ -421,35 +405,31 @@
         }
       },
       "ema": {
-        "EMA_5": 15249.03,
-        "EMA_8": 15360.98,
-        "EMA_13": 15554.69,
-        "EMA_21": 15775.2,
-        "EMA_34": 15949.99,
-        "EMA_55": 16043.49,
-        "EMA_89": 16001.75,
-        "EMA_144": 15695.85,
-        "EMA_233": 15044.54,
-        "EMA_377": 14060.64
+        "EMA_5": 15211.88,
+        "EMA_8": 15311.34,
+        "EMA_13": 15495.1,
+        "EMA_21": 15717.24,
+        "EMA_34": 15903.57,
+        "EMA_55": 16011.14,
+        "EMA_89": 15982.54,
+        "EMA_144": 15688.15,
+        "EMA_233": 15045.34,
+        "EMA_377": 14066.33
       }
     },
     {
       "id": 64,
       "ticker": "XU100",
       "name": "Bist 100",
-      "tier": {
-        "no": 0,
-        "amount": 0
-      },
-      "close": 12122.9,
-      "open": 12389.7,
-      "high": 12389.7,
-      "low": 12048.5,
+      "close": 12213.6,
+      "open": 12161.7,
+      "high": 12233.9,
+      "low": 12038.8,
       "wema_bands": {
-        "mid": 13194.84,
-        "upper_green": 12205.23,
-        "lower_red": 14184.45,
-        "position": "BELOW"
+        "mid": 13148.78,
+        "upper_green": 12162.62,
+        "lower_red": 14134.94,
+        "position": "IN_BANDS"
       },
       "scores": {
         "total_score": 10,
@@ -470,12 +450,12 @@
           "entry1": 12996.5,
           "entry2": 12918.35,
           "stop_loss": 13074.65,
-          "distance_pct": 7.21
+          "distance_pct": 6.41
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.66,
-        "max_recent_vol_ratio": 0.92,
+        "volume_ratio": 0.68,
+        "max_recent_vol_ratio": 0.76,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -486,24 +466,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 30.83,
+      "rsi": 33.23,
       "pivots": {
-        "daily": 12378.03,
+        "daily": 12187.03,
         "weekly": 12315.57,
-        "weeklyP": -1.56,
+        "weeklyP": -0.83,
         "monthly": 12848.77,
-        "monthlyP": -5.65,
-        "next_weekly": 12233.33,
-        "next_weeklyP": -0.9,
-        "next_monthly": 12195.9,
-        "next_monthlyP": -0.6,
+        "monthlyP": -4.94,
+        "next_weekly": 12260.33,
+        "next_weeklyP": -0.38,
+        "next_monthly": 12226.13,
+        "next_monthlyP": -0.1,
         "daily_levels": {
-          "r1": 12441.77,
-          "r2": 12509.23,
-          "r3": 12572.97,
-          "s1": 12310.57,
-          "s2": 12246.83,
-          "s3": 12179.37
+          "r1": 12325.57,
+          "r2": 12528.23,
+          "r3": 12666.77,
+          "s1": 11984.37,
+          "s2": 11845.83,
+          "s3": 11643.17
         },
         "weekly_levels": {
           "r1": 12705.13,
@@ -523,16 +503,16 @@
         }
       },
       "ema": {
-        "EMA_5": 12293.54,
-        "EMA_8": 12401.56,
-        "EMA_13": 12620.36,
-        "EMA_21": 12922.8,
-        "EMA_34": 13237.84,
-        "EMA_55": 13497.22,
-        "EMA_89": 13631.78,
-        "EMA_144": 13529.66,
-        "EMA_233": 13114.41,
-        "EMA_377": 12383.56
+        "EMA_5": 12266.89,
+        "EMA_8": 12359.79,
+        "EMA_13": 12562.26,
+        "EMA_21": 12858.32,
+        "EMA_34": 13179.31,
+        "EMA_55": 13451.37,
+        "EMA_89": 13600.27,
+        "EMA_144": 13511.51,
+        "EMA_233": 13106.72,
+        "EMA_377": 12382.66
       }
     }
   ],
@@ -541,18 +521,14 @@
       "id": 2,
       "ticker": "AEFES",
       "name": "Anadolu Efes Biracılık ve Malt Sanayi A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 18.36,
-      "open": 18.16,
-      "high": 18.36,
-      "low": 17.96,
+      "close": 18.56,
+      "open": 18.4,
+      "high": 18.85,
+      "low": 18.4,
       "wema_bands": {
-        "mid": 18.69,
+        "mid": 18.7,
         "upper_green": 17.29,
-        "lower_red": 20.09,
+        "lower_red": 20.1,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -573,18 +549,18 @@
           "entry1": 17.94,
           "entry2": 17.71,
           "stop_loss": 17.48,
-          "distance_pct": -2.29
+          "distance_pct": -3.34
         },
         "bearish": {
           "candle_date": "28/09/2026",
           "entry1": 18.94,
           "entry2": 18.71,
           "stop_loss": 19.17,
-          "distance_pct": 3.16
+          "distance_pct": 2.05
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.79,
+        "volume_ratio": 0.86,
         "max_recent_vol_ratio": 1.52,
         "is_volume_burst": false,
         "is_volume_drop": false,
@@ -596,24 +572,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 46.76,
+      "rsi": 49.18,
       "pivots": {
-        "daily": 18.29,
+        "daily": 18.23,
         "weekly": 18.14,
-        "weeklyP": 1.21,
+        "weeklyP": 2.32,
         "monthly": 18.41,
-        "monthlyP": -0.27,
-        "next_weekly": 18.36,
-        "next_weeklyP": 0.0,
-        "next_monthly": 18.29,
-        "next_monthlyP": 0.38,
+        "monthlyP": 0.81,
+        "next_weekly": 18.44,
+        "next_weeklyP": 0.65,
+        "next_monthly": 18.37,
+        "next_monthlyP": 1.03,
         "daily_levels": {
-          "r1": 18.66,
-          "r2": 19.16,
-          "r3": 19.53,
-          "s1": 17.79,
-          "s2": 17.42,
-          "s3": 16.92
+          "r1": 18.49,
+          "r2": 18.63,
+          "r3": 18.89,
+          "s1": 18.09,
+          "s2": 17.83,
+          "s3": 17.69
         },
         "weekly_levels": {
           "r1": 18.69,
@@ -633,14 +609,14 @@
         }
       },
       "ema": {
-        "EMA_5": 18.27,
-        "EMA_8": 18.28,
-        "EMA_13": 18.35,
+        "EMA_5": 18.37,
+        "EMA_8": 18.34,
+        "EMA_13": 18.38,
         "EMA_21": 18.51,
-        "EMA_34": 18.77,
-        "EMA_55": 19.09,
-        "EMA_89": 19.28,
-        "EMA_144": 19.15,
+        "EMA_34": 18.76,
+        "EMA_55": 19.07,
+        "EMA_89": 19.26,
+        "EMA_144": 19.14,
         "EMA_233": 18.74,
         "EMA_377": 18.15
       }
@@ -649,18 +625,14 @@
       "id": 3,
       "ticker": "AKBNK",
       "name": "Akbank T.A.Ş.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 68.15,
-      "open": 69.2,
-      "high": 69.35,
-      "low": 67.1,
+      "close": 67.85,
+      "open": 68.5,
+      "high": 68.7,
+      "low": 67.55,
       "wema_bands": {
-        "mid": 70.05,
-        "upper_green": 64.8,
-        "lower_red": 75.3,
+        "mid": 69.91,
+        "upper_green": 64.67,
+        "lower_red": 75.16,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -681,18 +653,18 @@
           "entry1": 67.72,
           "entry2": 66.95,
           "stop_loss": 66.18,
-          "distance_pct": -0.63
+          "distance_pct": -0.19
         },
         "bearish": {
           "candle_date": "15/09/2026",
           "entry1": 73.45,
           "entry2": 72.6,
           "stop_loss": 74.3,
-          "distance_pct": 7.78
+          "distance_pct": 8.25
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.01,
+        "volume_ratio": 0.66,
         "max_recent_vol_ratio": 1.27,
         "is_volume_burst": false,
         "is_volume_drop": false,
@@ -704,24 +676,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 44.29,
+      "rsi": 43.44,
       "pivots": {
-        "daily": 69.05,
+        "daily": 68.2,
         "weekly": 68.08,
-        "weeklyP": 0.1,
+        "weeklyP": -0.34,
         "monthly": 68.7,
-        "monthlyP": -0.8,
-        "next_weekly": 68.37,
-        "next_weeklyP": -0.32,
-        "next_monthly": 68.0,
-        "next_monthlyP": 0.22,
+        "monthlyP": -1.24,
+        "next_weekly": 68.27,
+        "next_weeklyP": -0.62,
+        "next_monthly": 67.9,
+        "next_monthlyP": -0.07,
         "daily_levels": {
-          "r1": 70.05,
-          "r2": 70.85,
-          "r3": 71.85,
-          "s1": 68.25,
-          "s2": 67.25,
-          "s3": 66.45
+          "r1": 69.3,
+          "r2": 70.45,
+          "r3": 71.55,
+          "s1": 67.05,
+          "s2": 65.95,
+          "s3": 64.8
         },
         "weekly_levels": {
           "r1": 70.32,
@@ -741,15 +713,15 @@
         }
       },
       "ema": {
-        "EMA_5": 68.69,
-        "EMA_8": 68.89,
-        "EMA_13": 69.3,
-        "EMA_21": 69.74,
-        "EMA_34": 70.02,
-        "EMA_55": 70.26,
-        "EMA_89": 70.7,
-        "EMA_144": 71.02,
-        "EMA_233": 70.39,
+        "EMA_5": 68.41,
+        "EMA_8": 68.66,
+        "EMA_13": 69.09,
+        "EMA_21": 69.57,
+        "EMA_34": 69.89,
+        "EMA_55": 70.17,
+        "EMA_89": 70.64,
+        "EMA_144": 70.98,
+        "EMA_233": 70.37,
         "EMA_377": 67.85
       }
     },
@@ -757,25 +729,21 @@
       "id": 6,
       "ticker": "ASELS",
       "name": "Aselsan Elektronik Sanayi ve Ticaret A.Ş.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 348.75,
+      "close": 351.25,
       "open": 351.5,
-      "high": 354.0,
-      "low": 340.25,
+      "high": 355.5,
+      "low": 346.5,
       "wema_bands": {
-        "mid": 368.19,
-        "upper_green": 340.57,
-        "lower_red": 395.8,
+        "mid": 367.03,
+        "upper_green": 339.5,
+        "lower_red": 394.56,
         "position": "IN_BANDS"
       },
       "scores": {
-        "total_score": 10,
+        "total_score": 0,
         "pivot_score": 0,
         "rsi_score": 0,
-        "volume_score": 10,
+        "volume_score": 0,
         "ema_score": 0,
         "divergence_score": 0,
         "order_block_score": 0,
@@ -789,19 +757,19 @@
           "entry1": 341.75,
           "entry2": 334.25,
           "stop_loss": 326.75,
-          "distance_pct": -2.01
+          "distance_pct": -2.7
         },
         "bearish": {
           "candle_date": "07/10/2026",
           "entry1": 379.0,
           "entry2": 371.62,
           "stop_loss": 386.38,
-          "distance_pct": 8.67
+          "distance_pct": 7.9
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.95,
-        "max_recent_vol_ratio": 1.42,
+        "volume_ratio": 0.93,
+        "max_recent_vol_ratio": 1.29,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -812,24 +780,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 42.29,
+      "rsi": 43.35,
       "pivots": {
-        "daily": 357.58,
+        "daily": 347.67,
         "weekly": 358.33,
-        "weeklyP": -2.67,
+        "weeklyP": -1.98,
         "monthly": 359.25,
-        "monthlyP": -2.92,
-        "next_weekly": 357.75,
-        "next_weeklyP": -2.52,
-        "next_monthly": 357.75,
-        "next_monthlyP": -2.52,
+        "monthlyP": -2.23,
+        "next_weekly": 358.58,
+        "next_weeklyP": -2.04,
+        "next_monthly": 358.58,
+        "next_monthlyP": -2.04,
         "daily_levels": {
-          "r1": 368.42,
-          "r2": 388.08,
-          "r3": 398.92,
-          "s1": 337.92,
-          "s2": 327.08,
-          "s3": 307.42
+          "r1": 355.08,
+          "r2": 361.42,
+          "r3": 368.83,
+          "s1": 341.33,
+          "s2": 333.92,
+          "s3": 327.58
         },
         "weekly_levels": {
           "r1": 382.42,
@@ -849,41 +817,37 @@
         }
       },
       "ema": {
-        "EMA_5": 357.22,
-        "EMA_8": 359.59,
-        "EMA_13": 362.94,
-        "EMA_21": 367.24,
-        "EMA_34": 371.05,
-        "EMA_55": 373.2,
-        "EMA_89": 371.14,
-        "EMA_144": 358.15,
-        "EMA_233": 328.45,
-        "EMA_377": 282.91
+        "EMA_5": 355.23,
+        "EMA_8": 357.74,
+        "EMA_13": 361.27,
+        "EMA_21": 365.79,
+        "EMA_34": 369.91,
+        "EMA_55": 372.41,
+        "EMA_89": 370.7,
+        "EMA_144": 358.06,
+        "EMA_233": 328.64,
+        "EMA_377": 283.27
       }
     },
     {
       "id": 7,
       "ticker": "ASTOR",
       "name": "Astor Enerji A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 197.5,
-      "open": 187.6,
-      "high": 199.1,
-      "low": 183.0,
+      "close": 204.4,
+      "open": 197.8,
+      "high": 214.5,
+      "low": 196.3,
       "wema_bands": {
-        "mid": 247.94,
-        "upper_green": 229.34,
-        "lower_red": 266.53,
+        "mid": 245.13,
+        "upper_green": 226.74,
+        "lower_red": 263.51,
         "position": "BELOW"
       },
       "scores": {
-        "total_score": 35,
+        "total_score": 20,
         "pivot_score": 0,
-        "rsi_score": 10,
-        "volume_score": 15,
+        "rsi_score": 0,
+        "volume_score": 10,
         "ema_score": 10,
         "divergence_score": 0,
         "order_block_score": 0,
@@ -897,19 +861,19 @@
           "entry1": 186.05,
           "entry2": 176.0,
           "stop_loss": 165.95,
-          "distance_pct": -5.8
+          "distance_pct": -8.98
         },
         "bearish": {
           "candle_date": "05/10/2026",
           "entry1": 229.6,
           "entry2": 219.3,
           "stop_loss": 239.9,
-          "distance_pct": 16.25
+          "distance_pct": 12.33
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.13,
-        "max_recent_vol_ratio": 2.07,
+        "volume_ratio": 1.2,
+        "max_recent_vol_ratio": 1.61,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -920,24 +884,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 34.52,
+      "rsi": 37.34,
       "pivots": {
-        "daily": 185.67,
+        "daily": 193.2,
         "weekly": 209.1,
-        "weeklyP": -5.55,
+        "weeklyP": -2.25,
         "monthly": 241.15,
-        "monthlyP": -18.1,
-        "next_weekly": 199.53,
-        "next_weeklyP": -1.02,
-        "next_monthly": 199.73,
-        "next_monthlyP": -1.12,
+        "monthlyP": -15.24,
+        "next_weekly": 201.83,
+        "next_weeklyP": 1.27,
+        "next_monthly": 202.03,
+        "next_monthlyP": 1.17,
         "daily_levels": {
-          "r1": 195.33,
-          "r2": 205.77,
-          "r3": 215.43,
-          "s1": 175.23,
-          "s2": 165.57,
-          "s3": 155.13
+          "r1": 203.4,
+          "r2": 209.3,
+          "r3": 219.5,
+          "s1": 187.3,
+          "s2": 177.1,
+          "s3": 171.2
         },
         "weekly_levels": {
           "r1": 246.1,
@@ -957,34 +921,30 @@
         }
       },
       "ema": {
-        "EMA_5": 198.56,
-        "EMA_8": 205.81,
-        "EMA_13": 218.3,
-        "EMA_21": 235.28,
-        "EMA_34": 253.88,
-        "EMA_55": 268.59,
-        "EMA_89": 272.55,
-        "EMA_144": 260.47,
-        "EMA_233": 234.44,
-        "EMA_377": 202.0
+        "EMA_5": 200.51,
+        "EMA_8": 205.5,
+        "EMA_13": 216.32,
+        "EMA_21": 232.48,
+        "EMA_34": 251.05,
+        "EMA_55": 266.3,
+        "EMA_89": 271.03,
+        "EMA_144": 259.7,
+        "EMA_233": 234.19,
+        "EMA_377": 202.01
       }
     },
     {
       "id": 10,
       "ticker": "BIMAS",
       "name": "BİM Birleşik Mağazalar A.Ş.",
-      "tier": {
-        "no": 3,
-        "amount": 50000
-      },
-      "close": 401.0,
-      "open": 395.5,
-      "high": 401.25,
-      "low": 394.0,
+      "close": 402.75,
+      "open": 402.0,
+      "high": 407.75,
+      "low": 401.0,
       "wema_bands": {
-        "mid": 411.4,
-        "upper_green": 380.54,
-        "lower_red": 442.25,
+        "mid": 410.43,
+        "upper_green": 379.65,
+        "lower_red": 441.21,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -1005,18 +965,18 @@
           "entry1": 376.38,
           "entry2": 374.25,
           "stop_loss": 372.12,
-          "distance_pct": -6.14
+          "distance_pct": -6.55
         },
         "bearish": {
           "candle_date": "24/09/2026",
           "entry1": 437.5,
           "entry2": 433.62,
           "stop_loss": 441.38,
-          "distance_pct": 9.1
+          "distance_pct": 8.63
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.12,
+        "volume_ratio": 0.79,
         "max_recent_vol_ratio": 1.2,
         "is_volume_burst": false,
         "is_volume_drop": false,
@@ -1028,24 +988,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 42.08,
+      "rsi": 43.32,
       "pivots": {
-        "daily": 399.5,
+        "daily": 398.75,
         "weekly": 416.33,
-        "weeklyP": -3.68,
+        "weeklyP": -3.26,
         "monthly": 417.25,
-        "monthlyP": -3.89,
-        "next_weekly": 404.42,
-        "next_weeklyP": -0.85,
-        "next_monthly": 407.58,
-        "next_monthlyP": -1.61,
+        "monthlyP": -3.48,
+        "next_weekly": 405.0,
+        "next_weeklyP": -0.56,
+        "next_monthly": 408.17,
+        "next_monthlyP": -1.33,
         "daily_levels": {
-          "r1": 405.0,
-          "r2": 415.75,
-          "r3": 421.25,
-          "s1": 388.75,
-          "s2": 383.25,
-          "s3": 372.5
+          "r1": 403.5,
+          "r2": 406.0,
+          "r3": 410.75,
+          "s1": 396.25,
+          "s2": 391.5,
+          "s3": 389.0
         },
         "weekly_levels": {
           "r1": 427.42,
@@ -1065,34 +1025,30 @@
         }
       },
       "ema": {
-        "EMA_5": 405.02,
-        "EMA_8": 408.68,
-        "EMA_13": 412.3,
-        "EMA_21": 414.06,
-        "EMA_34": 412.55,
-        "EMA_55": 407.41,
-        "EMA_89": 398.14,
-        "EMA_144": 382.76,
-        "EMA_233": 360.39,
-        "EMA_377": 331.3
+        "EMA_5": 404.26,
+        "EMA_8": 407.37,
+        "EMA_13": 410.93,
+        "EMA_21": 413.04,
+        "EMA_34": 411.99,
+        "EMA_55": 407.24,
+        "EMA_89": 398.24,
+        "EMA_144": 383.03,
+        "EMA_233": 360.75,
+        "EMA_377": 331.68
       }
     },
     {
       "id": 17,
       "ticker": "EKGYO",
       "name": "Emlak Konut Gayrimenkul Yatırım Ortaklığı A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 19.61,
-      "open": 19.57,
-      "high": 19.66,
-      "low": 19.13,
+      "close": 19.85,
+      "open": 19.7,
+      "high": 20.12,
+      "low": 19.61,
       "wema_bands": {
-        "mid": 19.6,
-        "upper_green": 18.13,
-        "lower_red": 21.07,
+        "mid": 19.63,
+        "upper_green": 18.16,
+        "lower_red": 21.1,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -1112,8 +1068,8 @@
         "bearish": null
       },
       "volume_analysis": {
-        "volume_ratio": 0.91,
-        "max_recent_vol_ratio": 1.0,
+        "volume_ratio": 1.11,
+        "max_recent_vol_ratio": 1.11,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -1124,24 +1080,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 51.07,
+      "rsi": 53.21,
       "pivots": {
-        "daily": 19.51,
+        "daily": 19.47,
         "weekly": 18.9,
-        "weeklyP": 3.76,
+        "weeklyP": 5.03,
         "monthly": 19.58,
-        "monthlyP": 0.15,
-        "next_weekly": 19.58,
-        "next_weeklyP": 0.15,
-        "next_monthly": 19.34,
-        "next_monthlyP": 1.4,
+        "monthlyP": 1.38,
+        "next_weekly": 19.7,
+        "next_weeklyP": 0.76,
+        "next_monthly": 19.46,
+        "next_monthlyP": 2.0,
         "daily_levels": {
-          "r1": 19.84,
-          "r2": 20.09,
-          "r3": 20.42,
-          "s1": 19.26,
-          "s2": 18.93,
-          "s3": 18.68
+          "r1": 19.8,
+          "r2": 20.0,
+          "r3": 20.33,
+          "s1": 19.27,
+          "s2": 18.94,
+          "s3": 18.74
         },
         "weekly_levels": {
           "r1": 19.49,
@@ -1161,34 +1117,30 @@
         }
       },
       "ema": {
-        "EMA_5": 19.53,
-        "EMA_8": 19.46,
-        "EMA_13": 19.44,
-        "EMA_21": 19.47,
-        "EMA_34": 19.52,
-        "EMA_55": 19.6,
+        "EMA_5": 19.64,
+        "EMA_8": 19.55,
+        "EMA_13": 19.5,
+        "EMA_21": 19.51,
+        "EMA_34": 19.54,
+        "EMA_55": 19.61,
         "EMA_89": 19.79,
         "EMA_144": 19.97,
         "EMA_233": 19.79,
-        "EMA_377": 18.81
+        "EMA_377": 18.82
       }
     },
     {
       "id": 18,
       "ticker": "ENKAI",
       "name": "Enka İnşaat ve Sanayi A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 81.6,
-      "open": 80.8,
-      "high": 81.95,
-      "low": 79.3,
+      "close": 83.5,
+      "open": 82.15,
+      "high": 83.5,
+      "low": 81.65,
       "wema_bands": {
-        "mid": 85.46,
-        "upper_green": 79.05,
-        "lower_red": 91.87,
+        "mid": 85.35,
+        "upper_green": 78.95,
+        "lower_red": 91.76,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -1210,11 +1162,11 @@
           "entry1": 86.05,
           "entry2": 85.03,
           "stop_loss": 87.07,
-          "distance_pct": 5.45
+          "distance_pct": 3.05
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.04,
+        "volume_ratio": 0.98,
         "max_recent_vol_ratio": 1.22,
         "is_volume_burst": false,
         "is_volume_drop": false,
@@ -1226,24 +1178,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 41.11,
+      "rsi": 46.4,
       "pivots": {
-        "daily": 80.98,
+        "daily": 80.95,
         "weekly": 84.25,
-        "weeklyP": -3.15,
+        "weeklyP": -0.89,
         "monthly": 84.45,
-        "monthlyP": -3.37,
-        "next_weekly": 82.32,
-        "next_weeklyP": -0.87,
-        "next_monthly": 82.32,
-        "next_monthlyP": -0.87,
+        "monthlyP": -1.12,
+        "next_weekly": 82.95,
+        "next_weeklyP": 0.66,
+        "next_monthly": 82.95,
+        "next_monthlyP": 0.66,
         "daily_levels": {
-          "r1": 82.07,
-          "r2": 84.13,
-          "r3": 85.22,
-          "s1": 78.92,
-          "s2": 77.83,
-          "s3": 75.77
+          "r1": 82.6,
+          "r2": 83.6,
+          "r3": 85.25,
+          "s1": 79.95,
+          "s2": 78.3,
+          "s3": 77.3
         },
         "weekly_levels": {
           "r1": 86.65,
@@ -1263,30 +1215,26 @@
         }
       },
       "ema": {
-        "EMA_5": 82.19,
-        "EMA_8": 82.88,
-        "EMA_13": 83.73,
-        "EMA_21": 84.59,
-        "EMA_34": 85.45,
-        "EMA_55": 86.64,
-        "EMA_89": 88.11,
-        "EMA_144": 88.59,
-        "EMA_233": 86.4,
-        "EMA_377": 80.62
+        "EMA_5": 82.63,
+        "EMA_8": 83.01,
+        "EMA_13": 83.7,
+        "EMA_21": 84.49,
+        "EMA_34": 85.34,
+        "EMA_55": 86.53,
+        "EMA_89": 88.01,
+        "EMA_144": 88.52,
+        "EMA_233": 86.38,
+        "EMA_377": 80.64
       }
     },
     {
       "id": 19,
       "ticker": "EREGL",
       "name": "Ereğli Demir ve Çelik Fabrikaları T.A.Ş.",
-      "tier": {
-        "no": 3,
-        "amount": 50000
-      },
-      "close": 36.6,
-      "open": 36.52,
-      "high": 36.86,
-      "low": 36.08,
+      "close": 37.32,
+      "open": 36.82,
+      "high": 37.58,
+      "low": 36.72,
       "wema_bands": {
         "mid": 37.43,
         "upper_green": 34.62,
@@ -1312,15 +1260,15 @@
           "entry1": 38.22,
           "entry2": 37.69,
           "stop_loss": 38.75,
-          "distance_pct": 4.43
+          "distance_pct": 2.41
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.6,
+        "volume_ratio": 0.85,
         "max_recent_vol_ratio": 0.95,
         "is_volume_burst": false,
-        "is_volume_drop": true,
-        "status": "DROP"
+        "is_volume_drop": false,
+        "status": "NORMAL"
       },
       "divergence": {
         "status": "NONE",
@@ -1328,24 +1276,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 44.53,
+      "rsi": 49.01,
       "pivots": {
-        "daily": 36.7,
+        "daily": 36.51,
         "weekly": 36.94,
-        "weeklyP": -0.92,
+        "weeklyP": 1.03,
         "monthly": 36.91,
-        "monthlyP": -0.84,
-        "next_weekly": 36.97,
-        "next_weeklyP": -1.0,
-        "next_monthly": 36.93,
-        "next_monthlyP": -0.89,
+        "monthlyP": 1.11,
+        "next_weekly": 37.21,
+        "next_weeklyP": 0.3,
+        "next_monthly": 37.17,
+        "next_monthlyP": 0.4,
         "daily_levels": {
-          "r1": 37.18,
-          "r2": 37.84,
-          "r3": 38.32,
-          "s1": 36.04,
-          "s2": 35.56,
-          "s3": 34.9
+          "r1": 36.95,
+          "r2": 37.29,
+          "r3": 37.73,
+          "s1": 36.17,
+          "s2": 35.73,
+          "s3": 35.39
         },
         "weekly_levels": {
           "r1": 37.98,
@@ -1365,41 +1313,37 @@
         }
       },
       "ema": {
-        "EMA_5": 36.81,
-        "EMA_8": 36.91,
-        "EMA_13": 37.06,
+        "EMA_5": 36.98,
+        "EMA_8": 37.0,
+        "EMA_13": 37.1,
         "EMA_21": 37.31,
-        "EMA_34": 37.7,
-        "EMA_55": 38.06,
-        "EMA_89": 37.83,
-        "EMA_144": 36.6,
-        "EMA_233": 34.54,
-        "EMA_377": 32.02
+        "EMA_34": 37.68,
+        "EMA_55": 38.03,
+        "EMA_89": 37.82,
+        "EMA_144": 36.61,
+        "EMA_233": 34.56,
+        "EMA_377": 32.05
       }
     },
     {
       "id": 20,
       "ticker": "FROTO",
       "name": "Ford Otomotiv Sanayi A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 74.4,
-      "open": 74.65,
-      "high": 74.7,
-      "low": 73.7,
+      "close": 74.65,
+      "open": 74.55,
+      "high": 75.3,
+      "low": 74.2,
       "wema_bands": {
-        "mid": 76.13,
-        "upper_green": 70.42,
-        "lower_red": 81.84,
+        "mid": 76.01,
+        "upper_green": 70.3,
+        "lower_red": 81.71,
         "position": "IN_BANDS"
       },
       "scores": {
-        "total_score": 20,
+        "total_score": 10,
         "pivot_score": 0,
         "rsi_score": 0,
-        "volume_score": 10,
+        "volume_score": 0,
         "ema_score": 10,
         "divergence_score": 0,
         "order_block_score": 0,
@@ -1413,19 +1357,19 @@
           "entry1": 74.28,
           "entry2": 73.1,
           "stop_loss": 71.92,
-          "distance_pct": -0.16
+          "distance_pct": -0.5
         },
         "bearish": {
           "candle_date": "22/06/2026",
           "entry1": 91.6,
           "entry2": 90.8,
           "stop_loss": 92.4,
-          "distance_pct": 23.12
+          "distance_pct": 22.71
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.69,
-        "max_recent_vol_ratio": 1.32,
+        "volume_ratio": 0.65,
+        "max_recent_vol_ratio": 0.96,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -1436,24 +1380,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 42.46,
+      "rsi": 43.42,
       "pivots": {
-        "daily": 73.93,
+        "daily": 74.27,
         "weekly": 74.78,
-        "weeklyP": -0.51,
+        "weeklyP": -0.17,
         "monthly": 76.82,
-        "monthlyP": -3.15,
-        "next_weekly": 74.33,
-        "next_weeklyP": 0.09,
-        "next_monthly": 74.78,
-        "next_monthlyP": -0.51,
+        "monthlyP": -2.82,
+        "next_weekly": 74.42,
+        "next_weeklyP": 0.31,
+        "next_monthly": 74.87,
+        "next_monthlyP": -0.29,
         "daily_levels": {
-          "r1": 74.67,
-          "r2": 75.48,
-          "r3": 76.22,
-          "s1": 73.12,
-          "s2": 72.38,
-          "s3": 71.57
+          "r1": 74.83,
+          "r2": 75.27,
+          "r3": 75.83,
+          "s1": 73.83,
+          "s2": 73.27,
+          "s3": 72.83
         },
         "weekly_levels": {
           "r1": 76.47,
@@ -1473,34 +1417,30 @@
         }
       },
       "ema": {
-        "EMA_5": 74.42,
-        "EMA_8": 74.73,
-        "EMA_13": 75.34,
-        "EMA_21": 76.16,
-        "EMA_34": 77.16,
-        "EMA_55": 78.79,
-        "EMA_89": 81.75,
-        "EMA_144": 85.76,
-        "EMA_233": 89.56,
-        "EMA_377": 91.7
+        "EMA_5": 74.49,
+        "EMA_8": 74.71,
+        "EMA_13": 75.24,
+        "EMA_21": 76.02,
+        "EMA_34": 77.01,
+        "EMA_55": 78.65,
+        "EMA_89": 81.6,
+        "EMA_144": 85.61,
+        "EMA_233": 89.43,
+        "EMA_377": 91.61
       }
     },
     {
       "id": 21,
       "ticker": "GARAN",
       "name": "Türkiye Garanti Bankası A.Ş.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 128.5,
-      "open": 129.5,
-      "high": 129.8,
-      "low": 127.0,
+      "close": 129.3,
+      "open": 129.0,
+      "high": 129.7,
+      "low": 127.5,
       "wema_bands": {
-        "mid": 130.33,
-        "upper_green": 120.56,
-        "lower_red": 140.11,
+        "mid": 130.3,
+        "upper_green": 120.53,
+        "lower_red": 140.07,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -1521,18 +1461,18 @@
           "entry1": 126.1,
           "entry2": 125.3,
           "stop_loss": 124.5,
-          "distance_pct": -1.87
+          "distance_pct": -2.47
         },
         "bearish": {
           "candle_date": "15/09/2026",
           "entry1": 135.2,
           "entry2": 134.1,
           "stop_loss": 136.3,
-          "distance_pct": 5.21
+          "distance_pct": 4.56
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.67,
+        "volume_ratio": 0.76,
         "max_recent_vol_ratio": 0.91,
         "is_volume_burst": false,
         "is_volume_drop": false,
@@ -1544,24 +1484,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 47.71,
+      "rsi": 49.12,
       "pivots": {
-        "daily": 129.8,
+        "daily": 128.43,
         "weekly": 126.33,
-        "weeklyP": 1.72,
+        "weeklyP": 2.35,
         "monthly": 126.17,
-        "monthlyP": 1.85,
-        "next_weekly": 128.9,
-        "next_weeklyP": -0.31,
-        "next_monthly": 127.83,
-        "next_monthlyP": 0.52,
+        "monthlyP": 2.48,
+        "next_weekly": 129.17,
+        "next_weeklyP": 0.1,
+        "next_monthly": 128.1,
+        "next_monthlyP": 0.94,
         "daily_levels": {
-          "r1": 131.6,
-          "r2": 133.3,
-          "r3": 135.1,
-          "s1": 128.1,
-          "s2": 126.3,
-          "s3": 124.6
+          "r1": 129.87,
+          "r2": 131.23,
+          "r3": 132.67,
+          "s1": 127.07,
+          "s2": 125.63,
+          "s3": 124.27
         },
         "weekly_levels": {
           "r1": 130.17,
@@ -1581,15 +1521,15 @@
         }
       },
       "ema": {
-        "EMA_5": 129.05,
-        "EMA_8": 128.99,
-        "EMA_13": 129.21,
-        "EMA_21": 129.62,
-        "EMA_34": 130.0,
-        "EMA_55": 130.43,
-        "EMA_89": 131.36,
-        "EMA_144": 132.71,
-        "EMA_233": 133.1,
+        "EMA_5": 129.13,
+        "EMA_8": 129.06,
+        "EMA_13": 129.23,
+        "EMA_21": 129.59,
+        "EMA_34": 129.96,
+        "EMA_55": 130.39,
+        "EMA_89": 131.31,
+        "EMA_144": 132.67,
+        "EMA_233": 133.07,
         "EMA_377": 129.64
       }
     },
@@ -1597,18 +1537,14 @@
       "id": 25,
       "ticker": "GUBRF",
       "name": "Gübre Fabrikaları T.A.Ş.",
-      "tier": {
-        "no": 3,
-        "amount": 50000
-      },
-      "close": 407.5,
-      "open": 399.0,
-      "high": 408.75,
-      "low": 394.75,
+      "close": 418.0,
+      "open": 415.0,
+      "high": 420.0,
+      "low": 412.0,
       "wema_bands": {
-        "mid": 434.82,
-        "upper_green": 402.21,
-        "lower_red": 467.43,
+        "mid": 433.62,
+        "upper_green": 401.1,
+        "lower_red": 466.14,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -1630,15 +1566,15 @@
           "entry1": 514.0,
           "entry2": 501.62,
           "stop_loss": 526.38,
-          "distance_pct": 26.13
+          "distance_pct": 22.97
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.56,
+        "volume_ratio": 0.69,
         "max_recent_vol_ratio": 0.75,
         "is_volume_burst": false,
-        "is_volume_drop": true,
-        "status": "DROP"
+        "is_volume_drop": false,
+        "status": "NORMAL"
       },
       "divergence": {
         "status": "NONE",
@@ -1646,24 +1582,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 40.2,
+      "rsi": 44.14,
       "pivots": {
-        "daily": 400.5,
+        "daily": 403.67,
         "weekly": 424.83,
-        "weeklyP": -4.08,
+        "weeklyP": -1.61,
         "monthly": 438.58,
-        "monthlyP": -7.09,
-        "next_weekly": 408.25,
-        "next_weeklyP": -0.18,
-        "next_monthly": 408.58,
-        "next_monthlyP": -0.26,
+        "monthlyP": -4.69,
+        "next_weekly": 411.75,
+        "next_weeklyP": 1.52,
+        "next_monthly": 412.08,
+        "next_monthlyP": 1.44,
         "daily_levels": {
-          "r1": 408.75,
-          "r2": 420.75,
-          "r3": 429.0,
-          "s1": 388.5,
-          "s2": 380.25,
-          "s3": 368.25
+          "r1": 412.58,
+          "r2": 417.67,
+          "r3": 426.58,
+          "s1": 398.58,
+          "s2": 389.67,
+          "s3": 384.58
         },
         "weekly_levels": {
           "r1": 449.42,
@@ -1683,34 +1619,30 @@
         }
       },
       "ema": {
-        "EMA_5": 409.31,
-        "EMA_8": 414.28,
-        "EMA_13": 422.39,
-        "EMA_21": 432.08,
-        "EMA_34": 440.46,
-        "EMA_55": 447.96,
-        "EMA_89": 454.93,
-        "EMA_144": 453.38,
-        "EMA_233": 434.37,
-        "EMA_377": 398.76
+        "EMA_5": 412.21,
+        "EMA_8": 415.11,
+        "EMA_13": 421.76,
+        "EMA_21": 430.8,
+        "EMA_34": 439.18,
+        "EMA_55": 446.89,
+        "EMA_89": 454.11,
+        "EMA_144": 452.89,
+        "EMA_233": 434.23,
+        "EMA_377": 398.86
       }
     },
     {
       "id": 29,
       "ticker": "ISCTR",
       "name": "Türkiye İş Bankası A.Ş.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 12.79,
-      "open": 12.95,
-      "high": 12.97,
+      "close": 12.67,
+      "open": 12.84,
+      "high": 12.88,
       "low": 12.62,
       "wema_bands": {
-        "mid": 13.03,
-        "upper_green": 12.06,
-        "lower_red": 14.01,
+        "mid": 13.01,
+        "upper_green": 12.03,
+        "lower_red": 13.98,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -1731,18 +1663,18 @@
           "entry1": 12.46,
           "entry2": 12.31,
           "stop_loss": 12.17,
-          "distance_pct": -2.58
+          "distance_pct": -1.66
         },
         "bearish": {
           "candle_date": "30/09/2026",
           "entry1": 13.13,
           "entry2": 13.01,
           "stop_loss": 13.25,
-          "distance_pct": 2.66
+          "distance_pct": 3.63
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.81,
+        "volume_ratio": 0.89,
         "max_recent_vol_ratio": 0.94,
         "is_volume_burst": false,
         "is_volume_drop": false,
@@ -1754,24 +1686,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 47.19,
+      "rsi": 45.56,
       "pivots": {
-        "daily": 12.87,
+        "daily": 12.79,
         "weekly": 12.59,
-        "weeklyP": 1.59,
+        "weeklyP": 0.64,
         "monthly": 12.99,
-        "monthlyP": -1.54,
-        "next_weekly": 12.78,
-        "next_weeklyP": 0.08,
-        "next_monthly": 12.66,
-        "next_monthlyP": 1.03,
+        "monthlyP": -2.46,
+        "next_weekly": 12.74,
+        "next_weeklyP": -0.55,
+        "next_monthly": 12.62,
+        "next_monthlyP": 0.4,
         "daily_levels": {
-          "r1": 13.1,
-          "r2": 13.24,
-          "r3": 13.47,
-          "s1": 12.73,
-          "s2": 12.5,
-          "s3": 12.36
+          "r1": 12.97,
+          "r2": 13.14,
+          "r3": 13.32,
+          "s1": 12.62,
+          "s2": 12.44,
+          "s3": 12.27
         },
         "weekly_levels": {
           "r1": 12.99,
@@ -1791,34 +1723,30 @@
         }
       },
       "ema": {
-        "EMA_5": 12.82,
-        "EMA_8": 12.83,
-        "EMA_13": 12.89,
-        "EMA_21": 12.95,
-        "EMA_34": 13.0,
-        "EMA_55": 13.1,
-        "EMA_89": 13.29,
-        "EMA_144": 13.51,
-        "EMA_233": 13.64,
-        "EMA_377": 13.49
+        "EMA_5": 12.77,
+        "EMA_8": 12.8,
+        "EMA_13": 12.86,
+        "EMA_21": 12.93,
+        "EMA_34": 12.98,
+        "EMA_55": 13.08,
+        "EMA_89": 13.27,
+        "EMA_144": 13.5,
+        "EMA_233": 13.63,
+        "EMA_377": 13.48
       }
     },
     {
       "id": 32,
       "ticker": "KCHOL",
       "name": "Koç Holding A.Ş.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 212.4,
-      "open": 209.7,
-      "high": 213.4,
-      "low": 207.0,
+      "close": 208.0,
+      "open": 212.9,
+      "high": 213.5,
+      "low": 205.2,
       "wema_bands": {
-        "mid": 212.01,
-        "upper_green": 196.11,
-        "lower_red": 227.91,
+        "mid": 211.61,
+        "upper_green": 195.74,
+        "lower_red": 227.48,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -1839,19 +1767,19 @@
           "entry1": 209.5,
           "entry2": 205.8,
           "stop_loss": 202.1,
-          "distance_pct": -1.37
+          "distance_pct": 0.72
         },
         "bearish": {
           "candle_date": "24/09/2026",
           "entry1": 223.3,
           "entry2": 221.35,
           "stop_loss": 225.25,
-          "distance_pct": 5.13
+          "distance_pct": 7.36
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.85,
-        "max_recent_vol_ratio": 0.9,
+        "volume_ratio": 1.14,
+        "max_recent_vol_ratio": 1.14,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -1862,24 +1790,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 48.36,
+      "rsi": 44.04,
       "pivots": {
-        "daily": 210.77,
+        "daily": 210.93,
         "weekly": 210.17,
-        "weeklyP": 1.06,
+        "weeklyP": -1.03,
         "monthly": 213.8,
-        "monthlyP": -0.65,
-        "next_weekly": 212.07,
-        "next_weeklyP": 0.16,
-        "next_monthly": 211.67,
-        "next_monthlyP": 0.34,
+        "monthlyP": -2.71,
+        "next_weekly": 210.0,
+        "next_weeklyP": -0.95,
+        "next_monthly": 210.0,
+        "next_monthlyP": -0.95,
         "daily_levels": {
-          "r1": 213.13,
-          "r2": 216.67,
-          "r3": 219.03,
-          "s1": 207.23,
-          "s2": 204.87,
-          "s3": 201.33
+          "r1": 214.87,
+          "r2": 217.33,
+          "r3": 221.27,
+          "s1": 208.47,
+          "s2": 204.53,
+          "s3": 202.07
         },
         "weekly_levels": {
           "r1": 214.53,
@@ -1899,34 +1827,30 @@
         }
       },
       "ema": {
-        "EMA_5": 211.8,
-        "EMA_8": 212.25,
-        "EMA_13": 213.2,
-        "EMA_21": 213.95,
-        "EMA_34": 213.38,
-        "EMA_55": 211.08,
-        "EMA_89": 207.63,
-        "EMA_144": 203.09,
-        "EMA_233": 197.27,
-        "EMA_377": 189.97
+        "EMA_5": 210.54,
+        "EMA_8": 211.31,
+        "EMA_13": 212.46,
+        "EMA_21": 213.41,
+        "EMA_34": 213.07,
+        "EMA_55": 210.97,
+        "EMA_89": 207.64,
+        "EMA_144": 203.16,
+        "EMA_233": 197.37,
+        "EMA_377": 190.06
       }
     },
     {
       "id": 34,
       "ticker": "KRDMD",
       "name": "Kardemir Karabük Demir Çelik Sanayi A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 43.02,
-      "open": 43.14,
-      "high": 43.34,
-      "low": 41.92,
+      "close": 43.12,
+      "open": 43.16,
+      "high": 43.74,
+      "low": 42.92,
       "wema_bands": {
-        "mid": 44.18,
-        "upper_green": 40.86,
-        "lower_red": 47.49,
+        "mid": 44.05,
+        "upper_green": 40.74,
+        "lower_red": 47.35,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -1947,19 +1871,19 @@
           "entry1": 41.82,
           "entry2": 39.6,
           "stop_loss": 37.38,
-          "distance_pct": -2.79
+          "distance_pct": -3.01
         },
         "bearish": {
           "candle_date": "29/09/2026",
           "entry1": 47.8,
           "entry2": 46.96,
           "stop_loss": 48.64,
-          "distance_pct": 11.11
+          "distance_pct": 10.85
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.79,
-        "max_recent_vol_ratio": 1.24,
+        "volume_ratio": 0.62,
+        "max_recent_vol_ratio": 0.94,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -1970,24 +1894,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 44.29,
+      "rsi": 44.73,
       "pivots": {
-        "daily": 43.48,
+        "daily": 42.76,
         "weekly": 44.34,
-        "weeklyP": -2.98,
+        "weeklyP": -2.75,
         "monthly": 44.01,
-        "monthlyP": -2.25,
-        "next_weekly": 43.47,
-        "next_weeklyP": -1.04,
-        "next_monthly": 43.47,
-        "next_monthlyP": -1.04,
+        "monthlyP": -2.02,
+        "next_weekly": 43.51,
+        "next_weeklyP": -0.9,
+        "next_monthly": 43.51,
+        "next_monthlyP": -0.9,
         "daily_levels": {
-          "r1": 44.64,
-          "r2": 46.36,
-          "r3": 47.52,
-          "s1": 41.76,
-          "s2": 40.6,
-          "s3": 38.88
+          "r1": 43.6,
+          "r2": 44.18,
+          "r3": 45.02,
+          "s1": 42.18,
+          "s2": 41.34,
+          "s3": 40.76
         },
         "weekly_levels": {
           "r1": 46.74,
@@ -2007,34 +1931,30 @@
         }
       },
       "ema": {
-        "EMA_5": 43.62,
-        "EMA_8": 43.95,
-        "EMA_13": 44.29,
-        "EMA_21": 44.48,
-        "EMA_34": 44.36,
-        "EMA_55": 43.72,
-        "EMA_89": 42.37,
-        "EMA_144": 40.16,
-        "EMA_233": 37.35,
-        "EMA_377": 34.37
+        "EMA_5": 43.45,
+        "EMA_8": 43.77,
+        "EMA_13": 44.12,
+        "EMA_21": 44.36,
+        "EMA_34": 44.29,
+        "EMA_55": 43.7,
+        "EMA_89": 42.39,
+        "EMA_144": 40.2,
+        "EMA_233": 37.4,
+        "EMA_377": 34.42
       }
     },
     {
       "id": 36,
       "ticker": "MGROS",
       "name": "Migros Ticaret A.Ş.",
-      "tier": {
-        "no": 3,
-        "amount": 50000
-      },
-      "close": 501.0,
-      "open": 499.0,
-      "high": 502.5,
-      "low": 495.0,
+      "close": 503.0,
+      "open": 502.0,
+      "high": 506.5,
+      "low": 498.75,
       "wema_bands": {
-        "mid": 536.79,
-        "upper_green": 496.53,
-        "lower_red": 577.05,
+        "mid": 534.31,
+        "upper_green": 494.24,
+        "lower_red": 574.39,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -2055,22 +1975,22 @@
           "entry1": 500.25,
           "entry2": 483.5,
           "stop_loss": 466.75,
-          "distance_pct": -0.15
+          "distance_pct": -0.55
         },
         "bearish": {
           "candle_date": "23/09/2026",
           "entry1": 549.5,
           "entry2": 543.5,
           "stop_loss": 555.5,
-          "distance_pct": 9.68
+          "distance_pct": 9.24
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.47,
+        "volume_ratio": 0.86,
         "max_recent_vol_ratio": 1.08,
         "is_volume_burst": false,
-        "is_volume_drop": true,
-        "status": "DROP"
+        "is_volume_drop": false,
+        "status": "NORMAL"
       },
       "divergence": {
         "status": "NONE",
@@ -2078,24 +1998,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 38.66,
+      "rsi": 39.71,
       "pivots": {
-        "daily": 501.58,
+        "daily": 499.5,
         "weekly": 515.83,
-        "weeklyP": -2.87,
+        "weeklyP": -2.49,
         "monthly": 513.17,
-        "monthlyP": -2.37,
-        "next_weekly": 505.75,
-        "next_weeklyP": -0.94,
-        "next_monthly": 505.75,
-        "next_monthlyP": -0.94,
+        "monthlyP": -1.98,
+        "next_weekly": 506.42,
+        "next_weeklyP": -0.68,
+        "next_monthly": 506.42,
+        "next_monthlyP": -0.68,
         "daily_levels": {
-          "r1": 509.42,
-          "r2": 519.83,
-          "r3": 527.67,
-          "s1": 491.17,
-          "s2": 483.33,
-          "s3": 472.92
+          "r1": 504.0,
+          "r2": 507.0,
+          "r3": 511.5,
+          "s1": 496.5,
+          "s2": 492.0,
+          "s3": 489.0
         },
         "weekly_levels": {
           "r1": 532.67,
@@ -2115,32 +2035,28 @@
         }
       },
       "ema": {
-        "EMA_5": 506.16,
-        "EMA_8": 509.6,
-        "EMA_13": 514.28,
-        "EMA_21": 521.34,
-        "EMA_34": 534.04,
-        "EMA_55": 553.4,
-        "EMA_89": 574.01,
-        "EMA_144": 585.64,
-        "EMA_233": 582.09,
-        "EMA_377": 561.55
+        "EMA_5": 505.11,
+        "EMA_8": 508.13,
+        "EMA_13": 512.66,
+        "EMA_21": 519.68,
+        "EMA_34": 532.26,
+        "EMA_55": 551.6,
+        "EMA_89": 572.43,
+        "EMA_144": 584.5,
+        "EMA_233": 581.41,
+        "EMA_377": 561.24
       }
     },
     {
       "id": 42,
       "ticker": "PETKM",
       "name": "Petkim Petrokimya Holding A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 20.64,
-      "open": 20.4,
-      "high": 20.72,
-      "low": 20.12,
+      "close": 20.56,
+      "open": 20.64,
+      "high": 20.82,
+      "low": 20.32,
       "wema_bands": {
-        "mid": 20.63,
+        "mid": 20.62,
         "upper_green": 19.08,
         "lower_red": 22.17,
         "position": "IN_BANDS"
@@ -2163,12 +2079,12 @@
           "entry1": 20.07,
           "entry2": 19.68,
           "stop_loss": 19.29,
-          "distance_pct": -2.76
+          "distance_pct": -2.38
         },
         "bearish": null
       },
       "volume_analysis": {
-        "volume_ratio": 0.74,
+        "volume_ratio": 0.61,
         "max_recent_vol_ratio": 0.74,
         "is_volume_burst": false,
         "is_volume_drop": false,
@@ -2180,24 +2096,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 49.45,
+      "rsi": 48.98,
       "pivots": {
-        "daily": 20.07,
+        "daily": 20.49,
         "weekly": 19.74,
-        "weeklyP": 4.56,
+        "weeklyP": 4.15,
         "monthly": 21.47,
-        "monthlyP": -3.87,
-        "next_weekly": 20.31,
-        "next_weeklyP": 1.62,
-        "next_monthly": 19.93,
-        "next_monthlyP": 3.56,
+        "monthlyP": -4.24,
+        "next_weekly": 20.32,
+        "next_weeklyP": 1.18,
+        "next_monthly": 19.94,
+        "next_monthlyP": 3.11,
         "daily_levels": {
-          "r1": 20.37,
-          "r2": 20.63,
-          "r3": 20.93,
-          "s1": 19.81,
-          "s2": 19.51,
-          "s3": 19.25
+          "r1": 20.87,
+          "r2": 21.09,
+          "r3": 21.47,
+          "s1": 20.27,
+          "s2": 19.89,
+          "s3": 19.67
         },
         "weekly_levels": {
           "r1": 21.05,
@@ -2217,15 +2133,15 @@
         }
       },
       "ema": {
-        "EMA_5": 20.15,
-        "EMA_8": 20.18,
-        "EMA_13": 20.4,
-        "EMA_21": 20.65,
-        "EMA_34": 20.77,
-        "EMA_55": 20.77,
+        "EMA_5": 20.29,
+        "EMA_8": 20.26,
+        "EMA_13": 20.42,
+        "EMA_21": 20.64,
+        "EMA_34": 20.75,
+        "EMA_55": 20.76,
         "EMA_89": 20.7,
         "EMA_144": 20.47,
-        "EMA_233": 20.05,
+        "EMA_233": 20.06,
         "EMA_377": 19.61
       }
     },
@@ -2233,24 +2149,20 @@
       "id": 44,
       "ticker": "PGSUS",
       "name": "Pegasus Hava Taşımacılığı A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 135.6,
-      "open": 136.7,
-      "high": 137.1,
-      "low": 133.5,
+      "close": 134.4,
+      "open": 136.4,
+      "high": 136.5,
+      "low": 134.2,
       "wema_bands": {
-        "mid": 143.56,
-        "upper_green": 132.8,
-        "lower_red": 154.33,
+        "mid": 142.62,
+        "upper_green": 131.93,
+        "lower_red": 153.32,
         "position": "IN_BANDS"
       },
       "scores": {
-        "total_score": 40,
+        "total_score": 50,
         "pivot_score": 0,
-        "rsi_score": 0,
+        "rsi_score": 10,
         "volume_score": 0,
         "ema_score": 20,
         "divergence_score": 20,
@@ -2266,12 +2178,12 @@
           "entry1": 143.7,
           "entry2": 142.7,
           "stop_loss": 144.7,
-          "distance_pct": 5.97
+          "distance_pct": 6.92
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.92,
-        "max_recent_vol_ratio": 1.04,
+        "volume_ratio": 1.12,
+        "max_recent_vol_ratio": 1.12,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -2282,24 +2194,24 @@
         "rsi_divergence": true,
         "volume_divergence": true
       },
-      "rsi": 35.04,
+      "rsi": 33.81,
       "pivots": {
-        "daily": 137.67,
+        "daily": 135.27,
         "weekly": 141.57,
-        "weeklyP": -4.22,
+        "weeklyP": -5.06,
         "monthly": 144.03,
-        "monthlyP": -5.85,
-        "next_weekly": 137.6,
-        "next_weeklyP": -1.45,
-        "next_monthly": 137.6,
-        "next_monthlyP": -1.45,
+        "monthlyP": -6.69,
+        "next_weekly": 137.07,
+        "next_weeklyP": -1.95,
+        "next_monthly": 137.07,
+        "next_monthlyP": -1.95,
         "daily_levels": {
-          "r1": 139.03,
-          "r2": 141.57,
-          "r3": 142.93,
-          "s1": 135.13,
-          "s2": 133.77,
-          "s3": 131.23
+          "r1": 137.43,
+          "r2": 139.27,
+          "r3": 141.43,
+          "s1": 133.43,
+          "s2": 131.27,
+          "s3": 129.43
         },
         "weekly_levels": {
           "r1": 147.13,
@@ -2319,43 +2231,39 @@
         }
       },
       "ema": {
-        "EMA_5": 138.39,
-        "EMA_8": 139.84,
-        "EMA_13": 141.81,
-        "EMA_21": 144.1,
-        "EMA_34": 146.92,
-        "EMA_55": 151.0,
-        "EMA_89": 157.14,
-        "EMA_144": 166.11,
-        "EMA_233": 177.72,
-        "EMA_377": 187.47
+        "EMA_5": 137.06,
+        "EMA_8": 138.63,
+        "EMA_13": 140.75,
+        "EMA_21": 143.22,
+        "EMA_34": 146.2,
+        "EMA_55": 150.41,
+        "EMA_89": 156.63,
+        "EMA_144": 165.67,
+        "EMA_233": 177.35,
+        "EMA_377": 187.19
       }
     },
     {
       "id": 45,
       "ticker": "SAHOL",
       "name": "Hacı Ömer Sabancı Holding A.Ş.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 88.75,
-      "open": 87.4,
-      "high": 89.15,
-      "low": 86.25,
+      "close": 83.5,
+      "open": 88.9,
+      "high": 89.35,
+      "low": 83.1,
       "wema_bands": {
-        "mid": 89.63,
-        "upper_green": 82.91,
-        "lower_red": 96.35,
+        "mid": 89.22,
+        "upper_green": 82.53,
+        "lower_red": 95.91,
         "position": "IN_BANDS"
       },
       "scores": {
-        "total_score": 0,
+        "total_score": 40,
         "pivot_score": 0,
         "rsi_score": 0,
-        "volume_score": 0,
+        "volume_score": 20,
         "ema_score": 0,
-        "divergence_score": 0,
+        "divergence_score": 20,
         "order_block_score": 0,
         "wema_score": 0
       },
@@ -2364,44 +2272,44 @@
         "setup": null,
         "bullish": null,
         "bearish": {
-          "candle_date": "07/10/2026",
-          "entry1": 89.7,
-          "entry2": 88.93,
-          "stop_loss": 90.47,
-          "distance_pct": 1.07
+          "candle_date": "09/10/2026",
+          "entry1": 89.15,
+          "entry2": 87.7,
+          "stop_loss": 90.6,
+          "distance_pct": 6.77
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.89,
-        "max_recent_vol_ratio": 0.89,
-        "is_volume_burst": false,
+        "volume_ratio": 3.84,
+        "max_recent_vol_ratio": 3.84,
+        "is_volume_burst": true,
         "is_volume_drop": false,
-        "status": "NORMAL"
+        "status": "BURST"
       },
       "divergence": {
-        "status": "NONE",
-        "type": "NONE",
-        "rsi_divergence": false,
+        "status": "RSI_ONLY",
+        "type": "BULLISH",
+        "rsi_divergence": true,
         "volume_divergence": false
       },
-      "rsi": 48.49,
+      "rsi": 37.47,
       "pivots": {
-        "daily": 87.73,
+        "daily": 88.05,
         "weekly": 86.43,
-        "weeklyP": 2.68,
+        "weeklyP": -3.39,
         "monthly": 88.5,
-        "monthlyP": 0.28,
-        "next_weekly": 88.23,
-        "next_weeklyP": 0.59,
-        "next_monthly": 87.57,
-        "next_monthlyP": 1.35,
+        "monthlyP": -5.65,
+        "next_weekly": 85.43,
+        "next_weeklyP": -2.26,
+        "next_monthly": 85.43,
+        "next_monthlyP": -2.26,
         "daily_levels": {
-          "r1": 88.67,
-          "r2": 89.73,
-          "r3": 90.67,
-          "s1": 86.67,
-          "s2": 85.73,
-          "s3": 84.67
+          "r1": 89.85,
+          "r2": 90.95,
+          "r3": 92.75,
+          "s1": 86.95,
+          "s2": 85.15,
+          "s3": 84.05
         },
         "weekly_levels": {
           "r1": 88.77,
@@ -2421,41 +2329,37 @@
         }
       },
       "ema": {
-        "EMA_5": 88.09,
-        "EMA_8": 88.01,
-        "EMA_13": 88.32,
-        "EMA_21": 88.94,
-        "EMA_34": 89.6,
-        "EMA_55": 90.29,
-        "EMA_89": 91.1,
-        "EMA_144": 91.69,
-        "EMA_233": 91.63,
-        "EMA_377": 90.24
+        "EMA_5": 86.56,
+        "EMA_8": 87.01,
+        "EMA_13": 87.63,
+        "EMA_21": 88.44,
+        "EMA_34": 89.25,
+        "EMA_55": 90.05,
+        "EMA_89": 90.93,
+        "EMA_144": 91.58,
+        "EMA_233": 91.56,
+        "EMA_377": 90.2
       }
     },
     {
       "id": 46,
       "ticker": "SASA",
       "name": "Sasa Polyester Sanayi A.Ş.",
-      "tier": {
-        "no": 3,
-        "amount": 50000
-      },
-      "close": 1.88,
-      "open": 1.86,
-      "high": 1.89,
-      "low": 1.84,
+      "close": 1.93,
+      "open": 1.9,
+      "high": 1.97,
+      "low": 1.89,
       "wema_bands": {
-        "mid": 2.2,
-        "upper_green": 2.04,
-        "lower_red": 2.37,
+        "mid": 2.18,
+        "upper_green": 2.02,
+        "lower_red": 2.34,
         "position": "BELOW"
       },
       "scores": {
-        "total_score": 40,
+        "total_score": 50,
         "pivot_score": 0,
         "rsi_score": 10,
-        "volume_score": 10,
+        "volume_score": 20,
         "ema_score": 20,
         "divergence_score": 0,
         "order_block_score": 0,
@@ -2470,12 +2374,12 @@
           "entry1": 2.95,
           "entry2": 2.92,
           "stop_loss": 2.98,
-          "distance_pct": 56.91
+          "distance_pct": 52.85
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.7,
-        "max_recent_vol_ratio": 1.7,
+        "volume_ratio": 2.65,
+        "max_recent_vol_ratio": 2.65,
         "is_volume_burst": true,
         "is_volume_drop": false,
         "status": "BURST"
@@ -2486,24 +2390,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 29.7,
+      "rsi": 33.49,
       "pivots": {
-        "daily": 1.86,
+        "daily": 1.87,
         "weekly": 1.92,
-        "weeklyP": -2.08,
+        "weeklyP": 0.52,
         "monthly": 2.29,
-        "monthlyP": -17.9,
-        "next_weekly": 1.91,
-        "next_weeklyP": -1.57,
-        "next_monthly": 1.91,
-        "next_monthlyP": -1.57,
+        "monthlyP": -15.72,
+        "next_weekly": 1.92,
+        "next_weeklyP": 0.52,
+        "next_monthly": 1.92,
+        "next_monthlyP": 0.52,
         "daily_levels": {
-          "r1": 1.91,
-          "r2": 1.97,
-          "r3": 2.02,
-          "s1": 1.8,
-          "s2": 1.75,
-          "s3": 1.69
+          "r1": 1.9,
+          "r2": 1.92,
+          "r3": 1.95,
+          "s1": 1.85,
+          "s2": 1.82,
+          "s3": 1.8
         },
         "weekly_levels": {
           "r1": 1.96,
@@ -2524,33 +2428,29 @@
       },
       "ema": {
         "EMA_5": 1.94,
-        "EMA_8": 2.01,
-        "EMA_13": 2.1,
-        "EMA_21": 2.19,
-        "EMA_34": 2.28,
-        "EMA_55": 2.37,
-        "EMA_89": 2.51,
-        "EMA_144": 2.71,
-        "EMA_233": 3.0,
-        "EMA_377": 3.37
+        "EMA_8": 1.99,
+        "EMA_13": 2.08,
+        "EMA_21": 2.17,
+        "EMA_34": 2.26,
+        "EMA_55": 2.35,
+        "EMA_89": 2.49,
+        "EMA_144": 2.7,
+        "EMA_233": 2.99,
+        "EMA_377": 3.36
       }
     },
     {
       "id": 48,
       "ticker": "SISE",
       "name": "Türkiye Şişe ve Cam Fabrikaları A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 37.82,
-      "open": 37.56,
-      "high": 38.02,
-      "low": 37.3,
+      "close": 38.04,
+      "open": 37.86,
+      "high": 38.26,
+      "low": 37.72,
       "wema_bands": {
-        "mid": 39.37,
-        "upper_green": 36.41,
-        "lower_red": 42.32,
+        "mid": 39.21,
+        "upper_green": 36.27,
+        "lower_red": 42.15,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -2571,18 +2471,18 @@
           "entry1": 37.37,
           "entry2": 37.1,
           "stop_loss": 36.83,
-          "distance_pct": -1.19
+          "distance_pct": -1.76
         },
         "bearish": {
           "candle_date": "24/09/2026",
           "entry1": 40.92,
           "entry2": 40.51,
           "stop_loss": 41.33,
-          "distance_pct": 8.2
+          "distance_pct": 7.57
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.66,
+        "volume_ratio": 0.63,
         "max_recent_vol_ratio": 0.89,
         "is_volume_burst": false,
         "is_volume_drop": false,
@@ -2594,24 +2494,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 42.19,
+      "rsi": 43.47,
       "pivots": {
-        "daily": 37.63,
+        "daily": 37.71,
         "weekly": 37.7,
-        "weeklyP": 0.32,
+        "weeklyP": 0.9,
         "monthly": 40.55,
-        "monthlyP": -6.73,
-        "next_weekly": 37.75,
-        "next_weeklyP": 0.19,
-        "next_monthly": 37.65,
-        "next_monthlyP": 0.45,
+        "monthlyP": -6.19,
+        "next_weekly": 37.83,
+        "next_weeklyP": 0.56,
+        "next_monthly": 37.72,
+        "next_monthlyP": 0.85,
         "daily_levels": {
-          "r1": 38.09,
-          "r2": 38.63,
-          "r3": 39.09,
-          "s1": 37.09,
-          "s2": 36.63,
-          "s3": 36.09
+          "r1": 38.13,
+          "r2": 38.43,
+          "r3": 38.85,
+          "s1": 37.41,
+          "s2": 36.99,
+          "s3": 36.69
         },
         "weekly_levels": {
           "r1": 38.72,
@@ -2631,34 +2531,30 @@
         }
       },
       "ema": {
-        "EMA_5": 37.79,
-        "EMA_8": 37.96,
-        "EMA_13": 38.4,
-        "EMA_21": 38.99,
-        "EMA_34": 39.67,
-        "EMA_55": 40.52,
-        "EMA_89": 41.44,
-        "EMA_144": 41.99,
-        "EMA_233": 41.93,
-        "EMA_377": 41.62
+        "EMA_5": 37.87,
+        "EMA_8": 37.98,
+        "EMA_13": 38.35,
+        "EMA_21": 38.9,
+        "EMA_34": 39.58,
+        "EMA_55": 40.43,
+        "EMA_89": 41.37,
+        "EMA_144": 41.93,
+        "EMA_233": 41.9,
+        "EMA_377": 41.6
       }
     },
     {
       "id": 49,
       "ticker": "TAVHL",
       "name": "TAV Havalimanları Holding A.Ş.",
-      "tier": {
-        "no": 3,
-        "amount": 50000
-      },
-      "close": 275.75,
-      "open": 275.25,
-      "high": 278.25,
-      "low": 268.75,
+      "close": 274.75,
+      "open": 277.75,
+      "high": 280.5,
+      "low": 272.75,
       "wema_bands": {
-        "mid": 273.14,
-        "upper_green": 252.65,
-        "lower_red": 293.62,
+        "mid": 273.34,
+        "upper_green": 252.84,
+        "lower_red": 293.84,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -2679,18 +2575,18 @@
           "entry1": 251.6,
           "entry2": 243.2,
           "stop_loss": 234.8,
-          "distance_pct": -8.76
+          "distance_pct": -8.43
         },
         "bearish": {
           "candle_date": "24/09/2026",
           "entry1": 284.0,
           "entry2": 280.38,
           "stop_loss": 287.62,
-          "distance_pct": 2.99
+          "distance_pct": 3.37
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.16,
+        "volume_ratio": 1.11,
         "max_recent_vol_ratio": 1.16,
         "is_volume_burst": false,
         "is_volume_drop": false,
@@ -2702,24 +2598,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 54.27,
+      "rsi": 53.18,
       "pivots": {
-        "daily": 273.67,
+        "daily": 274.25,
         "weekly": 266.42,
-        "weeklyP": 3.5,
+        "weeklyP": 3.13,
         "monthly": 262.82,
-        "monthlyP": 4.92,
-        "next_weekly": 273.75,
-        "next_weeklyP": 0.73,
-        "next_monthly": 270.67,
-        "next_monthlyP": 1.88,
+        "monthlyP": 4.54,
+        "next_weekly": 274.0,
+        "next_weeklyP": 0.27,
+        "next_monthly": 270.92,
+        "next_monthlyP": 1.41,
         "daily_levels": {
-          "r1": 277.33,
-          "r2": 279.42,
-          "r3": 283.08,
-          "s1": 271.58,
-          "s2": 267.92,
-          "s3": 265.83
+          "r1": 279.75,
+          "r2": 283.75,
+          "r3": 289.25,
+          "s1": 270.25,
+          "s2": 264.75,
+          "s3": 260.75
         },
         "weekly_levels": {
           "r1": 275.33,
@@ -2739,34 +2635,30 @@
         }
       },
       "ema": {
-        "EMA_5": 273.5,
-        "EMA_8": 272.34,
-        "EMA_13": 271.62,
-        "EMA_21": 271.46,
-        "EMA_34": 271.8,
-        "EMA_55": 272.87,
-        "EMA_89": 275.47,
-        "EMA_144": 278.54,
-        "EMA_233": 278.44,
-        "EMA_377": 270.67
+        "EMA_5": 273.92,
+        "EMA_8": 272.87,
+        "EMA_13": 272.06,
+        "EMA_21": 271.76,
+        "EMA_34": 271.97,
+        "EMA_55": 272.93,
+        "EMA_89": 275.45,
+        "EMA_144": 278.48,
+        "EMA_233": 278.41,
+        "EMA_377": 270.69
       }
     },
     {
       "id": 50,
       "ticker": "TCELL",
       "name": "Turkcell İletişim Hizmetleri A.Ş.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 100.2,
-      "open": 99.95,
-      "high": 100.9,
-      "low": 98.5,
+      "close": 98.55,
+      "open": 100.3,
+      "high": 101.2,
+      "low": 98.3,
       "wema_bands": {
-        "mid": 100.06,
-        "upper_green": 92.55,
-        "lower_red": 107.56,
+        "mid": 99.89,
+        "upper_green": 92.4,
+        "lower_red": 107.38,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -2787,18 +2679,18 @@
           "entry1": 98.28,
           "entry2": 97.4,
           "stop_loss": 96.53,
-          "distance_pct": -1.92
+          "distance_pct": -0.27
         },
         "bearish": {
           "candle_date": "07/10/2026",
           "entry1": 102.2,
           "entry2": 101.25,
           "stop_loss": 103.15,
-          "distance_pct": 2.0
+          "distance_pct": 3.7
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.78,
+        "volume_ratio": 0.67,
         "max_recent_vol_ratio": 0.84,
         "is_volume_burst": false,
         "is_volume_drop": false,
@@ -2810,24 +2702,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 51.06,
+      "rsi": 46.72,
       "pivots": {
-        "daily": 99.32,
+        "daily": 99.87,
         "weekly": 97.75,
-        "weeklyP": 2.51,
+        "weeklyP": 0.82,
         "monthly": 97.92,
-        "monthlyP": 2.33,
-        "next_weekly": 100.08,
-        "next_weeklyP": 0.12,
-        "next_monthly": 99.5,
-        "next_monthlyP": 0.7,
+        "monthlyP": 0.64,
+        "next_weekly": 99.53,
+        "next_weeklyP": -0.98,
+        "next_monthly": 98.95,
+        "next_monthlyP": -0.4,
         "daily_levels": {
-          "r1": 100.78,
-          "r2": 102.17,
+          "r1": 101.23,
+          "r2": 102.27,
           "r3": 103.63,
-          "s1": 97.93,
-          "s2": 96.47,
-          "s3": 95.08
+          "s1": 98.83,
+          "s2": 97.47,
+          "s3": 96.43
         },
         "weekly_levels": {
           "r1": 100.35,
@@ -2847,34 +2739,30 @@
         }
       },
       "ema": {
-        "EMA_5": 99.67,
-        "EMA_8": 99.43,
-        "EMA_13": 99.34,
-        "EMA_21": 99.54,
-        "EMA_34": 100.23,
-        "EMA_55": 101.55,
-        "EMA_89": 103.25,
-        "EMA_144": 104.45,
-        "EMA_233": 104.2,
-        "EMA_377": 101.42
+        "EMA_5": 99.29,
+        "EMA_8": 99.24,
+        "EMA_13": 99.23,
+        "EMA_21": 99.45,
+        "EMA_34": 100.13,
+        "EMA_55": 101.44,
+        "EMA_89": 103.15,
+        "EMA_144": 104.37,
+        "EMA_233": 104.15,
+        "EMA_377": 101.4
       }
     },
     {
       "id": 51,
       "ticker": "THYAO",
       "name": "Türk Hava Yolları A.O.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 284.25,
-      "open": 286.25,
-      "high": 287.5,
-      "low": 282.0,
+      "close": 287.5,
+      "open": 286.0,
+      "high": 289.5,
+      "low": 284.75,
       "wema_bands": {
-        "mid": 294.31,
-        "upper_green": 272.24,
-        "lower_red": 316.38,
+        "mid": 294.01,
+        "upper_green": 271.96,
+        "lower_red": 316.06,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -2891,22 +2779,22 @@
         "status": null,
         "setup": null,
         "bullish": {
-          "candle_date": "21/09/2026",
-          "entry1": 287.12,
-          "entry2": 283.25,
-          "stop_loss": 279.38,
-          "distance_pct": 1.01
+          "candle_date": "09/10/2026",
+          "entry1": 284.75,
+          "entry2": 282.0,
+          "stop_loss": 279.25,
+          "distance_pct": -0.96
         },
         "bearish": {
           "candle_date": "30/09/2026",
           "entry1": 294.25,
           "entry2": 290.88,
           "stop_loss": 297.62,
-          "distance_pct": 3.52
+          "distance_pct": 2.35
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.72,
+        "volume_ratio": 0.8,
         "max_recent_vol_ratio": 0.93,
         "is_volume_burst": false,
         "is_volume_drop": false,
@@ -2918,24 +2806,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 42.71,
+      "rsi": 45.83,
       "pivots": {
-        "daily": 286.83,
+        "daily": 284.58,
         "weekly": 289.58,
-        "weeklyP": -1.84,
+        "weeklyP": -0.72,
         "monthly": 282.75,
-        "monthlyP": 0.53,
-        "next_weekly": 287.17,
-        "next_weeklyP": -1.02,
-        "next_monthly": 287.17,
-        "next_monthlyP": -1.02,
+        "monthlyP": 1.68,
+        "next_weekly": 288.25,
+        "next_weeklyP": -0.26,
+        "next_monthly": 288.25,
+        "next_monthlyP": -0.26,
         "daily_levels": {
-          "r1": 289.92,
-          "r2": 293.58,
-          "r3": 296.67,
-          "s1": 283.17,
-          "s2": 280.08,
-          "s3": 276.42
+          "r1": 287.17,
+          "r2": 290.08,
+          "r3": 292.67,
+          "s1": 281.67,
+          "s2": 279.08,
+          "s3": 276.17
         },
         "weekly_levels": {
           "r1": 296.67,
@@ -2955,34 +2843,30 @@
         }
       },
       "ema": {
-        "EMA_5": 287.36,
-        "EMA_8": 288.16,
-        "EMA_13": 289.18,
-        "EMA_21": 290.98,
-        "EMA_34": 294.2,
-        "EMA_55": 298.42,
-        "EMA_89": 301.97,
-        "EMA_144": 303.53,
-        "EMA_233": 303.06,
-        "EMA_377": 298.81
+        "EMA_5": 287.41,
+        "EMA_8": 288.01,
+        "EMA_13": 288.94,
+        "EMA_21": 290.67,
+        "EMA_34": 293.82,
+        "EMA_55": 298.03,
+        "EMA_89": 301.65,
+        "EMA_144": 303.31,
+        "EMA_233": 302.93,
+        "EMA_377": 298.75
       }
     },
     {
       "id": 52,
       "ticker": "TOASO",
       "name": "Tofaş Türk Otomobil Fabrikası A.Ş.",
-      "tier": {
-        "no": 3,
-        "amount": 50000
-      },
-      "close": 269.0,
-      "open": 262.5,
-      "high": 269.0,
-      "low": 259.75,
+      "close": 265.0,
+      "open": 272.0,
+      "high": 272.25,
+      "low": 263.25,
       "wema_bands": {
-        "mid": 275.72,
-        "upper_green": 255.04,
-        "lower_red": 296.4,
+        "mid": 275.07,
+        "upper_green": 254.44,
+        "lower_red": 295.7,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -3003,19 +2887,19 @@
           "entry1": 260.0,
           "entry2": 256.25,
           "stop_loss": 252.5,
-          "distance_pct": -3.35
+          "distance_pct": -1.89
         },
         "bearish": {
           "candle_date": "07/10/2026",
           "entry1": 276.25,
           "entry2": 269.5,
           "stop_loss": 283.0,
-          "distance_pct": 2.7
+          "distance_pct": 4.25
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.75,
-        "max_recent_vol_ratio": 1.2,
+        "volume_ratio": 0.65,
+        "max_recent_vol_ratio": 0.97,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -3026,24 +2910,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 46.66,
+      "rsi": 44.53,
       "pivots": {
-        "daily": 265.5,
+        "daily": 265.92,
         "weekly": 268.5,
-        "weeklyP": 0.19,
+        "weeklyP": -1.3,
         "monthly": 272.92,
-        "monthlyP": -1.44,
-        "next_weekly": 268.33,
-        "next_weeklyP": 0.25,
-        "next_monthly": 267.17,
-        "next_monthlyP": 0.68,
+        "monthlyP": -2.9,
+        "next_weekly": 267.0,
+        "next_weeklyP": -0.75,
+        "next_monthly": 265.83,
+        "next_monthlyP": -0.31,
         "daily_levels": {
-          "r1": 269.75,
-          "r2": 277.0,
-          "r3": 281.25,
-          "s1": 258.25,
-          "s2": 254.0,
-          "s3": 246.75
+          "r1": 272.08,
+          "r2": 275.17,
+          "r3": 281.33,
+          "s1": 262.83,
+          "s2": 256.67,
+          "s3": 253.58
         },
         "weekly_levels": {
           "r1": 280.75,
@@ -3063,41 +2947,37 @@
         }
       },
       "ema": {
-        "EMA_5": 267.15,
-        "EMA_8": 268.55,
-        "EMA_13": 271.08,
-        "EMA_21": 273.5,
-        "EMA_34": 275.64,
-        "EMA_55": 278.57,
-        "EMA_89": 281.98,
-        "EMA_144": 282.76,
-        "EMA_233": 277.81,
-        "EMA_377": 267.66
+        "EMA_5": 266.43,
+        "EMA_8": 267.76,
+        "EMA_13": 270.21,
+        "EMA_21": 272.73,
+        "EMA_34": 275.03,
+        "EMA_55": 278.09,
+        "EMA_89": 281.6,
+        "EMA_144": 282.51,
+        "EMA_233": 277.7,
+        "EMA_377": 267.65
       }
     },
     {
       "id": 53,
       "ticker": "TRALT",
       "name": "Türk Altın İşletmeleri A.Ş.",
-      "tier": {
-        "no": 3,
-        "amount": 50000
-      },
-      "close": 42.24,
-      "open": 41.44,
-      "high": 42.42,
-      "low": 41.34,
+      "close": 43.9,
+      "open": 43.02,
+      "high": 44.46,
+      "low": 42.96,
       "wema_bands": {
-        "mid": 47.08,
-        "upper_green": 43.55,
-        "lower_red": 50.61,
-        "position": "BELOW"
+        "mid": 46.93,
+        "upper_green": 43.41,
+        "lower_red": 50.45,
+        "position": "IN_BANDS"
       },
       "scores": {
-        "total_score": 20,
+        "total_score": 0,
         "pivot_score": 0,
-        "rsi_score": 10,
-        "volume_score": 10,
+        "rsi_score": 0,
+        "volume_score": 0,
         "ema_score": 0,
         "divergence_score": 0,
         "order_block_score": 0,
@@ -3112,12 +2992,12 @@
           "entry1": 50.0,
           "entry2": 49.4,
           "stop_loss": 50.6,
-          "distance_pct": 18.37
+          "distance_pct": 13.9
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.69,
-        "max_recent_vol_ratio": 1.48,
+        "volume_ratio": 0.97,
+        "max_recent_vol_ratio": 1.13,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -3128,24 +3008,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 34.62,
+      "rsi": 40.69,
       "pivots": {
-        "daily": 41.82,
+        "daily": 42.0,
         "weekly": 45.07,
-        "weeklyP": -6.28,
+        "weeklyP": -2.6,
         "monthly": 48.0,
-        "monthlyP": -12.0,
-        "next_weekly": 42.47,
-        "next_weeklyP": -0.54,
-        "next_monthly": 42.95,
-        "next_monthlyP": -1.65,
+        "monthlyP": -8.54,
+        "next_weekly": 43.07,
+        "next_weeklyP": 1.93,
+        "next_monthly": 43.5,
+        "next_monthlyP": 0.92,
         "daily_levels": {
-          "r1": 42.78,
-          "r2": 44.22,
-          "r3": 45.18,
-          "s1": 40.38,
-          "s2": 39.42,
-          "s3": 37.98
+          "r1": 42.66,
+          "r2": 43.08,
+          "r3": 43.74,
+          "s1": 41.58,
+          "s2": 40.92,
+          "s3": 40.5
         },
         "weekly_levels": {
           "r1": 47.31,
@@ -3165,34 +3045,30 @@
         }
       },
       "ema": {
-        "EMA_5": 42.9,
-        "EMA_8": 43.78,
-        "EMA_13": 45.09,
-        "EMA_21": 46.54,
-        "EMA_34": 47.75,
-        "EMA_55": 48.4,
-        "EMA_89": 48.38,
-        "EMA_144": 47.31,
-        "EMA_233": 44.64,
-        "EMA_377": 40.54
+        "EMA_5": 43.24,
+        "EMA_8": 43.81,
+        "EMA_13": 44.92,
+        "EMA_21": 46.3,
+        "EMA_34": 47.53,
+        "EMA_55": 48.24,
+        "EMA_89": 48.28,
+        "EMA_144": 47.26,
+        "EMA_233": 44.63,
+        "EMA_377": 40.55
       }
     },
     {
       "id": 54,
       "ticker": "TRMET",
       "name": "TRMET",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 130.8,
-      "open": 126.7,
-      "high": 130.8,
-      "low": 126.0,
+      "close": 137.3,
+      "open": 132.4,
+      "high": 137.3,
+      "low": 131.9,
       "wema_bands": {
-        "mid": 131.55,
-        "upper_green": 121.68,
-        "lower_red": 141.42,
+        "mid": 132.03,
+        "upper_green": 122.13,
+        "lower_red": 141.93,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -3213,22 +3089,22 @@
           "entry1": 126.4,
           "entry2": 123.7,
           "stop_loss": 121.0,
-          "distance_pct": -3.36
+          "distance_pct": -7.94
         },
         "bearish": {
           "candle_date": "01/10/2026",
           "entry1": 138.3,
           "entry2": 133.95,
           "stop_loss": 142.65,
-          "distance_pct": 5.73
+          "distance_pct": 0.73
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.53,
-        "max_recent_vol_ratio": 0.95,
+        "volume_ratio": 0.7,
+        "max_recent_vol_ratio": 0.7,
         "is_volume_burst": false,
-        "is_volume_drop": true,
-        "status": "DROP"
+        "is_volume_drop": false,
+        "status": "NORMAL"
       },
       "divergence": {
         "status": "NONE",
@@ -3236,24 +3112,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 47.68,
+      "rsi": 54.02,
       "pivots": {
-        "daily": 126.43,
+        "daily": 129.2,
         "weekly": 130.27,
-        "weeklyP": 0.41,
+        "weeklyP": 5.4,
         "monthly": 133.83,
-        "monthlyP": -2.26,
-        "next_weekly": 128.73,
-        "next_weeklyP": 1.61,
-        "next_monthly": 130.2,
-        "next_monthlyP": 0.46,
+        "monthlyP": 2.59,
+        "next_weekly": 132.77,
+        "next_weeklyP": 3.41,
+        "next_monthly": 132.77,
+        "next_monthlyP": 3.41,
         "daily_levels": {
-          "r1": 129.17,
-          "r2": 131.83,
-          "r3": 134.57,
-          "s1": 123.77,
-          "s2": 121.03,
-          "s3": 118.37
+          "r1": 132.4,
+          "r2": 134.0,
+          "r3": 137.2,
+          "s1": 127.6,
+          "s2": 124.4,
+          "s3": 122.8
         },
         "weekly_levels": {
           "r1": 136.83,
@@ -3273,34 +3149,30 @@
         }
       },
       "ema": {
-        "EMA_5": 129.43,
-        "EMA_8": 130.18,
-        "EMA_13": 131.39,
-        "EMA_21": 132.6,
-        "EMA_34": 133.04,
-        "EMA_55": 132.13,
-        "EMA_89": 130.29,
-        "EMA_144": 127.14,
-        "EMA_233": 121.01,
-        "EMA_377": 111.09
+        "EMA_5": 132.05,
+        "EMA_8": 131.76,
+        "EMA_13": 132.23,
+        "EMA_21": 133.03,
+        "EMA_34": 133.28,
+        "EMA_55": 132.31,
+        "EMA_89": 130.45,
+        "EMA_144": 127.28,
+        "EMA_233": 121.15,
+        "EMA_377": 111.23
       }
     },
     {
       "id": 56,
       "ticker": "TTKOM",
       "name": "Türk Telekomünikasyon A.Ş.",
-      "tier": {
-        "no": 2,
-        "amount": 100000
-      },
-      "close": 52.4,
-      "open": 52.05,
-      "high": 52.5,
-      "low": 51.5,
+      "close": 52.3,
+      "open": 52.55,
+      "high": 52.9,
+      "low": 51.8,
       "wema_bands": {
-        "mid": 53.39,
-        "upper_green": 49.38,
-        "lower_red": 57.39,
+        "mid": 53.3,
+        "upper_green": 49.3,
+        "lower_red": 57.29,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -3322,15 +3194,15 @@
           "entry1": 63.2,
           "entry2": 62.6,
           "stop_loss": 63.8,
-          "distance_pct": 20.61
+          "distance_pct": 20.84
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.59,
+        "volume_ratio": 0.75,
         "max_recent_vol_ratio": 0.81,
         "is_volume_burst": false,
-        "is_volume_drop": true,
-        "status": "DROP"
+        "is_volume_drop": false,
+        "status": "NORMAL"
       },
       "divergence": {
         "status": "NONE",
@@ -3338,24 +3210,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 46.21,
+      "rsi": 45.86,
       "pivots": {
-        "daily": 52.15,
+        "daily": 52.13,
         "weekly": 52.8,
-        "weeklyP": -0.76,
+        "weeklyP": -0.95,
         "monthly": 53.92,
-        "monthlyP": -2.82,
-        "next_weekly": 52.52,
-        "next_weeklyP": -0.23,
-        "next_monthly": 52.52,
-        "next_monthlyP": -0.23,
+        "monthlyP": -3.0,
+        "next_weekly": 52.48,
+        "next_weeklyP": -0.34,
+        "next_monthly": 52.48,
+        "next_monthlyP": -0.34,
         "daily_levels": {
-          "r1": 53.1,
-          "r2": 54.05,
-          "r3": 55.0,
-          "s1": 51.2,
-          "s2": 50.25,
-          "s3": 49.3
+          "r1": 52.77,
+          "r2": 53.13,
+          "r3": 53.77,
+          "s1": 51.77,
+          "s2": 51.13,
+          "s3": 50.77
         },
         "weekly_levels": {
           "r1": 54.35,
@@ -3375,34 +3247,30 @@
         }
       },
       "ema": {
-        "EMA_5": 52.62,
-        "EMA_8": 52.78,
-        "EMA_13": 53.0,
-        "EMA_21": 53.24,
-        "EMA_34": 53.61,
-        "EMA_55": 54.41,
-        "EMA_89": 55.68,
-        "EMA_144": 56.88,
-        "EMA_233": 57.17,
-        "EMA_377": 55.61
+        "EMA_5": 52.52,
+        "EMA_8": 52.67,
+        "EMA_13": 52.9,
+        "EMA_21": 53.15,
+        "EMA_34": 53.53,
+        "EMA_55": 54.34,
+        "EMA_89": 55.61,
+        "EMA_144": 56.81,
+        "EMA_233": 57.13,
+        "EMA_377": 55.59
       }
     },
     {
       "id": 57,
       "ticker": "TUPRS",
       "name": "Türkiye Petrol Rafinerileri A.Ş.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 392.25,
-      "open": 384.75,
-      "high": 397.5,
-      "low": 382.25,
+      "close": 386.25,
+      "open": 392.5,
+      "high": 393.5,
+      "low": 381.25,
       "wema_bands": {
-        "mid": 389.4,
-        "upper_green": 360.2,
-        "lower_red": 418.61,
+        "mid": 388.95,
+        "upper_green": 359.78,
+        "lower_red": 418.12,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -3423,12 +3291,12 @@
           "entry1": 380.62,
           "entry2": 375.75,
           "stop_loss": 370.88,
-          "distance_pct": -2.96
+          "distance_pct": -1.46
         },
         "bearish": null
       },
       "volume_analysis": {
-        "volume_ratio": 1.14,
+        "volume_ratio": 0.87,
         "max_recent_vol_ratio": 1.14,
         "is_volume_burst": false,
         "is_volume_drop": false,
@@ -3440,24 +3308,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 51.29,
+      "rsi": 48.64,
       "pivots": {
-        "daily": 380.33,
+        "daily": 390.67,
         "weekly": 384.17,
-        "weeklyP": 2.1,
+        "weeklyP": 0.54,
         "monthly": 390.83,
-        "monthlyP": 0.36,
-        "next_weekly": 388.5,
-        "next_weeklyP": 0.97,
-        "next_monthly": 385.42,
-        "next_monthlyP": 1.77,
+        "monthlyP": -1.17,
+        "next_weekly": 386.5,
+        "next_weeklyP": -0.06,
+        "next_monthly": 383.42,
+        "next_monthlyP": 0.74,
         "daily_levels": {
-          "r1": 384.92,
-          "r2": 390.08,
-          "r3": 394.67,
-          "s1": 375.17,
-          "s2": 370.58,
-          "s3": 365.42
+          "r1": 399.08,
+          "r2": 405.92,
+          "r3": 414.33,
+          "s1": 383.83,
+          "s2": 375.42,
+          "s3": 368.58
         },
         "weekly_levels": {
           "r1": 401.83,
@@ -3477,34 +3345,30 @@
         }
       },
       "ema": {
-        "EMA_5": 386.06,
-        "EMA_8": 387.39,
-        "EMA_13": 390.25,
-        "EMA_21": 391.35,
-        "EMA_34": 385.25,
-        "EMA_55": 368.53,
-        "EMA_89": 343.3,
-        "EMA_144": 313.26,
-        "EMA_233": 280.62,
-        "EMA_377": 247.34
+        "EMA_5": 386.13,
+        "EMA_8": 387.14,
+        "EMA_13": 389.68,
+        "EMA_21": 390.89,
+        "EMA_34": 385.3,
+        "EMA_55": 369.17,
+        "EMA_89": 344.26,
+        "EMA_144": 314.27,
+        "EMA_233": 281.52,
+        "EMA_377": 248.08
       }
     },
     {
       "id": 60,
       "ticker": "VAKBN",
       "name": "Türkiye Vakıflar Bankası T.A.O.",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 33.66,
-      "open": 33.52,
-      "high": 33.86,
-      "low": 32.8,
+      "close": 33.9,
+      "open": 33.96,
+      "high": 34.14,
+      "low": 33.52,
       "wema_bands": {
-        "mid": 33.32,
-        "upper_green": 30.82,
-        "lower_red": 35.82,
+        "mid": 33.36,
+        "upper_green": 30.85,
+        "lower_red": 35.86,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -3525,18 +3389,18 @@
           "entry1": 29.02,
           "entry2": 28.58,
           "stop_loss": 28.14,
-          "distance_pct": -13.78
+          "distance_pct": -14.4
         },
         "bearish": {
           "candle_date": "24/09/2026",
           "entry1": 34.78,
           "entry2": 34.43,
           "stop_loss": 35.13,
-          "distance_pct": 3.33
+          "distance_pct": 2.6
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.93,
+        "volume_ratio": 0.73,
         "max_recent_vol_ratio": 1.01,
         "is_volume_burst": false,
         "is_volume_drop": false,
@@ -3548,24 +3412,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 50.91,
+      "rsi": 52.04,
       "pivots": {
-        "daily": 33.47,
+        "daily": 33.44,
         "weekly": 33.25,
-        "weeklyP": 1.23,
+        "weeklyP": 1.95,
         "monthly": 33.61,
-        "monthlyP": 0.15,
-        "next_weekly": 33.61,
-        "next_weeklyP": 0.15,
-        "next_monthly": 33.41,
-        "next_monthlyP": 0.75,
+        "monthlyP": 0.86,
+        "next_weekly": 33.69,
+        "next_weeklyP": 0.62,
+        "next_monthly": 33.49,
+        "next_monthlyP": 1.22,
         "daily_levels": {
-          "r1": 34.05,
-          "r2": 34.41,
-          "r3": 34.99,
-          "s1": 33.11,
-          "s2": 32.53,
-          "s3": 32.17
+          "r1": 34.08,
+          "r2": 34.5,
+          "r3": 35.14,
+          "s1": 33.02,
+          "s2": 32.38,
+          "s3": 31.96
         },
         "weekly_levels": {
           "r1": 34.41,
@@ -3585,34 +3449,30 @@
         }
       },
       "ema": {
-        "EMA_5": 33.65,
-        "EMA_8": 33.64,
-        "EMA_13": 33.66,
-        "EMA_21": 33.59,
-        "EMA_34": 33.33,
-        "EMA_55": 32.98,
-        "EMA_89": 32.73,
-        "EMA_144": 32.41,
-        "EMA_233": 31.59,
-        "EMA_377": 29.86
+        "EMA_5": 33.73,
+        "EMA_8": 33.7,
+        "EMA_13": 33.69,
+        "EMA_21": 33.61,
+        "EMA_34": 33.36,
+        "EMA_55": 33.02,
+        "EMA_89": 32.75,
+        "EMA_144": 32.43,
+        "EMA_233": 31.61,
+        "EMA_377": 29.88
       }
     },
     {
       "id": 65,
       "ticker": "YKBNK",
       "name": "Yapı ve Kredi Bankası A.Ş.",
-      "tier": {
-        "no": 1,
-        "amount": 200000
-      },
-      "close": 35.66,
-      "open": 36.56,
-      "high": 36.62,
-      "low": 35.22,
+      "close": 35.44,
+      "open": 35.76,
+      "high": 35.84,
+      "low": 35.18,
       "wema_bands": {
-        "mid": 35.82,
-        "upper_green": 33.13,
-        "lower_red": 38.51,
+        "mid": 35.8,
+        "upper_green": 33.11,
+        "lower_red": 38.48,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -3633,18 +3493,18 @@
           "entry1": 32.99,
           "entry2": 31.22,
           "stop_loss": 29.45,
-          "distance_pct": -7.49
+          "distance_pct": -6.91
         },
         "bearish": {
           "candle_date": "08/10/2026",
           "entry1": 36.74,
           "entry2": 36.33,
           "stop_loss": 37.15,
-          "distance_pct": 3.03
+          "distance_pct": 3.67
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.46,
+        "volume_ratio": 0.93,
         "max_recent_vol_ratio": 1.46,
         "is_volume_burst": false,
         "is_volume_drop": false,
@@ -3656,24 +3516,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 49.51,
+      "rsi": 48.37,
       "pivots": {
-        "daily": 36.42,
+        "daily": 35.83,
         "weekly": 35.01,
-        "weeklyP": 1.86,
+        "weeklyP": 1.23,
         "monthly": 34.38,
-        "monthlyP": 3.72,
-        "next_weekly": 35.87,
-        "next_weeklyP": -0.59,
-        "next_monthly": 35.35,
-        "next_monthlyP": 0.88,
+        "monthlyP": 3.08,
+        "next_weekly": 35.79,
+        "next_weeklyP": -0.98,
+        "next_monthly": 35.27,
+        "next_monthlyP": 0.48,
         "daily_levels": {
-          "r1": 36.92,
-          "r2": 37.24,
-          "r3": 37.74,
-          "s1": 36.1,
-          "s2": 35.6,
-          "s3": 35.28
+          "r1": 36.45,
+          "r2": 37.23,
+          "r3": 37.85,
+          "s1": 35.05,
+          "s2": 34.43,
+          "s3": 33.65
         },
         "weekly_levels": {
           "r1": 36.41,
@@ -3693,16 +3553,16 @@
         }
       },
       "ema": {
-        "EMA_5": 35.89,
-        "EMA_8": 35.81,
-        "EMA_13": 35.77,
-        "EMA_21": 35.76,
-        "EMA_34": 35.75,
-        "EMA_55": 35.78,
-        "EMA_89": 35.92,
+        "EMA_5": 35.74,
+        "EMA_8": 35.73,
+        "EMA_13": 35.72,
+        "EMA_21": 35.73,
+        "EMA_34": 35.73,
+        "EMA_55": 35.77,
+        "EMA_89": 35.91,
         "EMA_144": 35.95,
         "EMA_233": 35.48,
-        "EMA_377": 34.09
+        "EMA_377": 34.1
       }
     }
   ],
@@ -3711,18 +3571,14 @@
       "id": 1,
       "ticker": "AAPL",
       "name": "Apple Inc.",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 340.42,
-      "open": 336.82,
-      "high": 341.57,
-      "low": 335.9,
+      "close": 336.69,
+      "open": 331.79,
+      "high": 338.61,
+      "low": 330.7,
       "wema_bands": {
-        "mid": 329.8,
-        "upper_green": 305.07,
-        "lower_red": 354.54,
+        "mid": 330.25,
+        "upper_green": 305.48,
+        "lower_red": 355.02,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -3743,19 +3599,19 @@
           "entry1": 335.73,
           "entry2": 332.78,
           "stop_loss": 329.83,
-          "distance_pct": -1.38
+          "distance_pct": -0.29
         },
         "bearish": {
           "candle_date": "29/07/2026",
           "entry1": 342.89,
           "entry2": 339.25,
           "stop_loss": 346.53,
-          "distance_pct": 0.73
+          "distance_pct": 1.84
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.96,
-        "max_recent_vol_ratio": 1.0,
+        "volume_ratio": 0.87,
+        "max_recent_vol_ratio": 1.03,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -3766,24 +3622,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 61.22,
+      "rsi": 56.19,
       "pivots": {
-        "daily": 336.04,
+        "daily": 339.3,
         "weekly": 334.16,
-        "weeklyP": 1.87,
+        "weeklyP": 0.76,
         "monthly": 329.42,
-        "monthlyP": 3.34,
-        "next_weekly": 337.54,
-        "next_weeklyP": 0.85,
-        "next_monthly": 335.93,
-        "next_monthlyP": 1.34,
+        "monthlyP": 2.21,
+        "next_weekly": 336.29,
+        "next_weeklyP": 0.12,
+        "next_monthly": 334.69,
+        "next_monthlyP": 0.6,
         "daily_levels": {
-          "r1": 339.3,
-          "r2": 341.93,
-          "r3": 345.19,
-          "s1": 333.41,
-          "s2": 330.15,
-          "s3": 327.52
+          "r1": 342.69,
+          "r2": 344.97,
+          "r3": 348.36,
+          "s1": 337.02,
+          "s2": 333.63,
+          "s3": 331.35
         },
         "weekly_levels": {
           "r1": 342.52,
@@ -3803,34 +3659,30 @@
         }
       },
       "ema": {
-        "EMA_5": 336.43,
-        "EMA_8": 335.64,
-        "EMA_13": 334.68,
-        "EMA_21": 332.67,
-        "EMA_34": 329.27,
-        "EMA_55": 324.21,
-        "EMA_89": 316.51,
-        "EMA_144": 305.54,
-        "EMA_233": 291.29,
-        "EMA_377": 274.0
+        "EMA_5": 336.52,
+        "EMA_8": 335.87,
+        "EMA_13": 334.97,
+        "EMA_21": 333.04,
+        "EMA_34": 329.7,
+        "EMA_55": 324.65,
+        "EMA_89": 316.95,
+        "EMA_144": 305.97,
+        "EMA_233": 291.68,
+        "EMA_377": 274.33
       }
     },
     {
       "id": 4,
       "ticker": "AMGN",
       "name": "Amgen Inc.",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 407.44,
-      "open": 410.01,
-      "high": 411.84,
-      "low": 400.06,
+      "close": 414.96,
+      "open": 405.0,
+      "high": 417.7,
+      "low": 404.05,
       "wema_bands": {
-        "mid": 403.12,
-        "upper_green": 372.89,
-        "lower_red": 433.36,
+        "mid": 404.01,
+        "upper_green": 373.71,
+        "lower_red": 434.31,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -3847,26 +3699,26 @@
         "status": null,
         "setup": null,
         "bullish": {
-          "candle_date": "07/10/2026",
-          "entry1": 400.5,
-          "entry2": 396.01,
-          "stop_loss": 391.51,
-          "distance_pct": -1.7
+          "candle_date": "09/10/2026",
+          "entry1": 405.95,
+          "entry2": 400.06,
+          "stop_loss": 394.17,
+          "distance_pct": -2.17
         },
         "bearish": {
           "candle_date": "08/09/2026",
           "entry1": 441.85,
           "entry2": 438.43,
           "stop_loss": 445.28,
-          "distance_pct": 8.45
+          "distance_pct": 6.48
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.85,
+        "volume_ratio": 0.44,
         "max_recent_vol_ratio": 1.04,
         "is_volume_burst": false,
-        "is_volume_drop": false,
-        "status": "NORMAL"
+        "is_volume_drop": true,
+        "status": "DROP"
       },
       "divergence": {
         "status": "NONE",
@@ -3874,24 +3726,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 50.37,
+      "rsi": 54.8,
       "pivots": {
-        "daily": 410.24,
+        "daily": 406.45,
         "weekly": 410.53,
-        "weeklyP": -0.75,
+        "weeklyP": 1.08,
         "monthly": 413.93,
-        "monthlyP": -1.57,
-        "next_weekly": 406.41,
-        "next_weeklyP": 0.25,
-        "next_monthly": 408.75,
-        "next_monthlyP": -0.32,
+        "monthlyP": 0.25,
+        "next_weekly": 409.56,
+        "next_weeklyP": 1.32,
+        "next_monthly": 411.26,
+        "next_monthlyP": 0.9,
         "daily_levels": {
-          "r1": 418.63,
-          "r2": 424.18,
-          "r3": 432.57,
-          "s1": 404.69,
-          "s2": 396.3,
-          "s3": 390.75
+          "r1": 412.83,
+          "r2": 418.23,
+          "r3": 424.61,
+          "s1": 401.05,
+          "s2": 394.67,
+          "s3": 389.27
         },
         "weekly_levels": {
           "r1": 419.1,
@@ -3911,34 +3763,30 @@
         }
       },
       "ema": {
-        "EMA_5": 408.05,
-        "EMA_8": 407.99,
-        "EMA_13": 407.41,
-        "EMA_21": 407.14,
-        "EMA_34": 406.04,
-        "EMA_55": 401.16,
-        "EMA_89": 391.79,
-        "EMA_144": 379.02,
-        "EMA_233": 363.55,
-        "EMA_377": 346.49
+        "EMA_5": 410.36,
+        "EMA_8": 409.54,
+        "EMA_13": 408.49,
+        "EMA_21": 407.85,
+        "EMA_34": 406.55,
+        "EMA_55": 401.65,
+        "EMA_89": 392.31,
+        "EMA_144": 379.51,
+        "EMA_233": 363.99,
+        "EMA_377": 346.85
       }
     },
     {
       "id": 5,
       "ticker": "AMZN",
       "name": "Amazon.com, Inc.",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 254.06,
-      "open": 259.74,
-      "high": 259.86,
-      "low": 253.78,
+      "close": 262.51,
+      "open": 256.3,
+      "high": 262.8,
+      "low": 256.0,
       "wema_bands": {
-        "mid": 252.67,
-        "upper_green": 233.72,
-        "lower_red": 271.62,
+        "mid": 253.34,
+        "upper_green": 234.34,
+        "lower_red": 272.34,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -3955,23 +3803,23 @@
         "status": null,
         "setup": null,
         "bullish": {
-          "candle_date": "30/09/2026",
-          "entry1": 246.99,
-          "entry2": 245.14,
-          "stop_loss": 243.29,
-          "distance_pct": -2.78
+          "candle_date": "09/10/2026",
+          "entry1": 256.82,
+          "entry2": 253.78,
+          "stop_loss": 250.74,
+          "distance_pct": -2.17
         },
         "bearish": {
           "candle_date": "11/08/2026",
           "entry1": 280.14,
           "entry2": 276.87,
           "stop_loss": 283.41,
-          "distance_pct": 10.27
+          "distance_pct": 6.72
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.01,
-        "max_recent_vol_ratio": 1.06,
+        "volume_ratio": 0.77,
+        "max_recent_vol_ratio": 1.1,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -3982,24 +3830,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 50.82,
+      "rsi": 59.11,
       "pivots": {
-        "daily": 257.74,
+        "daily": 255.9,
         "weekly": 249.94,
-        "weeklyP": 1.65,
+        "weeklyP": 5.03,
         "monthly": 251.52,
-        "monthlyP": 1.01,
-        "next_weekly": 254.79,
-        "next_weeklyP": -0.29,
-        "next_monthly": 253.44,
-        "next_monthlyP": 0.24,
+        "monthlyP": 4.37,
+        "next_weekly": 258.5,
+        "next_weeklyP": 1.55,
+        "next_monthly": 257.14,
+        "next_monthlyP": 2.09,
         "daily_levels": {
-          "r1": 262.32,
-          "r2": 264.71,
-          "r3": 269.29,
-          "s1": 255.35,
-          "s2": 250.77,
-          "s3": 248.38
+          "r1": 258.02,
+          "r2": 261.98,
+          "r3": 264.1,
+          "s1": 251.94,
+          "s2": 249.82,
+          "s3": 245.86
         },
         "weekly_levels": {
           "r1": 255.14,
@@ -4019,34 +3867,30 @@
         }
       },
       "ema": {
-        "EMA_5": 254.53,
-        "EMA_8": 253.5,
-        "EMA_13": 252.87,
-        "EMA_21": 253.06,
-        "EMA_34": 253.65,
-        "EMA_55": 253.6,
-        "EMA_89": 251.95,
-        "EMA_144": 248.16,
-        "EMA_233": 241.97,
-        "EMA_377": 232.28
+        "EMA_5": 257.19,
+        "EMA_8": 255.5,
+        "EMA_13": 254.24,
+        "EMA_21": 253.92,
+        "EMA_34": 254.15,
+        "EMA_55": 253.92,
+        "EMA_89": 252.19,
+        "EMA_144": 248.35,
+        "EMA_233": 242.14,
+        "EMA_377": 232.44
       }
     },
     {
       "id": 8,
       "ticker": "AXP",
       "name": "American Express Company",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 308.1,
-      "open": 301.5,
-      "high": 308.1,
-      "low": 300.47,
+      "close": 308.45,
+      "open": 303.82,
+      "high": 308.76,
+      "low": 302.43,
       "wema_bands": {
-        "mid": 315.92,
-        "upper_green": 292.22,
-        "lower_red": 339.61,
+        "mid": 315.64,
+        "upper_green": 291.96,
+        "lower_red": 339.31,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -4067,22 +3911,22 @@
           "entry1": 301.91,
           "entry2": 299.83,
           "stop_loss": 297.75,
-          "distance_pct": -2.01
+          "distance_pct": -2.12
         },
         "bearish": {
           "candle_date": "09/09/2026",
           "entry1": 328.04,
           "entry2": 325.35,
           "stop_loss": 330.74,
-          "distance_pct": 6.47
+          "distance_pct": 6.35
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.5,
-        "max_recent_vol_ratio": 1.5,
+        "volume_ratio": 0.58,
+        "max_recent_vol_ratio": 1.6,
         "is_volume_burst": false,
-        "is_volume_drop": false,
-        "status": "NORMAL"
+        "is_volume_drop": true,
+        "status": "DROP"
       },
       "divergence": {
         "status": "NONE",
@@ -4090,24 +3934,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 42.47,
+      "rsi": 43.06,
       "pivots": {
-        "daily": 302.63,
+        "daily": 305.56,
         "weekly": 302.95,
-        "weeklyP": 1.7,
+        "weeklyP": 1.82,
         "monthly": 313.0,
-        "monthlyP": -1.57,
-        "next_weekly": 305.19,
-        "next_weeklyP": 0.95,
-        "next_monthly": 304.47,
-        "next_monthlyP": 1.19,
+        "monthlyP": -1.45,
+        "next_weekly": 305.52,
+        "next_weeklyP": 0.96,
+        "next_monthly": 304.8,
+        "next_monthlyP": 1.2,
         "daily_levels": {
-          "r1": 305.91,
-          "r2": 307.56,
-          "r3": 310.84,
-          "s1": 300.98,
-          "s2": 297.7,
-          "s3": 296.05
+          "r1": 310.64,
+          "r2": 313.19,
+          "r3": 318.27,
+          "s1": 303.01,
+          "s2": 297.93,
+          "s3": 295.38
         },
         "weekly_levels": {
           "r1": 308.71,
@@ -4127,34 +3971,30 @@
         }
       },
       "ema": {
-        "EMA_5": 305.51,
-        "EMA_8": 305.57,
-        "EMA_13": 307.04,
-        "EMA_21": 310.53,
-        "EMA_34": 315.75,
-        "EMA_55": 320.91,
-        "EMA_89": 324.61,
-        "EMA_144": 326.87,
-        "EMA_233": 326.03,
-        "EMA_377": 317.63
+        "EMA_5": 306.49,
+        "EMA_8": 306.21,
+        "EMA_13": 307.24,
+        "EMA_21": 310.34,
+        "EMA_34": 315.33,
+        "EMA_55": 320.47,
+        "EMA_89": 324.25,
+        "EMA_144": 326.62,
+        "EMA_233": 325.88,
+        "EMA_377": 317.58
       }
     },
     {
       "id": 9,
       "ticker": "BA",
       "name": "Boeing Company",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 187.75,
-      "open": 185.9,
-      "high": 187.77,
-      "low": 184.25,
+      "close": 190.52,
+      "open": 187.99,
+      "high": 191.02,
+      "low": 187.62,
       "wema_bands": {
-        "mid": 199.63,
-        "upper_green": 184.66,
-        "lower_red": 214.61,
+        "mid": 199.09,
+        "upper_green": 184.16,
+        "lower_red": 214.02,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -4176,15 +4016,15 @@
           "entry1": 201.4,
           "entry2": 199.1,
           "stop_loss": 203.7,
-          "distance_pct": 7.27
+          "distance_pct": 5.71
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.11,
-        "max_recent_vol_ratio": 1.23,
+        "volume_ratio": 0.41,
+        "max_recent_vol_ratio": 1.11,
         "is_volume_burst": false,
-        "is_volume_drop": false,
-        "status": "NORMAL"
+        "is_volume_drop": true,
+        "status": "DROP"
       },
       "divergence": {
         "status": "NONE",
@@ -4192,24 +4032,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 36.05,
+      "rsi": 40.38,
       "pivots": {
-        "daily": 187.79,
+        "daily": 186.59,
         "weekly": 191.5,
-        "weeklyP": -1.96,
+        "weeklyP": -0.51,
         "monthly": 195.12,
-        "monthlyP": -3.78,
-        "next_weekly": 189.08,
-        "next_weeklyP": -0.7,
-        "next_monthly": 189.64,
-        "next_monthlyP": -1.0,
+        "monthlyP": -2.36,
+        "next_weekly": 190.0,
+        "next_weeklyP": 0.27,
+        "next_monthly": 190.57,
+        "next_monthlyP": -0.03,
         "daily_levels": {
-          "r1": 189.37,
-          "r2": 190.43,
-          "r3": 192.01,
-          "s1": 186.73,
-          "s2": 185.15,
-          "s3": 184.09
+          "r1": 188.94,
+          "r2": 190.12,
+          "r3": 192.47,
+          "s1": 185.41,
+          "s2": 183.06,
+          "s3": 181.88
         },
         "weekly_levels": {
           "r1": 198.99,
@@ -4229,34 +4069,30 @@
         }
       },
       "ema": {
-        "EMA_5": 189.45,
-        "EMA_8": 190.49,
-        "EMA_13": 192.57,
-        "EMA_21": 196.04,
-        "EMA_34": 200.75,
-        "EMA_55": 205.81,
-        "EMA_89": 210.3,
-        "EMA_144": 213.33,
-        "EMA_233": 213.56,
-        "EMA_377": 210.54
+        "EMA_5": 189.8,
+        "EMA_8": 190.5,
+        "EMA_13": 192.27,
+        "EMA_21": 195.54,
+        "EMA_34": 200.17,
+        "EMA_55": 205.26,
+        "EMA_89": 209.86,
+        "EMA_144": 213.02,
+        "EMA_233": 213.36,
+        "EMA_377": 210.43
       }
     },
     {
       "id": 12,
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 796.18,
-      "open": 808.7,
-      "high": 821.91,
-      "low": 788.89,
+      "close": 801.4,
+      "open": 796.22,
+      "high": 804.24,
+      "low": 791.19,
       "wema_bands": {
-        "mid": 822.68,
-        "upper_green": 760.98,
-        "lower_red": 884.39,
+        "mid": 821.09,
+        "upper_green": 759.51,
+        "lower_red": 882.67,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -4277,22 +4113,22 @@
           "entry1": 782.38,
           "entry2": 774.55,
           "stop_loss": 766.71,
-          "distance_pct": -1.73
+          "distance_pct": -2.37
         },
         "bearish": {
           "candle_date": "07/10/2026",
           "entry1": 876.95,
           "entry2": 864.21,
           "stop_loss": 889.69,
-          "distance_pct": 10.14
+          "distance_pct": 9.43
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.2,
+        "volume_ratio": 0.48,
         "max_recent_vol_ratio": 1.5,
         "is_volume_burst": false,
-        "is_volume_drop": false,
-        "status": "NORMAL"
+        "is_volume_drop": true,
+        "status": "DROP"
       },
       "divergence": {
         "status": "NONE",
@@ -4300,24 +4136,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 43.33,
+      "rsi": 44.87,
       "pivots": {
-        "daily": 822.04,
+        "daily": 802.33,
         "weekly": 835.58,
-        "weeklyP": -4.72,
+        "weeklyP": -4.09,
         "monthly": 804.71,
-        "monthlyP": -1.06,
-        "next_weekly": 820.67,
-        "next_weeklyP": -2.98,
-        "next_monthly": 820.67,
-        "next_monthlyP": -2.98,
+        "monthlyP": -0.41,
+        "next_weekly": 822.41,
+        "next_weeklyP": -2.55,
+        "next_monthly": 822.41,
+        "next_monthlyP": -2.55,
         "daily_levels": {
-          "r1": 837.79,
-          "r2": 861.75,
-          "r3": 877.5,
-          "s1": 798.08,
-          "s2": 782.33,
-          "s3": 758.37
+          "r1": 815.76,
+          "r2": 835.35,
+          "r3": 848.78,
+          "s1": 782.74,
+          "s2": 769.31,
+          "s3": 749.72
         },
         "weekly_levels": {
           "r1": 868.71,
@@ -4337,34 +4173,30 @@
         }
       },
       "ema": {
-        "EMA_5": 821.5,
-        "EMA_8": 823.58,
-        "EMA_13": 822.16,
-        "EMA_21": 820.42,
-        "EMA_34": 823.39,
-        "EMA_55": 831.95,
-        "EMA_89": 834.81,
-        "EMA_144": 813.84,
-        "EMA_233": 759.51,
-        "EMA_377": 678.42
+        "EMA_5": 814.8,
+        "EMA_8": 818.65,
+        "EMA_13": 819.19,
+        "EMA_21": 818.69,
+        "EMA_34": 822.13,
+        "EMA_55": 830.86,
+        "EMA_89": 834.07,
+        "EMA_144": 813.67,
+        "EMA_233": 759.87,
+        "EMA_377": 679.07
       }
     },
     {
       "id": 13,
       "ticker": "CRM",
       "name": "Salesforce, Inc.",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 227.8,
-      "open": 225.46,
-      "high": 227.95,
-      "low": 220.3,
+      "close": 229.38,
+      "open": 229.6,
+      "high": 230.71,
+      "low": 226.66,
       "wema_bands": {
-        "mid": 226.29,
-        "upper_green": 209.32,
-        "lower_red": 243.26,
+        "mid": 226.62,
+        "upper_green": 209.62,
+        "lower_red": 243.62,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -4385,18 +4217,18 @@
           "entry1": 224.01,
           "entry2": 221.53,
           "stop_loss": 219.05,
-          "distance_pct": -1.66
+          "distance_pct": -2.34
         },
         "bearish": {
           "candle_date": "04/09/2026",
           "entry1": 268.27,
           "entry2": 264.94,
           "stop_loss": 271.6,
-          "distance_pct": 17.77
+          "distance_pct": 16.95
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.59,
+        "volume_ratio": 0.38,
         "max_recent_vol_ratio": 0.7,
         "is_volume_burst": false,
         "is_volume_drop": true,
@@ -4408,24 +4240,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 46.82,
+      "rsi": 48.26,
       "pivots": {
-        "daily": 224.2,
+        "daily": 225.35,
         "weekly": 231.77,
-        "weeklyP": -1.71,
+        "weeklyP": -1.03,
         "monthly": 239.67,
-        "monthlyP": -4.95,
-        "next_weekly": 227.71,
-        "next_weeklyP": 0.04,
-        "next_monthly": 229.18,
-        "next_monthlyP": -0.6,
+        "monthlyP": -4.29,
+        "next_weekly": 228.23,
+        "next_weeklyP": 0.5,
+        "next_monthly": 229.71,
+        "next_monthlyP": -0.14,
         "daily_levels": {
-          "r1": 226.86,
-          "r2": 229.17,
-          "r3": 231.83,
-          "s1": 221.89,
-          "s2": 219.23,
-          "s3": 216.92
+          "r1": 230.4,
+          "r2": 233.01,
+          "r3": 238.06,
+          "s1": 222.74,
+          "s2": 217.69,
+          "s3": 215.08
         },
         "weekly_levels": {
           "r1": 242.37,
@@ -4445,42 +4277,38 @@
         }
       },
       "ema": {
-        "EMA_5": 227.94,
-        "EMA_8": 229.33,
-        "EMA_13": 231.44,
-        "EMA_21": 232.44,
-        "EMA_34": 229.17,
-        "EMA_55": 221.11,
-        "EMA_89": 212.22,
-        "EMA_144": 208.24,
-        "EMA_233": 212.38,
-        "EMA_377": 222.0
+        "EMA_5": 228.42,
+        "EMA_8": 229.34,
+        "EMA_13": 231.15,
+        "EMA_21": 232.16,
+        "EMA_34": 229.18,
+        "EMA_55": 221.4,
+        "EMA_89": 212.6,
+        "EMA_144": 208.53,
+        "EMA_233": 212.52,
+        "EMA_377": 222.04
       }
     },
     {
       "id": 14,
       "ticker": "CSCO",
       "name": "Cisco Systems, Inc.",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 114.89,
-      "open": 116.65,
-      "high": 117.18,
-      "low": 114.72,
+      "close": 118.34,
+      "open": 116.77,
+      "high": 118.65,
+      "low": 115.36,
       "wema_bands": {
-        "mid": 111.11,
-        "upper_green": 102.77,
-        "lower_red": 119.44,
+        "mid": 111.62,
+        "upper_green": 103.25,
+        "lower_red": 120.0,
         "position": "IN_BANDS"
       },
       "scores": {
-        "total_score": 0,
+        "total_score": -10,
         "pivot_score": 0,
         "rsi_score": 0,
         "volume_score": 0,
-        "ema_score": 0,
+        "ema_score": -10,
         "divergence_score": 0,
         "order_block_score": 0,
         "wema_score": 0
@@ -4489,26 +4317,26 @@
         "status": null,
         "setup": null,
         "bullish": {
-          "candle_date": "30/09/2026",
-          "entry1": 106.73,
-          "entry2": 106.06,
-          "stop_loss": 105.39,
-          "distance_pct": -7.1
+          "candle_date": "09/10/2026",
+          "entry1": 115.94,
+          "entry2": 114.69,
+          "stop_loss": 113.44,
+          "distance_pct": -2.03
         },
         "bearish": {
           "candle_date": "08/10/2026",
           "entry1": 118.39,
           "entry2": 117.48,
           "stop_loss": 119.3,
-          "distance_pct": 3.05
+          "distance_pct": 0.04
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.69,
+        "volume_ratio": 0.47,
         "max_recent_vol_ratio": 1.05,
         "is_volume_burst": false,
-        "is_volume_drop": false,
-        "status": "NORMAL"
+        "is_volume_drop": true,
+        "status": "DROP"
       },
       "divergence": {
         "status": "NONE",
@@ -4516,24 +4344,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 58.9,
+      "rsi": 64.7,
       "pivots": {
-        "daily": 117.45,
+        "daily": 115.59,
         "weekly": 110.14,
-        "weeklyP": 4.31,
+        "weeklyP": 7.45,
         "monthly": 108.12,
-        "monthlyP": 6.26,
-        "next_weekly": 114.94,
-        "next_weeklyP": -0.04,
-        "next_monthly": 113.4,
-        "next_monthlyP": 1.31,
+        "monthlyP": 9.45,
+        "next_weekly": 116.18,
+        "next_weeklyP": 1.86,
+        "next_monthly": 114.64,
+        "next_monthlyP": 3.23,
         "daily_levels": {
-          "r1": 118.33,
-          "r2": 119.26,
-          "r3": 120.14,
-          "s1": 116.52,
-          "s2": 115.64,
-          "s3": 114.71
+          "r1": 116.48,
+          "r2": 118.08,
+          "r3": 118.97,
+          "s1": 113.99,
+          "s2": 113.1,
+          "s3": 111.5
         },
         "weekly_levels": {
           "r1": 114.29,
@@ -4553,34 +4381,30 @@
         }
       },
       "ema": {
-        "EMA_5": 114.58,
-        "EMA_8": 113.28,
-        "EMA_13": 111.99,
-        "EMA_21": 111.24,
-        "EMA_34": 111.23,
-        "EMA_55": 111.33,
-        "EMA_89": 109.86,
-        "EMA_144": 105.43,
-        "EMA_233": 98.18,
-        "EMA_377": 89.17
+        "EMA_5": 115.83,
+        "EMA_8": 114.4,
+        "EMA_13": 112.9,
+        "EMA_21": 111.89,
+        "EMA_34": 111.63,
+        "EMA_55": 111.58,
+        "EMA_89": 110.05,
+        "EMA_144": 105.61,
+        "EMA_233": 98.35,
+        "EMA_377": 89.33
       }
     },
     {
       "id": 15,
       "ticker": "CVX",
       "name": "Chevron Corporation",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 211.55,
-      "open": 209.32,
-      "high": 212.35,
-      "low": 208.96,
+      "close": 211.66,
+      "open": 211.05,
+      "high": 213.72,
+      "low": 210.71,
       "wema_bands": {
-        "mid": 205.86,
-        "upper_green": 190.42,
-        "lower_red": 221.3,
+        "mid": 206.5,
+        "upper_green": 191.01,
+        "lower_red": 221.99,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -4601,19 +4425,19 @@
           "entry1": 207.5,
           "entry2": 204.86,
           "stop_loss": 202.22,
-          "distance_pct": -1.91
+          "distance_pct": -1.97
         },
         "bearish": {
           "candle_date": "16/09/2026",
           "entry1": 217.78,
           "entry2": 215.26,
           "stop_loss": 220.3,
-          "distance_pct": 2.94
+          "distance_pct": 2.89
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.08,
-        "max_recent_vol_ratio": 1.08,
+        "volume_ratio": 0.66,
+        "max_recent_vol_ratio": 1.11,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -4624,24 +4448,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 59.05,
+      "rsi": 59.2,
       "pivots": {
-        "daily": 206.72,
+        "daily": 210.96,
         "weekly": 205.88,
-        "weeklyP": 2.75,
+        "weeklyP": 2.81,
         "monthly": 207.59,
-        "monthlyP": 1.91,
-        "next_weekly": 208.62,
-        "next_weeklyP": 1.4,
-        "next_monthly": 208.62,
-        "next_monthlyP": 1.4,
+        "monthlyP": 1.96,
+        "next_weekly": 209.11,
+        "next_weeklyP": 1.22,
+        "next_monthly": 209.11,
+        "next_monthlyP": 1.22,
         "daily_levels": {
-          "r1": 208.57,
-          "r2": 212.0,
-          "r3": 213.85,
-          "s1": 203.29,
-          "s2": 201.44,
-          "s3": 198.01
+          "r1": 212.95,
+          "r2": 214.36,
+          "r3": 216.35,
+          "s1": 209.55,
+          "s2": 207.56,
+          "s3": 206.15
         },
         "weekly_levels": {
           "r1": 209.06,
@@ -4661,34 +4485,30 @@
         }
       },
       "ema": {
-        "EMA_5": 207.94,
-        "EMA_8": 207.39,
-        "EMA_13": 207.19,
-        "EMA_21": 206.89,
-        "EMA_34": 205.41,
-        "EMA_55": 202.32,
-        "EMA_89": 198.06,
-        "EMA_144": 192.49,
-        "EMA_233": 185.28,
-        "EMA_377": 177.39
+        "EMA_5": 209.18,
+        "EMA_8": 208.34,
+        "EMA_13": 207.83,
+        "EMA_21": 207.32,
+        "EMA_34": 205.77,
+        "EMA_55": 202.66,
+        "EMA_89": 198.37,
+        "EMA_144": 192.75,
+        "EMA_233": 185.51,
+        "EMA_377": 177.57
       }
     },
     {
       "id": 16,
       "ticker": "DIS",
       "name": "Walt Disney Company",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 107.02,
-      "open": 104.81,
-      "high": 107.41,
-      "low": 104.05,
+      "close": 108.16,
+      "open": 107.22,
+      "high": 108.35,
+      "low": 107.17,
       "wema_bands": {
-        "mid": 104.4,
-        "upper_green": 96.57,
-        "lower_red": 112.23,
+        "mid": 104.67,
+        "upper_green": 96.82,
+        "lower_red": 112.52,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -4709,22 +4529,22 @@
           "entry1": 101.45,
           "entry2": 99.69,
           "stop_loss": 97.93,
-          "distance_pct": -5.2
+          "distance_pct": -6.2
         },
         "bearish": {
           "candle_date": "17/09/2026",
           "entry1": 108.34,
           "entry2": 107.28,
           "stop_loss": 109.4,
-          "distance_pct": 1.23
+          "distance_pct": 0.17
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.51,
-        "max_recent_vol_ratio": 1.51,
+        "volume_ratio": 0.6,
+        "max_recent_vol_ratio": 1.7,
         "is_volume_burst": false,
-        "is_volume_drop": false,
-        "status": "NORMAL"
+        "is_volume_drop": true,
+        "status": "DROP"
       },
       "divergence": {
         "status": "NONE",
@@ -4732,24 +4552,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 56.73,
+      "rsi": 59.51,
       "pivots": {
-        "daily": 104.19,
+        "daily": 106.16,
         "weekly": 103.31,
-        "weeklyP": 3.59,
+        "weeklyP": 4.69,
         "monthly": 105.56,
-        "monthlyP": 1.38,
-        "next_weekly": 105.25,
-        "next_weeklyP": 1.68,
-        "next_monthly": 105.19,
-        "next_monthlyP": 1.74,
+        "monthlyP": 2.46,
+        "next_weekly": 105.94,
+        "next_weeklyP": 2.1,
+        "next_monthly": 105.89,
+        "next_monthlyP": 2.14,
         "daily_levels": {
-          "r1": 105.77,
-          "r2": 106.78,
-          "r3": 108.36,
-          "s1": 103.18,
-          "s2": 101.6,
-          "s3": 100.59
+          "r1": 108.27,
+          "r2": 109.52,
+          "r3": 111.63,
+          "s1": 104.91,
+          "s2": 102.8,
+          "s3": 101.55
         },
         "weekly_levels": {
           "r1": 105.46,
@@ -4769,34 +4589,30 @@
         }
       },
       "ema": {
-        "EMA_5": 105.01,
-        "EMA_8": 104.71,
-        "EMA_13": 104.69,
-        "EMA_21": 104.81,
-        "EMA_34": 104.67,
-        "EMA_55": 104.12,
-        "EMA_89": 103.59,
-        "EMA_144": 103.68,
-        "EMA_233": 104.37,
-        "EMA_377": 104.98
+        "EMA_5": 106.06,
+        "EMA_8": 105.48,
+        "EMA_13": 105.19,
+        "EMA_21": 105.11,
+        "EMA_34": 104.87,
+        "EMA_55": 104.27,
+        "EMA_89": 103.69,
+        "EMA_144": 103.74,
+        "EMA_233": 104.41,
+        "EMA_377": 104.99
       }
     },
     {
       "id": 23,
       "ticker": "GOOGL",
       "name": "Alphabet Inc. Class A",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 348.29,
-      "open": 353.65,
-      "high": 356.83,
-      "low": 346.52,
+      "close": 351.69,
+      "open": 351.45,
+      "high": 354.7,
+      "low": 350.31,
       "wema_bands": {
-        "mid": 344.66,
-        "upper_green": 318.82,
-        "lower_red": 370.51,
+        "mid": 345.1,
+        "upper_green": 319.22,
+        "lower_red": 370.98,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -4817,22 +4633,22 @@
           "entry1": 329.88,
           "entry2": 327.9,
           "stop_loss": 325.92,
-          "distance_pct": -5.29
+          "distance_pct": -6.2
         },
         "bearish": {
           "candle_date": "11/08/2026",
           "entry1": 357.61,
           "entry2": 355.16,
           "stop_loss": 360.06,
-          "distance_pct": 2.68
+          "distance_pct": 1.68
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.87,
-        "max_recent_vol_ratio": 0.93,
+        "volume_ratio": 0.55,
+        "max_recent_vol_ratio": 0.96,
         "is_volume_burst": false,
-        "is_volume_drop": false,
-        "status": "NORMAL"
+        "is_volume_drop": true,
+        "status": "DROP"
       },
       "divergence": {
         "status": "NONE",
@@ -4840,24 +4656,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 53.46,
+      "rsi": 56.38,
       "pivots": {
-        "daily": 348.12,
+        "daily": 350.55,
         "weekly": 344.08,
-        "weeklyP": 1.22,
+        "weeklyP": 2.21,
         "monthly": 345.33,
-        "monthlyP": 0.86,
-        "next_weekly": 349.17,
-        "next_weeklyP": -0.25,
-        "next_monthly": 346.88,
-        "next_monthlyP": 0.41,
+        "monthlyP": 1.84,
+        "next_weekly": 350.31,
+        "next_weeklyP": 0.39,
+        "next_monthly": 348.01,
+        "next_monthlyP": 1.06,
         "daily_levels": {
-          "r1": 353.18,
-          "r2": 355.85,
-          "r3": 360.91,
-          "s1": 345.45,
-          "s2": 340.39,
-          "s3": 337.72
+          "r1": 354.57,
+          "r2": 360.86,
+          "r3": 364.88,
+          "s1": 344.26,
+          "s2": 340.24,
+          "s3": 333.95
         },
         "weekly_levels": {
           "r1": 352.64,
@@ -4877,34 +4693,30 @@
         }
       },
       "ema": {
-        "EMA_5": 347.31,
-        "EMA_8": 346.33,
-        "EMA_13": 345.46,
-        "EMA_21": 344.84,
-        "EMA_34": 344.94,
-        "EMA_55": 345.98,
-        "EMA_89": 345.95,
-        "EMA_144": 339.98,
-        "EMA_233": 323.21,
-        "EMA_377": 295.31
+        "EMA_5": 348.77,
+        "EMA_8": 347.52,
+        "EMA_13": 346.35,
+        "EMA_21": 345.46,
+        "EMA_34": 345.32,
+        "EMA_55": 346.18,
+        "EMA_89": 346.07,
+        "EMA_144": 340.14,
+        "EMA_233": 323.46,
+        "EMA_377": 295.61
       }
     },
     {
       "id": 24,
       "ticker": "GS",
       "name": "Goldman Sachs Group, Inc.",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 882.59,
-      "open": 880.57,
-      "high": 887.49,
-      "low": 876.77,
+      "close": 895.6,
+      "open": 887.68,
+      "high": 899.67,
+      "low": 878.98,
       "wema_bands": {
-        "mid": 945.97,
-        "upper_green": 875.03,
-        "lower_red": 1016.92,
+        "mid": 943.1,
+        "upper_green": 872.37,
+        "lower_red": 1013.84,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -4926,11 +4738,11 @@
           "entry1": 1084.73,
           "entry2": 1073.61,
           "stop_loss": 1095.86,
-          "distance_pct": 22.9
+          "distance_pct": 21.12
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.86,
+        "volume_ratio": 0.73,
         "max_recent_vol_ratio": 1.19,
         "is_volume_burst": false,
         "is_volume_drop": false,
@@ -4942,24 +4754,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 29.07,
+      "rsi": 34.85,
       "pivots": {
-        "daily": 881.35,
+        "daily": 882.28,
         "weekly": 905.19,
-        "weeklyP": -2.5,
+        "weeklyP": -1.06,
         "monthly": 948.19,
-        "monthlyP": -6.92,
-        "next_weekly": 885.68,
-        "next_weeklyP": -0.35,
-        "next_monthly": 888.04,
-        "next_monthlyP": -0.61,
+        "monthlyP": -5.55,
+        "next_weekly": 890.02,
+        "next_weeklyP": 0.63,
+        "next_monthly": 892.37,
+        "next_monthlyP": 0.36,
         "daily_levels": {
-          "r1": 894.17,
-          "r2": 901.14,
-          "r3": 913.96,
-          "s1": 874.38,
-          "s2": 861.56,
-          "s3": 854.59
+          "r1": 887.8,
+          "r2": 893.0,
+          "r3": 898.52,
+          "s1": 877.08,
+          "s2": 871.56,
+          "s3": 866.36
         },
         "weekly_levels": {
           "r1": 929.37,
@@ -4979,34 +4791,30 @@
         }
       },
       "ema": {
-        "EMA_5": 891.87,
-        "EMA_8": 898.99,
-        "EMA_13": 912.09,
-        "EMA_21": 931.72,
-        "EMA_34": 955.44,
-        "EMA_55": 976.04,
-        "EMA_89": 983.46,
-        "EMA_144": 969.54,
-        "EMA_233": 928.47,
-        "EMA_377": 857.78
+        "EMA_5": 893.12,
+        "EMA_8": 898.24,
+        "EMA_13": 909.74,
+        "EMA_21": 928.44,
+        "EMA_34": 952.02,
+        "EMA_55": 973.17,
+        "EMA_89": 981.51,
+        "EMA_144": 968.52,
+        "EMA_233": 928.19,
+        "EMA_377": 857.98
       }
     },
     {
       "id": 26,
       "ticker": "HD",
       "name": "Home Depot, Inc.",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 295.47,
-      "open": 284.53,
-      "high": 295.71,
-      "low": 282.84,
+      "close": 290.77,
+      "open": 294.99,
+      "high": 295.23,
+      "low": 290.33,
       "wema_bands": {
-        "mid": 307.02,
-        "upper_green": 283.99,
-        "lower_red": 330.05,
+        "mid": 306.25,
+        "upper_green": 283.28,
+        "lower_red": 329.22,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -5027,19 +4835,19 @@
           "entry1": 281.65,
           "entry2": 279.76,
           "stop_loss": 277.87,
-          "distance_pct": -4.68
+          "distance_pct": -3.14
         },
         "bearish": {
           "candle_date": "28/09/2026",
           "entry1": 297.14,
           "entry2": 294.27,
           "stop_loss": 300.01,
-          "distance_pct": 0.57
+          "distance_pct": 2.19
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.52,
-        "max_recent_vol_ratio": 1.52,
+        "volume_ratio": 0.61,
+        "max_recent_vol_ratio": 1.56,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -5050,24 +4858,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 45.39,
+      "rsi": 41.36,
       "pivots": {
-        "daily": 285.12,
+        "daily": 291.35,
         "weekly": 284.64,
-        "weeklyP": 3.8,
+        "weeklyP": 2.15,
         "monthly": 298.44,
-        "monthlyP": -1.0,
-        "next_weekly": 290.31,
-        "next_weeklyP": 1.78,
-        "next_monthly": 289.44,
-        "next_monthlyP": 2.08,
+        "monthlyP": -2.57,
+        "next_weekly": 288.76,
+        "next_weeklyP": 0.7,
+        "next_monthly": 287.89,
+        "next_monthlyP": 1.0,
         "daily_levels": {
-          "r1": 286.63,
-          "r2": 287.49,
-          "r3": 289.0,
-          "s1": 284.26,
-          "s2": 282.75,
-          "s3": 281.89
+          "r1": 299.86,
+          "r2": 304.25,
+          "r3": 312.76,
+          "s1": 286.96,
+          "s2": 278.45,
+          "s3": 274.06
         },
         "weekly_levels": {
           "r1": 292.12,
@@ -5087,34 +4895,30 @@
         }
       },
       "ema": {
-        "EMA_5": 288.68,
-        "EMA_8": 288.63,
-        "EMA_13": 290.91,
-        "EMA_21": 296.11,
-        "EMA_34": 303.77,
-        "EMA_55": 311.89,
-        "EMA_89": 319.53,
-        "EMA_144": 327.94,
-        "EMA_233": 337.71,
-        "EMA_377": 346.28
+        "EMA_5": 289.38,
+        "EMA_8": 289.1,
+        "EMA_13": 290.89,
+        "EMA_21": 295.63,
+        "EMA_34": 303.03,
+        "EMA_55": 311.14,
+        "EMA_89": 318.89,
+        "EMA_144": 327.43,
+        "EMA_233": 337.31,
+        "EMA_377": 345.99
       }
     },
     {
       "id": 27,
       "ticker": "HON",
       "name": "Honeywell International Inc.",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 206.6,
-      "open": 206.49,
-      "high": 207.57,
-      "low": 204.23,
+      "close": 207.73,
+      "open": 206.6,
+      "high": 209.03,
+      "low": 205.9,
       "wema_bands": {
-        "mid": 213.8,
-        "upper_green": 197.77,
-        "lower_red": 229.84,
+        "mid": 213.36,
+        "upper_green": 197.36,
+        "lower_red": 229.36,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -5135,22 +4939,22 @@
           "entry1": 205.96,
           "entry2": 204.29,
           "stop_loss": 202.62,
-          "distance_pct": -0.31
+          "distance_pct": -0.85
         },
         "bearish": {
           "candle_date": "17/08/2026",
           "entry1": 234.8,
           "entry2": 233.59,
           "stop_loss": 236.01,
-          "distance_pct": 13.65
+          "distance_pct": 13.03
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.96,
+        "volume_ratio": 0.54,
         "max_recent_vol_ratio": 1.37,
         "is_volume_burst": false,
-        "is_volume_drop": false,
-        "status": "NORMAL"
+        "is_volume_drop": true,
+        "status": "DROP"
       },
       "divergence": {
         "status": "NONE",
@@ -5158,24 +4962,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 38.89,
+      "rsi": 41.56,
       "pivots": {
-        "daily": 209.14,
+        "daily": 206.13,
         "weekly": 213.05,
-        "weeklyP": -3.03,
+        "weeklyP": -2.5,
         "monthly": 207.31,
-        "monthlyP": -0.34,
-        "next_weekly": 208.73,
-        "next_weeklyP": -1.02,
-        "next_monthly": 208.99,
-        "next_monthlyP": -1.14,
+        "monthlyP": 0.2,
+        "next_weekly": 209.11,
+        "next_weeklyP": -0.66,
+        "next_monthly": 209.36,
+        "next_monthlyP": -0.78,
         "daily_levels": {
-          "r1": 210.4,
-          "r2": 212.7,
-          "r3": 213.96,
-          "s1": 206.84,
-          "s2": 205.58,
-          "s3": 203.28
+          "r1": 208.04,
+          "r2": 209.47,
+          "r3": 211.38,
+          "s1": 204.7,
+          "s2": 202.79,
+          "s3": 201.36
         },
         "weekly_levels": {
           "r1": 217.07,
@@ -5195,34 +4999,30 @@
         }
       },
       "ema": {
-        "EMA_5": 209.79,
-        "EMA_8": 210.4,
-        "EMA_13": 210.56,
-        "EMA_21": 211.17,
-        "EMA_34": 213.38,
-        "EMA_55": 217.1,
-        "EMA_89": 221.14,
-        "EMA_144": 223.85,
-        "EMA_233": 224.15,
-        "EMA_377": 221.97
+        "EMA_5": 209.1,
+        "EMA_8": 209.8,
+        "EMA_13": 210.16,
+        "EMA_21": 210.85,
+        "EMA_34": 213.06,
+        "EMA_55": 216.77,
+        "EMA_89": 220.84,
+        "EMA_144": 223.63,
+        "EMA_233": 224.01,
+        "EMA_377": 221.89
       }
     },
     {
       "id": 28,
       "ticker": "IBM",
       "name": "International Business Machines Corporation",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 226.61,
-      "open": 220.15,
-      "high": 227.3,
-      "low": 217.79,
+      "close": 226.84,
+      "open": 225.87,
+      "high": 228.76,
+      "low": 224.05,
       "wema_bands": {
-        "mid": 228.26,
-        "upper_green": 211.14,
-        "lower_red": 245.38,
+        "mid": 228.24,
+        "upper_green": 211.12,
+        "lower_red": 245.36,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -5243,22 +5043,22 @@
           "entry1": 220.6,
           "entry2": 218.79,
           "stop_loss": 216.98,
-          "distance_pct": -2.65
+          "distance_pct": -2.75
         },
         "bearish": {
           "candle_date": "16/09/2026",
           "entry1": 251.82,
           "entry2": 248.99,
           "stop_loss": 254.65,
-          "distance_pct": 11.12
+          "distance_pct": 11.01
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.64,
-        "max_recent_vol_ratio": 1.64,
-        "is_volume_burst": true,
-        "is_volume_drop": false,
-        "status": "BURST"
+        "volume_ratio": 0.43,
+        "max_recent_vol_ratio": 1.69,
+        "is_volume_burst": false,
+        "is_volume_drop": true,
+        "status": "DROP"
       },
       "divergence": {
         "status": "NONE",
@@ -5266,24 +5066,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 47.66,
+      "rsi": 47.94,
       "pivots": {
-        "daily": 220.57,
+        "daily": 223.91,
         "weekly": 225.17,
-        "weeklyP": 0.64,
+        "weeklyP": 0.74,
         "monthly": 230.12,
-        "monthlyP": -1.53,
-        "next_weekly": 223.9,
-        "next_weeklyP": 1.21,
-        "next_monthly": 226.22,
-        "next_monthlyP": 0.17,
+        "monthlyP": -1.43,
+        "next_weekly": 224.47,
+        "next_weeklyP": 1.06,
+        "next_monthly": 226.3,
+        "next_monthlyP": 0.24,
         "daily_levels": {
-          "r1": 222.35,
-          "r2": 224.19,
-          "r3": 225.97,
-          "s1": 218.73,
-          "s2": 216.95,
-          "s3": 215.11
+          "r1": 230.01,
+          "r2": 233.42,
+          "r3": 239.52,
+          "s1": 220.5,
+          "s2": 214.4,
+          "s3": 210.99
         },
         "weekly_levels": {
           "r1": 231.74,
@@ -5303,34 +5103,30 @@
         }
       },
       "ema": {
-        "EMA_5": 223.34,
-        "EMA_8": 223.66,
-        "EMA_13": 225.13,
-        "EMA_21": 227.3,
-        "EMA_34": 229.93,
-        "EMA_55": 233.55,
-        "EMA_89": 238.52,
-        "EMA_144": 244.78,
-        "EMA_233": 249.89,
-        "EMA_377": 248.68
+        "EMA_5": 224.5,
+        "EMA_8": 224.37,
+        "EMA_13": 225.37,
+        "EMA_21": 227.26,
+        "EMA_34": 229.76,
+        "EMA_55": 233.31,
+        "EMA_89": 238.26,
+        "EMA_144": 244.53,
+        "EMA_233": 249.7,
+        "EMA_377": 248.56
       }
     },
     {
       "id": 30,
       "ticker": "JNJ",
       "name": "Johnson & Johnson",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 256.48,
-      "open": 256.22,
-      "high": 257.8,
-      "low": 251.95,
+      "close": 261.15,
+      "open": 255.09,
+      "high": 261.39,
+      "low": 254.99,
       "wema_bands": {
-        "mid": 262.23,
-        "upper_green": 242.56,
-        "lower_red": 281.9,
+        "mid": 262.1,
+        "upper_green": 242.44,
+        "lower_red": 281.76,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -5352,15 +5148,15 @@
           "entry1": 273.78,
           "entry2": 271.52,
           "stop_loss": 276.03,
-          "distance_pct": 6.75
+          "distance_pct": 4.84
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.86,
-        "max_recent_vol_ratio": 1.54,
+        "volume_ratio": 0.54,
+        "max_recent_vol_ratio": 1.53,
         "is_volume_burst": false,
-        "is_volume_drop": false,
-        "status": "NORMAL"
+        "is_volume_drop": true,
+        "status": "DROP"
       },
       "divergence": {
         "status": "NONE",
@@ -5368,24 +5164,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 38.15,
+      "rsi": 46.28,
       "pivots": {
-        "daily": 258.29,
+        "daily": 255.41,
         "weekly": 261.64,
-        "weeklyP": -1.97,
+        "weeklyP": -0.19,
         "monthly": 268.83,
-        "monthlyP": -4.59,
-        "next_weekly": 256.11,
-        "next_weeklyP": 0.14,
-        "next_monthly": 257.21,
-        "next_monthlyP": -0.28,
+        "monthlyP": -2.86,
+        "next_weekly": 257.9,
+        "next_weeklyP": 1.26,
+        "next_monthly": 258.77,
+        "next_monthlyP": 0.92,
         "daily_levels": {
-          "r1": 260.84,
-          "r2": 263.24,
-          "r3": 265.79,
-          "s1": 255.89,
-          "s2": 253.34,
-          "s3": 250.94
+          "r1": 258.87,
+          "r2": 261.26,
+          "r3": 264.72,
+          "s1": 253.02,
+          "s2": 249.56,
+          "s3": 247.17
         },
         "weekly_levels": {
           "r1": 268.17,
@@ -5405,34 +5201,30 @@
         }
       },
       "ema": {
-        "EMA_5": 257.4,
-        "EMA_8": 259.0,
-        "EMA_13": 261.23,
-        "EMA_21": 263.2,
-        "EMA_34": 263.89,
-        "EMA_55": 262.19,
-        "EMA_89": 257.56,
-        "EMA_144": 249.33,
-        "EMA_233": 236.61,
-        "EMA_377": 220.57
+        "EMA_5": 258.65,
+        "EMA_8": 259.48,
+        "EMA_13": 261.22,
+        "EMA_21": 263.01,
+        "EMA_34": 263.73,
+        "EMA_55": 262.16,
+        "EMA_89": 257.64,
+        "EMA_144": 249.49,
+        "EMA_233": 236.82,
+        "EMA_377": 220.78
       }
     },
     {
       "id": 31,
       "ticker": "JPM",
       "name": "JPMorgan Chase & Co.",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 331.42,
-      "open": 327.25,
-      "high": 332.31,
-      "low": 325.62,
+      "close": 333.1,
+      "open": 331.2,
+      "high": 333.54,
+      "low": 330.6,
       "wema_bands": {
-        "mid": 338.27,
-        "upper_green": 312.9,
-        "lower_red": 363.64,
+        "mid": 337.85,
+        "upper_green": 312.51,
+        "lower_red": 363.18,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -5453,22 +5245,22 @@
           "entry1": 328.56,
           "entry2": 326.68,
           "stop_loss": 324.8,
-          "distance_pct": -0.86
+          "distance_pct": -1.36
         },
         "bearish": {
           "candle_date": "28/09/2026",
           "entry1": 343.31,
           "entry2": 340.98,
           "stop_loss": 345.64,
-          "distance_pct": 3.59
+          "distance_pct": 3.07
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.97,
-        "max_recent_vol_ratio": 0.97,
+        "volume_ratio": 0.44,
+        "max_recent_vol_ratio": 1.02,
         "is_volume_burst": false,
-        "is_volume_drop": false,
-        "status": "NORMAL"
+        "is_volume_drop": true,
+        "status": "DROP"
       },
       "divergence": {
         "status": "NONE",
@@ -5476,24 +5268,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 35.4,
+      "rsi": 38.46,
       "pivots": {
-        "daily": 328.17,
+        "daily": 329.79,
         "weekly": 333.42,
-        "weeklyP": -0.6,
+        "weeklyP": -0.1,
         "monthly": 341.51,
-        "monthlyP": -2.95,
-        "next_weekly": 330.09,
-        "next_weeklyP": 0.4,
-        "next_monthly": 330.45,
-        "next_monthlyP": 0.29,
+        "monthlyP": -2.46,
+        "next_weekly": 330.65,
+        "next_weeklyP": 0.74,
+        "next_monthly": 331.01,
+        "next_monthlyP": 0.63,
         "daily_levels": {
-          "r1": 331.28,
-          "r2": 332.97,
-          "r3": 336.08,
-          "s1": 326.48,
-          "s2": 323.37,
-          "s3": 321.68
+          "r1": 333.94,
+          "r2": 336.47,
+          "r3": 340.62,
+          "s1": 327.26,
+          "s2": 323.11,
+          "s3": 320.58
         },
         "weekly_levels": {
           "r1": 340.96,
@@ -5513,34 +5305,30 @@
         }
       },
       "ema": {
-        "EMA_5": 331.63,
-        "EMA_8": 332.98,
-        "EMA_13": 335.67,
-        "EMA_21": 339.36,
-        "EMA_34": 342.66,
-        "EMA_55": 343.1,
-        "EMA_89": 339.38,
-        "EMA_144": 332.22,
-        "EMA_233": 321.45,
-        "EMA_377": 304.41
+        "EMA_5": 332.12,
+        "EMA_8": 333.01,
+        "EMA_13": 335.3,
+        "EMA_21": 338.79,
+        "EMA_34": 342.11,
+        "EMA_55": 342.75,
+        "EMA_89": 339.24,
+        "EMA_144": 332.23,
+        "EMA_233": 321.55,
+        "EMA_377": 304.57
       }
     },
     {
       "id": 33,
       "ticker": "KO",
       "name": "Coca-Cola Company",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 87.77,
-      "open": 86.26,
-      "high": 88.04,
-      "low": 86.08,
+      "close": 88.17,
+      "open": 87.6,
+      "high": 88.47,
+      "low": 87.44,
       "wema_bands": {
-        "mid": 86.96,
-        "upper_green": 80.44,
-        "lower_red": 93.49,
+        "mid": 87.07,
+        "upper_green": 80.54,
+        "lower_red": 93.6,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -5561,22 +5349,22 @@
           "entry1": 86.31,
           "entry2": 85.67,
           "stop_loss": 85.03,
-          "distance_pct": -1.66
+          "distance_pct": -2.11
         },
         "bearish": {
           "candle_date": "16/09/2026",
           "entry1": 88.9,
           "entry2": 88.35,
           "stop_loss": 89.45,
-          "distance_pct": 1.29
+          "distance_pct": 0.83
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.91,
+        "volume_ratio": 0.42,
         "max_recent_vol_ratio": 1.36,
         "is_volume_burst": false,
-        "is_volume_drop": false,
-        "status": "NORMAL"
+        "is_volume_drop": true,
+        "status": "DROP"
       },
       "divergence": {
         "status": "NONE",
@@ -5584,24 +5372,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 52.75,
+      "rsi": 54.85,
       "pivots": {
-        "daily": 86.15,
+        "daily": 87.3,
         "weekly": 86.17,
-        "weeklyP": 1.86,
+        "weeklyP": 2.32,
         "monthly": 87.5,
-        "monthlyP": 0.31,
-        "next_weekly": 86.98,
-        "next_weeklyP": 0.91,
-        "next_monthly": 86.98,
-        "next_monthlyP": 0.91,
+        "monthlyP": 0.77,
+        "next_weekly": 87.26,
+        "next_weeklyP": 1.04,
+        "next_monthly": 87.26,
+        "next_monthlyP": 1.04,
         "daily_levels": {
-          "r1": 86.63,
-          "r2": 87.44,
-          "r3": 87.92,
-          "s1": 85.34,
-          "s2": 84.86,
-          "s3": 84.05
+          "r1": 88.51,
+          "r2": 89.26,
+          "r3": 90.47,
+          "s1": 86.55,
+          "s2": 85.34,
+          "s3": 84.59
         },
         "weekly_levels": {
           "r1": 87.18,
@@ -5621,34 +5409,30 @@
         }
       },
       "ema": {
-        "EMA_5": 86.69,
-        "EMA_8": 86.7,
-        "EMA_13": 86.91,
-        "EMA_21": 87.2,
-        "EMA_34": 87.28,
-        "EMA_55": 86.75,
-        "EMA_89": 85.39,
-        "EMA_144": 83.18,
-        "EMA_233": 80.31,
-        "EMA_377": 77.0
+        "EMA_5": 87.19,
+        "EMA_8": 87.03,
+        "EMA_13": 87.09,
+        "EMA_21": 87.29,
+        "EMA_34": 87.33,
+        "EMA_55": 86.8,
+        "EMA_89": 85.45,
+        "EMA_144": 83.25,
+        "EMA_233": 80.38,
+        "EMA_377": 77.06
       }
     },
     {
       "id": 35,
       "ticker": "MCD",
       "name": "McDonald's Corporation",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 236.9,
-      "open": 231.21,
+      "close": 235.38,
+      "open": 235.97,
       "high": 237.5,
-      "low": 230.2,
+      "low": 234.14,
       "wema_bands": {
-        "mid": 242.3,
-        "upper_green": 224.13,
-        "lower_red": 260.47,
+        "mid": 241.84,
+        "upper_green": 223.7,
+        "lower_red": 259.98,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -5669,22 +5453,22 @@
           "entry1": 232.29,
           "entry2": 230.6,
           "stop_loss": 228.91,
-          "distance_pct": -1.95
+          "distance_pct": -1.31
         },
         "bearish": {
           "candle_date": "15/09/2026",
           "entry1": 258.45,
           "entry2": 256.37,
           "stop_loss": 260.53,
-          "distance_pct": 9.1
+          "distance_pct": 9.8
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.94,
-        "max_recent_vol_ratio": 1.94,
-        "is_volume_burst": true,
+        "volume_ratio": 0.68,
+        "max_recent_vol_ratio": 1.95,
+        "is_volume_burst": false,
         "is_volume_drop": false,
-        "status": "BURST"
+        "status": "NORMAL"
       },
       "divergence": {
         "status": "NONE",
@@ -5692,24 +5476,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 38.72,
+      "rsi": 36.85,
       "pivots": {
-        "daily": 231.82,
+        "daily": 234.87,
         "weekly": 232.99,
-        "weeklyP": 1.68,
+        "weeklyP": 1.03,
         "monthly": 242.11,
-        "monthlyP": -2.15,
-        "next_weekly": 234.53,
-        "next_weeklyP": 1.01,
-        "next_monthly": 234.53,
-        "next_monthlyP": 1.01,
+        "monthlyP": -2.78,
+        "next_weekly": 234.03,
+        "next_weeklyP": 0.58,
+        "next_monthly": 234.03,
+        "next_monthlyP": 0.58,
         "daily_levels": {
-          "r1": 233.04,
-          "r2": 235.2,
-          "r3": 236.42,
-          "s1": 229.66,
-          "s2": 228.44,
-          "s3": 226.28
+          "r1": 239.53,
+          "r2": 242.17,
+          "r3": 246.83,
+          "s1": 232.23,
+          "s2": 227.57,
+          "s3": 224.93
         },
         "weekly_levels": {
           "r1": 236.38,
@@ -5729,43 +5513,39 @@
         }
       },
       "ema": {
-        "EMA_5": 233.8,
-        "EMA_8": 234.32,
-        "EMA_13": 236.57,
-        "EMA_21": 240.77,
-        "EMA_34": 246.61,
-        "EMA_55": 253.62,
-        "EMA_89": 262.14,
-        "EMA_144": 271.91,
-        "EMA_233": 280.98,
-        "EMA_377": 286.82
+        "EMA_5": 234.32,
+        "EMA_8": 234.56,
+        "EMA_13": 236.4,
+        "EMA_21": 240.28,
+        "EMA_34": 245.96,
+        "EMA_55": 252.97,
+        "EMA_89": 261.55,
+        "EMA_144": 271.41,
+        "EMA_233": 280.59,
+        "EMA_377": 286.54
       }
     },
     {
       "id": 37,
       "ticker": "MMM",
       "name": "3M Company",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 163.58,
-      "open": 160.89,
-      "high": 164.23,
-      "low": 159.93,
+      "close": 160.04,
+      "open": 163.27,
+      "high": 163.59,
+      "low": 159.99,
       "wema_bands": {
-        "mid": 165.81,
-        "upper_green": 153.38,
-        "lower_red": 178.25,
+        "mid": 165.44,
+        "upper_green": 153.03,
+        "lower_red": 177.85,
         "position": "IN_BANDS"
       },
       "scores": {
-        "total_score": 0,
+        "total_score": 20,
         "pivot_score": 0,
         "rsi_score": 0,
         "volume_score": 0,
         "ema_score": 0,
-        "divergence_score": 0,
+        "divergence_score": 20,
         "order_block_score": 0,
         "wema_score": 0
       },
@@ -5773,51 +5553,51 @@
         "status": null,
         "setup": null,
         "bullish": {
-          "candle_date": "15/09/2026",
-          "entry1": 161.82,
-          "entry2": 160.27,
-          "stop_loss": 158.72,
-          "distance_pct": -1.08
+          "candle_date": "21/07/2026",
+          "entry1": 160.34,
+          "entry2": 159.01,
+          "stop_loss": 157.67,
+          "distance_pct": 0.19
         },
         "bearish": {
           "candle_date": "07/10/2026",
           "entry1": 164.3,
           "entry2": 162.9,
           "stop_loss": 165.7,
-          "distance_pct": 0.44
+          "distance_pct": 2.66
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.76,
+        "volume_ratio": 0.57,
         "max_recent_vol_ratio": 1.09,
         "is_volume_burst": false,
-        "is_volume_drop": false,
-        "status": "NORMAL"
+        "is_volume_drop": true,
+        "status": "DROP"
       },
       "divergence": {
-        "status": "NONE",
-        "type": "NONE",
-        "rsi_divergence": false,
-        "volume_divergence": false
+        "status": "CONFIRMED",
+        "type": "BULLISH",
+        "rsi_divergence": true,
+        "volume_divergence": true
       },
-      "rsi": 42.64,
+      "rsi": 36.58,
       "pivots": {
-        "daily": 162.27,
+        "daily": 162.58,
         "weekly": 164.66,
-        "weeklyP": -0.66,
+        "weeklyP": -2.81,
         "monthly": 165.62,
-        "monthlyP": -1.23,
-        "next_weekly": 162.6,
-        "next_weeklyP": 0.6,
-        "next_monthly": 162.75,
-        "next_monthlyP": 0.51,
+        "monthlyP": -3.37,
+        "next_weekly": 161.42,
+        "next_weeklyP": -0.85,
+        "next_monthly": 161.57,
+        "next_monthlyP": -0.95,
         "daily_levels": {
-          "r1": 163.58,
-          "r2": 165.04,
-          "r3": 166.35,
-          "s1": 160.81,
-          "s2": 159.5,
-          "s3": 158.04
+          "r1": 165.23,
+          "r2": 166.88,
+          "r3": 169.53,
+          "s1": 160.93,
+          "s2": 158.28,
+          "s3": 156.63
         },
         "weekly_levels": {
           "r1": 168.21,
@@ -5837,34 +5617,30 @@
         }
       },
       "ema": {
-        "EMA_5": 163.4,
-        "EMA_8": 163.94,
-        "EMA_13": 164.75,
-        "EMA_21": 165.96,
-        "EMA_34": 167.33,
-        "EMA_55": 167.67,
-        "EMA_89": 166.37,
-        "EMA_144": 164.12,
-        "EMA_233": 160.94,
-        "EMA_377": 155.27
+        "EMA_5": 162.28,
+        "EMA_8": 163.07,
+        "EMA_13": 164.08,
+        "EMA_21": 165.42,
+        "EMA_34": 166.92,
+        "EMA_55": 167.39,
+        "EMA_89": 166.23,
+        "EMA_144": 164.07,
+        "EMA_233": 160.93,
+        "EMA_377": 155.3
       }
     },
     {
       "id": 38,
       "ticker": "MRK",
       "name": "Merck & Co., Inc.",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 142.38,
-      "open": 141.9,
-      "high": 142.77,
-      "low": 138.89,
+      "close": 145.54,
+      "open": 141.37,
+      "high": 146.68,
+      "low": 141.37,
       "wema_bands": {
-        "mid": 144.39,
-        "upper_green": 133.56,
-        "lower_red": 155.22,
+        "mid": 144.5,
+        "upper_green": 133.66,
+        "lower_red": 155.34,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -5885,18 +5661,18 @@
           "entry1": 136.43,
           "entry2": 134.88,
           "stop_loss": 133.33,
-          "distance_pct": -4.18
+          "distance_pct": -6.26
         },
         "bearish": {
-          "candle_date": "05/10/2026",
-          "entry1": 144.35,
-          "entry2": 143.54,
-          "stop_loss": 145.16,
-          "distance_pct": 1.38
+          "candle_date": "30/09/2026",
+          "entry1": 150.36,
+          "entry2": 148.23,
+          "stop_loss": 152.5,
+          "distance_pct": 3.31
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.88,
+        "volume_ratio": 0.7,
         "max_recent_vol_ratio": 1.04,
         "is_volume_burst": false,
         "is_volume_drop": false,
@@ -5908,24 +5684,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 44.52,
+      "rsi": 51.47,
       "pivots": {
-        "daily": 142.81,
+        "daily": 141.35,
         "weekly": 145.8,
-        "weeklyP": -2.35,
+        "weeklyP": -0.18,
         "monthly": 147.07,
-        "monthlyP": -3.19,
-        "next_weekly": 141.78,
-        "next_weeklyP": 0.42,
-        "next_monthly": 142.19,
-        "next_monthlyP": 0.13,
+        "monthlyP": -1.04,
+        "next_weekly": 143.67,
+        "next_weeklyP": 1.3,
+        "next_monthly": 143.67,
+        "next_monthlyP": 1.3,
         "daily_levels": {
-          "r1": 144.13,
-          "r2": 145.47,
-          "r3": 146.79,
-          "s1": 141.47,
-          "s2": 140.15,
-          "s3": 138.81
+          "r1": 143.8,
+          "r2": 145.23,
+          "r3": 147.68,
+          "s1": 139.92,
+          "s2": 137.47,
+          "s3": 136.04
         },
         "weekly_levels": {
           "r1": 148.86,
@@ -5945,40 +5721,36 @@
         }
       },
       "ema": {
-        "EMA_5": 142.77,
-        "EMA_8": 143.54,
-        "EMA_13": 144.48,
-        "EMA_21": 145.0,
-        "EMA_34": 144.16,
-        "EMA_55": 141.28,
-        "EMA_89": 136.47,
-        "EMA_144": 129.98,
-        "EMA_233": 122.42,
-        "EMA_377": 115.66
+        "EMA_5": 143.7,
+        "EMA_8": 143.98,
+        "EMA_13": 144.63,
+        "EMA_21": 145.05,
+        "EMA_34": 144.24,
+        "EMA_55": 141.43,
+        "EMA_89": 136.67,
+        "EMA_144": 130.2,
+        "EMA_233": 122.62,
+        "EMA_377": 115.82
       }
     },
     {
       "id": 39,
       "ticker": "MSFT",
       "name": "Microsoft Corporation",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 522.61,
-      "open": 529.8,
-      "high": 533.51,
-      "low": 518.79,
+      "close": 534.96,
+      "open": 528.23,
+      "high": 537.2,
+      "low": 526.24,
       "wema_bands": {
-        "mid": 507.86,
-        "upper_green": 469.77,
-        "lower_red": 545.94,
+        "mid": 511.08,
+        "upper_green": 472.75,
+        "lower_red": 549.41,
         "position": "IN_BANDS"
       },
       "scores": {
-        "total_score": 0,
+        "total_score": -10,
         "pivot_score": 0,
-        "rsi_score": 0,
+        "rsi_score": -10,
         "volume_score": 0,
         "ema_score": 0,
         "divergence_score": 0,
@@ -5989,20 +5761,20 @@
         "status": null,
         "setup": null,
         "bullish": {
-          "candle_date": "05/10/2026",
-          "entry1": 518.08,
-          "entry2": 513.66,
-          "stop_loss": 509.24,
-          "distance_pct": -0.87
+          "candle_date": "09/10/2026",
+          "entry1": 526.15,
+          "entry2": 518.79,
+          "stop_loss": 511.43,
+          "distance_pct": -1.65
         },
         "bearish": null
       },
       "volume_analysis": {
-        "volume_ratio": 0.87,
+        "volume_ratio": 0.59,
         "max_recent_vol_ratio": 1.16,
         "is_volume_burst": false,
-        "is_volume_drop": false,
-        "status": "NORMAL"
+        "is_volume_drop": true,
+        "status": "DROP"
       },
       "divergence": {
         "status": "NONE",
@@ -6010,24 +5782,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 61.7,
+      "rsi": 67.42,
       "pivots": {
-        "daily": 528.73,
+        "daily": 524.97,
         "weekly": 514.2,
-        "weeklyP": 1.64,
+        "weeklyP": 4.04,
         "monthly": 506.24,
-        "monthlyP": 3.23,
-        "next_weekly": 525.7,
-        "next_weeklyP": -0.59,
-        "next_monthly": 523.49,
-        "next_monthlyP": -0.17,
+        "monthlyP": 5.67,
+        "next_weekly": 530.32,
+        "next_weeklyP": 0.87,
+        "next_monthly": 528.11,
+        "next_monthlyP": 1.3,
         "daily_levels": {
-          "r1": 532.76,
-          "r2": 535.77,
-          "r3": 539.8,
-          "s1": 525.72,
-          "s2": 521.69,
-          "s3": 518.68
+          "r1": 531.15,
+          "r2": 539.69,
+          "r3": 545.87,
+          "s1": 516.43,
+          "s2": 510.25,
+          "s3": 501.71
         },
         "weekly_levels": {
           "r1": 526.18,
@@ -6047,41 +5819,37 @@
         }
       },
       "ema": {
-        "EMA_5": 523.48,
-        "EMA_8": 520.45,
-        "EMA_13": 516.01,
-        "EMA_21": 510.35,
-        "EMA_34": 501.13,
-        "EMA_55": 486.49,
-        "EMA_89": 469.57,
-        "EMA_144": 457.11,
-        "EMA_233": 451.1,
-        "EMA_377": 445.34
+        "EMA_5": 527.31,
+        "EMA_8": 523.67,
+        "EMA_13": 518.72,
+        "EMA_21": 512.59,
+        "EMA_34": 503.07,
+        "EMA_55": 488.22,
+        "EMA_89": 471.03,
+        "EMA_144": 458.18,
+        "EMA_233": 451.81,
+        "EMA_377": 445.81
       }
     },
     {
       "id": 40,
       "ticker": "NKE",
       "name": "NIKE, Inc. Class B",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 34.74,
-      "open": 34.12,
-      "high": 34.87,
-      "low": 33.83,
+      "close": 34.76,
+      "open": 34.58,
+      "high": 35.09,
+      "low": 34.1,
       "wema_bands": {
-        "mid": 35.78,
-        "upper_green": 33.1,
-        "lower_red": 38.46,
+        "mid": 35.64,
+        "upper_green": 32.97,
+        "lower_red": 38.32,
         "position": "IN_BANDS"
       },
       "scores": {
-        "total_score": 40,
+        "total_score": 20,
         "pivot_score": 0,
         "rsi_score": 0,
-        "volume_score": 20,
+        "volume_score": 0,
         "ema_score": 20,
         "divergence_score": 0,
         "order_block_score": 0,
@@ -6095,22 +5863,22 @@
           "entry1": 34.17,
           "entry2": 33.81,
           "stop_loss": 33.45,
-          "distance_pct": -1.64
+          "distance_pct": -1.7
         },
         "bearish": {
           "candle_date": "15/09/2026",
           "entry1": 37.41,
           "entry2": 36.99,
           "stop_loss": 37.82,
-          "distance_pct": 7.69
+          "distance_pct": 7.62
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.73,
-        "max_recent_vol_ratio": 3.12,
+        "volume_ratio": 0.39,
+        "max_recent_vol_ratio": 1.27,
         "is_volume_burst": false,
-        "is_volume_drop": false,
-        "status": "NORMAL"
+        "is_volume_drop": true,
+        "status": "DROP"
       },
       "divergence": {
         "status": "NONE",
@@ -6118,24 +5886,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 37.93,
+      "rsi": 38.12,
       "pivots": {
-        "daily": 34.23,
+        "daily": 34.48,
         "weekly": 34.17,
-        "weeklyP": 1.67,
+        "weeklyP": 1.73,
         "monthly": 36.5,
-        "monthlyP": -4.82,
-        "next_weekly": 34.12,
-        "next_weeklyP": 1.82,
+        "monthlyP": -4.77,
+        "next_weekly": 34.2,
+        "next_weeklyP": 1.64,
         "next_monthly": 34.32,
-        "next_monthlyP": 1.22,
+        "next_monthlyP": 1.28,
         "daily_levels": {
-          "r1": 34.66,
-          "r2": 34.95,
-          "r3": 35.38,
-          "s1": 33.94,
-          "s2": 33.51,
-          "s3": 33.22
+          "r1": 35.13,
+          "r2": 35.52,
+          "r3": 36.17,
+          "s1": 34.09,
+          "s2": 33.44,
+          "s3": 33.05
         },
         "weekly_levels": {
           "r1": 36.37,
@@ -6155,34 +5923,30 @@
         }
       },
       "ema": {
-        "EMA_5": 34.61,
-        "EMA_8": 34.8,
-        "EMA_13": 35.17,
-        "EMA_21": 35.8,
-        "EMA_34": 36.79,
-        "EMA_55": 38.19,
-        "EMA_89": 40.33,
-        "EMA_144": 43.78,
-        "EMA_233": 48.79,
-        "EMA_377": 55.65
+        "EMA_5": 34.66,
+        "EMA_8": 34.79,
+        "EMA_13": 35.11,
+        "EMA_21": 35.7,
+        "EMA_34": 36.67,
+        "EMA_55": 38.06,
+        "EMA_89": 40.2,
+        "EMA_144": 43.66,
+        "EMA_233": 48.67,
+        "EMA_377": 55.54
       }
     },
     {
       "id": 41,
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 230.48,
-      "open": 234.92,
-      "high": 237.07,
-      "low": 229.85,
+      "close": 229.57,
+      "open": 233.88,
+      "high": 233.89,
+      "low": 229.11,
       "wema_bands": {
-        "mid": 225.51,
-        "upper_green": 208.6,
-        "lower_red": 242.43,
+        "mid": 225.66,
+        "upper_green": 208.73,
+        "lower_red": 242.58,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -6203,13 +5967,13 @@
           "entry1": 230.27,
           "entry2": 228.17,
           "stop_loss": 226.07,
-          "distance_pct": -0.09
+          "distance_pct": 0.3
         },
         "bearish": null
       },
       "volume_analysis": {
-        "volume_ratio": 1.06,
-        "max_recent_vol_ratio": 1.21,
+        "volume_ratio": 0.61,
+        "max_recent_vol_ratio": 1.2,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -6220,24 +5984,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 54.46,
+      "rsi": 53.32,
       "pivots": {
-        "daily": 237.64,
+        "daily": 232.47,
         "weekly": 232.95,
-        "weeklyP": -1.06,
+        "weeklyP": -1.45,
         "monthly": 224.02,
-        "monthlyP": 2.88,
-        "next_weekly": 234.57,
-        "next_weeklyP": -1.74,
-        "next_monthly": 234.0,
-        "next_monthlyP": -1.5,
+        "monthlyP": 2.48,
+        "next_weekly": 234.02,
+        "next_weeklyP": -1.9,
+        "next_monthly": 233.7,
+        "next_monthlyP": -1.77,
         "daily_levels": {
-          "r1": 238.91,
-          "r2": 240.34,
-          "r3": 241.61,
-          "s1": 236.21,
-          "s2": 234.94,
-          "s3": 233.51
+          "r1": 235.08,
+          "r2": 239.69,
+          "r3": 242.3,
+          "s1": 227.86,
+          "s2": 225.25,
+          "s3": 220.64
         },
         "weekly_levels": {
           "r1": 238.88,
@@ -6257,34 +6021,30 @@
         }
       },
       "ema": {
-        "EMA_5": 234.11,
-        "EMA_8": 233.08,
-        "EMA_13": 231.01,
-        "EMA_21": 228.32,
-        "EMA_34": 225.06,
-        "EMA_55": 221.13,
-        "EMA_89": 216.26,
-        "EMA_144": 209.72,
-        "EMA_233": 199.96,
-        "EMA_377": 184.52
+        "EMA_5": 232.6,
+        "EMA_8": 232.3,
+        "EMA_13": 230.8,
+        "EMA_21": 228.44,
+        "EMA_34": 225.31,
+        "EMA_55": 221.43,
+        "EMA_89": 216.55,
+        "EMA_144": 209.99,
+        "EMA_233": 200.21,
+        "EMA_377": 184.76
       }
     },
     {
       "id": 43,
       "ticker": "PG",
       "name": "Procter & Gamble Company",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 150.59,
-      "open": 147.74,
-      "high": 150.76,
-      "low": 147.05,
+      "close": 151.23,
+      "open": 150.57,
+      "high": 151.6,
+      "low": 149.94,
       "wema_bands": {
-        "mid": 146.79,
-        "upper_green": 135.78,
-        "lower_red": 157.8,
+        "mid": 147.07,
+        "upper_green": 136.04,
+        "lower_red": 158.1,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -6305,22 +6065,22 @@
           "entry1": 148.71,
           "entry2": 147.76,
           "stop_loss": 146.81,
-          "distance_pct": -1.25
+          "distance_pct": -1.67
         },
         "bearish": {
           "candle_date": "08/07/2026",
           "entry1": 153.49,
           "entry2": 152.05,
           "stop_loss": 154.93,
-          "distance_pct": 1.93
+          "distance_pct": 1.49
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.95,
+        "volume_ratio": 0.48,
         "max_recent_vol_ratio": 1.87,
         "is_volume_burst": false,
-        "is_volume_drop": false,
-        "status": "NORMAL"
+        "is_volume_drop": true,
+        "status": "DROP"
       },
       "divergence": {
         "status": "NONE",
@@ -6328,24 +6088,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 60.8,
+      "rsi": 62.13,
       "pivots": {
-        "daily": 148.42,
+        "daily": 149.47,
         "weekly": 145.93,
-        "weeklyP": 3.19,
+        "weeklyP": 3.63,
         "monthly": 145.54,
-        "monthlyP": 3.47,
-        "next_weekly": 148.58,
-        "next_weeklyP": 1.35,
-        "next_monthly": 148.25,
-        "next_monthlyP": 1.58,
+        "monthlyP": 3.91,
+        "next_weekly": 149.07,
+        "next_weeklyP": 1.45,
+        "next_monthly": 148.74,
+        "next_monthlyP": 1.67,
         "daily_levels": {
-          "r1": 149.07,
-          "r2": 150.33,
-          "r3": 150.98,
-          "s1": 147.16,
-          "s2": 146.51,
-          "s3": 145.25
+          "r1": 151.88,
+          "r2": 153.18,
+          "r3": 155.59,
+          "s1": 148.17,
+          "s2": 145.76,
+          "s3": 144.46
         },
         "weekly_levels": {
           "r1": 148.46,
@@ -6365,34 +6125,30 @@
         }
       },
       "ema": {
-        "EMA_5": 148.2,
-        "EMA_8": 147.63,
-        "EMA_13": 147.18,
-        "EMA_21": 146.81,
-        "EMA_34": 146.53,
-        "EMA_55": 146.45,
-        "EMA_89": 146.6,
-        "EMA_144": 147.2,
-        "EMA_233": 148.69,
-        "EMA_377": 150.93
+        "EMA_5": 149.21,
+        "EMA_8": 148.43,
+        "EMA_13": 147.76,
+        "EMA_21": 147.21,
+        "EMA_34": 146.8,
+        "EMA_55": 146.62,
+        "EMA_89": 146.7,
+        "EMA_144": 147.26,
+        "EMA_233": 148.71,
+        "EMA_377": 150.94
       }
     },
     {
       "id": 47,
       "ticker": "SHW",
       "name": "Sherwin-Williams Company",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 321.03,
-      "open": 312.47,
-      "high": 321.38,
-      "low": 311.23,
+      "close": 319.53,
+      "open": 320.87,
+      "high": 322.0,
+      "low": 318.06,
       "wema_bands": {
-        "mid": 326.67,
-        "upper_green": 302.17,
-        "lower_red": 351.17,
+        "mid": 326.29,
+        "upper_green": 301.82,
+        "lower_red": 350.77,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -6413,22 +6169,22 @@
           "entry1": 314.64,
           "entry2": 311.12,
           "stop_loss": 307.6,
-          "distance_pct": -1.99
+          "distance_pct": -1.53
         },
         "bearish": {
           "candle_date": "07/10/2026",
           "entry1": 322.85,
           "entry2": 320.52,
           "stop_loss": 325.18,
-          "distance_pct": 0.57
+          "distance_pct": 1.04
         }
       },
       "volume_analysis": {
-        "volume_ratio": 0.87,
+        "volume_ratio": 0.37,
         "max_recent_vol_ratio": 0.99,
         "is_volume_burst": false,
-        "is_volume_drop": false,
-        "status": "NORMAL"
+        "is_volume_drop": true,
+        "status": "DROP"
       },
       "divergence": {
         "status": "NONE",
@@ -6436,24 +6192,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 44.84,
+      "rsi": 43.53,
       "pivots": {
-        "daily": 314.76,
+        "daily": 317.88,
         "weekly": 323.1,
-        "weeklyP": -0.64,
+        "weeklyP": -1.1,
         "monthly": 325.19,
-        "monthlyP": -1.28,
-        "next_weekly": 318.33,
-        "next_weeklyP": 0.85,
-        "next_monthly": 319.49,
-        "next_monthlyP": 0.48,
+        "monthlyP": -1.74,
+        "next_weekly": 317.83,
+        "next_weeklyP": 0.53,
+        "next_monthly": 318.99,
+        "next_monthlyP": 0.17,
         "daily_levels": {
-          "r1": 318.41,
-          "r2": 321.81,
-          "r3": 325.46,
-          "s1": 311.36,
-          "s2": 307.71,
-          "s3": 304.31
+          "r1": 324.54,
+          "r2": 328.04,
+          "r3": 334.7,
+          "s1": 314.38,
+          "s2": 307.72,
+          "s3": 304.22
         },
         "weekly_levels": {
           "r1": 332.95,
@@ -6473,34 +6229,30 @@
         }
       },
       "ema": {
-        "EMA_5": 319.86,
-        "EMA_8": 320.82,
-        "EMA_13": 322.23,
-        "EMA_21": 324.56,
-        "EMA_34": 327.75,
-        "EMA_55": 330.16,
-        "EMA_89": 331.16,
-        "EMA_144": 332.1,
-        "EMA_233": 333.9,
-        "EMA_377": 334.53
+        "EMA_5": 319.75,
+        "EMA_8": 320.53,
+        "EMA_13": 321.84,
+        "EMA_21": 324.1,
+        "EMA_34": 327.28,
+        "EMA_55": 329.78,
+        "EMA_89": 330.91,
+        "EMA_144": 331.93,
+        "EMA_233": 333.78,
+        "EMA_377": 334.45
       }
     },
     {
       "id": 55,
       "ticker": "TRV",
       "name": "Travelers Companies, Inc.",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 370.27,
-      "open": 360.63,
-      "high": 372.13,
-      "low": 360.12,
+      "close": 368.53,
+      "open": 368.11,
+      "high": 370.91,
+      "low": 367.33,
       "wema_bands": {
-        "mid": 364.33,
-        "upper_green": 337.01,
-        "lower_red": 391.66,
+        "mid": 364.72,
+        "upper_green": 337.37,
+        "lower_red": 392.08,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -6521,22 +6273,22 @@
           "entry1": 328.66,
           "entry2": 325.39,
           "stop_loss": 322.12,
-          "distance_pct": -11.24
+          "distance_pct": -10.82
         },
         "bearish": {
           "candle_date": "10/08/2026",
           "entry1": 386.24,
           "entry2": 383.09,
           "stop_loss": 389.39,
-          "distance_pct": 4.31
+          "distance_pct": 4.81
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.08,
-        "max_recent_vol_ratio": 1.08,
+        "volume_ratio": 0.45,
+        "max_recent_vol_ratio": 1.11,
         "is_volume_burst": false,
-        "is_volume_drop": false,
-        "status": "NORMAL"
+        "is_volume_drop": true,
+        "status": "DROP"
       },
       "divergence": {
         "status": "NONE",
@@ -6544,24 +6296,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 56.21,
+      "rsi": 53.77,
       "pivots": {
-        "daily": 360.68,
+        "daily": 367.51,
         "weekly": 359.66,
-        "weeklyP": 2.95,
+        "weeklyP": 2.47,
         "monthly": 365.65,
-        "monthlyP": 1.26,
-        "next_weekly": 366.5,
-        "next_weeklyP": 1.03,
-        "next_monthly": 365.4,
-        "next_monthlyP": 1.33,
+        "monthlyP": 0.79,
+        "next_weekly": 365.92,
+        "next_weeklyP": 0.71,
+        "next_monthly": 364.82,
+        "next_monthlyP": 1.02,
         "daily_levels": {
-          "r1": 364.27,
-          "r2": 367.93,
-          "r3": 371.52,
-          "s1": 357.02,
-          "s2": 353.43,
-          "s3": 349.77
+          "r1": 374.89,
+          "r2": 379.52,
+          "r3": 386.9,
+          "s1": 362.88,
+          "s2": 355.5,
+          "s3": 350.87
         },
         "weekly_levels": {
           "r1": 365.52,
@@ -6581,34 +6333,30 @@
         }
       },
       "ema": {
-        "EMA_5": 363.94,
-        "EMA_8": 363.41,
-        "EMA_13": 363.94,
-        "EMA_21": 365.08,
-        "EMA_34": 365.37,
-        "EMA_55": 362.03,
-        "EMA_89": 353.36,
-        "EMA_144": 340.19,
-        "EMA_233": 323.88,
-        "EMA_377": 304.42
+        "EMA_5": 365.47,
+        "EMA_8": 364.55,
+        "EMA_13": 364.59,
+        "EMA_21": 365.39,
+        "EMA_34": 365.55,
+        "EMA_55": 362.27,
+        "EMA_89": 353.7,
+        "EMA_144": 340.58,
+        "EMA_233": 324.27,
+        "EMA_377": 304.76
       }
     },
     {
       "id": 58,
       "ticker": "UNH",
       "name": "UnitedHealth Group Incorporated",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 370.95,
-      "open": 375.38,
-      "high": 376.45,
-      "low": 368.5,
+      "close": 378.45,
+      "open": 373.94,
+      "high": 387.49,
+      "low": 373.02,
       "wema_bands": {
-        "mid": 379.71,
-        "upper_green": 351.23,
-        "lower_red": 408.19,
+        "mid": 379.83,
+        "upper_green": 351.34,
+        "lower_red": 408.32,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -6625,23 +6373,23 @@
         "status": null,
         "setup": null,
         "bullish": {
-          "candle_date": "02/10/2026",
-          "entry1": 367.23,
-          "entry2": 362.6,
-          "stop_loss": 357.97,
-          "distance_pct": -1.0
+          "candle_date": "09/10/2026",
+          "entry1": 372.48,
+          "entry2": 368.5,
+          "stop_loss": 364.52,
+          "distance_pct": -1.58
         },
         "bearish": {
           "candle_date": "08/10/2026",
           "entry1": 383.48,
           "entry2": 377.75,
           "stop_loss": 389.22,
-          "distance_pct": 3.38
+          "distance_pct": 1.33
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.59,
-        "max_recent_vol_ratio": 1.59,
+        "volume_ratio": 1.22,
+        "max_recent_vol_ratio": 1.61,
         "is_volume_burst": false,
         "is_volume_drop": false,
         "status": "NORMAL"
@@ -6652,24 +6400,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 40.85,
+      "rsi": 48.66,
       "pivots": {
-        "daily": 377.16,
+        "daily": 371.97,
         "weekly": 371.83,
-        "weeklyP": -0.24,
+        "weeklyP": 1.78,
         "monthly": 379.78,
-        "monthlyP": -2.33,
-        "next_weekly": 374.16,
-        "next_weeklyP": -0.86,
-        "next_monthly": 372.34,
-        "next_monthlyP": -0.37,
+        "monthlyP": -0.35,
+        "next_weekly": 378.0,
+        "next_weeklyP": 0.12,
+        "next_monthly": 376.18,
+        "next_monthlyP": 0.6,
         "daily_levels": {
-          "r1": 382.3,
-          "r2": 388.63,
-          "r3": 393.77,
-          "s1": 370.83,
-          "s2": 365.69,
-          "s3": 359.36
+          "r1": 375.43,
+          "r2": 379.92,
+          "r3": 383.38,
+          "s1": 367.48,
+          "s2": 364.02,
+          "s3": 359.53
         },
         "weekly_levels": {
           "r1": 381.05,
@@ -6689,40 +6437,36 @@
         }
       },
       "ema": {
-        "EMA_5": 373.6,
-        "EMA_8": 373.8,
-        "EMA_13": 374.86,
-        "EMA_21": 377.66,
-        "EMA_34": 382.46,
-        "EMA_55": 386.84,
-        "EMA_89": 385.82,
+        "EMA_5": 375.21,
+        "EMA_8": 374.84,
+        "EMA_13": 375.37,
+        "EMA_21": 377.73,
+        "EMA_34": 382.23,
+        "EMA_55": 386.54,
+        "EMA_89": 385.66,
         "EMA_144": 378.64,
-        "EMA_233": 373.86,
-        "EMA_377": 381.82
+        "EMA_233": 373.9,
+        "EMA_377": 381.81
       }
     },
     {
       "id": 59,
       "ticker": "V",
       "name": "Visa Inc. Class A",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 375.1,
-      "open": 371.4,
-      "high": 379.96,
-      "low": 371.4,
+      "close": 386.39,
+      "open": 375.79,
+      "high": 386.84,
+      "low": 375.69,
       "wema_bands": {
-        "mid": 367.47,
-        "upper_green": 339.91,
-        "lower_red": 395.03,
+        "mid": 369.18,
+        "upper_green": 341.5,
+        "lower_red": 396.87,
         "position": "IN_BANDS"
       },
       "scores": {
-        "total_score": 0,
+        "total_score": -10,
         "pivot_score": 0,
-        "rsi_score": 0,
+        "rsi_score": -10,
         "volume_score": 0,
         "ema_score": 0,
         "divergence_score": 0,
@@ -6737,18 +6481,12 @@
           "entry1": 361.04,
           "entry2": 358.52,
           "stop_loss": 356.0,
-          "distance_pct": -3.75
+          "distance_pct": -6.56
         },
-        "bearish": {
-          "candle_date": "16/09/2026",
-          "entry1": 376.37,
-          "entry2": 374.6,
-          "stop_loss": 378.14,
-          "distance_pct": 0.34
-        }
+        "bearish": null
       },
       "volume_analysis": {
-        "volume_ratio": 1.28,
+        "volume_ratio": 0.87,
         "max_recent_vol_ratio": 1.28,
         "is_volume_burst": false,
         "is_volume_drop": false,
@@ -6760,24 +6498,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 58.85,
+      "rsi": 68.19,
       "pivots": {
-        "daily": 372.11,
+        "daily": 375.15,
         "weekly": 362.64,
-        "weeklyP": 3.44,
+        "weeklyP": 6.55,
         "monthly": 366.96,
-        "monthlyP": 2.22,
-        "next_weekly": 371.37,
-        "next_weeklyP": 1.0,
-        "next_monthly": 370.6,
-        "next_monthlyP": 1.21,
+        "monthlyP": 5.29,
+        "next_weekly": 377.43,
+        "next_weeklyP": 2.37,
+        "next_monthly": 376.66,
+        "next_monthlyP": 2.58,
         "daily_levels": {
-          "r1": 374.61,
-          "r2": 377.13,
-          "r3": 379.63,
-          "s1": 369.59,
-          "s2": 367.09,
-          "s3": 364.57
+          "r1": 379.94,
+          "r2": 384.77,
+          "r3": 389.56,
+          "s1": 370.32,
+          "s2": 365.53,
+          "s3": 360.7
         },
         "weekly_levels": {
           "r1": 368.52,
@@ -6797,34 +6535,30 @@
         }
       },
       "ema": {
-        "EMA_5": 370.66,
-        "EMA_8": 369.13,
-        "EMA_13": 368.39,
-        "EMA_21": 368.39,
-        "EMA_34": 367.83,
-        "EMA_55": 364.7,
-        "EMA_89": 358.42,
-        "EMA_144": 351.12,
-        "EMA_233": 344.53,
-        "EMA_377": 336.21
+        "EMA_5": 375.91,
+        "EMA_8": 372.97,
+        "EMA_13": 370.96,
+        "EMA_21": 370.03,
+        "EMA_34": 368.89,
+        "EMA_55": 365.47,
+        "EMA_89": 359.04,
+        "EMA_144": 351.61,
+        "EMA_233": 344.89,
+        "EMA_377": 336.48
       }
     },
     {
       "id": 61,
       "ticker": "WMT",
       "name": "Walmart Inc.",
-      "tier": {
-        "no": 4,
-        "amount": 10000
-      },
-      "close": 110.56,
-      "open": 108.6,
-      "high": 111.13,
-      "low": 108.56,
+      "close": 111.39,
+      "open": 110.06,
+      "high": 111.51,
+      "low": 109.93,
       "wema_bands": {
-        "mid": 107.94,
-        "upper_green": 99.85,
-        "lower_red": 116.04,
+        "mid": 108.36,
+        "upper_green": 100.23,
+        "lower_red": 116.49,
         "position": "IN_BANDS"
       },
       "scores": {
@@ -6842,19 +6576,19 @@
         "setup": null,
         "bullish": null,
         "bearish": {
-          "candle_date": "24/09/2026",
-          "entry1": 111.23,
-          "entry2": 110.36,
-          "stop_loss": 112.1,
-          "distance_pct": 0.61
+          "candle_date": "20/05/2026",
+          "entry1": 135.16,
+          "entry2": 133.61,
+          "stop_loss": 136.71,
+          "distance_pct": 21.34
         }
       },
       "volume_analysis": {
-        "volume_ratio": 1.05,
-        "max_recent_vol_ratio": 1.05,
+        "volume_ratio": 0.4,
+        "max_recent_vol_ratio": 1.07,
         "is_volume_burst": false,
-        "is_volume_drop": false,
-        "status": "NORMAL"
+        "is_volume_drop": true,
+        "status": "DROP"
       },
       "divergence": {
         "status": "NONE",
@@ -6862,24 +6596,24 @@
         "rsi_divergence": false,
         "volume_divergence": false
       },
-      "rsi": 59.12,
+      "rsi": 61.03,
       "pivots": {
-        "daily": 108.12,
+        "daily": 110.04,
         "weekly": 105.76,
-        "weeklyP": 4.54,
+        "weeklyP": 5.32,
         "monthly": 106.36,
-        "monthlyP": 3.95,
-        "next_weekly": 108.36,
-        "next_weeklyP": 2.03,
-        "next_monthly": 108.36,
-        "next_monthlyP": 2.03,
+        "monthlyP": 4.73,
+        "next_weekly": 108.76,
+        "next_weeklyP": 2.42,
+        "next_monthly": 108.76,
+        "next_monthlyP": 2.42,
         "daily_levels": {
-          "r1": 108.84,
-          "r2": 109.52,
-          "r3": 110.24,
-          "s1": 107.44,
-          "s2": 106.72,
-          "s3": 106.04
+          "r1": 111.65,
+          "r2": 112.73,
+          "r3": 114.34,
+          "s1": 108.96,
+          "s2": 107.35,
+          "s3": 106.27
         },
         "weekly_levels": {
           "r1": 107.92,
@@ -6899,16 +6633,16 @@
         }
       },
       "ema": {
-        "EMA_5": 107.95,
-        "EMA_8": 107.44,
-        "EMA_13": 107.23,
-        "EMA_21": 107.29,
-        "EMA_34": 107.81,
-        "EMA_55": 109.16,
+        "EMA_5": 109.09,
+        "EMA_8": 108.31,
+        "EMA_13": 107.82,
+        "EMA_21": 107.66,
+        "EMA_34": 108.02,
+        "EMA_55": 109.24,
         "EMA_89": 111.29,
-        "EMA_144": 112.97,
-        "EMA_233": 112.34,
-        "EMA_377": 107.94
+        "EMA_144": 112.94,
+        "EMA_233": 112.33,
+        "EMA_377": 107.96
       }
     }
   ]
