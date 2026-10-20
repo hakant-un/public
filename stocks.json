@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T20:14:29.874900Z",
+  "updated_at": "2026-10-20T18:47:05.739518Z",
   "scores": {
     "order_block_setups": {
       "bullish": [],
@@ -11,14 +11,14 @@
       "id": 6,
       "ticker": "UKOIL",
       "name": "Brent Petrol",
-      "close": 109.33,
-      "open": 110.25,
-      "high": 110.69,
-      "low": 106.82,
+      "close": 108.79,
+      "open": 109.13,
+      "high": 111.97,
+      "low": 105.95,
       "wema_bands": {
-        "mid": 101.92,
-        "upper_green": 94.28,
-        "lower_red": 109.57
+        "mid": 102.34,
+        "upper_green": 97.23,
+        "lower_red": 107.46
       },
       "scores": {
         "total_score": 0,
@@ -37,20 +37,20 @@
         "bearish": null
       },
       "rsi": {
-        "value": 64.33,
+        "value": 62.68,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 108.26,
+        "daily": 109.02,
         "weekly": 107.4,
         "monthly": 101.48,
         "daily_levels": {
-          "r1": 111.6,
-          "r2": 113.34,
-          "r3": 116.68,
-          "s1": 106.52,
-          "s2": 103.18,
-          "s3": 101.44
+          "r1": 111.22,
+          "r2": 112.89,
+          "r3": 115.09,
+          "s1": 107.35,
+          "s2": 105.15,
+          "s3": 103.48
         },
         "weekly_levels": {
           "r1": 112.46,
@@ -70,29 +70,29 @@
         }
       },
       "ema": {
-        "EMA_5": 107.71,
-        "EMA_8": 106.71,
-        "EMA_13": 105.61,
-        "EMA_21": 104.26,
-        "EMA_34": 102.13,
-        "EMA_55": 99.39,
-        "EMA_89": 96.51,
-        "EMA_144": 92.99,
-        "EMA_233": 88.61
+        "EMA_5": 108.12,
+        "EMA_8": 107.21,
+        "EMA_13": 106.09,
+        "EMA_21": 104.69,
+        "EMA_34": 102.52,
+        "EMA_55": 99.73,
+        "EMA_89": 96.79,
+        "EMA_144": 93.21,
+        "EMA_233": 88.78
       }
     },
     {
       "id": 12,
       "ticker": "XAUUSD",
       "name": "Ons Altın",
-      "close": 4159.2,
-      "open": 4185.0,
-      "high": 4211.2,
-      "low": 4155.6,
+      "close": 4142.0,
+      "open": 4162.4,
+      "high": 4174.9,
+      "low": 4130.1,
       "wema_bands": {
-        "mid": 4262.74,
-        "upper_green": 3943.04,
-        "lower_red": 4582.45
+        "mid": 4257.36,
+        "upper_green": 4044.5,
+        "lower_red": 4470.23
       },
       "scores": {
         "total_score": 0,
@@ -116,20 +116,20 @@
         }
       },
       "rsi": {
-        "value": 41.62,
+        "value": 40.16,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 4189.67,
+        "daily": 4175.63,
         "weekly": 4172.8,
         "monthly": 4296.1,
         "daily_levels": {
-          "r1": 4211.83,
-          "r2": 4242.57,
-          "r3": 4264.73,
-          "s1": 4158.93,
-          "s2": 4136.77,
-          "s3": 4106.03
+          "r1": 4195.67,
+          "r2": 4231.23,
+          "r3": 4251.27,
+          "s1": 4140.07,
+          "s2": 4120.03,
+          "s3": 4084.47
         },
         "weekly_levels": {
           "r1": 4250.6,
@@ -149,29 +149,29 @@
         }
       },
       "ema": {
-        "EMA_5": 4165.27,
-        "EMA_8": 4169.72,
-        "EMA_13": 4185.57,
-        "EMA_21": 4218.04,
-        "EMA_34": 4256.5,
-        "EMA_55": 4289.43,
-        "EMA_89": 4326.52,
-        "EMA_144": 4348.14,
-        "EMA_233": 4279.07
+        "EMA_5": 4157.71,
+        "EMA_8": 4163.71,
+        "EMA_13": 4179.45,
+        "EMA_21": 4211.2,
+        "EMA_34": 4250.01,
+        "EMA_55": 4284.19,
+        "EMA_89": 4322.44,
+        "EMA_144": 4345.31,
+        "EMA_233": 4277.91
       }
     },
     {
       "id": 32,
       "ticker": "XBANK",
       "name": "Bist Banka Endeksi",
-      "close": 15814.4,
-      "open": 15877.1,
-      "high": 15943.5,
-      "low": 15671.4,
+      "close": 15858.4,
+      "open": 15874.7,
+      "high": 15983.3,
+      "low": 15706.4,
       "wema_bands": {
-        "mid": 16172.37,
-        "upper_green": 14959.44,
-        "lower_red": 17385.3
+        "mid": 16154.44,
+        "upper_green": 15346.72,
+        "lower_red": 16962.17
       },
       "scores": {
         "total_score": 0,
@@ -195,28 +195,28 @@
         }
       },
       "rsi": {
-        "value": 45.22,
+        "value": 46.0,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 16048.0,
-        "weekly": 15952.6,
+        "daily": 15809.77,
+        "weekly": 15902.83,
         "monthly": 15938.4,
         "daily_levels": {
-          "r1": 16263.2,
-          "r2": 16410.5,
-          "r3": 16625.7,
-          "s1": 15900.7,
-          "s2": 15685.5,
-          "s3": 15538.2
+          "r1": 15948.13,
+          "r2": 16081.87,
+          "r3": 16220.23,
+          "s1": 15676.03,
+          "s2": 15537.67,
+          "s3": 15403.93
         },
         "weekly_levels": {
-          "r1": 16170.3,
-          "r2": 16469.8,
-          "r3": 16687.5,
-          "s1": 15653.1,
-          "s2": 15435.4,
-          "s3": 15135.9
+          "r1": 16134.27,
+          "r2": 16454.13,
+          "r3": 16685.57,
+          "s1": 15582.97,
+          "s2": 15351.53,
+          "s3": 15031.67
         },
         "monthly_levels": {
           "r1": 17118.6,
@@ -228,33 +228,33 @@
         }
       },
       "ema": {
-        "EMA_5": 15962.02,
-        "EMA_8": 15979.93,
-        "EMA_13": 16016.27,
-        "EMA_21": 16075.41,
-        "EMA_34": 16134.84,
-        "EMA_55": 16212.58,
-        "EMA_89": 16342.95,
-        "EMA_144": 16452.8,
-        "EMA_233": 16355.52
+        "EMA_5": 15927.48,
+        "EMA_8": 15952.92,
+        "EMA_13": 15993.71,
+        "EMA_21": 16055.68,
+        "EMA_34": 16119.05,
+        "EMA_55": 16199.93,
+        "EMA_89": 16332.19,
+        "EMA_144": 16444.6,
+        "EMA_233": 16351.27
       }
     },
     {
       "id": 33,
       "ticker": "XU030",
       "name": "Bist 30",
-      "close": 14558.4,
-      "open": 14766.7,
-      "high": 14792.2,
-      "low": 14462.6,
+      "close": 14221.6,
+      "open": 14585.9,
+      "high": 14616.6,
+      "low": 14174.6,
       "wema_bands": {
-        "mid": 15536.78,
-        "upper_green": 14371.52,
-        "lower_red": 16702.04
+        "mid": 15453.93,
+        "upper_green": 14681.23,
+        "lower_red": 16226.62
       },
       "scores": {
-        "total_score": 3.5,
-        "rsi_score": 3,
+        "total_score": 1.5,
+        "rsi_score": 1,
         "pivot_score": 0.5,
         "order_block_score": 0
       },
@@ -268,28 +268,28 @@
         }
       },
       "rsi": {
-        "value": 32.99,
-        "divergence": "BULLISH"
+        "value": 29.46,
+        "divergence": "NONE"
       },
       "pivots": {
-        "daily": 14979.13,
-        "weekly": 15201.17,
+        "daily": 14604.4,
+        "weekly": 14750.9,
         "monthly": 15725.13,
         "daily_levels": {
-          "r1": 15108.37,
-          "r2": 15229.93,
-          "r3": 15359.17,
-          "s1": 14857.57,
-          "s2": 14728.33,
-          "s3": 14606.77
+          "r1": 14746.2,
+          "r2": 14934.0,
+          "r3": 15075.8,
+          "s1": 14416.6,
+          "s2": 14274.8,
+          "s3": 14087.0
         },
         "weekly_levels": {
-          "r1": 15503.03,
-          "r2": 15860.77,
-          "r3": 16162.63,
-          "s1": 14843.43,
-          "s2": 14541.57,
-          "s3": 14183.83
+          "r1": 15039.2,
+          "r2": 15520.0,
+          "r3": 15808.3,
+          "s1": 14270.1,
+          "s2": 13981.8,
+          "s3": 13501.0
         },
         "monthly_levels": {
           "r1": 16632.97,
@@ -301,34 +301,34 @@
         }
       },
       "ema": {
-        "EMA_5": 14900.95,
-        "EMA_8": 15004.28,
-        "EMA_13": 15163.61,
-        "EMA_21": 15388.59,
-        "EMA_34": 15626.71,
-        "EMA_55": 15808.78,
-        "EMA_89": 15856.41,
-        "EMA_144": 15631.92,
-        "EMA_233": 15042.37
+        "EMA_5": 14674.5,
+        "EMA_8": 14830.35,
+        "EMA_13": 15029.04,
+        "EMA_21": 15282.5,
+        "EMA_34": 15546.42,
+        "EMA_55": 15752.1,
+        "EMA_89": 15820.09,
+        "EMA_144": 15612.47,
+        "EMA_233": 15035.36
       }
     },
     {
       "id": 34,
       "ticker": "XU100",
       "name": "Bist 100",
-      "close": 11721.7,
-      "open": 11896.1,
-      "high": 11905.8,
-      "low": 11653.4,
+      "close": 11430.1,
+      "open": 11745.7,
+      "high": 11768.3,
+      "low": 11396.8,
       "wema_bands": {
-        "mid": 12875.79,
-        "upper_green": 11910.11,
-        "lower_red": 13841.47
+        "mid": 12793.77,
+        "upper_green": 12154.08,
+        "lower_red": 13433.46
       },
       "scores": {
-        "total_score": 4.0,
+        "total_score": 3.5,
         "rsi_score": 3,
-        "pivot_score": 1.0,
+        "pivot_score": 0.5,
         "order_block_score": 0
       },
       "order_block": {
@@ -341,28 +341,28 @@
         }
       },
       "rsi": {
-        "value": 28.22,
+        "value": 24.94,
         "divergence": "BULLISH"
       },
       "pivots": {
-        "daily": 12064.3,
-        "weekly": 12277.8,
+        "daily": 11760.3,
+        "weekly": 11888.77,
         "monthly": 12848.77,
         "daily_levels": {
-          "r1": 12166.3,
-          "r2": 12262.4,
-          "r3": 12364.4,
-          "s1": 11968.2,
-          "s2": 11866.2,
-          "s3": 11770.1
+          "r1": 11867.2,
+          "r2": 12012.7,
+          "r3": 12119.6,
+          "s1": 11614.8,
+          "s2": 11507.9,
+          "s3": 11362.4
         },
         "weekly_levels": {
-          "r1": 12516.8,
-          "r2": 12767.6,
-          "r3": 13006.6,
-          "s1": 12027.0,
-          "s2": 11788.0,
-          "s3": 11537.2
+          "r1": 12124.13,
+          "r2": 12526.57,
+          "r3": 12761.93,
+          "s1": 11486.33,
+          "s2": 11250.97,
+          "s3": 10848.53
         },
         "monthly_levels": {
           "r1": 13771.53,
@@ -374,15 +374,15 @@
         }
       },
       "ema": {
-        "EMA_5": 12010.15,
-        "EMA_8": 12101.13,
-        "EMA_13": 12255.98,
-        "EMA_21": 12515.39,
-        "EMA_34": 12852.55,
-        "EMA_55": 13183.86,
-        "EMA_89": 13409.81,
-        "EMA_144": 13398.06,
-        "EMA_233": 13055.88
+        "EMA_5": 11816.8,
+        "EMA_8": 11952.02,
+        "EMA_13": 12138.0,
+        "EMA_21": 12416.72,
+        "EMA_34": 12771.26,
+        "EMA_55": 13121.22,
+        "EMA_89": 13365.82,
+        "EMA_144": 13370.92,
+        "EMA_233": 13041.99
       }
     }
   ],
@@ -391,14 +391,14 @@
       "id": 1,
       "ticker": "AEFES",
       "name": "Anadolu Efes Biracılık ve Malt Sanayi A.Ş.",
-      "close": 17.35,
-      "open": 17.49,
-      "high": 17.59,
-      "low": 17.2,
+      "close": 17.69,
+      "open": 17.46,
+      "high": 17.82,
+      "low": 17.21,
       "wema_bands": {
-        "mid": 18.47,
-        "upper_green": 17.08,
-        "lower_red": 19.85
+        "mid": 18.42,
+        "upper_green": 17.49,
+        "lower_red": 19.34
       },
       "scores": {
         "total_score": 0,
@@ -407,7 +407,13 @@
         "order_block_score": 0
       },
       "order_block": {
-        "bullish": null,
+        "bullish": {
+          "candle_date": "20/10/2026",
+          "entry1": 17.39,
+          "entry2": 17.2,
+          "entry3": 17.0,
+          "status": "NONE"
+        },
         "bearish": {
           "candle_date": "28/09/2026",
           "entry1": 18.94,
@@ -416,20 +422,20 @@
         }
       },
       "rsi": {
-        "value": 35.57,
+        "value": 41.11,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 17.59,
+        "daily": 17.38,
         "weekly": 17.9,
         "monthly": 18.41,
         "daily_levels": {
-          "r1": 17.82,
-          "r2": 18.13,
-          "r3": 18.36,
-          "s1": 17.28,
-          "s2": 17.05,
-          "s3": 16.74
+          "r1": 17.56,
+          "r2": 17.77,
+          "r3": 17.95,
+          "s1": 17.17,
+          "s2": 16.99,
+          "s3": 16.78
         },
         "weekly_levels": {
           "r1": 18.42,
@@ -449,29 +455,29 @@
         }
       },
       "ema": {
-        "EMA_5": 17.79,
-        "EMA_8": 17.95,
-        "EMA_13": 18.1,
-        "EMA_21": 18.27,
-        "EMA_34": 18.53,
-        "EMA_55": 18.86,
-        "EMA_89": 19.1,
-        "EMA_144": 19.05,
-        "EMA_233": 18.7
+        "EMA_5": 17.76,
+        "EMA_8": 17.89,
+        "EMA_13": 18.04,
+        "EMA_21": 18.22,
+        "EMA_34": 18.48,
+        "EMA_55": 18.82,
+        "EMA_89": 19.07,
+        "EMA_144": 19.03,
+        "EMA_233": 18.69
       }
     },
     {
       "id": 2,
       "ticker": "AKBNK",
       "name": "Akbank T.A.Ş.",
-      "close": 67.15,
-      "open": 67.15,
-      "high": 67.65,
-      "low": 66.5,
+      "close": 68.3,
+      "open": 67.4,
+      "high": 68.35,
+      "low": 65.95,
       "wema_bands": {
-        "mid": 69.23,
-        "upper_green": 64.04,
-        "lower_red": 74.43
+        "mid": 69.2,
+        "upper_green": 65.74,
+        "lower_red": 72.66
       },
       "scores": {
         "total_score": 0,
@@ -495,20 +501,20 @@
         }
       },
       "rsi": {
-        "value": 42.98,
+        "value": 47.57,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 66.72,
+        "daily": 67.1,
         "weekly": 67.35,
         "monthly": 68.7,
         "daily_levels": {
-          "r1": 67.43,
-          "r2": 68.02,
-          "r3": 68.73,
-          "s1": 66.13,
-          "s2": 65.42,
-          "s3": 64.83
+          "r1": 67.7,
+          "r2": 68.25,
+          "r3": 68.85,
+          "s1": 66.55,
+          "s2": 65.95,
+          "s3": 65.4
         },
         "weekly_levels": {
           "r1": 68.7,
@@ -528,38 +534,44 @@
         }
       },
       "ema": {
-        "EMA_5": 67.47,
-        "EMA_8": 67.75,
-        "EMA_13": 68.17,
-        "EMA_21": 68.72,
-        "EMA_34": 69.23,
-        "EMA_55": 69.68,
-        "EMA_89": 70.27,
-        "EMA_144": 70.72,
-        "EMA_233": 70.23
+        "EMA_5": 67.75,
+        "EMA_8": 67.87,
+        "EMA_13": 68.19,
+        "EMA_21": 68.68,
+        "EMA_34": 69.17,
+        "EMA_55": 69.63,
+        "EMA_89": 70.22,
+        "EMA_144": 70.68,
+        "EMA_233": 70.21
       }
     },
     {
       "id": 3,
       "ticker": "ASELS",
       "name": "Aselsan Elektronik Sanayi ve Ticaret A.Ş.",
-      "close": 322.25,
-      "open": 340.25,
-      "high": 342.5,
-      "low": 319.0,
+      "close": 342.75,
+      "open": 322.75,
+      "high": 344.75,
+      "low": 318.5,
       "wema_bands": {
-        "mid": 358.61,
-        "upper_green": 331.71,
-        "lower_red": 385.5
+        "mid": 357.59,
+        "upper_green": 339.71,
+        "lower_red": 375.47
       },
       "scores": {
-        "total_score": 3.0,
-        "rsi_score": 2,
-        "pivot_score": 1.0,
+        "total_score": 0,
+        "rsi_score": 0,
+        "pivot_score": 0,
         "order_block_score": 0
       },
       "order_block": {
-        "bullish": null,
+        "bullish": {
+          "candle_date": "20/10/2026",
+          "entry1": 330.75,
+          "entry2": 319.0,
+          "entry3": 307.25,
+          "status": "NONE"
+        },
         "bearish": {
           "candle_date": "16/10/2026",
           "entry1": 351.25,
@@ -568,20 +580,20 @@
         }
       },
       "rsi": {
-        "value": 35.35,
-        "divergence": "BULLISH"
+        "value": 44.53,
+        "divergence": "NONE"
       },
       "pivots": {
-        "daily": 341.08,
+        "daily": 327.92,
         "weekly": 342.67,
         "monthly": 359.25,
         "daily_levels": {
-          "r1": 347.42,
-          "r2": 354.58,
-          "r3": 360.92,
-          "s1": 333.92,
-          "s2": 327.58,
-          "s3": 320.42
+          "r1": 336.83,
+          "r2": 351.42,
+          "r3": 360.33,
+          "s1": 313.33,
+          "s2": 304.42,
+          "s3": 289.83
         },
         "weekly_levels": {
           "r1": 350.58,
@@ -601,29 +613,29 @@
         }
       },
       "ema": {
-        "EMA_5": 338.68,
-        "EMA_8": 343.33,
-        "EMA_13": 348.75,
-        "EMA_21": 355.1,
-        "EMA_34": 361.52,
-        "EMA_55": 366.44,
-        "EMA_89": 367.09,
-        "EMA_144": 356.79,
-        "EMA_233": 329.32
+        "EMA_5": 340.04,
+        "EMA_8": 343.2,
+        "EMA_13": 347.89,
+        "EMA_21": 353.98,
+        "EMA_34": 360.45,
+        "EMA_55": 365.59,
+        "EMA_89": 366.55,
+        "EMA_144": 356.59,
+        "EMA_233": 329.44
       }
     },
     {
       "id": 4,
       "ticker": "ASTOR",
       "name": "Astor Enerji A.Ş.",
-      "close": 160.6,
-      "open": 163.0,
-      "high": 165.2,
-      "low": 151.8,
+      "close": 165.9,
+      "open": 162.3,
+      "high": 172.9,
+      "low": 159.1,
       "wema_bands": {
-        "mid": 227.56,
-        "upper_green": 210.49,
-        "lower_red": 244.63
+        "mid": 224.26,
+        "upper_green": 213.04,
+        "lower_red": 235.47
       },
       "scores": {
         "total_score": 1,
@@ -632,7 +644,13 @@
         "order_block_score": 0
       },
       "order_block": {
-        "bullish": null,
+        "bullish": {
+          "candle_date": "20/10/2026",
+          "entry1": 158.5,
+          "entry2": 151.8,
+          "entry3": 145.1,
+          "status": "NONE"
+        },
         "bearish": {
           "candle_date": "05/10/2026",
           "entry1": 229.6,
@@ -641,20 +659,20 @@
         }
       },
       "rsi": {
-        "value": 27.27,
+        "value": 30.1,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 167.83,
+        "daily": 159.2,
         "weekly": 179.13,
         "monthly": 241.15,
         "daily_levels": {
-          "r1": 170.77,
-          "r2": 176.63,
-          "r3": 179.57,
-          "s1": 161.97,
-          "s2": 159.03,
-          "s3": 153.17
+          "r1": 166.6,
+          "r2": 172.6,
+          "r3": 180.0,
+          "s1": 153.2,
+          "s2": 145.8,
+          "s3": 139.8
         },
         "weekly_levels": {
           "r1": 193.37,
@@ -674,42 +692,42 @@
         }
       },
       "ema": {
-        "EMA_5": 175.56,
-        "EMA_8": 182.92,
-        "EMA_13": 193.68,
-        "EMA_21": 209.72,
-        "EMA_34": 230.25,
-        "EMA_55": 249.7,
-        "EMA_89": 259.8,
-        "EMA_144": 253.5,
-        "EMA_233": 231.58
+        "EMA_5": 172.34,
+        "EMA_8": 179.14,
+        "EMA_13": 189.71,
+        "EMA_21": 205.74,
+        "EMA_34": 226.57,
+        "EMA_55": 246.71,
+        "EMA_89": 257.72,
+        "EMA_144": 252.29,
+        "EMA_233": 231.02
       }
     },
     {
       "id": 5,
       "ticker": "BIMAS",
       "name": "BİM Birleşik Mağazalar A.Ş.",
-      "close": 371.0,
-      "open": 381.0,
-      "high": 383.5,
-      "low": 371.0,
+      "close": 385.5,
+      "open": 376.0,
+      "high": 387.25,
+      "low": 371.5,
       "wema_bands": {
-        "mid": 402.75,
-        "upper_green": 372.54,
-        "lower_red": 432.96
+        "mid": 401.23,
+        "upper_green": 381.17,
+        "lower_red": 421.29
       },
       "scores": {
-        "total_score": 2.0,
-        "rsi_score": 1,
+        "total_score": 1.0,
+        "rsi_score": 0,
         "pivot_score": 1.0,
         "order_block_score": 0
       },
       "order_block": {
         "bullish": {
-          "candle_date": "06/07/2026",
-          "entry1": 359.25,
-          "entry2": 354.5,
-          "entry3": 349.75,
+          "candle_date": "20/10/2026",
+          "entry1": 377.25,
+          "entry2": 371.0,
+          "entry3": 364.75,
           "status": "NONE"
         },
         "bearish": {
@@ -720,20 +738,20 @@
         }
       },
       "rsi": {
-        "value": 32.11,
+        "value": 40.89,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 386.17,
+        "daily": 375.17,
         "weekly": 391.58,
         "monthly": 417.25,
         "daily_levels": {
-          "r1": 393.08,
-          "r2": 405.17,
-          "r3": 412.08,
-          "s1": 374.08,
-          "s2": 367.17,
-          "s3": 355.08
+          "r1": 379.33,
+          "r2": 387.67,
+          "r3": 391.83,
+          "s1": 366.83,
+          "s2": 362.67,
+          "s3": 354.33
         },
         "weekly_levels": {
           "r1": 403.92,
@@ -753,34 +771,34 @@
         }
       },
       "ema": {
-        "EMA_5": 388.08,
-        "EMA_8": 393.63,
-        "EMA_13": 399.38,
-        "EMA_21": 404.31,
-        "EMA_34": 406.56,
-        "EMA_55": 404.68,
-        "EMA_89": 397.76,
-        "EMA_144": 383.96,
-        "EMA_233": 362.46
+        "EMA_5": 387.22,
+        "EMA_8": 391.83,
+        "EMA_13": 397.4,
+        "EMA_21": 402.6,
+        "EMA_34": 405.36,
+        "EMA_55": 404.0,
+        "EMA_89": 397.49,
+        "EMA_144": 383.98,
+        "EMA_233": 362.65
       }
     },
     {
       "id": 7,
       "ticker": "EKGYO",
       "name": "Emlak Konut Gayrimenkul Yatırım Ortaklığı A.Ş.",
-      "close": 18.25,
-      "open": 19.07,
-      "high": 19.1,
-      "low": 18.13,
+      "close": 19.03,
+      "open": 18.32,
+      "high": 19.14,
+      "low": 18.22,
       "wema_bands": {
-        "mid": 19.54,
-        "upper_green": 18.07,
-        "lower_red": 21.0
+        "mid": 19.51,
+        "upper_green": 18.53,
+        "lower_red": 20.48
       },
       "scores": {
-        "total_score": 1.0,
+        "total_score": 0,
         "rsi_score": 0,
-        "pivot_score": 1.0,
+        "pivot_score": 0,
         "order_block_score": 0
       },
       "order_block": {
@@ -793,20 +811,20 @@
         }
       },
       "rsi": {
-        "value": 38.44,
+        "value": 46.57,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 19.21,
+        "daily": 18.49,
         "weekly": 19.36,
         "monthly": 19.58,
         "daily_levels": {
-          "r1": 19.41,
-          "r2": 19.78,
-          "r3": 19.98,
-          "s1": 18.84,
-          "s2": 18.64,
-          "s3": 18.27
+          "r1": 18.86,
+          "r2": 19.46,
+          "r3": 19.83,
+          "s1": 17.89,
+          "s2": 17.52,
+          "s3": 16.92
         },
         "weekly_levels": {
           "r1": 19.72,
@@ -826,14 +844,14 @@
         }
       },
       "ema": {
-        "EMA_5": 19.06,
-        "EMA_8": 19.22,
-        "EMA_13": 19.33,
-        "EMA_21": 19.4,
-        "EMA_34": 19.46,
-        "EMA_55": 19.55,
-        "EMA_89": 19.73,
-        "EMA_144": 19.92,
+        "EMA_5": 19.05,
+        "EMA_8": 19.18,
+        "EMA_13": 19.28,
+        "EMA_21": 19.37,
+        "EMA_34": 19.44,
+        "EMA_55": 19.53,
+        "EMA_89": 19.71,
+        "EMA_144": 19.91,
         "EMA_233": 19.76
       }
     },
@@ -841,23 +859,29 @@
       "id": 8,
       "ticker": "ENKAI",
       "name": "Enka İnşaat ve Sanayi A.Ş.",
-      "close": 75.65,
-      "open": 76.3,
-      "high": 77.65,
-      "low": 75.4,
+      "close": 77.9,
+      "open": 76.2,
+      "high": 77.9,
+      "low": 75.75,
       "wema_bands": {
-        "mid": 83.03,
-        "upper_green": 76.81,
-        "lower_red": 89.26
+        "mid": 82.77,
+        "upper_green": 78.63,
+        "lower_red": 86.91
       },
       "scores": {
-        "total_score": 2.0,
-        "rsi_score": 1,
-        "pivot_score": 1.0,
+        "total_score": 0,
+        "rsi_score": 0,
+        "pivot_score": 0,
         "order_block_score": 0
       },
       "order_block": {
-        "bullish": null,
+        "bullish": {
+          "candle_date": "20/10/2026",
+          "entry1": 76.53,
+          "entry2": 75.4,
+          "entry3": 74.28,
+          "status": "NONE"
+        },
         "bearish": {
           "candle_date": "12/10/2026",
           "entry1": 83.5,
@@ -866,20 +890,20 @@
         }
       },
       "rsi": {
-        "value": 31.49,
+        "value": 38.9,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 76.37,
+        "daily": 76.23,
         "weekly": 78.68,
         "monthly": 84.45,
         "daily_levels": {
-          "r1": 77.03,
-          "r2": 77.87,
-          "r3": 78.53,
-          "s1": 75.53,
-          "s2": 74.87,
-          "s3": 74.03
+          "r1": 77.07,
+          "r2": 78.48,
+          "r3": 79.32,
+          "s1": 74.82,
+          "s2": 73.98,
+          "s3": 72.57
         },
         "weekly_levels": {
           "r1": 81.67,
@@ -899,29 +923,29 @@
         }
       },
       "ema": {
-        "EMA_5": 77.67,
-        "EMA_8": 78.83,
-        "EMA_13": 80.24,
-        "EMA_21": 81.74,
-        "EMA_34": 83.24,
-        "EMA_55": 84.93,
-        "EMA_89": 86.8,
-        "EMA_144": 87.72,
-        "EMA_233": 85.98
+        "EMA_5": 77.75,
+        "EMA_8": 78.63,
+        "EMA_13": 79.91,
+        "EMA_21": 81.39,
+        "EMA_34": 82.94,
+        "EMA_55": 84.68,
+        "EMA_89": 86.6,
+        "EMA_144": 87.58,
+        "EMA_233": 85.91
       }
     },
     {
       "id": 9,
       "ticker": "EREGL",
       "name": "Ereğli Demir ve Çelik Fabrikaları T.A.Ş.",
-      "close": 35.62,
-      "open": 36.3,
-      "high": 36.48,
-      "low": 35.5,
+      "close": 37.18,
+      "open": 35.74,
+      "high": 37.24,
+      "low": 35.28,
       "wema_bands": {
-        "mid": 37.24,
-        "upper_green": 34.45,
-        "lower_red": 40.04
+        "mid": 37.25,
+        "upper_green": 35.39,
+        "lower_red": 39.11
       },
       "scores": {
         "total_score": 0,
@@ -930,7 +954,13 @@
         "order_block_score": 0
       },
       "order_block": {
-        "bullish": null,
+        "bullish": {
+          "candle_date": "20/10/2026",
+          "entry1": 35.99,
+          "entry2": 35.5,
+          "entry3": 35.01,
+          "status": "NONE"
+        },
         "bearish": {
           "candle_date": "16/10/2026",
           "entry1": 37.4,
@@ -939,20 +969,20 @@
         }
       },
       "rsi": {
-        "value": 39.45,
+        "value": 49.7,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 36.39,
+        "daily": 35.87,
         "weekly": 36.79,
         "monthly": 36.91,
         "daily_levels": {
-          "r1": 36.81,
-          "r2": 37.37,
-          "r3": 37.79,
-          "s1": 35.83,
-          "s2": 35.41,
-          "s3": 34.85
+          "r1": 36.23,
+          "r2": 36.85,
+          "r3": 37.21,
+          "s1": 35.25,
+          "s2": 34.89,
+          "s3": 34.27
         },
         "weekly_levels": {
           "r1": 37.61,
@@ -972,29 +1002,29 @@
         }
       },
       "ema": {
-        "EMA_5": 36.49,
-        "EMA_8": 36.69,
-        "EMA_13": 36.86,
-        "EMA_21": 37.08,
-        "EMA_34": 37.42,
-        "EMA_55": 37.8,
-        "EMA_89": 37.7,
-        "EMA_144": 36.63,
-        "EMA_233": 34.68
+        "EMA_5": 36.72,
+        "EMA_8": 36.8,
+        "EMA_13": 36.91,
+        "EMA_21": 37.09,
+        "EMA_34": 37.41,
+        "EMA_55": 37.78,
+        "EMA_89": 37.69,
+        "EMA_144": 36.64,
+        "EMA_233": 34.7
       }
     },
     {
       "id": 10,
       "ticker": "FROTO",
       "name": "Ford Otomotiv Sanayi A.Ş.",
-      "close": 66.8,
-      "open": 69.0,
-      "high": 69.55,
-      "low": 66.55,
+      "close": 68.45,
+      "open": 67.3,
+      "high": 68.5,
+      "low": 66.5,
       "wema_bands": {
-        "mid": 73.46,
-        "upper_green": 67.95,
-        "lower_red": 78.97
+        "mid": 72.98,
+        "upper_green": 69.34,
+        "lower_red": 76.63
       },
       "scores": {
         "total_score": 2.0,
@@ -1012,20 +1042,20 @@
         }
       },
       "rsi": {
-        "value": 25.39,
+        "value": 32.62,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 69.32,
+        "daily": 67.63,
         "weekly": 71.05,
         "monthly": 76.82,
         "daily_levels": {
-          "r1": 69.93,
-          "r2": 70.57,
-          "r3": 71.18,
-          "s1": 68.68,
-          "s2": 68.07,
-          "s3": 67.43
+          "r1": 68.72,
+          "r2": 70.63,
+          "r3": 71.72,
+          "s1": 65.72,
+          "s2": 64.63,
+          "s3": 62.72
         },
         "weekly_levels": {
           "r1": 73.4,
@@ -1045,34 +1075,34 @@
         }
       },
       "ema": {
-        "EMA_5": 69.81,
-        "EMA_8": 70.96,
-        "EMA_13": 72.24,
-        "EMA_21": 73.61,
-        "EMA_34": 75.12,
-        "EMA_55": 77.09,
-        "EMA_89": 80.23,
-        "EMA_144": 84.43,
-        "EMA_233": 88.5
+        "EMA_5": 69.36,
+        "EMA_8": 70.41,
+        "EMA_13": 71.7,
+        "EMA_21": 73.14,
+        "EMA_34": 74.74,
+        "EMA_55": 76.78,
+        "EMA_89": 79.97,
+        "EMA_144": 84.21,
+        "EMA_233": 88.32
       }
     },
     {
       "id": 11,
       "ticker": "GARAN",
       "name": "Türkiye Garanti Bankası A.Ş.",
-      "close": 132.5,
-      "open": 132.0,
-      "high": 134.0,
-      "low": 130.8,
+      "close": 134.6,
+      "open": 133.0,
+      "high": 134.8,
+      "low": 131.3,
       "wema_bands": {
-        "mid": 130.95,
-        "upper_green": 121.13,
-        "lower_red": 140.77
+        "mid": 131.21,
+        "upper_green": 124.65,
+        "lower_red": 137.77
       },
       "scores": {
-        "total_score": 0,
+        "total_score": -1.0,
         "rsi_score": 0,
-        "pivot_score": 0,
+        "pivot_score": -1.0,
         "order_block_score": 0
       },
       "order_block": {
@@ -1091,20 +1121,20 @@
         }
       },
       "rsi": {
-        "value": 54.0,
+        "value": 57.51,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 131.47,
+        "daily": 132.43,
         "weekly": 131.47,
         "monthly": 126.17,
         "daily_levels": {
-          "r1": 132.63,
-          "r2": 133.77,
-          "r3": 134.93,
-          "s1": 130.33,
-          "s2": 129.17,
-          "s3": 128.03
+          "r1": 134.07,
+          "r2": 135.63,
+          "r3": 137.27,
+          "s1": 130.87,
+          "s2": 129.23,
+          "s3": 127.67
         },
         "weekly_levels": {
           "r1": 133.93,
@@ -1124,33 +1154,33 @@
         }
       },
       "ema": {
-        "EMA_5": 131.79,
-        "EMA_8": 131.28,
-        "EMA_13": 130.77,
-        "EMA_21": 130.52,
-        "EMA_34": 130.46,
-        "EMA_55": 130.64,
-        "EMA_89": 131.35,
-        "EMA_144": 132.58,
-        "EMA_233": 132.99
+        "EMA_5": 132.73,
+        "EMA_8": 132.01,
+        "EMA_13": 131.32,
+        "EMA_21": 130.89,
+        "EMA_34": 130.7,
+        "EMA_55": 130.78,
+        "EMA_89": 131.42,
+        "EMA_144": 132.61,
+        "EMA_233": 133.01
       }
     },
     {
       "id": 13,
       "ticker": "GUBRF",
       "name": "Gübre Fabrikaları T.A.Ş.",
-      "close": 356.25,
-      "open": 371.75,
-      "high": 374.25,
-      "low": 356.25,
+      "close": 373.25,
+      "open": 356.5,
+      "high": 374.0,
+      "low": 354.75,
       "wema_bands": {
-        "mid": 417.46,
-        "upper_green": 386.15,
-        "lower_red": 448.77
+        "mid": 414.57,
+        "upper_green": 393.84,
+        "lower_red": 435.3
       },
       "scores": {
-        "total_score": 1,
-        "rsi_score": 1,
+        "total_score": 0,
+        "rsi_score": 0,
         "pivot_score": 0,
         "order_block_score": 0
       },
@@ -1164,20 +1194,20 @@
         }
       },
       "rsi": {
-        "value": 30.11,
+        "value": 37.07,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 378.17,
+        "daily": 362.25,
         "weekly": 388.08,
         "monthly": 438.58,
         "daily_levels": {
-          "r1": 384.83,
-          "r2": 396.92,
-          "r3": 403.58,
-          "s1": 366.08,
-          "s2": 359.42,
-          "s3": 347.33
+          "r1": 368.25,
+          "r2": 380.25,
+          "r3": 386.25,
+          "s1": 350.25,
+          "s2": 344.25,
+          "s3": 332.25
         },
         "weekly_levels": {
           "r1": 404.67,
@@ -1197,29 +1227,29 @@
         }
       },
       "ema": {
-        "EMA_5": 379.29,
-        "EMA_8": 387.96,
-        "EMA_13": 398.37,
-        "EMA_21": 410.71,
-        "EMA_34": 423.28,
-        "EMA_55": 435.02,
-        "EMA_89": 445.62,
-        "EMA_144": 447.62,
-        "EMA_233": 431.87
+        "EMA_5": 377.28,
+        "EMA_8": 384.69,
+        "EMA_13": 394.78,
+        "EMA_21": 407.31,
+        "EMA_34": 420.42,
+        "EMA_55": 432.82,
+        "EMA_89": 444.01,
+        "EMA_144": 446.59,
+        "EMA_233": 431.37
       }
     },
     {
       "id": 14,
       "ticker": "ISCTR",
       "name": "Türkiye İş Bankası A.Ş.",
-      "close": 12.86,
-      "open": 12.95,
-      "high": 12.98,
-      "low": 12.73,
+      "close": 13.08,
+      "open": 12.9,
+      "high": 13.11,
+      "low": 12.71,
       "wema_bands": {
-        "mid": 13.01,
-        "upper_green": 12.03,
-        "lower_red": 13.98
+        "mid": 13.02,
+        "upper_green": 12.37,
+        "lower_red": 13.67
       },
       "scores": {
         "total_score": 0,
@@ -1229,10 +1259,10 @@
       },
       "order_block": {
         "bullish": {
-          "candle_date": "05/10/2026",
-          "entry1": 12.46,
-          "entry2": 12.31,
-          "entry3": 12.17,
+          "candle_date": "20/10/2026",
+          "entry1": 12.86,
+          "entry2": 12.73,
+          "entry3": 12.61,
           "status": "NONE"
         },
         "bearish": {
@@ -1243,20 +1273,20 @@
         }
       },
       "rsi": {
-        "value": 48.31,
+        "value": 52.3,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 12.88,
+        "daily": 12.86,
         "weekly": 12.95,
         "monthly": 12.99,
         "daily_levels": {
-          "r1": 13.01,
-          "r2": 13.12,
-          "r3": 13.25,
-          "s1": 12.77,
-          "s2": 12.64,
-          "s3": 12.53
+          "r1": 12.98,
+          "r2": 13.11,
+          "r3": 13.23,
+          "s1": 12.73,
+          "s2": 12.61,
+          "s3": 12.48
         },
         "weekly_levels": {
           "r1": 13.24,
@@ -1276,29 +1306,29 @@
         }
       },
       "ema": {
-        "EMA_5": 12.91,
-        "EMA_8": 12.9,
-        "EMA_13": 12.91,
-        "EMA_21": 12.93,
+        "EMA_5": 12.97,
+        "EMA_8": 12.94,
+        "EMA_13": 12.93,
+        "EMA_21": 12.95,
         "EMA_34": 12.97,
         "EMA_55": 13.05,
         "EMA_89": 13.23,
         "EMA_144": 13.45,
-        "EMA_233": 13.6
+        "EMA_233": 13.59
       }
     },
     {
       "id": 15,
       "ticker": "KCHOL",
       "name": "Koç Holding A.Ş.",
-      "close": 202.9,
-      "open": 204.4,
-      "high": 205.7,
-      "low": 201.2,
+      "close": 208.4,
+      "open": 203.8,
+      "high": 208.4,
+      "low": 198.2,
       "wema_bands": {
-        "mid": 209.71,
-        "upper_green": 193.98,
-        "lower_red": 225.44
+        "mid": 209.63,
+        "upper_green": 199.15,
+        "lower_red": 220.11
       },
       "scores": {
         "total_score": 0,
@@ -1308,10 +1338,10 @@
       },
       "order_block": {
         "bullish": {
-          "candle_date": "12/08/2026",
-          "entry1": 201.0,
-          "entry2": 197.2,
-          "entry3": 193.4,
+          "candle_date": "20/10/2026",
+          "entry1": 203.45,
+          "entry2": 201.2,
+          "entry3": 198.95,
           "status": "NONE"
         },
         "bearish": {
@@ -1322,20 +1352,20 @@
         }
       },
       "rsi": {
-        "value": 39.89,
+        "value": 46.83,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 205.7,
+        "daily": 203.27,
         "weekly": 206.9,
         "monthly": 213.8,
         "daily_levels": {
-          "r1": 208.3,
-          "r2": 212.6,
-          "r3": 215.2,
-          "s1": 201.4,
-          "s2": 198.8,
-          "s3": 194.5
+          "r1": 205.33,
+          "r2": 207.77,
+          "r3": 209.83,
+          "s1": 200.83,
+          "s2": 198.77,
+          "s3": 196.33
         },
         "weekly_levels": {
           "r1": 210.7,
@@ -1355,29 +1385,29 @@
         }
       },
       "ema": {
-        "EMA_5": 206.63,
-        "EMA_8": 207.93,
-        "EMA_13": 209.42,
-        "EMA_21": 210.92,
-        "EMA_34": 211.51,
-        "EMA_55": 210.38,
-        "EMA_89": 207.68,
-        "EMA_144": 203.55,
-        "EMA_233": 197.9
+        "EMA_5": 207.22,
+        "EMA_8": 208.03,
+        "EMA_13": 209.27,
+        "EMA_21": 210.69,
+        "EMA_34": 211.34,
+        "EMA_55": 210.3,
+        "EMA_89": 207.7,
+        "EMA_144": 203.62,
+        "EMA_233": 197.99
       }
     },
     {
       "id": 16,
       "ticker": "KRDMD",
       "name": "Kardemir Karabük Demir Çelik Sanayi A.Ş.",
-      "close": 41.0,
-      "open": 41.2,
-      "high": 41.72,
-      "low": 40.5,
+      "close": 42.8,
+      "open": 41.12,
+      "high": 43.02,
+      "low": 40.58,
       "wema_bands": {
-        "mid": 43.35,
-        "upper_green": 40.09,
-        "lower_red": 46.6
+        "mid": 43.3,
+        "upper_green": 41.13,
+        "lower_red": 45.46
       },
       "scores": {
         "total_score": 0,
@@ -1387,10 +1417,10 @@
       },
       "order_block": {
         "bullish": {
-          "candle_date": "17/09/2026",
-          "entry1": 41.82,
-          "entry2": 39.6,
-          "entry3": 37.38,
+          "candle_date": "20/10/2026",
+          "entry1": 41.11,
+          "entry2": 40.5,
+          "entry3": 39.89,
           "status": "NONE"
         },
         "bearish": {
@@ -1401,20 +1431,20 @@
         }
       },
       "rsi": {
-        "value": 37.31,
+        "value": 46.3,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 41.45,
+        "daily": 41.07,
         "weekly": 42.32,
         "monthly": 44.01,
         "daily_levels": {
-          "r1": 41.93,
-          "r2": 42.59,
-          "r3": 43.07,
-          "s1": 40.79,
-          "s2": 40.31,
-          "s3": 39.65
+          "r1": 41.65,
+          "r2": 42.29,
+          "r3": 42.87,
+          "s1": 40.43,
+          "s2": 39.85,
+          "s3": 39.21
         },
         "weekly_levels": {
           "r1": 43.66,
@@ -1434,29 +1464,29 @@
         }
       },
       "ema": {
-        "EMA_5": 42.1,
-        "EMA_8": 42.58,
-        "EMA_13": 43.1,
-        "EMA_21": 43.57,
-        "EMA_34": 43.79,
-        "EMA_55": 43.5,
-        "EMA_89": 42.42,
-        "EMA_144": 40.4,
-        "EMA_233": 37.66
+        "EMA_5": 42.33,
+        "EMA_8": 42.63,
+        "EMA_13": 43.05,
+        "EMA_21": 43.5,
+        "EMA_34": 43.73,
+        "EMA_55": 43.47,
+        "EMA_89": 42.43,
+        "EMA_144": 40.43,
+        "EMA_233": 37.71
       }
     },
     {
       "id": 17,
       "ticker": "MGROS",
       "name": "Migros Ticaret A.Ş.",
-      "close": 451.75,
+      "close": 465.25,
       "open": 454.0,
-      "high": 460.25,
-      "low": 448.75,
+      "high": 466.5,
+      "low": 450.0,
       "wema_bands": {
-        "mid": 509.97,
-        "upper_green": 471.72,
-        "lower_red": 548.22
+        "mid": 505.47,
+        "upper_green": 480.2,
+        "lower_red": 530.75
       },
       "scores": {
         "total_score": 2.0,
@@ -1465,7 +1495,13 @@
         "order_block_score": 0
       },
       "order_block": {
-        "bullish": null,
+        "bullish": {
+          "candle_date": "20/10/2026",
+          "entry1": 454.5,
+          "entry2": 448.75,
+          "entry3": 443.0,
+          "status": "NONE"
+        },
         "bearish": {
           "candle_date": "23/09/2026",
           "entry1": 549.5,
@@ -1474,20 +1510,20 @@
         }
       },
       "rsi": {
-        "value": 25.05,
+        "value": 33.22,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 455.67,
+        "daily": 453.58,
         "weekly": 470.17,
         "monthly": 513.17,
         "daily_levels": {
-          "r1": 460.08,
-          "r2": 467.92,
-          "r3": 472.33,
-          "s1": 447.83,
-          "s2": 443.42,
-          "s3": 435.58
+          "r1": 458.42,
+          "r2": 465.08,
+          "r3": 469.92,
+          "s1": 446.92,
+          "s2": 442.08,
+          "s3": 435.42
         },
         "weekly_levels": {
           "r1": 489.08,
@@ -1507,29 +1543,29 @@
         }
       },
       "ema": {
-        "EMA_5": 467.67,
-        "EMA_8": 477.04,
-        "EMA_13": 487.62,
-        "EMA_21": 499.36,
-        "EMA_34": 515.0,
-        "EMA_55": 536.58,
-        "EMA_89": 560.19,
-        "EMA_144": 575.8,
-        "EMA_233": 576.11
+        "EMA_5": 466.86,
+        "EMA_8": 474.42,
+        "EMA_13": 484.42,
+        "EMA_21": 496.26,
+        "EMA_34": 512.16,
+        "EMA_55": 534.03,
+        "EMA_89": 558.08,
+        "EMA_144": 574.28,
+        "EMA_233": 575.17
       }
     },
     {
       "id": 18,
       "ticker": "PETKM",
       "name": "Petkim Petrokimya Holding A.Ş.",
-      "close": 19.35,
-      "open": 19.64,
-      "high": 20.08,
-      "low": 19.19,
+      "close": 19.6,
+      "open": 19.47,
+      "high": 19.9,
+      "low": 19.21,
       "wema_bands": {
-        "mid": 20.5,
-        "upper_green": 18.96,
-        "lower_red": 22.04
+        "mid": 20.45,
+        "upper_green": 19.43,
+        "lower_red": 21.47
       },
       "scores": {
         "total_score": 0,
@@ -1542,20 +1578,20 @@
         "bearish": null
       },
       "rsi": {
-        "value": 41.51,
+        "value": 43.56,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 19.75,
+        "daily": 19.54,
         "weekly": 20.12,
         "monthly": 21.47,
         "daily_levels": {
-          "r1": 20.12,
-          "r2": 20.53,
-          "r3": 20.9,
-          "s1": 19.34,
-          "s2": 18.97,
-          "s3": 18.56
+          "r1": 19.89,
+          "r2": 20.43,
+          "r3": 20.78,
+          "s1": 19.0,
+          "s2": 18.65,
+          "s3": 18.11
         },
         "weekly_levels": {
           "r1": 20.87,
@@ -1575,34 +1611,34 @@
         }
       },
       "ema": {
-        "EMA_5": 19.94,
-        "EMA_8": 20.08,
-        "EMA_13": 20.23,
-        "EMA_21": 20.43,
-        "EMA_34": 20.58,
-        "EMA_55": 20.65,
-        "EMA_89": 20.64,
-        "EMA_144": 20.45,
-        "EMA_233": 20.07
+        "EMA_5": 19.83,
+        "EMA_8": 19.97,
+        "EMA_13": 20.14,
+        "EMA_21": 20.35,
+        "EMA_34": 20.53,
+        "EMA_55": 20.61,
+        "EMA_89": 20.62,
+        "EMA_144": 20.44,
+        "EMA_233": 20.06
       }
     },
     {
       "id": 19,
       "ticker": "PGSUS",
       "name": "Pegasus Hava Taşımacılığı A.Ş.",
-      "close": 127.7,
+      "close": 132.0,
       "open": 127.7,
-      "high": 128.4,
-      "low": 125.2,
+      "high": 132.2,
+      "low": 126.2,
       "wema_bands": {
-        "mid": 136.47,
-        "upper_green": 126.24,
-        "lower_red": 146.71
+        "mid": 136.04,
+        "upper_green": 129.24,
+        "lower_red": 142.85
       },
       "scores": {
-        "total_score": 2.0,
-        "rsi_score": 1,
-        "pivot_score": 1.0,
+        "total_score": 0,
+        "rsi_score": 0,
+        "pivot_score": 0,
         "order_block_score": 0
       },
       "order_block": {
@@ -1615,20 +1651,20 @@
         }
       },
       "rsi": {
-        "value": 27.1,
+        "value": 37.67,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 127.17,
+        "daily": 127.1,
         "weekly": 129.43,
         "monthly": 144.03,
         "daily_levels": {
-          "r1": 128.83,
-          "r2": 129.97,
-          "r3": 131.63,
-          "s1": 126.03,
-          "s2": 124.37,
-          "s3": 123.23
+          "r1": 129.0,
+          "r2": 130.3,
+          "r3": 132.2,
+          "s1": 125.8,
+          "s2": 123.9,
+          "s3": 122.6
         },
         "weekly_levels": {
           "r1": 133.37,
@@ -1648,60 +1684,66 @@
         }
       },
       "ema": {
-        "EMA_5": 129.52,
-        "EMA_8": 131.28,
-        "EMA_13": 133.96,
-        "EMA_21": 137.32,
-        "EMA_34": 141.32,
-        "EMA_55": 146.38,
-        "EMA_89": 153.26,
-        "EMA_144": 162.82,
-        "EMA_233": 174.97
+        "EMA_5": 130.35,
+        "EMA_8": 131.44,
+        "EMA_13": 133.68,
+        "EMA_21": 136.84,
+        "EMA_34": 140.79,
+        "EMA_55": 145.87,
+        "EMA_89": 152.79,
+        "EMA_144": 162.39,
+        "EMA_233": 174.6
       }
     },
     {
       "id": 20,
       "ticker": "SAHOL",
       "name": "Hacı Ömer Sabancı Holding A.Ş.",
-      "close": 85.55,
-      "open": 87.55,
-      "high": 87.6,
-      "low": 84.75,
+      "close": 89.2,
+      "open": 86.85,
+      "high": 89.4,
+      "low": 86.4,
       "wema_bands": {
-        "mid": 88.02,
-        "upper_green": 81.42,
-        "lower_red": 94.62
+        "mid": 88.21,
+        "upper_green": 83.8,
+        "lower_red": 92.62
       },
       "scores": {
-        "total_score": 0,
+        "total_score": -1.0,
         "rsi_score": 0,
-        "pivot_score": 0,
+        "pivot_score": -1.0,
         "order_block_score": 0
       },
       "order_block": {
-        "bullish": null,
+        "bullish": {
+          "candle_date": "20/10/2026",
+          "entry1": 86.17,
+          "entry2": 84.75,
+          "entry3": 83.33,
+          "status": "NONE"
+        },
         "bearish": {
-          "candle_date": "09/10/2026",
-          "entry1": 89.15,
-          "entry2": 87.7,
-          "entry3": 90.6
+          "candle_date": "07/10/2026",
+          "entry1": 89.7,
+          "entry2": 88.93,
+          "entry3": 90.47
         }
       },
       "rsi": {
-        "value": 43.97,
+        "value": 54.06,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 84.85,
+        "daily": 85.97,
         "weekly": 84.85,
         "monthly": 88.5,
         "daily_levels": {
-          "r1": 86.9,
-          "r2": 88.5,
-          "r3": 90.55,
-          "s1": 83.25,
-          "s2": 81.2,
-          "s3": 79.6
+          "r1": 87.18,
+          "r2": 88.82,
+          "r3": 90.03,
+          "s1": 84.33,
+          "s2": 83.12,
+          "s3": 81.48
         },
         "weekly_levels": {
           "r1": 86.9,
@@ -1721,29 +1763,29 @@
         }
       },
       "ema": {
-        "EMA_5": 85.43,
-        "EMA_8": 85.65,
-        "EMA_13": 86.18,
-        "EMA_21": 87.03,
-        "EMA_34": 88.04,
+        "EMA_5": 86.69,
+        "EMA_8": 86.44,
+        "EMA_13": 86.61,
+        "EMA_21": 87.23,
+        "EMA_34": 88.11,
         "EMA_55": 89.1,
-        "EMA_89": 90.21,
-        "EMA_144": 91.06,
-        "EMA_233": 91.24
+        "EMA_89": 90.18,
+        "EMA_144": 91.04,
+        "EMA_233": 91.22
       }
     },
     {
       "id": 21,
       "ticker": "SASA",
       "name": "Sasa Polyester Sanayi A.Ş.",
-      "close": 1.67,
-      "open": 1.74,
-      "high": 1.76,
-      "low": 1.66,
+      "close": 1.74,
+      "open": 1.69,
+      "high": 1.74,
+      "low": 1.64,
       "wema_bands": {
-        "mid": 2.03,
-        "upper_green": 1.87,
-        "lower_red": 2.18
+        "mid": 2.0,
+        "upper_green": 1.9,
+        "lower_red": 2.1
       },
       "scores": {
         "total_score": 4.0,
@@ -1761,20 +1803,20 @@
         }
       },
       "rsi": {
-        "value": 24.37,
+        "value": 30.76,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 1.73,
+        "daily": 1.7,
         "weekly": 1.79,
         "monthly": 2.29,
         "daily_levels": {
-          "r1": 1.76,
-          "r2": 1.79,
-          "r3": 1.82,
-          "s1": 1.7,
-          "s2": 1.67,
-          "s3": 1.64
+          "r1": 1.73,
+          "r2": 1.8,
+          "r3": 1.83,
+          "s1": 1.63,
+          "s2": 1.6,
+          "s3": 1.53
         },
         "weekly_levels": {
           "r1": 1.89,
@@ -1794,33 +1836,33 @@
         }
       },
       "ema": {
-        "EMA_5": 1.76,
-        "EMA_8": 1.81,
-        "EMA_13": 1.89,
-        "EMA_21": 2.0,
-        "EMA_34": 2.11,
-        "EMA_55": 2.24,
-        "EMA_89": 2.41,
-        "EMA_144": 2.62,
-        "EMA_233": 2.93
+        "EMA_5": 1.75,
+        "EMA_8": 1.8,
+        "EMA_13": 1.87,
+        "EMA_21": 1.98,
+        "EMA_34": 2.09,
+        "EMA_55": 2.22,
+        "EMA_89": 2.39,
+        "EMA_144": 2.61,
+        "EMA_233": 2.92
       }
     },
     {
       "id": 22,
       "ticker": "SISE",
       "name": "Türkiye Şişe ve Cam Fabrikaları A.Ş.",
-      "close": 35.5,
-      "open": 36.24,
-      "high": 36.36,
-      "low": 35.26,
+      "close": 36.24,
+      "open": 35.74,
+      "high": 36.44,
+      "low": 35.24,
       "wema_bands": {
-        "mid": 38.0,
-        "upper_green": 35.15,
-        "lower_red": 40.85
+        "mid": 37.85,
+        "upper_green": 35.95,
+        "lower_red": 39.74
       },
       "scores": {
-        "total_score": 1,
-        "rsi_score": 1,
+        "total_score": 0,
+        "rsi_score": 0,
         "pivot_score": 0,
         "order_block_score": 0
       },
@@ -1834,20 +1876,20 @@
         }
       },
       "rsi": {
-        "value": 32.78,
+        "value": 38.23,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 36.33,
+        "daily": 35.71,
         "weekly": 36.84,
         "monthly": 40.55,
         "daily_levels": {
-          "r1": 36.63,
-          "r2": 37.09,
-          "r3": 37.39,
-          "s1": 35.87,
-          "s2": 35.57,
-          "s3": 35.11
+          "r1": 36.15,
+          "r2": 36.81,
+          "r3": 37.25,
+          "s1": 35.05,
+          "s2": 34.61,
+          "s3": 33.95
         },
         "weekly_levels": {
           "r1": 37.64,
@@ -1867,34 +1909,34 @@
         }
       },
       "ema": {
-        "EMA_5": 36.55,
-        "EMA_8": 36.93,
-        "EMA_13": 37.39,
-        "EMA_21": 38.0,
-        "EMA_34": 38.78,
-        "EMA_55": 39.75,
-        "EMA_89": 40.81,
-        "EMA_144": 41.53,
-        "EMA_233": 41.65
+        "EMA_5": 36.45,
+        "EMA_8": 36.77,
+        "EMA_13": 37.22,
+        "EMA_21": 37.84,
+        "EMA_34": 38.63,
+        "EMA_55": 39.62,
+        "EMA_89": 40.71,
+        "EMA_144": 41.46,
+        "EMA_233": 41.6
       }
     },
     {
       "id": 23,
       "ticker": "TAVHL",
       "name": "TAV Havalimanları Holding A.Ş.",
-      "close": 274.0,
-      "open": 271.5,
-      "high": 275.75,
-      "low": 269.5,
+      "close": 286.25,
+      "open": 275.75,
+      "high": 287.25,
+      "low": 273.0,
       "wema_bands": {
-        "mid": 272.76,
-        "upper_green": 252.3,
-        "lower_red": 293.22
+        "mid": 273.73,
+        "upper_green": 260.05,
+        "lower_red": 287.42
       },
       "scores": {
-        "total_score": 0,
+        "total_score": -1.0,
         "rsi_score": 0,
-        "pivot_score": 0,
+        "pivot_score": -1.0,
         "order_block_score": 0
       },
       "order_block": {
@@ -1906,27 +1948,27 @@
           "status": "NONE"
         },
         "bearish": {
-          "candle_date": "24/09/2026",
-          "entry1": 284.0,
-          "entry2": 280.38,
-          "entry3": 287.62
+          "candle_date": "29/06/2026",
+          "entry1": 289.0,
+          "entry2": 285.75,
+          "entry3": 292.25
         }
       },
       "rsi": {
-        "value": 53.14,
+        "value": 63.68,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 270.25,
+        "daily": 273.08,
         "weekly": 270.25,
         "monthly": 262.82,
         "daily_levels": {
-          "r1": 276.25,
-          "r2": 282.0,
-          "r3": 288.0,
-          "s1": 264.5,
-          "s2": 258.5,
-          "s3": 252.75
+          "r1": 276.67,
+          "r2": 279.33,
+          "r3": 282.92,
+          "s1": 270.42,
+          "s2": 266.83,
+          "s3": 264.17
         },
         "weekly_levels": {
           "r1": 276.25,
@@ -1946,29 +1988,29 @@
         }
       },
       "ema": {
-        "EMA_5": 271.79,
-        "EMA_8": 271.51,
-        "EMA_13": 271.3,
-        "EMA_21": 271.25,
-        "EMA_34": 271.52,
-        "EMA_55": 272.43,
-        "EMA_89": 274.81,
-        "EMA_144": 277.83,
-        "EMA_233": 278.0
+        "EMA_5": 276.61,
+        "EMA_8": 274.79,
+        "EMA_13": 273.44,
+        "EMA_21": 272.62,
+        "EMA_34": 272.36,
+        "EMA_55": 272.93,
+        "EMA_89": 275.06,
+        "EMA_144": 277.95,
+        "EMA_233": 278.07
       }
     },
     {
       "id": 24,
       "ticker": "TCELL",
       "name": "Turkcell İletişim Hizmetleri A.Ş.",
-      "close": 96.2,
-      "open": 96.8,
-      "high": 97.3,
-      "low": 95.05,
+      "close": 97.65,
+      "open": 96.5,
+      "high": 98.1,
+      "low": 95.1,
       "wema_bands": {
-        "mid": 98.84,
-        "upper_green": 91.43,
-        "lower_red": 106.26
+        "mid": 98.75,
+        "upper_green": 93.82,
+        "lower_red": 103.69
       },
       "scores": {
         "total_score": 0,
@@ -1977,7 +2019,13 @@
         "order_block_score": 0
       },
       "order_block": {
-        "bullish": null,
+        "bullish": {
+          "candle_date": "20/10/2026",
+          "entry1": 96.17,
+          "entry2": 95.05,
+          "entry3": 93.92,
+          "status": "NONE"
+        },
         "bearish": {
           "candle_date": "16/10/2026",
           "entry1": 98.9,
@@ -1986,20 +2034,20 @@
         }
       },
       "rsi": {
-        "value": 41.72,
+        "value": 46.4,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 96.52,
+        "daily": 96.18,
         "weekly": 97.2,
         "monthly": 97.92,
         "daily_levels": {
-          "r1": 98.13,
-          "r2": 99.47,
-          "r3": 101.08,
-          "s1": 95.18,
-          "s2": 93.57,
-          "s3": 92.23
+          "r1": 97.32,
+          "r2": 98.43,
+          "r3": 99.57,
+          "s1": 95.07,
+          "s2": 93.93,
+          "s3": 92.82
         },
         "weekly_levels": {
           "r1": 99.5,
@@ -2019,34 +2067,34 @@
         }
       },
       "ema": {
-        "EMA_5": 97.32,
-        "EMA_8": 97.75,
-        "EMA_13": 98.16,
-        "EMA_21": 98.61,
-        "EMA_34": 99.37,
-        "EMA_55": 100.69,
-        "EMA_89": 102.45,
-        "EMA_144": 103.83,
-        "EMA_233": 103.82
+        "EMA_5": 97.43,
+        "EMA_8": 97.73,
+        "EMA_13": 98.08,
+        "EMA_21": 98.53,
+        "EMA_34": 99.27,
+        "EMA_55": 100.58,
+        "EMA_89": 102.34,
+        "EMA_144": 103.75,
+        "EMA_233": 103.77
       }
     },
     {
       "id": 25,
       "ticker": "THYAO",
       "name": "Türk Hava Yolları A.O.",
-      "close": 266.0,
-      "open": 274.5,
-      "high": 275.5,
-      "low": 263.75,
+      "close": 273.5,
+      "open": 266.25,
+      "high": 274.75,
+      "low": 265.0,
       "wema_bands": {
-        "mid": 287.97,
-        "upper_green": 266.37,
-        "lower_red": 309.57
+        "mid": 287.02,
+        "upper_green": 272.66,
+        "lower_red": 301.37
       },
       "scores": {
-        "total_score": 3.5,
-        "rsi_score": 3,
-        "pivot_score": 0.5,
+        "total_score": 0,
+        "rsi_score": 0,
+        "pivot_score": 0,
         "order_block_score": 0
       },
       "order_block": {
@@ -2065,20 +2113,20 @@
         }
       },
       "rsi": {
-        "value": 30.81,
-        "divergence": "BULLISH"
+        "value": 39.25,
+        "divergence": "NONE"
       },
       "pivots": {
-        "daily": 273.0,
+        "daily": 268.42,
         "weekly": 277.67,
         "monthly": 282.75,
         "daily_levels": {
-          "r1": 275.25,
-          "r2": 277.0,
-          "r3": 279.25,
-          "s1": 271.25,
-          "s2": 269.0,
-          "s3": 267.25
+          "r1": 273.08,
+          "r2": 280.17,
+          "r3": 284.83,
+          "s1": 261.33,
+          "s2": 256.67,
+          "s3": 249.58
         },
         "weekly_levels": {
           "r1": 284.58,
@@ -2098,29 +2146,29 @@
         }
       },
       "ema": {
-        "EMA_5": 274.65,
-        "EMA_8": 277.9,
-        "EMA_13": 281.2,
-        "EMA_21": 284.63,
-        "EMA_34": 288.88,
-        "EMA_55": 294.0,
-        "EMA_89": 298.62,
-        "EMA_144": 301.27,
-        "EMA_233": 301.67
+        "EMA_5": 274.27,
+        "EMA_8": 276.92,
+        "EMA_13": 280.1,
+        "EMA_21": 283.62,
+        "EMA_34": 288.01,
+        "EMA_55": 293.27,
+        "EMA_89": 298.06,
+        "EMA_144": 300.89,
+        "EMA_233": 301.43
       }
     },
     {
       "id": 26,
       "ticker": "TOASO",
       "name": "Tofaş Türk Otomobil Fabrikası A.Ş.",
-      "close": 235.0,
-      "open": 243.0,
-      "high": 244.2,
-      "low": 231.6,
+      "close": 237.7,
+      "open": 235.2,
+      "high": 239.4,
+      "low": 231.7,
       "wema_bands": {
-        "mid": 265.75,
-        "upper_green": 245.82,
-        "lower_red": 285.69
+        "mid": 263.92,
+        "upper_green": 250.72,
+        "lower_red": 277.12
       },
       "scores": {
         "total_score": 2.0,
@@ -2138,20 +2186,20 @@
         }
       },
       "rsi": {
-        "value": 30.95,
+        "value": 33.26,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 242.83,
+        "daily": 236.9,
         "weekly": 249.77,
         "monthly": 272.92,
         "daily_levels": {
-          "r1": 248.27,
-          "r2": 252.13,
-          "r3": 257.57,
-          "s1": 238.97,
-          "s2": 233.53,
-          "s3": 229.67
+          "r1": 242.3,
+          "r2": 249.6,
+          "r3": 255.0,
+          "s1": 229.6,
+          "s2": 224.2,
+          "s3": 216.9
         },
         "weekly_levels": {
           "r1": 262.13,
@@ -2171,34 +2219,34 @@
         }
       },
       "ema": {
-        "EMA_5": 245.77,
-        "EMA_8": 250.6,
-        "EMA_13": 256.24,
-        "EMA_21": 261.92,
-        "EMA_34": 267.12,
-        "EMA_55": 272.34,
-        "EMA_89": 277.48,
-        "EMA_144": 279.84,
-        "EMA_233": 276.27
+        "EMA_5": 243.08,
+        "EMA_8": 247.73,
+        "EMA_13": 253.59,
+        "EMA_21": 259.72,
+        "EMA_34": 265.44,
+        "EMA_55": 271.1,
+        "EMA_89": 276.6,
+        "EMA_144": 279.26,
+        "EMA_233": 275.94
       }
     },
     {
       "id": 27,
       "ticker": "TRALT",
       "name": "Türk Altın İşletmeleri A.Ş.",
-      "close": 40.48,
-      "open": 41.5,
-      "high": 41.82,
-      "low": 40.26,
+      "close": 41.72,
+      "open": 40.6,
+      "high": 42.06,
+      "low": 39.66,
       "wema_bands": {
-        "mid": 45.64,
-        "upper_green": 42.21,
-        "lower_red": 49.06
+        "mid": 45.43,
+        "upper_green": 43.16,
+        "lower_red": 47.7
       },
       "scores": {
-        "total_score": 4.0,
-        "rsi_score": 3,
-        "pivot_score": 1.0,
+        "total_score": 0,
+        "rsi_score": 0,
+        "pivot_score": 0,
         "order_block_score": 0
       },
       "order_block": {
@@ -2211,20 +2259,20 @@
         }
       },
       "rsi": {
-        "value": 34.17,
-        "divergence": "BULLISH"
+        "value": 39.09,
+        "divergence": "NONE"
       },
       "pivots": {
-        "daily": 41.39,
+        "daily": 40.85,
         "weekly": 42.23,
         "monthly": 48.0,
         "daily_levels": {
-          "r1": 42.07,
-          "r2": 42.83,
-          "r3": 43.51,
-          "s1": 40.63,
-          "s2": 39.95,
-          "s3": 39.19
+          "r1": 41.45,
+          "r2": 42.41,
+          "r3": 43.01,
+          "s1": 39.89,
+          "s2": 39.29,
+          "s3": 38.33
         },
         "weekly_levels": {
           "r1": 43.75,
@@ -2244,34 +2292,34 @@
         }
       },
       "ema": {
-        "EMA_5": 41.87,
-        "EMA_8": 42.43,
-        "EMA_13": 43.3,
-        "EMA_21": 44.58,
-        "EMA_34": 46.01,
-        "EMA_55": 47.11,
-        "EMA_89": 47.55,
-        "EMA_144": 46.88,
-        "EMA_233": 44.53
+        "EMA_5": 41.82,
+        "EMA_8": 42.27,
+        "EMA_13": 43.07,
+        "EMA_21": 44.32,
+        "EMA_34": 45.77,
+        "EMA_55": 46.92,
+        "EMA_89": 47.42,
+        "EMA_144": 46.81,
+        "EMA_233": 44.5
       }
     },
     {
       "id": 28,
       "ticker": "TRMET",
       "name": "TRMET",
-      "close": 118.7,
-      "open": 120.0,
-      "high": 122.7,
-      "low": 117.4,
+      "close": 122.6,
+      "open": 118.4,
+      "high": 123.2,
+      "low": 118.3,
       "wema_bands": {
-        "mid": 129.75,
-        "upper_green": 120.02,
-        "lower_red": 139.48
+        "mid": 129.19,
+        "upper_green": 122.73,
+        "lower_red": 135.65
       },
       "scores": {
-        "total_score": 1.0,
+        "total_score": 0,
         "rsi_score": 0,
-        "pivot_score": 1.0,
+        "pivot_score": 0,
         "order_block_score": 0
       },
       "order_block": {
@@ -2290,20 +2338,20 @@
         }
       },
       "rsi": {
-        "value": 36.86,
+        "value": 41.71,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 122.03,
+        "daily": 119.57,
         "weekly": 125.47,
         "monthly": 133.83,
         "daily_levels": {
-          "r1": 124.97,
-          "r2": 129.93,
-          "r3": 132.87,
-          "s1": 117.07,
-          "s2": 114.13,
-          "s3": 109.17
+          "r1": 121.83,
+          "r2": 124.97,
+          "r3": 127.23,
+          "s1": 116.43,
+          "s2": 114.17,
+          "s3": 111.03
         },
         "weekly_levels": {
           "r1": 131.83,
@@ -2323,29 +2371,29 @@
         }
       },
       "ema": {
-        "EMA_5": 124.38,
-        "EMA_8": 126.55,
-        "EMA_13": 128.51,
-        "EMA_21": 130.27,
-        "EMA_34": 131.44,
-        "EMA_55": 131.34,
-        "EMA_89": 130.08,
-        "EMA_144": 127.3,
-        "EMA_233": 121.47
+        "EMA_5": 123.79,
+        "EMA_8": 125.67,
+        "EMA_13": 127.67,
+        "EMA_21": 129.57,
+        "EMA_34": 130.93,
+        "EMA_55": 131.02,
+        "EMA_89": 129.91,
+        "EMA_144": 127.24,
+        "EMA_233": 121.48
       }
     },
     {
       "id": 29,
       "ticker": "TTKOM",
       "name": "Türk Telekomünikasyon A.Ş.",
-      "close": 50.05,
-      "open": 51.1,
-      "high": 51.2,
-      "low": 49.62,
+      "close": 51.2,
+      "open": 50.45,
+      "high": 51.5,
+      "low": 49.72,
       "wema_bands": {
-        "mid": 52.57,
-        "upper_green": 48.63,
-        "lower_red": 56.51
+        "mid": 52.45,
+        "upper_green": 49.83,
+        "lower_red": 55.08
       },
       "scores": {
         "total_score": 0,
@@ -2354,7 +2402,13 @@
         "order_block_score": 0
       },
       "order_block": {
-        "bullish": null,
+        "bullish": {
+          "candle_date": "20/10/2026",
+          "entry1": 50.41,
+          "entry2": 49.62,
+          "entry3": 48.83,
+          "status": "NONE"
+        },
         "bearish": {
           "candle_date": "30/06/2026",
           "entry1": 63.2,
@@ -2363,20 +2417,20 @@
         }
       },
       "rsi": {
-        "value": 37.78,
+        "value": 43.78,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 51.22,
+        "daily": 50.29,
         "weekly": 51.53,
         "monthly": 53.92,
         "daily_levels": {
-          "r1": 51.83,
-          "r2": 52.77,
-          "r3": 53.38,
-          "s1": 50.28,
-          "s2": 49.67,
-          "s3": 48.73
+          "r1": 50.96,
+          "r2": 51.87,
+          "r3": 52.54,
+          "s1": 49.38,
+          "s2": 48.71,
+          "s3": 47.8
         },
         "weekly_levels": {
           "r1": 52.47,
@@ -2396,34 +2450,34 @@
         }
       },
       "ema": {
-        "EMA_5": 51.25,
-        "EMA_8": 51.63,
-        "EMA_13": 52.03,
-        "EMA_21": 52.44,
-        "EMA_34": 52.95,
-        "EMA_55": 53.8,
-        "EMA_89": 55.11,
-        "EMA_144": 56.4,
-        "EMA_233": 56.85
+        "EMA_5": 51.24,
+        "EMA_8": 51.53,
+        "EMA_13": 51.91,
+        "EMA_21": 52.33,
+        "EMA_34": 52.85,
+        "EMA_55": 53.71,
+        "EMA_89": 55.02,
+        "EMA_144": 56.33,
+        "EMA_233": 56.8
       }
     },
     {
       "id": 30,
       "ticker": "TUPRS",
       "name": "Türkiye Petrol Rafinerileri A.Ş.",
-      "close": 356.75,
-      "open": 375.5,
-      "high": 379.25,
-      "low": 356.75,
+      "close": 362.0,
+      "open": 359.0,
+      "high": 365.75,
+      "low": 350.75,
       "wema_bands": {
-        "mid": 382.96,
-        "upper_green": 354.23,
-        "lower_red": 411.68
+        "mid": 380.75,
+        "upper_green": 361.71,
+        "lower_red": 399.79
       },
       "scores": {
-        "total_score": 1.0,
+        "total_score": 0.5,
         "rsi_score": 0,
-        "pivot_score": 1.0,
+        "pivot_score": 0.5,
         "order_block_score": 0
       },
       "order_block": {
@@ -2442,20 +2496,20 @@
         }
       },
       "rsi": {
-        "value": 36.4,
+        "value": 39.42,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 374.92,
+        "daily": 364.25,
         "weekly": 379.0,
         "monthly": 390.83,
         "daily_levels": {
-          "r1": 384.33,
-          "r2": 393.17,
-          "r3": 402.58,
-          "s1": 366.08,
-          "s2": 356.67,
-          "s3": 347.83
+          "r1": 371.75,
+          "r2": 386.75,
+          "r3": 394.25,
+          "s1": 349.25,
+          "s2": 341.75,
+          "s3": 326.75
         },
         "weekly_levels": {
           "r1": 392.5,
@@ -2475,29 +2529,29 @@
         }
       },
       "ema": {
-        "EMA_5": 374.13,
-        "EMA_8": 378.16,
-        "EMA_13": 382.18,
-        "EMA_21": 385.38,
-        "EMA_34": 383.37,
-        "EMA_55": 371.13,
-        "EMA_89": 348.69,
-        "EMA_144": 319.48,
-        "EMA_233": 286.45
+        "EMA_5": 370.09,
+        "EMA_8": 374.57,
+        "EMA_13": 379.3,
+        "EMA_21": 383.25,
+        "EMA_34": 382.15,
+        "EMA_55": 370.8,
+        "EMA_89": 348.98,
+        "EMA_144": 320.07,
+        "EMA_233": 287.09
       }
     },
     {
       "id": 31,
       "ticker": "VAKBN",
       "name": "Türkiye Vakıflar Bankası T.A.O.",
-      "close": 32.54,
-      "open": 32.9,
-      "high": 33.02,
-      "low": 32.18,
+      "close": 33.2,
+      "open": 32.74,
+      "high": 33.2,
+      "low": 32.14,
       "wema_bands": {
-        "mid": 33.39,
-        "upper_green": 30.88,
-        "lower_red": 35.89
+        "mid": 33.36,
+        "upper_green": 31.69,
+        "lower_red": 35.03
       },
       "scores": {
         "total_score": 0,
@@ -2507,10 +2561,10 @@
       },
       "order_block": {
         "bullish": {
-          "candle_date": "12/08/2026",
-          "entry1": 29.02,
-          "entry2": 28.58,
-          "entry3": 28.14,
+          "candle_date": "20/10/2026",
+          "entry1": 32.6,
+          "entry2": 32.18,
+          "entry3": 31.76,
           "status": "NONE"
         },
         "bearish": {
@@ -2521,20 +2575,20 @@
         }
       },
       "rsi": {
-        "value": 43.77,
+        "value": 47.95,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 33.08,
+        "daily": 32.58,
         "weekly": 33.49,
         "monthly": 33.61,
         "daily_levels": {
-          "r1": 33.32,
-          "r2": 33.78,
-          "r3": 34.02,
-          "s1": 32.62,
-          "s2": 32.38,
-          "s3": 31.92
+          "r1": 32.98,
+          "r2": 33.42,
+          "r3": 33.82,
+          "s1": 32.14,
+          "s2": 31.74,
+          "s3": 31.3
         },
         "weekly_levels": {
           "r1": 34.15,
@@ -2554,34 +2608,34 @@
         }
       },
       "ema": {
-        "EMA_5": 33.32,
-        "EMA_8": 33.51,
-        "EMA_13": 33.62,
-        "EMA_21": 33.63,
-        "EMA_34": 33.46,
-        "EMA_55": 33.15,
+        "EMA_5": 33.28,
+        "EMA_8": 33.44,
+        "EMA_13": 33.56,
+        "EMA_21": 33.59,
+        "EMA_34": 33.44,
+        "EMA_55": 33.16,
         "EMA_89": 32.88,
-        "EMA_144": 32.53,
-        "EMA_233": 31.72
+        "EMA_144": 32.54,
+        "EMA_233": 31.73
       }
     },
     {
       "id": 35,
       "ticker": "YKBNK",
       "name": "Yapı ve Kredi Bankası A.Ş.",
-      "close": 36.1,
-      "open": 35.86,
-      "high": 36.3,
-      "low": 35.56,
+      "close": 36.66,
+      "open": 36.26,
+      "high": 36.7,
+      "low": 35.7,
       "wema_bands": {
-        "mid": 35.88,
-        "upper_green": 33.19,
-        "lower_red": 38.57
+        "mid": 35.93,
+        "upper_green": 34.14,
+        "lower_red": 37.73
       },
       "scores": {
-        "total_score": 0,
+        "total_score": -0.5,
         "rsi_score": 0,
-        "pivot_score": 0,
+        "pivot_score": -0.5,
         "order_block_score": 0
       },
       "order_block": {
@@ -2600,20 +2654,20 @@
         }
       },
       "rsi": {
-        "value": 51.66,
+        "value": 54.86,
         "divergence": "NONE"
       },
       "pivots": {
-        "daily": 35.68,
+        "daily": 35.99,
         "weekly": 35.85,
         "monthly": 34.38,
         "daily_levels": {
-          "r1": 36.06,
-          "r2": 36.42,
-          "r3": 36.8,
-          "s1": 35.32,
-          "s2": 34.94,
-          "s3": 34.58
+          "r1": 36.41,
+          "r2": 36.73,
+          "r3": 37.15,
+          "s1": 35.67,
+          "s2": 35.25,
+          "s3": 34.93
         },
         "weekly_levels": {
           "r1": 36.41,
@@ -2633,15 +2687,15 @@
         }
       },
       "ema": {
-        "EMA_5": 36.0,
-        "EMA_8": 35.96,
-        "EMA_13": 35.91,
-        "EMA_21": 35.86,
-        "EMA_34": 35.82,
-        "EMA_55": 35.82,
-        "EMA_89": 35.92,
-        "EMA_144": 35.95,
-        "EMA_233": 35.51
+        "EMA_5": 36.22,
+        "EMA_8": 36.11,
+        "EMA_13": 36.01,
+        "EMA_21": 35.93,
+        "EMA_34": 35.87,
+        "EMA_55": 35.85,
+        "EMA_89": 35.94,
+        "EMA_144": 35.96,
+        "EMA_233": 35.52
       }
     }
   ],
